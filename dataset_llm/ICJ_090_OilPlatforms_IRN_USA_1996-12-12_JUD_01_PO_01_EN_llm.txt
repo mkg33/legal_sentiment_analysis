@@ -1,0 +1,850 @@
+As the Court has found, there is a dispute between the Parties, which it
+has not been possible to adjust by diplomacy, and which the Parties have
+not agreed to settle by any pacific means other than recourse to the
+Court. To that extent, the corresponding conditions of the compromis-
+sory clause are therefore satisfied. Nevertheless, the Parties differ on the
+question whether there is a right of recourse to the Court, the particular
+issue being
+
+“whether the dispute between the two States with respect to the law-
+fulness of the actions carried out by the United States against the
+Iranian oil platforms is a dispute ‘as to the interpretation or appli-
+cation’ of the Treaty of 1955” (Judgment, para. 16).
+
+The Court has taken the position that:
+
+“In order to answer that question, . . .[i]t must ascertain whether
+the violations of the Treaty of 1955 pleaded by Iran do or do not fall
+within the provisions of the Treaty and whether, as a consequence,
+the dispute is one which the Court has jurisdiction ratione materiae
+to entertain, pursuant to Article XXT, paragraph 2.” (Ibid)
+
+Thus, in the view of the Court, the test of jurisdiction is whether the
+alleged violations “do or do not fall within the provisions of the Treaty”.
+Some seeming plasticity in that statement notwithstanding, the remainder
+of the Judgment makes it clear that what the statement means is that the
+Court is required to make a definitive interpretation of the Treaty at this
+jurisdictional phase. In paragraph 52, for example, the Court holds that
+Article I of the Treaty “by itself . . . is not capable of generating legal
+rights and obligations” — thus definitively determining the main issue
+dividing the Parties on that provision. The Applicant had contended for
+a lower test, which, however worded, does not involve the making of a
+definitive interpretation of the Treaty at this stage. Without addressing
+
+
+
+extensive arguments on the point, the Court has opted for the higher test.
+If a lower test is used, the consequences are not wholly congruent with
+those produced by the Court’s test. Which is the right test?
+
+Put briefly, the issue now before the Court arises this way: the Respon-
+dent contends that the 1955 FCN Treaty between itself and the Applicant
+is irrelevant to the matters alleged in the Applicant’s claim, and therefore
+that the jurisdiction conferred by the compromissory clause of the Treaty
+is not available.
+
+To underpin the objection, the Respondent makes the opening submis-
+sion that the Court has to be satisfied that the compromissory clause of
+the Treaty establishes that the Respondent has consented to the jurisdic-
+tion of the Court in respect of this particular case. That is correct; the
+Applicant does not say otherwise. It may be added that the Court must
+be clearly satisfied that it has jurisdiction. However, whether the Court
+can be satisfied, and satisfied with the requisite clarity, that the Parties
+have consented to jurisdiction in this particular case depends on what
+exactly is the kind of dispute over which they have agreed that the Court
+should have jurisdiction. What they have agreed to submit to the Court is
+not a specific dispute which can be concretely identified, but a category of
+disputes defined as “[a]ny dispute between the High Contracting Parties
+as to the interpretation or application of the present Treaty. . .”!.
+The amplitude of that language in a treaty is apparent; it embraces all
+“difficulties which might be raised by this treaty” [translation by the
+Registry [2.
+
+In this respect, it has to be borne in mind that, unlike the case with
+some treaties, the compromissory clause of the 1955 FCN Treaty is not
+limited to disputes as to the interpretation or application of some only of
+the provisions of the Treaty: it extends to “any dispute . . . as to the inter-
+pretation or application of the present Treaty”, i.e., as to any part of the
+Treaty. Thus, the jurisdiction conferred by the compromissory clause
+
+! In treaty practice, the phrase “interpretation or application” dates back to the 1880s.
+See Factory at Chorzéw, P.C.LJ., Series C, No. 13 (I), “Réponse du Gouvernement alle-
+mand à l’exception préliminaire du Gouvernement polonais”, pp. 174-176, and J. B.
+Moore, History and Digest of the International Arbitrations to Which the United States
+Has Been a Party, 1898, Vol. V, p. 5057.
+
+2 A. Merignhac, Traité théorique et pratique de l'arbitrage international. Le rôle du
+droit, 1895, p. 202, para. 198. And see Dionisio Anzilotti, Corso di diritto internazionale,
+Vol. 3, 1915, p. 56; Factory at Chorzéw, Jurisdiction, P.C.I.J., Series A, No. 9, p. 24; and
+LC.J. Pleadings, United States Diplomatic and Consular Staff in Tehran, p. 152 and
+p. 153, footnote 14.
+
+
+
+could apply in relation to a provision of the Treaty even if the provision
+creates no legal obligation; for, even if, on a true construction, it creates
+no legal obligation, there could be a dispute between the Parties as to
+whether it does — a point not considered by the Court in its treatment of
+the normative value and jurisdictional status of Article I of the Treaty.
+More generally, the jurisdiction conferred by the compromissory clause
+could be exercised even though it turns out that the Treaty does not
+apply to the alleged acts or circumstances; for there can be a dispute as to
+the interpretation or application of the Treaty in relation to a matter to
+which it is eventually held that the Treaty does not apply. But reason says
+that there must equally be a limit beyond which it is not possible for a
+dispute as to the interpretation or application of a treaty to arise in rela-
+tion to matters to which the Treaty does not apply; beyond that limit, the
+compromissory clause no longer operates to confer jurisdiction. Where is
+that limit to be drawn?
+
+THE JURISDICTIONAL TEST
+
+The location of the limit beyond which it is not possible for a dispute
+to arise as to the interpretation or application of a treaty within the
+meaning of its compromissory clause depends on the relationship between
+the claim and the treaty on which the claim is sought to be based. The
+test as to what should be the requisite relationship has been variously
+worded. It is possible to argue, both interestingly and sagely, about
+which formulation is best. Possibly, the differences in wording reflect the
+specific characteristics of the particular cases. For present purposes, it is
+sufficient to take the broad position that the various formulations may be
+reasonably understood as embodying what, in an omnibus way, may be
+called a form of relativity test. This opinion will consequently abstain
+from microscopic examination of particular phrases used; it will call on
+them interchangeably. They occur in the following dicta:
+
+It “is not necessary for the Court to find . . . that the [claimant]
+Government’s interpretation of the Treaty is the correct one”, nor for
+that “Government to show. . . that an alleged treaty violation has an
+unassailable legal basis” (Ambatielos, Merits, Judgment, I.C.J. Reports
+1953, p. 18). But it “is not enough for the claimant Government to estab-
+lish a remote connection between the facts of the claim and the Treaty”
+relied on (ibid. ). The proper test is met where “the arguments advanced
+by the [claimant] Government in respect of the treaty provisions on
+which the . . . claim is said to be based, are of a sufficiently plausible
+character to warrant a conclusion that the claim is based on the Treaty”
+
+
+
+(I.C.J. Reports 1953, p. 18) or where “the interpretation given by the
+[claimant] Government to any of the provisions relied upon appears to
+be one of the possible interpretations that may be placed upon it, though
+not necessarily the correct one . . .” (ibid.) or, “if it is made to appear
+that the [claimant] Government is relying upon an arguable construction
+of the Treaty, that is to say, a construction which can be defended
+whether or not it ultimately prevails . . .” (ibid. ) or, where “the com-
+plaint . . . indicate[s] some genuine relationship between the complaint
+and the provisions invoked . . .” (Judgments of the Administrative Tribu-
+nal of the ILO upon Complaints Made against Unesco, Advisory Opinion,
+1.C.J. Reports 1956, p. 89); or where “the terms and the provisions
+invoked appear to have a substantial and not merely an artificial connex-
+ion with the” alleged act (ibid.) or, where the assertion that the instru-
+ment relied on gave the right claimed has “some serious juridical basis”
+(ibid., p. 90); or where “the grounds invoked by the [claimant] Govern-
+ment are such as to justify the provisional conclusion that they may be of
+relevance in [the] case . . .” (Interhandel, Judgment, 1.C.J. Reports 1959,
+p. 24); or where the provision in question “may be of relevance for the
+solution of the . . . dispute” (ibid.) or where there is “a reasonable con-
+nection between the Treaty and the claims submitted to the Court” (Mili-
+tary and Paramilitary Activities in and against Nicaragua, Jurisdiction
+and Admissibility, Judgment, I.C.J. Reports 1984, p. 427, para. 81).
+
+*
+
+Some of these formulations related to the functions of a body other
+than the Court; others to the functions of the Court itself. Some were
+made at the jurisdictional phase of a case before the Court; others at the
+merits phase. A reasonable view, however, is that they may all be under-
+stood as applicable to the functions of the Court itself in a situation in
+which it is called upon to consider whether the alleged acts bear such a
+relationship to the treaty relied on as to attract the jurisdiction provided
+for under its compromissory clause.
+
+In Ambatielos, it was at the merits stage of the case before it that the
+Court spoke of the relevant jurisdictional criteria, and it spoke of them in
+relation to the functions of an arbitral tribunal. It held that the United
+Kingdom was under a treaty obligation to refer a dispute to arbitration.
+The problem, presented late in the arguments, was how far could the
+Court go in affirming such a duty without encroaching on the authority
+of the arbitral body, in exercise of its compétence de la compétence, to
+decide on its own jurisdiction. It is possible to see how the problem arose
+(see I.C.J. Pleadings, Ambatielos, pp. 356 ff., Henri Rolin, and p. 385,
+Fitzmaurice). À distinction no doubt existed between the competence of
+the Court to determine whether there was a duty to submit to arbitration
+and the competence of the arbitral tribunal subsequently to determine
+whether it had jurisdiction. Nevertheless, so far as the Court was con-
+
+
+
+cerned, it could scarcely hold that there was a duty to submit to arbitra-
+tion without also at least presuming that the dispute would be within the
+jurisdiction of the arbitral body. Not surprisingly, there is a strong view
+that the Court in substance held that the dispute would be within the
+jurisdiction of the arbitral body°. It is difficult to see why, subject to sub-
+sequent jurisprudential refinement, the substance of the Ambatielos test
+should not apply wherever an issue arises as to whether a matter falls
+within the jurisdiction of any deciding body, including the Court itself.
+The identity of the particular deciding body is not material; what is
+material is the juridical question involved. This is always the same what-
+ever may be the deciding authority. It is not logical to suppose that the
+Court would put forward one jurisdictional test in the case of other
+tribunals and adopt a different one in the case of itself.
+
+That the same test applies in relation to the Court is suggested by the
+Interhandel and Military and Paramilitary Activities in and against Nica-
+ragua cases, in which the particular point at issue concerned the jurisdic-
+tion of the Court itself. In Interhandel, whether there was an obligation
+to submit a matter to arbitration was the subject of “an alternative sub-
+mission” by Switzerland. However, Switzerland’s “principal submission”
+sought an exercise of the Court’s own jurisdiction for the purpose of
+adjudging and declaring that the United States of America was under an
+obligation to restore the seized assets of Interhandel (I. C.J. Reports 1959,
+p- 19). In ruling on the respondent’s objection to the Court’s jurisdiction
+on the ground that the seizure and retention of the assets were matters
+within the domestic jurisdiction of the respondent, the Court said:
+
+“In order to determine whether examination of the grounds . . .
+invoked [by Switzerland] is excluded from the jurisdiction of the
+Court for the reason alleged by the United States, the Court will
+base itself on the course followed by the Permanent Court of Inter-
+national Justice in its Advisory Opinion concerning Nationality
+Decrees Issued in Tunis and Morocco (Series B, No. 4), when dealing
+with a similar divergence of view. Accordingly, the Court does not,
+at the present stage of the proceedings, intend to assess the validity
+of the grounds invoked by the Swiss Government or to give an
+opinion on their interpretation, since that would be to enter upon
+the merits of the dispute. The Court will confine itself to considering
+whether the grounds invoked by the Swiss Government are such as
+to justify the provisional conclusion that they may be of relevance in
+
+3 Sir Hersch Lauterpacht, The Development of International Law by the International
+Court, 1958, p. 239.
+
+
+
+this case and, if so, whether questions relating to the validity and
+interpretation of those grounds are questions of international law.”
+(Interhandel, Judgment, I. C.J. Reports 1959, p. 24.)
+
+It is reasonably clear that in Interhandel the Court adopted a form of
+relativity test in relation to its own jurisdiction. The Court did likewise in
+Military and Paramilitary Activities in and against Nicaragua. It is not
+satisfactory to say that the Court was merely recalling the respondent’s
+argument when it said:
+
+“In order to establish the Court’s jurisdiction over the present dis-
+pute under the Treaty, Nicaragua must establish a reasonable con-
+nection between the Treaty and the claims submitted to the Court.”
+(Military and Paramilitary Activities in and against Nicaragua
+( Nicaragua v. United States of America), Jurisdiction and Admissi-
+bility, Judgment, I. C.J. Reports 1984, p. 427, para. 81.)
+
+In so far as the Court was recalling the respondent’s submission, the
+Court was also adopting it. It certainly did not reject the proposition; on
+the contrary, its subsequent treatment of the matter accorded with the
+proposition. It referred to or summarized five articles of the treaty in
+question and then, without intervening remark, said:
+
+“Taking into account these Articles of the Treaty . . ., there can be
+no doubt that, in the circumstances in which Nicaragua brought its
+Application to the Court, and on the basis of the facts there asserted,
+there is a dispute between the Parties, inter alia, as to the ‘interpreta-
+tion or application’ of the Treaty.” (Ibid., p. 428, para. 83.)
+
+The Court did not make a definitive interpretation of the treaty texts; it
+did not analyse them; it gave them limited consideration — almost
+restricted to inspection — for the purpose of determining whether there
+was “a reasonable connection” between them and the claims submitted to
+the Court. Interestingly, also, almost throughout its written and oral
+presentation in the instant case the Respondent argued in favour of a
+“reasonable connection” test, as it did in the Military and Paramilitary
+Activities in and against Nicaragua case, and so to this extent accepted
+that some form of relativity test was applicable.
+
+Developing the point last alluded to, one may recall that Military and
+Paramilitary Activities in and against Nicaragua was not the only case in
+which the Court refrained from making a definitive interpretation of the
+relevant texts. Similar restraint was shown in Ambatielos. Likewise in
+
+
+
+Interhandel, as appears from the passage cited above. It will be remem-
+bered that in the last-mentioned case the United States of America con-
+tended that Article IV of the Washington Accord, which was relied on by
+Switzerland, was “of no relevance whatever in the present dispute” — an
+idea central to the objection in this case. The Parties were in disagreement
+over certain terms of that Article. Referring to this, the Court said:
+
+“The interpretation of these terms is a question of international
+law which affects the merits of the dispute. At the present stage of
+the proceedings, it is sufficient for the Court to note that Article TV
+of the Washington Accord may be of relevance for the solution of
+the present dispute and that its interpretation relates to international
+law.” (I.C.J. Reports 1959, p. 24.)
+
+Thus, the instrument relied on may be judged relevant for the solution of
+the dispute, with resulting jurisdiction, even though the interpretation of
+its terms is regarded as a matter for the merits.
+
+In the course of determining whether the alleged circumstances bear
+the requisite relationship to the treaty relied on in order to attract the
+jurisdiction provided for by the compromissory clause, the Court cannot
+altogether avoid some interpretation of the treaty. But, if the foregoing
+approach is correct, the issue before the Court at the preliminary stage,
+and on which jurisdiction under the compromissory clause turns, is not
+whether the treaty applies to the alleged circumstances, but whether the
+applicant has an arguable contention to that effect. Thus, the Court can
+only interpret the treaty at the jurisdictional stage in so far as it is
+necessary to do so for the purpose of determining whether the applicant’s
+interpretation of the treaty is an arguable one, and not for the purpose of
+determining definitively whether the treaty applies to the alleged circum-
+stances. The more limited function is undertaken by the Court in exercise
+of its compétence de la compétence; the more definitive function is under-
+taken in exercise of its substantive jurisdiction. In exercise of its com-
+pétence de la compétence, the Court could well hold that the applicant
+has an arguable contention that the treaty applies to the alleged circum-
+stances even if, in exercise of the substantive jurisdiction which flows
+from that holding, it eventually holds that the treaty does not. In effect,
+the treaty may not apply to the alleged circumstances and yet the Court
+may have substantive jurisdiction to determine precisely whether it does.
+
++
+
+There is a different line of holdings. Cases have occurred in which,
+when dealing with the question whether the dispute fell within the juris-
+diction conferred on the Court by the compromissory clause of the
+
+
+
+treaty, the Court took a position which suggests that it was of the view
+that it was required at the jurisdictional stage to determine definitively
+whether the provisions relied on by the applicant applied, on their true
+construction, to the alleged circumstances (see, for example, Mavromma-
+tis Palestine Concessions, P.C.1.J., Series A, No. 2, p. 16, and Applica-
+tion of the Convention on the Prevention and Punishment of the Crime of
+Genocide, Judgment, I.C.J. Reports 1996, pp. 615-617, paras. 30-33).
+That view, which the Court has adopted in this case, differs materially
+from the more limited view that the duty of the Court at this stage is
+merely to decide whether the construction of the treaty on which the
+applicant relies for saying that the treaty applies to the alleged circum-
+stances is an arguable one in the sense mentioned above.
+
+Which of these two different strands of jurisprudence should the Court
+now follow? The solution is to be found in returning to the terms of the
+compromissory clause. Under this, jurisdiction depends on whether there
+is a dispute between the parties as to the interpretation or application of
+the treaty. There could be a dispute as to whether there is a dispute as to
+the interpretation or application of the treaty. To decide on the correct-
+ness of the applicant’s interpretation is to decide the second dispute, not
+the first; and that is to determine part of the substance of the claim
+before the merits stage has been reached. The reason is that, as in munici-
+pal law, proof of a claim before the Court involves proof of two things,
+first, that the alleged obligation exists in law, and, second, that the obli-
+gation was breached on the facts (see, in this respect, Ambatielos, Merits,
+Judgment, I.C.J, Reports 1953, p. 17). The second of these two points
+would turn on the evidence. The first point would be determined by
+making a definitive interpretation of the texts relied on (including
+general international law) with a view to ascertaining whether they
+placed the respondent under the asserted obligation. The making of that
+interpretation is therefore a matter for the merits. The proposition may
+be tested this way.
+
+It is possible to conceive of a dispute in which, the facts being agreed,
+the sole question is whether, on its true interpretation, the treaty relied on
+applies to those facts. If, in the course of determining a preliminary
+objection that the treaty is wholly irrelevant to the claim, the Court were
+to decide the question of interpretation in favour of the applicant,
+nothing would be left for determination at the merits stage; the Court
+would be determining the merits at the preliminary stage, that is to say, at
+a time when, according to Article 79, paragraph 3, of the Rules of Court,
+the merits stood suspended. On the view presently offered, there would
+be something left for determination at the merits stage, since all that the
+Court would be now deciding is that the applicant can present an argu-
+
+
+
+able construction of the treaty to support its claim that the treaty applies
+to the alleged facts. Whether the treaty, on its true construction, does
+indeed apply would then be determined at the merits stage.
+
+If it is thought that that example leads to an undesirable necessity to
+continue the proceedings to the merits stage, the answer lies in the fact
+that, as has been often observed, the Court lacks a filter mechanism
+through which, on the model available in some municipal legal systems,
+part of the merits could be argued and decided in advance of the normal
+merits stage. In such systems it is possible to argue, ahead of the normal
+merits phase, that, taking the facts alleged by the plaintiff at their highest,
+they do not justify the claim for the reason that the asserted obligation
+does not exist in law, or that, if it exists, it is not breached by the alleged
+facts. The practice of thus “striking out” an application has not yet devel-
+oped in proceedings before this Court. Except in the indirect sense in
+which they are contemplated by Article 36, paragraph 6, of the Statute,
+the latter lays down no procedure relating to preliminary objections. An
+applicant is entitled under the Statute to a hearing at the normal merits
+stage, both for the purpose of showing that, on the law, the alleged obli-
+gation exists, and for the purpose of showing that, on the facts, the obli-
+gation was breached by the respondent. Misunderstanding arises if this
+difference between the Court’s system and municipal systems is not borne
+in mind in fixing the limits of preliminary proceedings based on an objec-
+tion which in effect asserts that there is no dispute within the meaning of
+the compromissory clause sought to be invoked for the reason that the
+treaty containing the clause is irrelevant to the applicant’s claim. The
+determination of such an objection cannot extend to the question whether,
+on a true construction of the treaty, the asserted obligation exists. This
+would be a matter for the merits in the ordinary way; preliminary pro-
+ceedings cannot change that.
+
+There being no desire to extend this opinion unduly, it is simply sub-
+mitted that the 1972 changes in the Rules of Court did not abrogate the
+fundamental principle that a preliminary decision cannot decide, or even
+prejudge, issues belonging to the merits. The idea that, in determining
+preliminary objections, the Court’s enquiry could “touch” on the merits
+went back to the 1920s. The 1972 amendments encouraged the Court to
+proceed along earlier established lines and consequently to dispose of
+preliminary objections even if the Court would have to “touch” on the
+merits, but only within the limits of the equally long-settled principle that
+the Court cannot determine or prejudge the merits at the preliminary
+stage; the 1972 amendments did not authorize the Court to depart from
+this principle. Therefore, all that the Court can decide in preliminary pro-
+ceedings of this kind is whether the applicant’s construction of the treaty
+is or is not arguable.
+
+
+
+One accepts that, since jurisdiction depends on consent, the Court has
+to decide definitively, and not provisionally, that the particular dispute is
+“within the category of disputes for which the [Respondent] has accepted
+the jurisdiction of the Court” (Mavrommatis Palestine Concessions, Judg-
+ment No. 2, 1924, P.C.IJ., Series A, No. 2, p. 29; and see ibid., p. 16).
+But a distinction has to be drawn between the making of a definitive deci-
+sion as to whether the dispute falls within the stipulated category of dis-
+putes and the criterion on which the decision is made. There is no reason
+why a definitive decision of that kind can not be made on the basis of a
+criterion based on a possibility — in this case, the possibility that the
+applicant can present an arguable construction of the instrument to sup-
+port its claim. Other areas of the law show that a court could well take
+definitive decisions on the basis of its appreciation of a possibility.
+
+The circumstance that the correct criterion to be employed was not
+argued in the line of cases ending with the recent case concerning Appli-
+cation of the Convention on the Prevention and Punishment of the Crime
+of Genocide does not mean that those cases should be disregarded. But
+that circumstance may be properly borne in mind in considering the
+value of other and more fully reasoned cases which suggest that the task
+of the Court at this stage is not to make a definitive interpretation of the
+treaty, but only to determine whether the construction of the treaty on
+which the applicant relies is an arguable one in the sense mentioned
+above. It is respectfully submitted that this is the correct position, and
+that that adopted by the Court is mistaken.
+
+How CAN A ReLATIVITY TEST BE APPLIED?
+
+The conclusion is reached then that the Court’s statement in Ambatie-
+los that it “is not necessary for the Court to find . . . that the [claimant]
+Government’s interpretation of the treaty is the correct one” is applicable
+to the determination of any issue (however worded) as to whether the
+instrument relied on is relevant to the claim. It follows that, since the
+Court cannot at this stage place a definitive construction on the 1955
+Treaty and consequently cannot thereby set up a known benchmark by
+reference to which it could determine whether there is a reasonable con-
+nection between the Treaty and the claim, all that the Court can do in
+determining whether such a connection exists is to say whether the inter-
+pretation given by the applicant to the treaty “relied upon appears to be
+one of the possible interpretations that may be placed upon it, though
+not necessarily the correct one . . .” (Ambatielos, Merits, Judgment,
+LC.J. Reports 1953, p. 18).
+
+Further, in determining whether the requisite connection exists, it is
+useful to consider that, in the nature of things, it is only in exceptional
+and clear cases that the Court may find that an applicant’s assertion that
+the instrument relied on gave the right claimed lacks “some serious juridi-
+
+
+
+cal basis”, to use one of the phrases employed by the Court. Counsel
+would not advise litigation unless it was considered that some serious
+juridical basis existed. That thought does not of course absolve the Court
+of its responsibility to exclude cases lacking that characteristic; but it
+does advise caution. If the Court has to wrestle its way to the conclusion
+that a claim lacks a serious juridical basis, that is scarcely a case for
+exclusion. The Jaffa claims in the Mavrommatis Palestine Concessions
+case are illustrative. There the Court held that the dispute between the
+two Governments concerning the claims “has no connection with
+Article 11 of the Mandate and consequently does not fall within the cat-
+egory of disputes for which the Mandatory has accepted the jurisdiction
+of the Court” (P.C.LJ., Series A, No. 2, p. 29). In coming to this conclu-
+sion — and the word “connection” may be noted — the Court observed
+that it was “impossible to maintain” an argument leading to the opposite
+effect (ibid., p. 28). Translated into the terminology of the later jurispru-
+dence, that observation in a very early case would mean that, in the view
+of the Court, the applicant’s construction of the instruments relied on as
+capable of showing the necessary “connection” between the claims and
+Article 11 of the Mandate was simply not arguable in the sense men-
+tioned above.
+
+How then is it to be determined whether the applicant’s construction of
+the treaty is arguable? An objection that there is no reasonable connec-
+tion between a claim and the treaty relied on really raises a dispute as to
+whether there is a dispute within the meaning of the compromissory
+clause which is sought to be invoked. So, it is helpful to recall that, as a
+general matter, there is no dispute within the meaning of the law where
+the claim lacks any reasonably arguable legal basis or where it is mani-
+festly frivolous or unsupportable (Nuclear Tests {Australia v. France),
+LC.J. Reports 1974, p. 430, Judge ad hoc Barwick, dissenting, and Mili-
+tary and Paramilitary Activities in and against Nicaragua (Nicaragua
+v. United States of America), Merits, Judgment, T.C.J. Reports 1986,
+p. 535, Judge Jennings, dissenting. See also the analogous views of Judge
+ad hoc Spiropoulos in his separate opinion in Ambatielos, Preliminary
+Objection, Judgment, I. C.J. Reports 1952, p. 56). As was observed in the
+joint dissenting opinion in the Nuclear Tests ( Australia v. France) case:
+
+“if an applicant were to dress up as a legal claim a case which to any
+informed legal mind could not be said to have any rational, that is,
+reasonably arguable, legal basis, an objection contesting the legal
+
+
+
+character of the dispute might be susceptible of decision in limine as
+a preliminary question” (I C.J. Reports 1974, p. 364, para. 107).
+
+A tenable view is that whether the Applicant’s construction of the
+Treaty in this case is “arguable”, or whether it is “sufficiently plausible,”
+or whether the Treaty is “of relevance” to the claim, or whether the claim
+has some “serious juridical basis”, is likewise to be decided by the Court
+from the point of view that might be taken by “any informed legal
+mind”. The Court can only hold that the Applicant’s construction is not
+“arguable”, or that it is not “sufficiently plausible”, or that the Treaty is
+not “of relevance” to the claim, or that the claim lacks some “serious
+juridical basis”, or that the corresponding criterion set by other similar
+formulations is not met, if, from the point of view of an informed legal
+mind, it finds that the construction relied on is not based on rational and
+reasonably arguable grounds, account being taken of the fact that, as was
+remarked by Brierly, “different minds, equally competent may and often
+do arrive at different and equally reasonable results”. To hold that this
+opens the way to inadmissible subjectivity is to misunderstand the pro-
+cesses of judicial thought: an ultimate standard by which the Court
+appreciates many a legal issue is that set by the informed legal mind.
+
+In sum, the law in action — as I also believe, the legal scientific com-
+munity — gives recognition to the possibility of an arguable contention
+being made that a given situation falls within a certain juridical category
+as well as to the impossibility of an arguable contention being made to
+that effect. In the first situation, there is a reasonable chance that the con-
+tention may or may not prevail; in the second, it is clear that the conten-
+tion must fail. In other words, the law in some cases allows for an evalua-
+tion of the prospects of success, with resulting legal consequences. In like
+manner, the jurisprudence of the Court discloses a jurisdictionally signifi-
+cant distinction between a claim which is based on an arguable construc-
+tion of the instrument relied on and a claim which is not based on an
+arguable construction of the instrument relied on. In all these cases the
+Court judges by the standard set by an informed legal mind.
+
+4 Sir Hersch Lauterpacht and C. H. M. Waldock (eds.), The Basis of Obligation in
+International Law and Other Papers by the Late James Leslie Brierly, 1958, p. 98. Or, as
+it was said in an English case,
+
+“Two reasonable [persons] can perfectly reasonably come to opposite conclusions
+on the same set of facts without forfeiting their title to be regarded as reasonable. . . .
+Not every reasonable exercise of judgment is right, and not every mistaken exercise of
+judgment is unreasonable.” (Per Lord Hailsham, In re W. (An Infant), [1971] AC
+682, HL, p. 700.)
+
+
+
+THE JUDGMENT IN RELATION TO PARTICULAR PROVISIONS
+OF THE TREATY
+
+it would strengthen the Judgment on some points, although also tending
+on other points to yield results which might not be exactly the same as
+those reached by the Court on the basis of the higher test used by it.
+
+In a prefatory way, it would be right to have regard to the nature of
+the case. The Respondent admits that it destroyed the Applicant’s oil
+platforms in question, but it says that it did so in self-defence against
+previous acts of aggression committed against it by the Applicant. If the
+Applicant accepted that the Respondent was acting in self-defence but
+sought to contend that the Treaty nonetheless prohibited the use of force
+in self-defence, its contention to that effect would, in terms of the juris-
+prudence referred to above, be unarguable to the point of being artificial.
+In that event, it would be the duty of the Court to say at this stage that
+such a contention could not found a dispute as to the interpretation or
+application of the Treaty within the meaning of its compromissory clause
+and accordingly to hold that the Court has no jurisdiction thereunder. To
+hold otherwise would be to overlook the responsibility of the Court to
+defend its process against abuse.
+
+But the Applicant does not accept that the Respondent was acting in
+self-defence; nor does it make the improbable assertion that the Treaty
+prohibits the use of force in self-defence. It is saying that the use of force
+by the Respondent was aggressive and that such use of force by one Party
+against the other is prohibited by the Treaty (apart from any prohibition
+flowing from general international law). The Respondent rightly accepts
+that, for jurisdictional purposes, the Court has to proceed on the footing
+that the Applicant is correct in its allegations as to what were the facts
+relating to the merits. (For supporting dicta, see Mavrommatis Palestine
+Concessions, Judgment No. 2, 1927, P.C.LJ., Series A, No. 2, pp. 74-75,
+dissenting opinion of Judge Moore, and Nottebohm, Second Phase, Judg-
+ment, I.C.J. Reports 1955, p. 34, dissenting opinion of Judge Read). In
+particular, the Respondent accepts that it is not open to the Court at this
+stage of the proceedings to make a finding on its contention that it was
+acting in self-defence (CR 96/13, p. 61). It is on this basis that the present
+issues should be approached.
+
+As to Article I of the Treaty, in addition to the elements of the Pre-
+
+amble referred to in the third paragraph of paragraph 27 of the Judg-
+ment, relating to trade, investments, economic intercourse and consular
+
+
+
+relations, the Preamble, in its opening sentences, stated that the parties
+were “desirous of emphasizing the friendly relations which have long pre-
+vailed between their peoples, of reaffirming the high principles in the
+regulation of human affairs to which they are committed . . .”. Stressing
+this part of the Preamble as being also pertinent to an appreciation of
+the object and purpose of the Treaty, the Applicant emphasized that
+Article I (which has no counterpart in the FCN Treaty in Military and
+Paramilitary Activities in and against Nicaragua) is in any event not a
+preambular statement; it is part of the operative provisions of the Treaty.
+Being an operative provision, it might be thought that it is at least argu-
+able that it is not merely “aspirational”, but that it has a normative char-
+acter — that it propounds a rule of conduct. There is not in principle any
+reason why parties cannot by treaty bind themselves legally to live in firm
+and enduring peace and sincere friendship with each other. In Military
+and Paramilitary Activities in and against Nicaragua, the Court recog-
+nized that it was possible for parties by an appropriately worded treaty to
+bind themselves “to abstain from any act toward the other party which
+could be classified as an unfriendly act, even if such act is not in itself the
+breach of an international obligation” (Military and Paramilitary Activi-
+ties in and against Nicaragua ( Nicaragua v. United States of America),
+Merits, Judgment, I.C.J. Reports 1986, pp. 136-137, para. 273). To deter-
+mine whether there is jurisdiction to decide whether Article I of the 1955
+Treaty is such a provision, the Court would have needed to ask whether
+the close and extensive arguments between the Parties (not here fully
+recited) sufficed to show that the Applicant’s construction of
+the provision was an arguable one, even if it might later turn out to be
+incorrect. This has not been the Court’s approach.
+
+There is a further point. The Court seems to have proceeded on the
+basis that, if the provision does not create a legal obligation, that suffices
+to negative the existence of jurisdiction (see Judgment, paras. 31 and 52).
+However, even if the provision does not create a legal obligation, it need
+not follow that there cannot be a dispute as to its interpretation or appli-
+cation so as to give the Court jurisdiction. As has been noted above,
+unlike the position in some other treaties, the compromissory clause in
+this case applies in relation to the whole of the treaty, and not only to
+some parts of it; the clause speaks of “any dispute . . . as to the inter-
+pretation or application of the present Treaty . . .”. Article I is part of the
+Treaty. There can be a dispute between the Parties as to whether it cre-
+ates a legal norm. That dispute can be a dispute within the meaning of
+the compromissory clause and can give rise to jurisdiction. The Court has
+not pursued the enquiry along these lines.
+
+Also, if the existence of a dispute as to whether Article I of the Treaty
+creates a legal obligation suffices to confer jurisdiction, there could be cir-
+
+
+
+cularity in holding that there is no jurisdiction because the provision does
+not create a legal obligation. Whether it creates a legal obligation is the
+substance of the dispute and can only be ascertained in exercise of juris-
+diction to determine the dispute. On the test which it has used, the Court
+has not had occasion to consider whether a holding that the provision
+creates no legal obligation presupposes the existence of the jurisdiction
+which has been found wanting in respect of the provision.
+
+As to Article IV, paragraph 1, of the Treaty, the Judgment favours the
+Applicant on all points, save one. This concerns the meaning of the word
+“treatment” in the phrase “fair and equitable treatment” appearing in
+that provision. The result of the Court’s reasoning is that the word does
+not cover a case of State destruction by armed force. If, as seems likely,
+
+
+
+the word covers a case of property which is, by armed force, taken and
+retained by a State for its own use, it may be arguable that it likewise
+covers a case of property which is, by armed force, taken by the State by
+destroying it: the idea that property destroyed is property taken is known
+to law*. Hence, if a State takes property, either for its own use or for the
+purpose of destroying it, there could be a question whether that consti-
+tutes impermissible “treatment” in one case as much as in the other. On
+the test which it has used, the Court has not had occasion to consider a
+question of this kind.
+
+In a subsidiary way, I would add that the last three sentences of para-
+graph 36 of the Judgment rest on a misconception. True, as is obvious,
+Article IV, paragraph 1, of the Treaty does not regulate military action
+by one party against the other. But it does not follow that military action
+cannot result in a violation of that provision, as is suggested by this part
+of the Judgment. Elsewhere, in paragraph 21, the Judgment correctly
+recognizes that the use of force could lead to a breach of the provisions of
+the Treaty, even if the Treaty does not regulate the use of force. There
+was no state of war between the Parties, and no question of the Treaty
+being suspended; on the contrary, as paragraph 15 of the Judgment
+makes clear, both Parties agreed that the Treaty was at all times in effect.
+The use of armed force could obviously involve impermissible treatment
+of the nationals of a party or of their property, contrary to the obliga-
+tions imposed by Article IV, paragraph 1, of the Treaty.
+
+
+First, as to whether, in the phrase “commerce and navigation” appear-
+ing in Article X, paragraph 1, of the Treaty, the word “commerce” is
+qualified by the word “navigation” so as to refer only to maritime com-
+merce as submitted by the Respondent. In its 1986 Judgment in the Mili-
+tary and Paramilitary Activities in and against Nicaragua case, the Court
+considered that the laying of mines in the port constituted “an infringe-
+ment . . . of the freedom of communications and of maritime commerce”
+LC.J. Reports 1986, p. 129, para. 253). But that remark was based on
+certain navigation rights existing under “customary international law”
+(ibid., p. 112, para. 214); thus, the Court spoke of “obligations under cus-
+tomary international law . . . not to interrupt peaceful maritime com-
+
+3 See Corpus Juris Secundum, Vol. 29A, 1965, pp. 442 ff.
+
+
+
+merce” (I.C.J. Reports 1986, p. 147, para. 292 (6)). When the Court came
+to consider whether the laying of mines violated the “freedom of com-
+merce and navigation” clause set out in Article XIX, paragraph 1, of the
+1956 FCN Treaty, it did not speak of “maritime commerce”; it spoke of
+the respondent’s “obligations under Article XIX of the” FCN Treaty
+(ibid., p. 147, para. 292 (7)). It is legitimate to suppose that this careful
+difference in expressions signified that the Court wished to avoid being
+thought to be limiting “freedom of commerce” under the Treaty to free-
+dom of maritime commerce. Also, if, as it seems, the Court considered
+that freedom of commerce under Article XIX, paragraph 1, of the Treaty
+was not limited to maritime commerce but embraced all forms of com-
+merce, this would explain why the Court held that the respondent, “by
+the attacks on Nicaraguan territory . . . has acted in breach of its obliga-
+tions under Article XIX of the Treaty . . .” (ibid., p. 148, para. 292 (11)).
+It was on the basis of a contrary view that the clause was “exclu-
+sively devoted to matters of maritime commerce” that Judge Oda
+expressed dissatisfaction with this part of the Judgment (ibid., p. 251,
+para. 84, dissenting opinion). There is some basis for reading the Court’s
+1986 Judgment as leading to the conclusion that freedom of “commerce
+and navigation” under Article X, paragraph 1, of the 1955 Treaty between
+the Parties in this case was not restricted to maritime commerce.
+
+Second, as to the argument — an argument of some force — that the
+oil platforms in question related to production and not to commerce.
+There is manifestly a distinction between the two processes; but where
+the precise line is to be drawn between them is less clear in the case of an
+industry in which production was closely articulated to external com-
+merce. Take the hypothesis (suggested by paragraph 51, first paragraph,
+of the Judgment) of a State being dependent for its foreign currency earn-
+ings on its exports of locally produced oil. Conceivably, another State,
+desiring to eliminate the commerce productive of these export earnings,
+may proceed either to blockade the export facilities or to destroy the oil
+production facilities. It is not altogether clear that the particular method
+employed lessens the fact that, either way, the second State would have
+accomplished its purpose of eliminating the first State’s commerce in oil.
+The suggested distinction, in its strict form, is not easily accommodated
+by the Treaty when this is interpreted in the geopolitical framework in
+which it was negotiated: the shelter given to commerce was intended, at
+the time when it was given, largely for the future protection of export-
+oriented economic interests of the Respondent’s corporations in the
+Applicant’s oil industry. Some weight may be accorded to the Appli-
+cant’s proposition that the same words in similar treaties may have dif-
+ferent meanings when the particular treaty is interpreted in the special
+context in which it was negotiated. These considerations may be neither
+right nor decisive; but they are sufficient to suggest that the Applicant
+
+
+
+may be correctly allowed to argue in favour of its point of view at the
+merits stage.
+
+If, for the foregoing reasons, it is thought that the Court’s test creates
+some disadvantages for the Applicant, it need not be assumed that it
+leads to no disadvantages for the Respondent; it does. And they could be
+serious.
+
+Take the holdings against the Respondent in paragraphs 21 and 51 of
+the Judgment. It is true that a holding on jurisdiction does not conclude
+
+could competently render a definitive interpretation of the Treaty, it is
+difficult to see how that interpretation could fail to govern at the merits
+stage, where that stage is reached. In the first of the two holdings referred
+to, the Court rejects the Respondent’s contention that the Treaty of 1955
+cannot apply to questions concerning the use of force. Theoretically, it
+may be argued that this holding would not prevent the Respondent from
+arguing at the merits stage that the Treaty cannot apply to questions con-
+cerning the use of force®. But, given the importance of the opposite inter-
+pretation to the holding made by the Court at the preliminary stage, it is
+difficult to see how that interpretation could be reversed at the merits
+stage. In practice, the Respondent would thus be prevented from putting
+forward at the merits stage an argument essential to the substance of its
+case; in a conceivable case, even though not in this, that might be the
+respondent’s only argument on the substance. In the second of the two
+holdings, the Court rejects the Respondent’s contention that the claims
+of the Applicant cannot be founded upon Article X, paragraph 1, of the
+Treaty of 1955. Would not this holding likewise prevent the Respondent
+from arguing at the merits stage that the claims of the Applicant cannot
+be founded upon Article X, paragraph 1, of the Treaty of 1955?
+
+In the normal way, these are issues which the Respondent is considered
+free to argue at the merits stage for the reason that they bear on the ques-
+tion of the existence of the legal obligations which have been allegedly
+
+6 See Georges Abi-Saab, Les exceptions préliminaires dans la procédure de la Cour
+internationale, 1967, p. 246.
+
+
+
+breached. The right to argue at the merits that the alleged obligations did
+not exist in law is distinct from the right to rely, by way of defence on the
+merits, on the matters specified in Article XX, paragraph 1 (d), of the
+Treaty, a subject discussed in paragraph 20 of the Judgment. The right to
+rely on such specified matters by way of defence on the merits is not
+therefore an answer to the fact that the Judgment deprives the Respon-
+dent of the opportunity to argue that the obligations in question did not
+in the first instance exist. There would be no need to rely on the specified
+matters by way of defence on the merits if it was established that the
+alleged obligations did not exist in law.
+
+These difficulties do not arise if the correct jurisdictional test is whether
+the Applicant’s construction of the Treaty is an arguable one. If all that
+the Court holds is that the Applicant’s interpretation of the Treaty is an
+arguable one, it does not follow that the Court is saying that the Respon-
+dent’s interpretation is wrong. Both interpretations could be arguable;
+indeed, it may happen that the Applicant’s interpretation does not pre-
+vail at the merits stage, and that it is the Respondent’s interpretation
+which is eventually upheld. On this approach, nothing would prevent the
+Respondent from advancing its interpretation of the Treaty at the merits
+stage. But the argument then will be a different one. It will not be
+addressed to the preliminary question whether the Applicant can present
+an arguable contention that the Treaty applies to the alleged acts; it will
+be addressed to the substantive question whether the Treaty applies to
+those acts. The former question, which is decided in exercise of the
+Court’s compétence de la compétence, goes to the right of the Applicant
+to have its claim adjudicated. By contrast, the latter question, which is
+decided in exercise of the Court’s substantive jurisdiction, goes to the
+adjudication of the claim on the basis that the Applicant has a right to
+have the claim adjudicated. It goes to the question whether the obliga-
+tion, which the Applicant claims was breached, exists in law: if the obli-
+gation does not exist, there could be no breach of any obligation and the
+claim that there was a breach of an obligation fails on the merits.
+
+CONCLUSION
+
+Possibilities for improvement do not prevent me from giving support
+to the dispositif in the form in which it stands. I have given that support.
+It appears to me, however, that the Court has not paid sufficient regard
+to the fact that the question at this stage is not whether the Applicant’s
+claims are sound in law, but whether the Applicant is entitled to an adju-
+dication of its claims. The neglect to distinguish between these issues as
+consistently as was required corresponds with the fact that the Court has
+sought to make a definitive determination of the meaning of the 1955
+Treaty, whereas, in my view, it should merely have asked whether the
+construction of the Treaty on which the Applicant relied was an arguable
+
+
+
+one, even if it might eventually turn out to be incorrect. The respectful
+impression with which I thus leave the case is that the test which the
+Court has used has precluded it from asking the right questions. In the
+result, the principle on which the Judgment is constructed is not adequate
+to do full justice to either Party; it creates unnecessary disadvantages for
+both.
+
+(Signed) Mohamed SHAHABUDDEEN.

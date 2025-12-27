@@ -1,0 +1,684 @@
+I agree with the decision reached by the Court. My thought is that, on
+some aspects, it could have been stronger than it is. On the main issue as to
+whether the Tribunal should have answered the second question put to it
+by the Arbitration Agreement, the Court sustains the Award on the
+ground that, in holding that it was not competent to reply to that question,
+the Tribunal interpreted the Agreement in a way in which it could have
+been interpreted without manifest breach of its competence. The Court
+did not go on to consider whether the Tribunal’s interpretation was
+indeed correct. The explanation lies in the view which the Court took of
+the scope of its own authority in these proceedings. I give my reasons
+below for holding, first, that, subject to considerations of security of the
+arbitral process with respect to finality of awards, the scope of the Court’s
+authority did not preclude it from pronouncing on the correctness of the
+Tribunal’s interpretation; and, second, that the latter was in fact the cor-
+rect interpretation.
+
+
+Guinea-Bissau’s chief complaint is that the Arbitration Tribunal failed
+to accomplish its mission, in that it was required to answer the second
+question put to it by the Arbitration Agreement but did not do so, and that
+on this account the Award is a nullity. It appears to me that, the Court
+having held that it had jurisdiction, the appropriate course was for it to
+determine, in accordance with the applicable principles of treaty interpre-
+tation, whether the Arbitration Agreement did require the Tribunal to
+answer that question. If the Court’s interpretation differed from that of
+the Tribunal, the next step was to see if the latter was equally plausible
+with the former. If the two were equally plausible, as being each justified
+by some legitimate process of interpretation, considerations of security of
+the arbitral process with respect to finality of awards would suggest that
+the Court should refrain from substituting its own interpretation for that
+of the Tribunal. The Court would be justified in making a substitution
+only where it was satisfied that the Tribunal’s interpretation disclosed a
+compellingly clear and substantial error as to its powers. A marginal or
+debatable case would not suffice.
+
+I should have thought, with respect, that this approach was reasonably
+straightforward; that it had the advantage of enabling the Court to resolve
+
+
+
+the point of substance, and of obvious concern to Guinea-Bissau, as to
+whether the Tribunal’s interpretation was right or wrong; and that it pro-
+vided all the safeguards fairly needed to ensure the stability of the interna-
+tional arbitral process.
+
+That has not however been the course followed by the Court. The drift
+of the Court’s reasoning moves, indeed, in the direction of a finding that
+the Tribunal was right in holding that it was not competent to answer the
+second question, and the reader of the Judgment (particularly para-
+graph 56) may well think that this is the natural result. The Court, how-
+ever, stops short of making a finding to that effect, limiting itself to a
+holding in these terms:
+
+“The Tribunal could thus find, without manifest breach of its
+competence, that its answer to the first question was not a negative
+one, and that it was therefore not competent to answer the second
+question.” (Judgment, para. 60.)
+
+The Judgment thus stands arrested at the threshold of the issue whether
+the Tribunal was correct in its interpretation of the compromis on the spe-
+cific point as to whether it was competent to answer the second question.
+The reason is to be found in the Court’s use of the distinction between
+nullity and appeal in relation to decisions made in exercise of la compé-
+tence de la compétence. Referring to Guinea-Bissau’s argument on the
+point in question, the Judgment reads:
+
+“By its argument set out above, Guinea-Bissau is in fact criticizing
+the interpretation in the Award of the provisions of the Arbitration
+Agreement which determine the Tribunal’s jurisdiction, and propos-
+ing another interpretation. However, the Court does not have to
+enquire whether or not the Arbitration Agreement could, with regard
+to the Tribunal’s competence, be interpreted in a number of ways,
+and if so to consider which would have been preferable. By proceed-
+ing in that way the Court would be treating the request as an appeal
+and not as a recours en nullité. The Court could not act in that way in
+the present case. It has simply to ascertain whether by rendering the
+disputed Award the Tribunal acted in manifest breach of the com-
+petence conferred on it by the Arbitration Agreement, either by
+deciding in excess of, or by failing to exercise, its jurisdiction.” (Judg-
+ment, para. 47.)
+
+The problem with this approach is that, apart from leaving undeter-
+mined a question of importance to one of the litigants as to whether the
+Tribunal’s interpretation was in fact correct, it, at least theoretically,
+leaves open the possibility that the interpretation was not. For, to charac-
+terize the Tribunal’s interpretation as being merely one which could be
+placed on the Arbitration Agreement “without manifest breach of its
+competence” is to leave open the possibility that some other interpretation
+could also be placed on it “without manifest breach of its competence”;
+
+
+
+paragraph 47 of the Judgment, quoted above, accepts as much. All of such
+possible interpretations could not be right.
+
+The foundation of the Court’s approach lies in the concept of la compé-
+tence de la compétence. Certain aspects of the scope and basis of this power
+may be briefly noticed for present purposes.
+
+First, as to the scope of the power. This is indeed wide. But, wide as is
+the power, its exercise is, of course, limited by the consideration that its
+purpose is to ensure that the mission authorized by the compromis does
+not fail for want of power to interpret the latter, as historically it was once
+feared possible; the purpose is not to permit the Tribunal, through pos-
+sible misinterpretations, to endow itself with an original jurisdiction
+materially different from that contemplated by the Parties. This, if it hap-
+pened, would be ruinous to the older and even more fundamental principle
+extra compromissum arbiter nihil facere potest. As observed by one commen-
+tator, recalling the position taken by the United States commissioner in
+The Betsey, “La règle de la compétence de la compétence et l’excès de pou-
+voir ne se concevaient pas l’un sans l’autre: mieux ils s’expliquaient l’un
+par l’autre” (Georges Berlia, “Jurisprudence des tribunaux internationaux
+en ce qui concerne leur compétence”, Collected Courses of the Hague
+Academy of International Law, Vol. 88, p. 109, at p. 129). In the words of
+another, “si l’arbitre est juge de sa compétence, il n’en est pas le maître”
+(Charles Rousseau, Droit international public, Vol. 5, 1983, p. 326,
+para. 312). That the two principles referred to are in tension has been
+noticed in the literature (R. Y. Jennings, “Nullity and Effectiveness in
+International Law”, in Cambridge Essays in International Law, Essays in
+Honour of Lord McNair, 1965, p. 64, at p. 83). In the present case, that
+general tension surfaces as a specific legal problem needing to be
+addressed and resolved by the Court. In short, la compétence de la compé-
+tence being not absolute but qualified, the question here, as in all cases, is
+not whether the Tribunal has exercised the competence simpliciter, but
+whether the Tribunal has exercised it within the bounds to which it is
+always and necessarily subject.
+
+Next, as to the basis of the power. The question has been discussed in
+the books as to whether the finality of an arbitral award rests on the treaty
+of submission or on the authority which international law attaches to deci-
+sions of tribunals vested with jurisdiction to decide with obligatory force,
+or indeed on both (see, inter alia, Louis Cavaré, “L’arrét de la CIJ du
+18 novembre 1960 et les moyens d’assurer l’exécution des sentences arbi-
+trales”, in Mélanges offerts à Henri Rolin, 1964, p. 39, at pp. 41-42; and
+J. C. Witenberg, L'organisation judiciaire, la procédure et la sentence inter-
+nationales, 1937, pp. 352-353). That the treaty of submission does have a
+role is, however, generally admitted. Hertz connected the two ideas this
+way:
+
+
+SENTENCE ARBITRALE (OP. IND. SHAHABUDDEEN) 108
+
+qui serait elle aussi une interprétation qui pouvait être retenue sans qu’il y
+ait «méconnaissance manifeste de sa compétence »; le paragraphe 47 de
+l’arrêt, cité ci-dessus, admet ces conclusions. Or, toutes les interprétations
+possibles ne sauraient être justes.
+
+La démarche de la Cour s’appuie sur le concept de la compétence de la
+compétence. Certains aspects de la portée et du fondement de ce pouvoir
+méritent qu’on s’y arrête brièvement.
+
+Pour ce qui est de la portée de ce pouvoir, elle est certes très large. Mais
+aussi large fût-elle, son exercice est évidemment limité par une considéra-
+tion relative à son but, qui est de faire en sorte que la mission que le
+compromis confie au Tribunal n’en vienne pas à échouer par absence de
+compétence à interprêter le compromis — comme, historiquement, on l’a
+craint — et non de permettre au Tribunal, par d’éventuelles fausses inter-
+prétations, de s’arroger une compétence originelle sensiblement diffé-
+rente de celle envisagée par les Parties. Si tel était le cas, ce serait la fin
+d’un principe plus ancien et plus fondamental encore, celui qu’exprime
+l’adage extra compromissum arbiter nihil facere potest. Comme l’a fait
+observer un commentateur, en rappelant la position prise par le délégué
+des Etats-Unis dans l’affaire The Betsey: « La règle de la compétence de la
+compétence et l’excès de pouvoir ne se concevaient pas l’un sans l’autre:
+mieux ils s’expliquaient l’un par l’autre.» (Georges Berlia, « Jurispru-
+dence des tribunaux internationaux en ce qui concerne leur compé-
+tence », Recueil des cours de l'Académie de droit international de La Haye,
+t. 88, p. 129.) Ou, comme l’a dit un autre auteur: «si l’arbitre est juge de sa
+compétence, il n’en est pas le maître » (Charles Rousseau, Droit internatio-
+nal public, vol. 5, 1983, p. 326, par. 312). L’antagonisme existant entre ces
+deux principes a été relevé par la doctrine (R. Y. Jennings, « Nullity and
+Effectiveness in International Law», dans Cambridge Essays in Interna-
+tional Law, Essays in Honour of Lord McNair, 1965, p. 83). En cette
+instance, cet antagonisme général constitue le problème juridique
+spécifique que la Cour se doit d’examiner et de résoudre. Bref, la com-
+pétence de la compétence n’est pas absolue, mais qualifiée; la question
+qui se pose dans cette affaire, comme dans toute affaire, est non de savoir
+si l’arbitre a exercé sa compétence simpliciter, mais s’il l’a exercée dans
+les limites auxquelles cette compétence est toujours et nécessairement
+soumise.
+
+Quant au fondement de ce pouvoir, la question a été posée dans de
+nombreuses études de savoir si le caractère définitif d’une sentence arbi-
+trale repose sur le compromis ou sur l'autorité que le droit international
+confère aux décisions des tribunaux investis du pouvoir de rendre des
+décisions obligatoires, ou encore sur les deux (voir, entre autres,
+Louis Cavaré, « L'arrêt de la CIJ du 18 novembre 1960 et les moyens
+d’assurer l’exécution des sentences arbitrales», dans Mélanges offerts à
+Henri Rolin, 1964, p. 41-42, et J. C. Witenberg, L'organisation judiciaire, la
+procédure et la sentence internationales, 1937, p. 352-353). Il est cependant
+généralement admis qu’un rôle revient au compromis. Hertz met en
+rapport ces deux idées comme suit:
+
+
+
+From the point of view of the scope and basis of la compétence de la
+compétence, the juridical problem which arises may therefore be
+expressed thus : when the parties invest an arbitrator, whether expressly or
+by implication of law, with competence to interpret the compromis, within
+what limits, if any, are they to be understood as thereby engaging to be
+bound by an exercise of the competence by the arbitrator which results in
+a misinterpretation by him of the compromis concerning his powers? In
+the present case, the question would be whether it was the will of the Part-
+ies that they should be bound by a misinterpretation — if there was any —
+of the compromis on the important and major issue as to whether the
+second question was required to be answered. Conceivably, in the larger
+interests of securing a resolution of their dispute, the Parties might be
+understood as having undertaken to be bound by decisions made within
+some tolerable margin of appreciation as to competence in minor matters
+even though erroneous. Should they be understood as having undertaken
+to be likewise bound by erroneous decisions as to the powers of the Tribu-
+nal going to the substance of its mission ? Scarcely so. But then, when such
+a question arises, as it in effect arises here, how is it to be answered unless
+the Court can say whether, as a matter of treaty interpretation, the Tribu-
+nal’s decision was indeed correct? It is not clear why the Court must
+instead regard the matter as concluded by the fact that the Tribunal has
+placed on the compromis an interpretation which could have been placed
+on it without manifest breach of its competence. That way of putting it
+leaves open the possibility that, while such an interpretation might well be
+right, it could, at least in theory, be also wrong.
+
+It may be useful to consider two cases involving contentions of nullity
+of an arbitral award, namely, the Orinoco Steamship Co. case and the case
+of the Arbitral Award Made by the King of Spain on 23 December 1906.
+
+In the Orinoco Steamship Co. case the Permanent Court of Arbitration
+made the point that “the appreciation of the facts of the case and the inter-
+pretation of the documents were within the competence of the umpire”
+and that —
+
+“his decisions, when based on such interpretation, are not subject to
+revision by this tribunal, whose duty it is not to say if the case has
+been well or ill judged, but whether the award must be annulled; that
+if an arbitral decision could be disputed on the ground of erroneous
+appreciation, appeal and revision, which the Conventions of the
+Hague of 1899 and 1907 made it their object to avert, would be the
+general rule” (The Hague Court Reports, ed. J. B. Scott, 1916, p. 226, at
+p. 231).
+
+These remarks, particularly about “the appreciation of the facts of the
+case and the interpretation of the documents” being “within the compe-
+tence ofthe umpire”, related to decisions made by him on the merits of the
+case, not to decisions made by him in exercise of la compétence de la
+
+
+
+compétence, the point being that a challenge of nullity against a decision of
+the latter kind does not entitle the reviewing forum to revise the Tribunal’s
+appreciation of the facts and documents leading to its decision on the
+merits. As to decisions made in exercise of la compétence de la compétence
+(relating in the particular case to a duty under the compromis to apply
+absolute equity), it would seem that the Permanent Court of Arbitration
+proceeded directly to consider whether the decision made by the umpire
+as to his powers, or the way they should be exercised, was correct.
+
+The decision of this Court in the case concerning the King of Spain’s
+Award likewise did point out “that the Award is not subject to appeal and
+that the Court cannot approach the consideration of the objections raised
+by Nicaragua to the validity of the Award as a Court of Appeal” (I.C.J.
+Reports 1960, p. 214, and paragraph 25 of the Judgment in this case). How-
+ever, itis difficult to see this consideration at work when the Court came to
+deal with what appeared to be a challenge to an exercise of the arbitrator’s
+compétence de la compétence. The Court did dispose of one branch of the
+arguments by taking the view that certain possible interpretations of the
+articles of the Gâmez-Bonilla Treaty relating to the procedure for appoint-
+ing the arbitrator were interpretations which could have been placed on
+those provisions in exercise of the power of the two national arbitrators to
+interpret them; but this concerned the constituent “power of the [two
+national] arbitrators to interpret and apply the articles in question in order
+to discharge their function of organizing the arbitral tribunal” (ibid.,
+p. 206), and not the functions of the tribunal after it had been set up. As
+regards these functions, one question which did arise was whether the
+adjudicating arbitrator misconstrued the compromis in assuming that it
+gave him power to grant compensations in order to establish a well-
+defined natural boundary line. It does not appear that the Court
+approached the problem on the basis that the only question before it was
+whether the interpretation made by the arbitrator was one which could
+have been made by him without manifest breach of competence; it deter-
+mined that the interpretation made by him was in fact correct, and it did so
+after carrying out its own “examination of the Treaty” and making its own
+interpretation (ibid., p. 215). My understanding is that when the Court said
+that it was not a Court of Appeal and added that it “is not called upon to
+pronounce on whether the arbitrator’s decision was right or wrong” (ibid.,
+p. 214), the decision of the arbitrator to which it was there referring was his
+decision on the merits of the case, not his decision interpreting the compro-
+mis as to his powers when dealing with the merits. As mentioned above,
+my impression is similar as regards the corresponding remark by the
+Permanent Court of Arbitration in the Orinoco Steamship Co. case.
+
+In both of the two cases mentioned, the references by the reviewing
+forum to the distinction between appeal and nullity seemed intended by it
+as a reminder to itself that in a case of nullity it should not stray into a
+re-assessment of the merits of the decision being challenged, the only
+issue before it being whether the decision resulted from a valid exercise of
+
+
+
+adjudicating power, not whether, if it did, it was correct on the merits.
+Without dogmatically excluding the possibility of other interpretations, I
+do not understand either of the two cases to be suggesting that, where a
+case of nullity is based on a challenge to the correctness of an interpreta-
+tion made by the tribunal of the compromis concerning its powers, the
+reviewing forum is confined to asking merely whether the interpretation
+made by the tribunal was one which could have been made by it without
+manifest breach of its competence and is excluded from pronouncing on
+the correctness of the interpretation where this is held to be one which
+could have been so made. In the exercise of such powers of adjudication
+as it may in fact have, a tribunal undeniably has powers of appreciation
+over the factual and documentary material laid before it for evaluation
+and decision. So also, to some extent, where the competence of the tribu-
+nal depends on its appreciation of some matter in its relationship to the
+jurisdictional provisions of the compromis (Interpretation of the Greco-
+Turkish Agreement of 1 December 1926 (Final Protocol, Article IV), Advisory
+Opinion, 1928, P.C.1.J., Series B, No. 16, pp. 19-22; and J. L. Simpson and
+Hazel Fox, International Arbitration, Law and Practice, 1959, p. 252). But
+such powers of appreciation are of a significantly different order from
+powers of appreciation as to what powers of adjudication are in the first
+instance conferred on the tribunal by the compromis itself.
+
+For practical purposes, the difference between the Court’s view and
+that offered here may well be one of approach, rather than one of result.
+But perhaps some importance may be attached to the approach. I agree
+with the view, underlying the Court’s decision, that its authority to review
+the Tribunal’s interpretation of the compromis is limited, but I differ as to
+the basis of the limitation. I regard the limitation not as one which in
+principle precludes the Court from pronouncing on the correctness of the
+Tribunal’s interpretation, but as one which requires a certain measure of
+caution on the part of the Court when so pronouncing: I would link the
+limitation directly and firmly to considerations of stability of the arbitral
+process with respect to finality of awards, and to the consequential need
+for the Court to observe appropriate standards of cogency in determining
+whether its own interpretation of the compromisis so convincingly clear as
+to warrant displacement of the Tribunal’s, should the two be different. I
+believe this view conforms to the tendency of such jurisprudence as there
+is on the point. [ do not see the limitation as being linked to any idea that,
+as seems implied by paragraphs 47 and 60 of the Judgment of the Court,
+because these are not appeal proceedings, the Tribunal should be
+regarded by the Court as having an unreviewable freedom to select any
+of anumber of possibly different interpretations of the compromis as to the
+substance of its mission, provided they are interpretations which could be
+made “without manifest breach of its competence”.
+
+With respect, then, I am not persuaded that it is a satisfactory approach
+to a challenge of nullity to seek to determine it by merely asking whether
+
+
+
+the tribunal’s interpretation of the compromis as to its powers was one
+which could have been made without manifest breach of its competence.
+More particularly, I consider that there was nothing in law to prevent the
+Court from pronouncing on the issue whether the Tribunal in this case
+was correct in interpreting the Arbitration Agreement to mean that it was
+not called upon to reply to the second question put to it.
+
+II. WHETHER THE TRIBUNAL WAS CORRECT IN INTERPRETING THE
+COMPROMIS T0 MEAN THAT IT WAS NOT CALLED UPON TO ANSWER THE
+SECOND QUESTION
+
+I am of opinion that the Tribunal was correct in interpreting the compro-
+mis to mean that it was not called upon to reply to the second question.
+
+Guinea-Bissau’s contention that recourse should have been had to the
+second question is based on its argument that the overriding object and
+purpose of the Arbitration Agreement, particularly as suggested by the
+Preamble, was that there should in any event be a delimitation by a single
+line of all the maritime spaces of the Parties which were the subject of the
+dispute between them. This was the premise on which learned counsel for
+Guinea-Bissau put its case when he said:
+
+“the first and second questions asked in Article 2 were the parts of an
+overall question: what is the maritime boundary, namely the boun-
+dary of all the maritime spaces? If it derived from the exchange of
+letters, the reply to the overall question would stem from that to the
+first question; otherwise, it would stem from the reply to the second.”
+(Public sitting of 9 April 1991 (afternoon), CR 91/7, p. 58, Profes-
+sor Galväo Teles.)
+
+This interpretation of the two questions, founded on the desideratum of a
+comprehensive delimitation, is attractive; some support for it may indeed
+be claimed from the jurisprudence which, in several well-known cases,
+warns of the limitations of a narrow grammatical approach which, by inhi-
+biting the Court from ascertaining what the parties really did mean when
+they used the words falling to be construed, could result in the defeat of
+the true object and purpose of a treaty.
+
+But, taking full account of the flexibility of that jurisprudence, is
+Guinea-Bissau’s reading of the two questions reasonably reconcilable
+with their actual formulation ? Without any necessity to call upon the #ra-
+vaux préparatoires, | would grant that the Arbitration Agreement itself
+does indicate a general desire of the Parties for a comprehensive settle-
+ment of their dispute. Yet, it appears to me that the operative provisions of
+the Agreement demonstrate a specific intention not fully congruent with
+that general desire, in the sense that the intention, as so demonstrated, was
+indeed to realize that desire, and to realize it through the arbitration pro-
+vided for, but only subject to a condition precedent which, as it turned out,
+
+
+
+was not satisfied. It is this partial discrepancy between apparent wish and
+specific machinery which constitutes the special legal problem in this
+case. How is the problem to be resolved?
+
+The key provisions of the Arbitration Agreement, as set out in Article 2,
+put two questions to the Tribunal, stated in such a way as to make it clear
+that, while the first question had to be answered in any event, the second
+had to be answered only “[i]n the event of a negative answer to the first
+question . ..”. Thus, the very structure of the provision contemplated the
+distinct possibility that only the first of the two questions might require to
+be answered. This being so, to make good the argument that the Tribunal
+was obliged to produce a comprehensive delimitation in any event, it
+would have to be shown that the Tribunal was both competent and bound
+to produce such a delimitation by way of answer to the first question if, for
+any reason, that question alone fell to be answered. However, it seems
+clear (and this aspect is revisited below) that a comprehensive delimita-
+tion could in no circumstances be produced by way of answer to the first
+question. It being also clear that that question could nevertheless be the
+only question requiring to be answered, it follows that the argument that
+the Tribunal was obliged in any event to produce a comprehensive delimi-
+tation fails. With that failure, the conceptual foundation of Guinea-
+Bissau’s case is removed. And the case ends.
+
+What, however, is the position if this conclusion is wrong? As has been
+seen, Guinea-Bissau’s argument was this — that a comprehensive delimi-
+tation was necessary in any event, and that, accordingly, if the answer of
+the Tribunal to the first question did not in fact produce such a delimita-
+tion, it was necessary to pass to the second question in search of one. This
+argument might seem to imply that Guinea-Bissau was taking the position
+that the first question did embrace the possibility of establishing a com-
+prehensive delimitation under it. However, it has to be recalled that, in the
+arbitral proceedings, Guinea-Bissau resisted, and successfully resisted, a
+contention by Senegal that an answer to the first question, upholding the
+1960 Agreement, could produce a comprehensive delimitation. Senegal,
+for its part, accepted the Tribunal’s decision on this point. Before this
+Court neither side took the position that it was possible, even theoreti-
+cally, for a comprehensive delimitation of any kind to be produced by any
+conceivable answer to the issue raised in that question as to whether the
+1960 Agreement had the force of law in the relations between the Parties.
+That question was simply not directed to the establishment of a compre-
+hensive delimitation of any kind. Thus, although it is perfectly true, as
+repeatedly emphasized by Guinea-Bissau, that the Tribunal’s answer to
+the first question did not in fact produce a comprehensive delimitation,
+there is no point in saying so if, to begin with, that question was not
+directed to the establishment of any such delimitation. There would be no
+point in saying so because the statement would be based on a non-existent
+premise. Accordingly, the fact that no such delimitation was effected
+
+
+
+under the first question did not in logic provide a reason for having
+recourse to the second question.
+
+It may be argued that, although, for the reasons given by the Tribunal,
+the 1960 line could not constitute a comprehensive delimitation, this did
+not mean that the first question could not be construed as asking the Tribu-
+nal to say whether that line, if upheld, constituted such a delimitation,
+and that the answer which the Tribunal gave amounted to a partially nega-
+tive answer to the question thus understood. It is difficult, however, to
+discover in the wording of the question the ingredients of such a construc-
+tion. A possible argument is that the reference in the question to “the rela-
+tions” between the Parties was a reference to their relations in respect of
+the boundary throughout all of the existing maritime spaces, and not
+merely those maritime spaces which existed in 1960, with the result that
+the Tribunal, if it upheld the 1960 Agreement, would be required to con-
+sider whether the Agreement governed all of their relations in this com-
+prehensive sense. My difficulty with the argument is that it seems
+necessary to distinguish “the relations” between the Parties from the sub-
+ject-matter of the relations. The word “relations” by itself means the “var-
+ious modes in which one country, state, etc., is brought into contact with
+another by political or commercial interests” (The Shorter Oxford English
+Dictionary, 3rd ed., 1984, p. 1796), or “the connections between . . .
+nations” (Webster's New Dictionary and Thesaurus, Concise Edition, 1990,
+p. 459). It appears to me that these “connections” may concern a variety of
+interests and that a reference to the former does not by itself suffice to
+identify the latter. Accordingly, the reference in the first question to “the
+relations” between the Parties does not by itself identify the particular
+maritime spaces which those relations concern. These are to be collected
+from the reference in the question to the 1960 Agreement, which of course
+concerned only some of the existing maritime spaces of the Parties. In
+effect, in asking whether the 1960 Agreement had the force of law in the
+relations between the Parties, the first question was asking whether the
+Agreement had such force as regards the boundary delimiting the mari-
+time spaces referred to in the Agreement, and not also as regards maritime
+spaces not therein referred to. There is nothing in the question which sup-
+ports the view that it was asking the Tribunal to say whether the 1960 line,
+if upheld, was to have an extended application throughout all of the exist-
+ing maritime spaces of the Parties.
+
+It may be said that this conclusion does not represent the Tribunal’s
+own interpretation of the first question. Having held that the 1960 Agree-
+ment had the force of law in the relations between the Parties, the Tribunal
+passed on to consider the spatial application of the Agreement. Senegal
+had contended that, by reason of certain factors, the line laid down by the
+1960 Agreement applied to all of the maritime spaces of the Parties as now
+known to international law, and was accordingly no longer restricted to
+the spaces specified in the Agreement itself. Speaking in this connection,
+the Tribunal said:
+
+
+
+“The Tribunal is not attempting to determine at this point whether
+there exists a delimitation of the exclusive economic zones based on a
+legal norm other than the 1960 Agreement, such as a tacit agreement,
+abilateral custom or a general norm. It is merely seeking to determine
+whether the Agreement in itself can be interpreted so as to cover the
+delimitation of the whole body of maritime areas existing at present.”
+(Award, para. 83.)
+
+Do these remarks mean that the Tribunal understood the first question to
+be asking it to say whether the delimitation effected by the 1960 Agree-
+ment, if upheld, governed all of the maritime areas existing at present ? If
+so, the answer which it gave — that the Agreement applied only to the
+territorial sea, the contiguous zone and the continental shelf — may well
+be regarded as a negative answer to the first question and as therefore
+requiring recourse to the second.
+
+However, reading the quoted statement in context, I do not think it
+shows that the Tribunal understood the first question to be asking it to say
+whether the 1960 line applied comprehensively. In response to Senegal’s
+contention, the Tribunal carefully differentiated between the delimitation
+effected by the 1960 Agreement itself and any possible additional delimi-
+tation subsequently effected on the basis of “a legal norm other than the
+1960 Agreement, such as a tacit agreement, a bilateral custom or a general
+norm”. The Tribunal held that the first question was confined to the
+1960 delimitation and raised no issue about any other possible delimita-
+tion. Consequently, the Tribunal was concerned under the first question
+only with the spatial application of the delimitation effected by the
+1960 Agreement itself, and not also with the spatial application of any
+possible additional delimitation subsequently effected on a basis other
+than that Agreement. It was precisely because the Tribunal understood
+the first question in this limited way that it rejected Senegal’s contention
+that the 1960 Agreement applied to all existing maritime spaces. That was
+a negative answer to a question raised by Senegal; it was not a negative
+answer to the first question presented by the Arbitration Agreement.
+
+Nor could the Tribunal’s answer be regarded as a partial answer to the
+first question. The non-applicability of the 1960 Agreement to maritime
+spaces not referred to in it does not mean that the Agreement was not
+wholly in force. How far the Agreement had the force of law in the rela-
+tions between the Parties was to be measured by reference to the maritime
+spaces to which it referred, not by reference to maritime spaces to which it
+did not refer. The Agreement was in force between the Parties to the entire
+extent visualized by its own terms; it was fully in force.
+
+There could be argument — and such argument was in fact advanced by
+Senegal — that the Tribunal’s task was merely to say whether the
+
+
+
+1960 Agreement had the force of law “in the relations between the” Part-
+ies, and that it was not required to determine the field of application of the
+Agreement, if upheld. I do not pursue that question, because even if the
+Tribunal was so required, the answer which it gave, both as to the applica-
+bility and the scope of the Agreement, could not, in my opinion, be
+regarded as a negative answer so as to require recourse to the second
+question.
+
+For the reasons given, it appears to me that the two questions were not
+directed to the achievement of the same thing. They were both concerned
+with the same general subject, but they were addressed to different aspects
+of it. I agree with the Court that the first question was concerned with the
+issue whether the 1960 Agreement had the force of law in the relations
+between the Parties, while the second was directed to the making of a mar-
+itime delimitation in the event that the Agreement did not have such force.
+The Tribunal was indeed required to undertake a delimitation of all the
+maritime areas of the Parties, but only on condition that it first found that
+the 1960 Agreement did not have the force of law in the relations between
+them. As this condition — a condition precedent — was not satisfied, the
+duty to undertake such a delimitation was never triggered off. To hold
+otherwise is effectively to say that the Tribunal was bound to answer the
+second question whatever was its answer to the first — a proposition
+needing only to be stated to be dismissed.
+
+It may be said that there is little to recommend a method of interpreta-
+tion which is so strict as to lead to a construction of the Arbitration Agree-
+ment “according to which it would . . . fail entirely to enunciate the
+question really in dispute . . .” (see remarks of the Permanent Court of
+International Justice in the Free Zones of Upper Savoy and the District of
+Gex, P.C.1.J., Series A/B, No. 46, p. 96, at p. 139). Since the actual dispute
+between the Parties in this case extended to all of their existing maritime
+spaces, it may be contended that any interpretation which excluded the
+possibility of a comprehensive settlement through recourse to the second
+question is an interpretation which fails to enunciate the question really in
+dispute. On the other hand, to require recourse to be had to the second
+question notwithstanding the Tribunal’s affirmative answer to the first is
+so palpable a disregard of the preclusive words with which the second
+question begins as to invite attention to other applicable considerations.
+
+In his earlier capacity as a Member of this Court, Judge André Gros,
+one of the two arbitrators who voted for the Award, had occasion, first in
+1974 and then again in 1984, to refer to the following passage from
+Charles De Visscher (Problèmes d'interprétation judiciaire en droit interna-
+tional public, 1963, at pp. 24 and 25):
+
+“The function of interpretation is not to perfect a legal instru-
+ment with a view to adapting it more or less precisely to what one may
+be tempted to envisage as the full realisation of an objective which
+was logically postulated, but to shed light on what was in fact the
+will of the Parties.” (Fisheries Jurisdiction (United Kingdom v. Iceland),
+
+
+
+1.C.J. Reports 1974, dissenting opinion, p. 149; and, Fisheries Jurisdic-
+tion (Federal Republic of Germany v. Iceland), 1.C.J. Reports 1974,
+dissenting opinion, pp. 238-239. See likewise the Delimitation of
+the Maritime Boundary in the Gulf of Maine Area, 1.C.J. Reports 1984,
+dissenting opinion, p. 388, where the English translation is slightly
+different.)
+
+Judge Anzilotti is on record as observing that, were the Permanent
+Court of International Justice to confine itself to answering only part of
+the question “which has been put to it”, the Court would be committing
+“an abuse of its powers” (Customs Régime between Germany and Austria,
+Advisory Opinion, 1931, P.C.1.J., Series A/B, No. 41, p. 37, at p. 69). How-
+ever, to avoid a petitio principii, it must first be determined what is the ques-
+tion requiring to be answered (Free Zones of Upper Savoy and the District of
+Gex, P.C.I.J., Series C, No. 58, at pp. 445, 610-613, Professor Logoz, for
+Switzerland, arguendo). Thus, although a compromis may show that the
+parties desire an answer to all of certain questions, the way in which the
+questions are actually framed can conceivably prevent the tribunal from
+dealing with all of them. Treating of a case of this kind, in which it held
+that one of certain questions could not be answered because of the way it
+was constructed, the Permanent Court of International Justice seemed
+unmoved by the circumstance that the Court was expressly required by
+the compromis to answer all of the questions “by a single judgment”. Nor
+did it yield to argument that —
+
+“the conclusion of the Special Agreement represented a compromise
+between the opposing views of the Parties — one of the two States
+being particularly interested in the legal question submitted to the
+Court in Article 1, and the other in the subjects dealt with in
+Article 2 — and that to give judgment only on the question of law
+submitted by Article 1 was unjust, as it destroyed the balance
+between the two Parties” (Free Zones of Upper Savoy and the District
+of Gex, Judgment, 1932, P.C.1.J., Series A/B, No. 46, p. 96, at p. 163).
+
+That argument, it may be thought, carries a certain analogical force in this
+case. However, without entering into the reasons why it failed in that case,
+I take the view that it would fail equally in this case; reflections about
+possible difficulties created by the Award for the completion of a compre-
+hensive delimitation, though deserving of consideration, are not decisive.
+Referring to the way the particular question had been formulated in the
+Free Zones case, the Permanent Court of International Justice said :
+
+“If the obstacle to fulfilling part of the mission which the Parties
+intended to submit to the Court results from the terms of the Special
+Agreement itself, it results directly from the will of the Parties ...”
+(Tbid.)
+
+
+
+It seems to me that in the case at bar such an obstacle is presented by the
+will of the Parties themselves as expressed by them in the prefatory words
+of the second question. Moreover, those words having been introduced at
+the instance of Guinea-Bissau itself, there is a sense in which it is apposite
+to bear in mind that, as was once said by Judge Anzilotti, “it is only fair
+that a government should bear the consequences of the wording of a docu-
+ment for which it is responsible” (Polish Agrarian Reform and German
+Minority, P.C.1.J., Series A/B, No. 58, p. 175, dissenting opinion, at p. 182).
+The controlling words in this case are clear. Every effort to put a gloss on
+them founders on Professor Rolin’s remark, “la Cour estimera sans doute
+qu’il faut lire ce qui est écrit” (I.C.J. Pleadings, Anglo-Iranian Oil Co. p. 486).
+
+The international arbitral process provides a useful procedure of peace-
+ful settlement. The international community rightly values the process.
+Clearly, its utility must be protected against open-ended challenges to the
+finality of awards. Equally clearly, it would be misconceived to seek to
+protect the system by suffering any serious fault in its operation to remain
+remediless : the preservation of the system and the vindication of its credi-
+bility are interlinked. In my opinion, however, the complaint in this case
+has not been made out. True, the Award of the Tribunal did not result in a
+delimitation of all the maritime areas in dispute. However, this is a com-
+ment not on the Award, but on the way the Parties chose to frame the
+questions put to the Tribunal. As to why they framed the questions in the
+way they did, a court of law need not look beyond the words of
+Charles De Visscher:
+
+“Il n’est pas rare qu’il faille considérer comme adéquate une inter-
+prétation qui n’assigne au traité qu’une efficacité restreinte, à pre-
+mière vue peu conforme à ce qui, en bonne logique, pourrait appa-
+raître comme son but. Cette inefficacité partielle peut s’expliquer,
+en fait, par la volonté réfléchie des contractants de ne pas s’engager
+au-delà d’un certain point.” (De Visscher, op. cit, p. 77.)
+
+(Signed) Mohamed SHAHABUDDEEN.

@@ -1,0 +1,278 @@
+  1. In this declaration, I oﬀer some observations with respect to the
+Court’s decision to reject the Respondent’s preliminary objections to the
+Court’s jurisdiction ratione materiae, with which I agree.
+
+   2. When an applicant seeks to base the jurisdiction of the Court on a
+treaty, a respondent that makes a preliminary objection to the Court’s
+jurisdiction ratione materiae can be expected to ground its objection not
+only on jurisdictional provisions, but also on substantive provisions of
+the treaty at issue, such as deﬁnitions and provisions setting out the rights
+and obligations of parties. Substantive provisions are, of course, also
+interpreted when the Court considers the merits. In the context of a pre-
+liminary objection, the distinction between a question of jurisdiction and
+a question of the merits has important consequences. Upon the ﬁling of a
+preliminary objection, the proceedings on the merits are suspended (Arti-
+cle 79, paragraph 5, of the Rules of Court of 14 April 1978 as amended
+on 1 February 2001). The Court may decide a jurisdictional question but
+not a question on the merits.
+
+   3. Despite the importance of the distinction between questions of
+treaty interpretation that determine the scope of the Court’s jurisdiction
+ratione materiae and those that instead are part of the merits, I am aware
+of no single phrase that neatly describes the boundary between the two.
+The distinction is drawn by the Court, informed by the positions of the
+parties, based on the particulars of each case.
+
+   4. If the Court ﬁnds that a preliminary objection is premised on a
+question of treaty interpretation that is part of the merits, it must reject
+the objection, leaving the question to be decided on the merits.
+   5. If, on the other hand, the Court ﬁnds that a preliminary objection
+presents a question of its jurisdiction ratione materiae, it has the options
+of rejecting the objection, upholding it, or deferring the question of juris-
+diction to be considered during the merits phase, on the basis that the
+objection does not possess, in the circumstances of the case, an exclu-
+sively preliminary character (Article 79, paragraph 9, of the Rules of
+Court of 14 April 1978 as amended on 1 February 2001). Parties often
+invoke this third option as an intermediate fall back to their primary
+positions on a preliminary objection. However, for the reasons set out by
+two Members of the Court in a recent separate opinion, the Court should
+normally uphold or reject a preliminary objection and should only choose
+this third option when there are clear reasons to do so. (See Certain Ira-
+
+  6. The Court has used various formulations to frame the test that it
+follows in order to decide whether to uphold or reject an objection to its
+jurisdiction ratione materiae. In 1996, when presented with the question
+whether a bilateral treaty gave the Court jurisdiction to decide the appli-
+cant’s claims, the Court stated that it
+      “cannot limit itself to noting that one of the Parties maintains that . . .
+      a dispute exists, and the other denies it. It must ascertain whether the
+      violations of the Treaty . . . pleaded by [the Applicant] do or do not
+      fall within the provisions of the Treaty and whether, as a consequence,
+      the dispute is one which the Court has jurisdiction ratione materiae
+      to entertain” (Oil Platforms (Islamic Republic of Iran v. United
+      States of America), Preliminary Objection, Judgment, I.C.J.
+      Reports 1996 (II), p. 810, para. 16; emphasis added).
+  7. The Court recalled this formulation in Immunities and Criminal
+Proceedings (Equatorial Guinea v. France), Preliminary Objections,
+Judgment, I.C.J. Reports 2018 (I), p. 308, para. 46, in which it stated that it
+      “must ascertain whether the violations [alleged] . . . do or do not fall
+      within the provisions of the Treaty and whether, as a consequence,
+      the dispute is one which the Court has jurisdiction ratione materiae
+      to entertain . . . (Oil Platforms (Islamic Republic of Iran v. United States
+      of America), Preliminary Objection, Judgment, I.C.J. Reports
+      1996 (II), p. 810, para. 16)”.
+
+   9. The Court’s most recent statement of the test that it uses to deter-
+mine its jurisdiction ratione materiae appears in Certain Iranian Assets
+(Islamic Republic of Iran v. United States of America), Preliminary Objec-
+tions, Judgment, I.C.J. Reports 2019, p. 23, para. 36, where the Court
+stated that it
+      “must ascertain whether the acts of which [the Applicant] complains
+      fall within the provisions of the Treaty . . . and whether, as a conse-
+
+
+653       application of the icsft and cerd (decl. donoghue)
+
+      quence, the dispute is one which the Court has jurisdiction ratione
+      materiae to entertain . . . (Oil Platforms (Islamic Republic of Iran v.
+      United States of America), Preliminary Objection, Judgment,
+      I.C.J. Reports 1996 (II), pp. 809-810, para. 16)” (emphasis added).
+
+   10. I do not understand each of these various formulations to suggest
+inconsistencies in the criteria that the Court applies to decide on an objec-
+tion to its jurisdiction ratione materiae. Under the approach ﬁrst articu-
+lated in Oil Platforms, once the Court ﬁnds that there is a dispute between
+the parties, it must examine the acts of which the applicant complains (in
+other words, the facts that it alleges) in relation to the rights and obliga-
+tions contained in the treaty. The Court does not need to determine
+whether there is proof of the facts alleged by the applicant, or even
+whether the alleged facts are plausible, in order to decide a question of its
+jurisdiction ratione materiae. The weighing of evidence is left for the mer-
+its. On the other hand, the Court must form a view as to the scope of
+treaty provisions in relation to the acts alleged by the applicant in order
+to uphold or reject an objection to its jurisdiction ratione materiae. The
+way that it expresses its conclusions about the interpretation of the treaty
+will inevitably vary depending on the particulars of the case.
+
+
+   11. The recent Judgment in Immunities and Criminal Proceedings
+(Equatorial Guinea v. France) illustrates a situation in which the Court
+upheld one of the respondent’s preliminary objections to its jurisdiction
+ratione materiae. The Court reached this decision in relation to claims
+said to arise under the United Nations Convention against Transnational
+Organized Crime after analysing the parties’ respective interpretations of
+that convention (Immunities and Criminal Proceedings (Equatorial
+Guinea v. France), Preliminary Objections, Judgment, I.C.J. Reports
+2018 (I), p. 323, para. 102 and p. 328, paras. 117-118). In such a situa-
+tion, it can be said that the acts of which the applicant complains are not
+capable of falling within the provisions of the treaty, even assuming that
+the facts alleged by the applicant could be proven. The Court gives a
+deﬁnitive answer to a disputed question of treaty interpretation, which
+cannot be reopened in the case.
+
+   12. The situation is more complicated and more delicate when an
+objection to jurisdiction ratione materiae is rejected, such that the claims
+at issue proceed to the merits. This is the case today. The Court has
+rejected each of three grounds on which the Respondent objected to juris-
+diction ratione materiae. I oﬀer observations below on the two grounds of
+objection related to the International Convention for the Suppression of
+the Financing of Terrorism (hereinafter “the ICSFT”) — the required
+“mental elements” and the meaning of the phrase “any person”. I then
+address the objection to jurisdiction ratione materiae under the Interna-
+
+rejected the aspect of the ﬁrst preliminary objection based on the Respon-
+dent’s proposed interpretation of the provisions of Article 2, paragraph 1,
+of the ICSFT that address intention, knowledge and purpose (which the
+Court describes as “mental elements”). It has decided that the Parties’
+diﬀering interpretations of these aspects of Article 2, paragraph 1, are not
+relevant to the Court’s jurisdiction ratione materiae but are matters to be
+addressed as part of the merits of the case. Such issues have a character
+similar to the interpretation of the elements of intent that are necessary to
+a ﬁnding of genocide under the Convention on the Prevention and Pun-
+ishment of the Crime of Genocide, which the Court addressed as an
+aspect of the merits, not as a question of jurisdiction ratione materiae
+(Application of the Convention on the Prevention and Punishment of the
+Crime of Genocide (Bosnia and Herzegovina v. Serbia and Montenegro),
+Judgment, I.C.J. Reports 2007 (I), p. 121, paras. 186-187 ; Application of
+the Convention on the Prevention and Punishment of the Crime of Genocide
+(Croatia v. Serbia), Judgment, I.C.J. Reports 2015 (I), p. 62, para. 132).
+Today’s Judgment on preliminary objections does not set out the Court’s
+interpretation of the “mental elements” provisions of Article 2, para-
+graph 1.
+
+  14. The Court has also rejected the aspect of the ﬁrst preliminary
+objection that is based on the Respondent’s interpretation of the phrase
+“any person” in Article 2, paragraph 1, of the ICSFT.
+
+   15. In the Respondent’s view, the phrase “any person” must be inter-
+preted to exclude State oﬃcials. On this reading of the ICSFT, alleged
+violations of the ICSFT predicated on the alleged ﬁnancing by State oﬃ-
+cials would be excluded from the Court’s jurisdiction ratione materiae.
+
+   16. The Applicant maintains that the interpretation of this phrase is a
+matter for the merits. Even if the Respondent’s objection concerns juris-
+diction, the Applicant argues that the objection lacks an exclusively pre-
+liminary character and, in any event, that the Respondent’s interpretation
+of “any person” is incorrect. According to the Applicant, the phrase “any
+person” encompasses anyone, whether private individuals or State oﬃ-
+cials.
+
+   17. The Court has properly treated the interpretation of the phrase
+“any person” as a question that informs the scope of its jurisdiction rati-
+one materiae, not as a question to be decided on the merits. Its decision as
+to this aspect of the Respondent’s ﬁrst preliminary objection has enor-
+mous signiﬁcance for the scope of the case that proceeds to the merits.
+Much of the conduct that the Applicant characterizes as the ﬁnancing of
+terrorism appears to have been undertaken by individuals who (according
+
+
+655     application of the icsft and cerd (decl. donoghue)
+
+to the Applicant) were oﬃcials of the respondent State. Had the Court
+upheld the Respondent’s ﬁrst objection to jurisdiction on the basis of the
+Respondent’s interpretation of the phrase “any person”, a much more
+limited case would have advanced to the merits. The interpretation of the
+phrase “any person” is purely a question of law. It has been fully briefed
+by the Parties. There is no basis to conclude that the jurisdictional objec-
+tion lacks an exclusively preliminary character. It is therefore appropriate
+for the Court to decide today whether to uphold or reject this element of
+the Respondent’s preliminary objections.
+
+   18. I agree with the Court’s decision today that the term “any person”,
+as used in Article 2, paragraph 1, of the ICSFT, does not exclude State
+oﬃcials.
+   19. As the Respondent stresses, the ICSFT contains no prohibition on
+State ﬁnancing of terrorism. However, a State can only act through indi-
+viduals. If oﬃcials whose conduct is attributable to a State fall within the
+scope of the phrase “any person”, a State party has an obligation to pun-
+ish and to prevent certain conduct in which its own oﬃcials engage in the
+course of their duties. It follows that, even though negotiating States
+refrained from including a prohibition on State ﬁnancing of terrorism in
+the Convention, they nonetheless adopted a text that has substantively
+similar consequences for States parties to the ICSFT. As the Respondent
+points out, this is an odd result.
+
+
+
+   20. Nonetheless, the phrase “any person”, in its ordinary meaning,
+admits of no limitation. The Respondent asks the Court to imply an
+exception that cannot be found in the text. When the plain language of a
+treaty provision is unambiguous, as is the case here, an exception to that
+provision could only be implied if the rules of treaty interpretation
+pointed convincingly to such an exception. Having studied the detailed
+presentations made by the Respondent on the interpretation of “any per-
+son”, I see no basis to imply an exception that is at odds with the ordi-
+nary meaning of the phrase.
+
+   21. In today’s Judgment, the Court rejects the Respondent’s interpre-
+tation of the phrase “any person” and accepts the interpretation advanced
+by the Applicant. It has decided for purposes of the present case this
+question of treaty interpretation.
+   22. The Court has also rejected the Respondent’s objection to the
+Court’s jurisdiction ratione materiae under CERD. However, the basis
+for the Court’s decision as to CERD diﬀers from the basis on which the
+Court rejected the Respondent’s “any person” objection in relation to
+the ICSFT. This diﬀerence in reasoning leads to diﬀerent implications for
+future proceedings in this case.
+
+   23. The Application presents wide-ranging claims that are said to arise
+under CERD, as summarized in the Judgment (paras. 88-90). In the main,
+the Applicant does not complain of de jure discrimination against
+protected groups. It instead alleges “discrimination manifested through
+the disparate impact or eﬀect of facially neutral laws or regulations”
+(Memorial of Ukraine, para. 566), contending that the Respondent has
+implemented measures “the purpose or eﬀect of which is to generate
+racial discrimination” (ibid., para. 587). The Court has correctly observed
+that the rights and obligations under CERD that are invoked
+by the Applicant are broadly formulated and that the list of rights in
+Article 5 is not exhaustive. The Court cites the breadth of these CERD
+provisions, together with the need to assess evidence regarding the pur-
+pose and eﬀect of the measures about which the Applicant complains,
+as reasons to reject the Respondent’s objection to jurisdiction ratione
+materiae under CERD (Judgment, paras. 94-96). It concludes that the
+measures of which the Applicant complains are “capable of having
+an adverse eﬀect on the enjoyment of certain rights protected under
+CERD” (ibid., para. 96).
+   24. I agree with the Court that these aspects of the Applicant’s pleaded
+case contribute to the reasons why the preliminary objection as to juris-
+diction ratione materiae under CERD should be rejected. An additional
+consideration is the manner in which the Respondent chose to frame its
+objection in relation to CERD. The Respondent maintains as a general
+matter that the Applicant invokes rights and obligations that are not
+rights and obligations under CERD (Preliminary Objections submitted
+by the Russian Federation, Chap. VIII, Sect. II). It states that “a number
+of rights invoked by Ukraine” are not protected by CERD (ibid.,
+para. 327). For example, the Respondent addresses Article 5, para-
+graph (e) (v), of CERD, which refers to the “right to education and
+training”. The Respondent states that this provision “does not include, as
+Ukraine alleges, an absolute right to education ‘in native language’”.
+According to the Respondent, the main goal of this provision is instead
+to ensure the right regardless of ethnic origin to have access to a national
+educational system without discrimination (ibid., para. 329). However,
+the Respondent does not review the particular education-related mea-
+sures of which the Applicant complains in order to support the proposi-
+tion that those acts do not fall within the scope of the provision, as
+interpreted by the Respondent.
+   25. When the education-related measures of which the Applicant com-
+plains are examined in light of the Parties’ respective observations about
+the scope of Article 5, paragraph (e) (v), it can be said that those mea-
+sures are “capable” of falling within the provisions of the treaty (or, in
+the words of the Court today, to be “capable of having an adverse eﬀect
+on the enjoyment of certain rights protected under CERD”) (Judgment,
+para. 96). I reach a similar conclusion in respect of the other measures
+about which the Applicant complains, taking into account the way that
+each Party interprets the relevant CERD provisions. Accordingly, I con-
+
+  26. Today’s Judgment does not set out the Court’s interpretation of
+the provisions of CERD on which the Applicant relies. The rejection of
+the preliminary objection in relation to CERD does not mean that the
+Court has accepted the interpretations of that treaty advanced by the
+Applicant. The question whether the acts of which the Applicant com-
+plains give rise to violations of CERD will depend on interpretations of
+CERD to be made when the Court addresses the merits, as well as the
+Court’s conclusions on the evidence.
+
+  27. Having considered the Respondent’s objection to jurisdiction rati-
+one materiae in relation to CERD, the Court has rejected it. This Judg-
+ment settles for purposes of this case the question of the Court’s
+jurisdiction ratione materiae under CERD.

@@ -1,0 +1,3367 @@
+Special Role Played by Equity in this Case
+
+5. The Court’s Judgment reveals the use of equity in several ways, and
+at various stages in the judgmental process.
+
+! R. Y. Jennings, “Equity and Equitable Principles”, in Annuaire suisse de droit
+international, Vol. XLII (1986), p. 38. See, also, the same author in “The Principles
+Governing Marine Boundaries”, in Staat und Vôlkerrechtsordnung, Festschrift für
+Karl Doehring, 1989, p. 408.
+
+2 See Mark W. Janis, “Equity in International Law”, Encyclopedia of Public Inter-
+national Law, Vol. 7, pp. 76-77 :
+
+“The application of equitable principles in these maritime delimitation cases has
+evoked a debate regarding the role of equity which is rather similar to that which
+accompanied earlier manifestations of equity practice. Some observers — largely
+in the positivist tradition — have criticized the courts for going beyond their
+powers.”
+
+3 Judge Jennings refers, in connection with maritime delimitation, to “some deep
+problems — one might almost add a malaise — affecting that part of international law
+today” (“The Principles Governing Marine Boundaries”, op. cit., p. 398). See, also, the
+criticisms of the use of equity assembled by Judge Bedjaoui in “L’‘énigme’ des
+“principes équitables’ dans le droit des délimitations maritimes”, in Revista Española de
+Derecho Internacional, Vol. XLII (1990), p. 376.
+
+
+
+6. It describes the equidistance-special circumstances rule of the
+1958 Convention as expressing a general norm based on equitable prin-
+ciples (para. 46) and examines the “equitable principles-relevant circum-
+stances” rule relating to delimitation of a continental shelf, fishery zone or
+all-purpose single boundary (para. 56). It also examines the effect of the
+customary rule which requires a delimitation based on equitable prin-
+ciples (paras. 46 and 71).
+
+7. The Court gives its attention to the application of equitable pro-
+cedures (para. 92), the effecting of an equitable division (para. 64), the
+need to arrive at an equitable result (paras. 54 and 90), the ensuring of an
+equitable solution (para. 65) and the process of evolving such a solution
+(para. 63). It notes the prima facie equitable character of the reasons
+underlying the equidistance method and the need for an equitable delimi-
+tation to take into account the disparity in coastal lengths (para. 65). It
+stresses that a result which is equitable in itself is the objective of every
+maritime delimitation based on law (para. 70), and refers to the equity of
+the delimitation line (para. 62).
+
+8. The Judgment considers whether a given line is “equitable in its
+result” (para. 62), and it describes the line drawn by Denmark 200 nautical
+miles from the baselines of Eastern Greenland as “inequitable in its
+effects” (para. 87). It takes note of Norway’s argument that proportional-
+ity is the test of the equitableness of a result arrived at by other means
+(para. 63) and Denmark’s reference to “a method appropriate for an equi-
+table delimitation line” (para. 62). It considers the manifestly inequitable
+results following from the application of the median line (para. 68).
+
+9. Specific reference is made to the measure of discretion conferred on
+the Court by the need to arrive at an equitable result (para. 90). Recogniz-
+ing the need to make proper provision for equitable access to fishery
+resources (paras. 75, 91 and 92), the Court makes a division according
+to which it considers that “the requirements of equity would be met”
+(para. 92).
+
+10. Equity has thus played a role of overwhelming importance in the
+Court’s decision, involving the application of equitable principles, equi-
+table procedures and equitable methods. The decision reveals an inten-
+sive effort directed towards achieving an equitable solution and at testing
+the equitable nature of that solution. It draws in equity to address the
+problem in hand through a multitude of routes — treaty, customary inter-
+national law and judicial decisions to name a few. The methods used
+involve both the a priori use of equity to work forwards towards a possible
+result and the a posteriori use of equity to test a result thus reached.
+
+11. Since this case has drawn both upon the Court’s general equitable
+jurisprudence and on its particular invocations in relation to the law of the
+sea, this opinion will deal with both these aspects. The special invocations
+of equity which give it redoubled emphasis in the law of the sea tend some-
+
+
+
+times to overshadow the applicability of general principles of equity,
+which still play a vital part in this field. To minimize the importance of
+general equitable considerations, especially at this incipient stage of the
+developing law of the sea, may cramp the evolution of the latter in what is
+perhaps its most formative phase. This opinion consequently devotes
+some attention to an examination of the ways in which equity, both in its
+general sense and in its special application to the law of the sea, can contri-
+bute to the solution of the varied problems encountered in this case.
+
+PART A. GENERAL EQUITABLE JURISDICTION OF THE COURT
+Conceptual Problems Associated with the Use of Equity
+
+12. The issue whether equity should play a role in maritime delimita-
+tion is one which has been questioned by eminent authority, both judicial
+and academic, and must be seriously addressed if reliance is to be placed
+upon it. This is part of a larger question as to whether, indeed, although
+equity is clearly a part of public international law, its use is really neces-
+sary or useful, having regard to its uncertainties, its difficulties of defini-
+tion and its lack of methodologies for the precise quantification of its
+findings.
+
+13. Telders, for example, has expressed the view that, apart from the
+application of the principle of good faith, equity has no special legal sig-
+nificance !l. Ripert, in his lectures before the Hague Academy in 1933,
+went even further to state that equity is a principle, but a principle of
+morality and not of law2.
+
+14. Indeed, judicial dicta of some judges of this Court have given
+strong expression to such a view. Vice-President Koretsky, for example,
+in the North Sea Continental Shelf cases, affirmed that equity, being of
+“a non-juridical, ethical character”, ought not to be resorted to by this
+Court:
+
+“I feel that to introduce so vague a notion into the jurisprudence of
+the International Court may open the door to making subjective and
+therefore at times arbitrary evaluations, instead of following the
+guidance of established general principles and rules of international
+law in the settlement of disputes submitted to the Court.”
+(I.C.J. Reports 1969, p. 166, dissenting opinion.)
+
+! “Opzet van een boek over het internationale recht” (“Outline of a Book on Interna-
+tional Law”) in Verzamelde Geschriften (Collected Papers), The Hague, 1948, p. 292, at
+p. 338.
+
+2 Georges Ripert, “Les règles du droit civil applicables aux rapports internationaux”,
+44 Recueil des cours de l’Académie de droit international (1933-IT), p. 575 — “L’équité est
+principe, mais principe de morale et non principe du droit.”
+
+
+
+Judge Tanaka put it even more strongly in his observation in the same case
+that, “Reference to the equitable principle is nothing else but begging the
+question.” (L.C.J. Reports 1969, p. 196, dissenting opinion.) Other criti-
+cisms! describe equity as a doctrine “déroutée et déroutante”, “a riddle
+wrapped in a mystery inside an enigma”, as paradoxical, circular, fuzzy
+and lacking precise definition.
+
+15. These conceptual criticisms of equity may be addressed at three
+levels — at the level of law in general, at the level of international law and
+at the level of the law of the sea.
+
+16. At its most general level, equity has been seen as the source of that
+dynamism which is necessary for legal development. Thus, in the words of
+the eminent comparativist Puig Brutau, “equity is one of the names under
+which is concealed the creative force which animates the life of the law” 2.
+
+17. At the level of international law, that creativity is well illustrated
+when one considers that equity has been the source that has given interna-
+tional law the concept of international mandates and trusts, of good faith,
+of pacta sunt servanda, of jus cogens, of unjust enrichment, of rebus sic
+stantibus and of abuse of rights. No doubt, the future holds for it a
+similarly vital creative role.
+
+18. Viewed more specifically, in the context of the law of the sea, its
+potential for developing that incipient branch of international law is so
+far-reaching as to have attracted the comment that it is
+
+“a juridical arsenal from which the judge draws the tools which
+enable him to identify, evaluate, understand and give effect to cir-
+cumstances recognized as juridically relevant in a particular case”*
+(translation).
+
+19. What follows is an analysis of these tools by which equity helps to
+identify, evaluate, understand and give effect to the circumstances in a
+particular case. Thereafter, this opinion will address the question whether
+the uncertainties of equity render it a practically unsuitable tool for the
+determination of cases such as this.
+
+Issues Arising from the Court’s Reliance on Equity
+
+20. This analysis centres around the following aspects of the reliance
+on equity in the Judgment:
+
+! As assembled by Judge Bedjaoui in “L’‘énigme’ des ‘principes équitables’ dans le
+droit des délimitations maritimes”, op. cit, p. 376.
+
+2 “Juridical Evolution and Equity”, in Essays in Jurisprudence in Honor of
+Roscoe Pound, 1962, pp. 82, 84.
+
+3 “les principes équitables se présentent en définitive comme un arsenal juridique
+dans lequel le juge puise les outils permettant d’identifier, d’évaluer, de com-
+prendre et de satisfaire des circonstances reconnues juridiquement pertinentes
+dans une espèce déterminée.” (Bedjaoui, op. cit, p. 384.)
+
+
+
+— The Judgment of the Court, in common with most others in the field of
+maritime delimitation, resorts to equity not merely for principles but
+also for procedures and methods, and for the testing of tentative solu-
+tions reached. The one word “equity” covers all these applications,
+some of them quite distinct from others.
+
+— Theterm “equity” as used by the Court, and in international law and in
+maritime delimitation generally, has a distinct meaning from equity as
+used in the sense of a corrective system standing apart from the law.
+Whenever the term equity is used in the Judgment, the term is not used
+in the latter sense, and this distinction must be kept in mind for an
+appreciation of the role of equity in this case.
+
+— There has been no resort to equity ex aequo et bono. Nearly every deci-
+sion applying equity to maritime delimitation has stressed that the spe-
+cies of equity employed is not equity ex aequo et bono. This necessitates
+an examination of the distinctions between that concept and the con-
+cept of equity actually employed. The various categories of equity and
+their relevance to this case call for examination in this context.
+
+— The Judgment draws in equity through treaties, customary interna-
+tional law and judicial decisions, as well as broader concepts of equity
+which flow in from many sources. An examination of these varied
+sources will clarify the several ways in which the problem before the
+Court has necessarily attracted its operation.
+
+— The Judgment uses equity a priori to work towards a result, and
+a posteriori to check a result thus reached. This raises important
+juristicissues.
+
+— There are several purposes or ends for which equity has been used.
+These are varied and some of them are pertinent to this Judgment in
+particular and to maritime delimitation in general. Not all the possible
+purposes and ends of equity are appropriate to maritime delimitation.
+
+— Equity has many methods of operation, more than one of which has
+been used in the Judgment. These may not all be spelt out specifically,
+but one or more of them are in constant use in every exercise of that
+discretion, as indeed they are in this case. The ambit of judicial discre-
+tion — a matter specifically referred to in the Judgment — has been
+the subject of some controversy. In subscribing to the decision of the
+Court, I have accepted the legitimacy of such a use of judicial discre-
+tion and feel impelled to explain why I consider such use of discretion
+legitimate.
+
+— The process of equitable decision-making, as in a boundary delimita-
+tion, is not a single process but can be broken up into its constituent
+stages. The decision in this case has proceeded through those stages as
+
+
+
+will be pointed out. An appreciation of those separate stages is an aid
+to understanding the actual operation of equity in this case.
+
+These aspects will be discussed in the ensuing paragraphs in the order in
+which they have been set out.
+
+ANALYSIS OF EQUITY WITH REFERENCE TO MARITIME DELIMITATION
+
+I. The Application of Equity
+
+21. The application of equity to a given case can comprise the applica-
+tion of an equitable principle or principles, the adoption of an equitable
+procedure or procedures, the use of an equitable method or the securing
+of an equitable result. All of these aspects are relevant to the determina-
+tion of the present case.
+
+(a) Equitable principles
+
+22. Equitable principles are in this discussion taken to include con-
+cepts, black-letter rules and standards or principles in the broader sense,
+as there is no need in this discussion to refine this category further. The
+important distinction drawn by jurists! between black-letter rules and
+standards or principles is hence not used for the purpose of this classifica-
+tion, and the term “equitable principles” is to be read as covering all of
+these.
+
+23. The Chamber of this Court, in the case concerning Delimitation of
+the Maritime Boundary in the Gulf of Maine Area, had in mind a classifica-
+tion of this broad nature when it observed that there is a distinction:
+
+“between what are principles and rules of international law govern-
+ing the matter and what could be better described as the various equi-
+table criteria and practical methods that may be used to ensure in
+concreto that a particular situation is dealt with in accordance with
+the principles and rules in question” (I.C.J. Reports 1984, p. 290,
+para. 80).
+
+The ensuing analysis proceeds upon the broad division between concepts
+and principles without making another specific category of “criteria”.
+24. General equitable principles relevant to this case would include
+equitable principles applicable to the assessment of representations of
+State policy regarding maritime delimitation which other States have
+relied upon to their prejudice; equitable principles of interpretation in
+relation to relevant treaties; and principles of fairness in considering
+
+! See, for example, R. Dworkin, Taking Rights Seriously, 1977, p. 46.
+
+
+
+whether large sections of the waters to be demarcated are unusable in
+consequence of their being frozen over for considerable periods.
+
+(b) Equitable procedures
+
+25. As with most areas of law, equity has both a substantive and an
+adjectival aspect. The application of equitable procedures of enquiry is
+necessarily an important part of equity. Procedural equity in its broadest
+form is the equity which ensures that in the process of enquiry and investi-
+gation leading to a decision, the parties enjoy the opportunity of a full and
+fair presentation of their respective cases to the court or tribunal. The pro-
+cedural aspect of equity has an ancient origin and is rooted in popular
+concepts of fairness !.
+
+26. The equitable concern with procedural fairness gives rise to the
+principle involved in this case, that all relevant circumstances will be con-
+sidered in determining how the maritime space in contention is to be deli-
+mited between the Parties, unless this consideration is prevented by a rule
+of law. The Court in its Judgment has therefore given its consideration to a
+wide range of factors — State practice, the conduct of the Parties, propor-
+tionality of coastlines, population, economic factors, the equidistance
+principle and the unusability of part of the maritime space in contention
+owing to drift ice. Whatever may be the eventual conclusion regarding the
+weight to be given to each factor, Parties are entitled to a consideration of
+such factors by the Court and in the absence of a legal principle rendering
+a particular factor irrelevant, the impact of that factor upon the case in
+hand needs to be assessed.
+
+27. This is especially so having regard to the uniqueness of each par-
+ticular case and the fact that its special circumstances may throw up for
+consideration some fact or circumstance never considered in the relevant
+jurisprudence up to that time. The fact that a considerable portion of the
+relevant area in this case is ice-bound for the greater part of the year is
+such a factor. As this Court pointed out in the Gulf of Maine case:
+
+“Although the practice is still rather sparse, . . . it too is there to
+demonstrate that each specific case is, in the final analysis, different
+
+! For example, the audi alteram partem rule has from ancient times been described
+even in popular literature :
+
+“Qui statuit aliquid parte inaudita altera,
+Aequum licet statuerit, haud aequus fuit.”
+
+(Seneca, Medea 199-200, cited in a series of later common law cases such as Re Hammer-
+smith Rent-Charge, 4 Ex 87, at 97; Smith v. Rex, 3 App. Cas. 614 at 624. See also Broom,
+Legal Maxims, 10th ed., 1939, p. 66.)
+
+
+
+from all the others, that it is monotypic and that, more often than not,
+the most appropriate criteria, and the method or combination of
+methods most likely to yield a result consonant with what the law
+indicates, can only be determined in relation to each particular case
+and its specific characteristics.” (1.C.J. Reports 1984, p. 290, para. 81.)
+
+Thus, there is “no legal limit to the considerations which States may take
+account of for the purpose of making sure that they apply equitable pro-
+cedures” (1.C.J. Reports 1969, p. 50).
+
+(c) Equitable methods
+
+28. Among the practical methods listed by the Chamber in the Gulf of
+Maine case, as distinct from criteria and rules or principles which should
+be used for achieving an equitable result, are the drawing of an equidis-
+tance or median line, the division of the area in various segments using
+different methods in respect of each sector and the method of drawing a
+line perpendicular to the coast or to the general direction of the coast!.
+
+29. Many other suggestions appear in the literature, which could be
+described as methods stemming from equitable considerations”. As
+the jurisprudence on maritime delimitation develops, a refinement of
+methods appropriate to particular types of dispute may well emerge3.
+
+30. Inthe present case, the Court has used as its method the provisional
+adoption of the median line as its starting point and, having regard to its
+evaluation of the various considerations before it, moved that line east-
+wards, carefully dividing the relevant space into segments which again
+
+1 T.C.J. Reports 1984, p. 313, para. 159.
+2 See, for example, the five separate tasks devolving on the Court, as analysed by
+J. I. Charney, of which the last three may be classified as methods :
+
+“(3) To the extent possible, each piece of information identified in the prior
+paragraph should be used to construct a line or range of lines that best suits the
+function to which it relates.
+
+(4) These alternative lines and previously identified factors should be studied
+and weighed according to their importance. In a process that might even approach
+vector analysis, a line that best reflects all the relevant factors in light of their
+importance to the zone should be sought.
+
+(5) A cartographical method should be selected to describe the line accurately
+and reliably.” (J. I. Charney, “Ocean Boundaries between Nations: A Theory for
+Progress”, 78 American Journal of International Law (1984), p. 597.)
+
+3 One could, if so disposed, draw a distinction between a merely geometrical norm
+and a juridical norm as Judge Tanaka did in his dissenting opinion in the North Sea
+Continental Shelf cases (I.C.J. Reports 1969, p. 183). However, if the geometrical norm
+stems from equitable considerations, it is for the purposes of this discussion classed as
+an equitable method. Judge Tanaka was referring to the distinction between the rule of
+equidistance as a mere technique and as a norm of law.
+
+
+
+have been differently divided having regard to the considerations
+involved, such as the seasonal movement of fish and equitable access to
+fishery resources (para. 91). These methods are all grounded in equitable
+considerations and are, for the purposes of the present discussion, treated
+as equitable methods.
+
+(d) Equitable results
+
+31. The first three aspects mentioned are only the means towards the
+last, which, as the object and test of every determination according to
+equitable principles, calls for considered attention. As this Court
+observed in the Continental Shelf (Libyan Arab Jamahiriva/Malta) case:
+
+“It is however the goal — the equitable result — and not the
+means used to achieve it, that must be the primary element . . .”
+(1.C.J. Reports 1985, pp. 38-39, para. 45.)
+
+32. The Court has at numerous points in its Judgment referred to the
+importance of achieving an equitable result. Some of these references are
+detailed in paragraphs 7 and 8 of this opinion. In paragraph 54, the Judg-
+ment states that “The aim in each and every situation must be to achieve
+‘an equitable result’” and in paragraph 56 it concludes that:
+
+“there is inevitably a tendency towards assimilation between the
+special circumstances of Article 6 of the 1958 Convention and the
+relevant circumstances under customary law, and this if only
+because they both are intended to enable the achievement of an
+equitable result”.
+
+33. Articles 74 (1) and 83 (1) of the 1982 Convention also highlight
+the importance of achieving an equitable solution. The Judgment, after
+referring to the “correction” of a median line delimitation in the Gulf of
+Maine case!, similarly rejects the application of the median line in this
+case as leading to “manifestly inequitable results” (para. 68) in view of
+the great disparity of the lengths of coasts.
+
+34. This concern with equitable results, despite the application of equi-
+table principles, procedures and methods, is well founded in the Court’s
+jurisprudence. The object of equitable principles is to obtain an equitable
+result. However equitable each principle may appear to be when consid-
+ered in isolation, it may not necessarily produce an equitable result, as is
+demonstrated by the application of the equidistance principle to two
+opposite coastlines which are vastly different in length. As this Court has
+observed, “the term ‘equitable principles’ cannot be interpreted in the
+
+1 I.C.J. Reports 1984, p. 336, paras. 221-222.
+
+
+
+abstract; it refers back to the principles and rules which may be appropri-
+ate in order to achieve an equitable result” (Continental Shelf (Tunisia/
+Libyan Arab Jamahiriya), 1.C.J. Reports 1982, p. 59, para. 70; emphasis
+added).
+
+35. Even though, in the North Sea Continental Shelf cases, the Court
+appeared to stress the methods used, it also emphasized the importance of
+an equitable result, for, while it said that resort could be had “to various
+principles or methods, as may be appropriate, or a combination of
+them”, this was subject to the proviso that “by the application of equitable
+principles, a reasonable result is arrived at” (I.C.J. Reports 1969, p. 49,
+para. 90). So, also, the Court said: “it is necessary to seek not one
+method of delimitation but one goal” (ibid., p. 50, para. 92).
+
+36. This aspect was stressed also by this Court in the case concerning
+the Continental Shelf (Tunisia/ Libyan Arab Jamahiriya):
+
+“The result of the application of equitable principles must be equi-
+table. This terminology, which is generally used, is not entirely satis-
+factory because it employs the term equitable to characterize both the
+result to be achieved and the means to be applied to reach this result.
+It is, however, the result which is predominant; the principles are
+subordinate to the goal.” (1.C.J. Reports 1982, p. 59, para. 70.)
+
+37. The difference between the use of an equitable method and the
+achievement of an equitable result was well brought out in the joint sepa-
+rate opinion of Judges Ruda, Bedjaoui and Jiménez de Aréchaga in the
+Continental Shelf (Libyan Arab Jamahiriya/Malta) case :
+
+“To assert, as Malta has done, that the equidistance method
+should be applied, even if it produces a delimitation which is grossly
+disproportionate to the length of the relevant coasts, is an attempt to
+subordinate the equitable result to be achieved, to the method
+adopted. This is precisely the opposite of the fundamental rule of
+delimitation, namely, that the method to be adopted should be justi-
+fied by the equity of the result.” (L.C.J. Reports 1985, pp. 82-83,
+para. 20.)
+
+38. The Gulf of Maine case drew a clear distinction between the appli-
+cation of equitable criteria and the reaching of an equitable result. The
+process by which the Chamber determined the boundary line has been
+analysed as consisting of :
+
+(1) the delimitation of the boundary line through the use of equitable cri-
+teria — primarily the use of geographical configurations to set out the
+affected area and the subsequent equal division of that area;
+
+(2) the adjustment of that line, by the consideration of relevant circum-
+
+stances including geographic “anomalies” and the proportionality of
+maritime area to coastal frontage;
+
+
+
+(3) the checking of the equitableness of the result so reached, by examin-
+ing other factors such as economic impact and resource use patterns !.
+
+39. The Judgment was specially useful in separating some of the differ-
+ent elements included in the equitable process and showing how more
+than one element could be used in combination?.
+
+40. It is interesting also to note from the opinion of Judge Oda in
+Tunisia/ Libya that even as early as the 1958 Convention
+
+“the idea of an equitable solution, although not specifically men-
+tioned in Article 6 of the 1958 Convention, lay at the basis of that
+provision . . .” (LC.J. Reports 1982, p. 246, para. 144; emphasis
+added).
+
+It is to be noted also that the Law of the Sea Convention uses the term
+“equitable solution” thus turning the spotlight on the equity of the result
+(see Arts. 74 and 83).
+
+41. Having regard to the overall importance of the equitable result,
+it is not without interest that there is support in legal philosophy for
+the method of testing a solution by taking a view at its results. This addi-
+tional juristic basis for checking a result for its equity or inequity comes
+from the “sense of injustice” which has an ancient history in the
+philosophy of jurisprudence. This is briefly considered in Section V, para-
+graphs 104-109, below.
+
+42. The foregoing discussion shows that all four aspects of equity dealt
+with in this section come into play in this case, and an approach to the
+application of equity in this fashion helps to focus attention upon the par-
+ticular aspect under examination.
+
+I. Inapplicability of Equity as a System Separate from Law
+
+43. It scarcely needs to be mentioned that the term equity, as used in the
+Court’s Judgment or in the context of international law, is quite distinct
+from its use to designate separate systems of judicial administration such
+as existed in some legal systems for the purpose of correcting insufficien-
+cies and rigidities of the law.
+
+44. The equity of the common law system and the aequitas of the
+Roman law, exercised by the Chancellor and the praetor respectively,
+were the systems par excellence which give the word equity such overtones
+of interference with the law. The term equity as used in the law of the sea
+naturally does not absorb such associated meanings.
+
+! See T. L. McDorman, P. M. Saunders and D. L. VanderZwaag, “The Gulf of Maine
+Boundary: Dropping Anchor or Setting a Course ?”, 9 Marine Policy (1985), p. 100.
+Ibid.
+
+
+
+45. In view of the substantial influence exercised by these systems on
+the development of international law, the heavy overtones of equity’s cor-
+rective influence over law tend to spill over into international law, necessi-
+tating a constant vigilance against this tendency. This is especially
+important, in relation to maritime delimitation, where there is a constant
+questioning as to whether the Court, in using equity, is overstepping its
+authority. As this Court observed in Tunisia Libya:
+
+“In the course of the history of legal systems the term ‘equity’ has
+been used to define various legal concepts. It was often contrasted
+with the rigid rules of positive law, the severity of which had to be
+mitigated in order to do justice. In general, this contrast has no
+parallel in the development of international law; the legal con-
+cept of equity is a general principle directly applicable as law.”
+(I.C.J. Reports 1982, p. 60, para. 71.)
+
+46. In view of the importance of equity in these two systems, a brief
+note upon them ensues.
+
+(a) Equity in common law
+
+47. Inthe Norwegian Shipowners’ Claims case, the Permanent Court of
+Arbitration said:
+
+“The words ‘law and equity’ used in the special agreement of 1921
+can not be understood here in the traditional sense in which these
+words are used in Anglo-Saxon jurisprudence.
+
+The majority of international lawyers seem to agree that these
+words are to be understood to mean general principles of justice as
+distinguished from any particular system of jurisprudence of the
+municipal law of any State.” !
+
+48. Some of the principles of equity, as evolved by the English Court of
+Chancery, may, however, be relevant to a matter concerning the law of the
+sea, not because they are part of the English law of equity, but because
+those principles accord with the concepts of general equity as more widely
+understood. Such concepts might conceivably include such notions as
+that equity looks to the intent rather than to the form, or that a person must
+not act contrary to his own representations on the faith of which others
+have acted. Items of State conduct, for example, may attract general prin-
+ciples of equity such as these.
+
+(b) Equity in civil law
+
+49. The jus honorarium built up by the Roman praetor, through his
+praetorian edict, served the purpose, according to Papinian, of aiding,
+
+! Reports of International Arbitral Awards (RIAA), Vol. 1, 1922, p. 331.
+
+
+
+supplementing or correcting the jus civile! — a useful summary of three
+different functions served by Roman equity. Roman equity thus stood as a
+system separate from the jus civile, at any rate until Hadrian in A.D. 125
+froze the form of the edict, after which it ceased directly to be a source of
+new law. The corrective function of aequitas up to that time included
+action contra legem.
+
+50. Though equity continued to fertilize the Roman law thereafter, this
+was achieved largely through the work of the jurists acting through the
+interpretation and adaptation of the law rather than by standing in oppo-
+sition to it”.
+
+51. In view of the immense influence of the civil law upon international
+law, it bears repetition that the aequitas of the era of praetorian equity — a
+corrective equity standing separate from the law — is not an analogy for
+the equity of international law. The later tradition of the civil law, of law
+and equity integrating with each other to produce a harmonious whole,
+would be a truer analogy.
+
+III. The Categories of Equity
+
+52. As observed earlier, the Court in its Judgment has not used equity
+ex aequo et bono. Nor has it used absolute equity or equity contra legem.
+
+(a) Fquity ex aequo et bono
+
+53. The issue has frequently been raised, in the context of maritime
+delimitation, as to whether the Court is resorting to a concept of equity
+more liberal than that which it is entitled to administer. This issue has
+come indeed to acquire the appearance of a question mark hanging over
+the use of equity in such cases and has resulted in frequent disavowals, in
+the jurisprudence of maritime delimitation, of resort to equity ex aequo et
+bono-.
+
+54. The extent of the concern registered in this regard is indicated in
+juristic literature which specifically raises the question whether there is
+indeed a difference between the equity administered by the Court and
+equity ex aequo et bono. Judge Jennings alerts us to the attendant dangers
+of litigants obtaining a decision ex aequo et bono whether they wanted it or
+not, and observes:
+
+! “Adjuvandi, vel supplendi, vel corrigendi juris civilis” (D.1.1.7.1).
+
+2 The equitable work of the jurists was fruitful, and important doctrines such as sub-
+rogation, estoppel and constructive notice resulted from their efforts. See W. W. Cook,
+in Encyclopedia of the Social Sciences, ed. Seligman, 1931, Vol. 5, p. 584. Equity can do no
+less in international law.
+
+3 See I.C.J. Reports 1974, p. 33, para. 78, and p. 202, para. 69; I.C.J. Reports 1982,
+p. 60, para. 71, and p. 92, para. 133 A (1); I.C.J. Reports 1984, p. 278, para. 59, and p. 299,
+para. 112; /.C.J. Reports 1985, pp. 38-39, para. 45, and pp. 56-57.
+
+
+
+“At any rate, the very serious question arises of what exactly is the
+difference between a decision according to equitable principles and
+a decision ex aequo et bono?!
+
+The question raised is truly a very serious one, for if this is indeed the case,
+the Court is extending itself into an area which it can only reach by the
+consent of parties”. Such uncertainties necessitate a close examination of
+the ex aequo et bono provision in Article 38, paragraph 2, of the Statute of
+the Court.
+
+55. This phrase, which has its origins in the Roman law? is defined in
+the standard works of reference in terms that involve justice, fairness and
+conscience. Thus Black’s Law Dictionary (5th ed., 1979, p. 500) defines it
+as a “phrase derived from the civil law, meaning, in justice and fairness;
+according to what is just and good; according to equity and conscience”.
+It will be seen that equity ex aequo et bono is thus not confined within
+limitations of existing rules of law but extends more widely, leaving aside
+considerations of what the law may be, regarding the matter under refer-
+ence. It enters into the area of equity contra legem, as discussed below.
+
+56. Equity ex aequo et bono, in the context of the Court’s jurisprudence,
+is perhaps best approached through a perusal of the drafting history of the
+ex aequo et bono provision in the Statute of the Court.
+
+57. One could perhaps identify three stages in the travaux préparatoires
+leading to the adoption of Article 38 (2) of the Statute:
+
+(1) Earlier drafts of Article 38 of the Statute of the Permanent Court*
+did not contain a subsection dealing with decisions ex aequo et bono. The
+draft section read as follows:
+
+“Dans les limites de sa compétence, telle qu’elle est déterminée
+par l’article 34, la Cour applique en ordre successif :
+
+1. Les conventions internationales soit générales, soit spéciales,
+établissant des règles expressément reconnues par les Etats en litige ;
+
+2. La coutume internationale, attestation d’une pratique com-
+mune acceptée comme loi;
+
+! R. Y. Jennings, “The Principles Governing Marine Boundaries”, op. cit, p. 401.
+2 See Encyclopedia of Public International Law, op. cit, p. 77.
+3 The related expression bonum et aequum means “right and equitable, fair(ness) and
+just(ice)” (Adolf Berger, Encyclopaedic Dictionary of Roman Law, 1952, p. 377) and
+* appears, in Celsus’ celebrated definition of jus as “ars aequi et boni”, cited at the very
+commencement of Justinian’s Digest (D.1.1.pr.). It appears, also, in the formula of
+actiones in aequum et bonum conceptae (Berger, ibid.).
+
+4 Draft Scheme for the Institution of the Permanent Court of International Justice
+
+Presented to the Council of the League of Nations by the Advisory Committee of
+Jurists, Art. 35 (corresponding to the later Article 38).
+
+
+
+3. Les principes généraux de droit reconnus par les nations civili-
+sées;
+
+4. Les décisions judiciaires et la doctrine des publicistes les plus
+qualifiés des différentes nations, comme moyens auxiliaires de déter-
+mination des règles de droit.” !
+
+(2) The discussions among the distinguished international jurists par-
+ticipating in the drafting Committee’s meeting of 1 December 19202 are of
+great interest. Mr. Fromageot (France) wished to widen the wording of the
+then Article 35 in order to enable a judgment of the Court to confirm an
+arrangement reached by the parties — a result which was not possible
+under the existing wording of the Article. In the course of the ensuing dis-.
+cussion, serious concerns were voiced about the effect of such an amend-
+ment. The Chairman (Mr. Hagerup) expressed the view that Mr. Froma-
+geot’sidea belonged rather to the sphere of arbitral jurisprudence and that
+its application would jeopardize the authority of a Court of Justice.
+Mr. Fernandes (Brazil) expressed a fear that the amendment would open
+the way to arbitrary decisions. Mr. Loder (the Netherlands) pointed out,
+however, that the Court would evidently not confirm proposals which
+were not well founded. During further discussion, Mr. Fromageot
+amended his proposal to add to Article 35 (3) the further words “the gen-
+eral principles of law and justice”. He explained that the effect of his
+amendment would be to enable the Court to state as the sole reason for its
+judgment that the award had seemed to it to be just. He explained further
+that this did not mean that the Court might disregard existing rules.
+Mr. Fromageot’s amendment was adopted?3.
+
+(3) However, the amended Article 35 continued to cause concern. At
+the meeting of the Sub-Committee held on 10 December 1920, to adopt
+the final draft for submission to the Main Committee, it was the sole sub-
+ject of further discussion. That discussion is recorded as follows:
+
+“During the discussion on the President’s report, M. POLITIS
+(Greece) raised the question whether the text of Article 35, No. 3,
+adopted by the Sub-Committee, did actually express the Sub-Com-
+mittee’s opinion on the subject. This opinion was, according to
+M. Politis, that the Court should have the right to apply the general
+principles of justice only by virtue of an agreement between the par-
+ties. The actual text was wider, in so far as it left it to the discretion
+
+! Documents concerning the Action Taken by the Council of the League of Nations under
+Article 14 of the Covenant and the Adoption by the Assembly of the Statute of the Permanent
+Court, Geneva, 1921, p. 41, Annex.
+
+2 Seventh Meeting of the Sub-Committee of the Third Committee of the First
+Assembly Meeting held on 1 December 1920.
+
+3 Documents concerning Action Taken . . ., op. cit., p. 145.
+
+
+
+of the Court to decide when those principles could be applied.
+M. Politis consequently proposed to alter the paragraph as follows:
+
+The general principles of law and with the consent of the parties, the
+general principles of justice recognised by civilised nations.
+
+After some discussion, M. FROMAGEOT (France) proposed to meet
+M. Politis’ point by adding at the end of Article 35, No. 3, the follow-
+ing:
+
+This provision shall not prejudice the power of the Court to decide a
+case ex aequo et bono if the parties agree thereto.
+
+The Article thus amended was adopted.”
+
+58. Inreporting this Article (renumbered Article 38) to the Main Com-
+mittee, the Sub-Committee stated as follows:
+
+“The Sub-Committee has . . . made the following changes in the
+Article:
+
+(2) Atthe end of No. 3 it has added a new clause in order to give a
+more flexible character to this provision and to permit the Court, if
+necessary and with the consent of the Parties, to make an award ex
+aequo et bono.”?
+
+Such was the genesis of the ex aequo et bono provision in Article 38 which
+has provoked so much reference in the cases on the application of equity
+in maritime boundary delimitations.
+
+59. It is clear from this drafting history that earlier drafts of the Article
+were amended to allow for the possibility that parties could make their
+own agreements and ask the Court to embody them in a judgment, which
+the Court would do provided it conformed to general principles of
+law and justice. Thereafter even more flexibility? was introduced by
+introducing a separate ex aequo et bono provision not necessarily tied
+to “general principles of law and justice”, and enabling the Court to
+make an order in accordance with its sense of justice if the parties so
+consented. There was clearly an ampler latitude given to the Court in an
+ex aequo et bono provision standing on its own rather than if the
+Court were to depend on a clause merely enabling it to decide in accor-
+dance with general principles of law and justice. However the greater
+
+! Documents concerning Action Taken . . ., op. cit, p. 157.
+2 Ibid. p. 211.
+
+3 “The notion ex aequo et bono had been little used before its addition to the PCI’s
+Statute and was included there, with little debate, arguably to give the Court some-
+what greater flexibility.” (Janis, Encyclopedia of Public International Law, Vol. 7,
+
+© p.75.)
+
+
+
+reach of that clause necessitated the safeguard of resting it upon the
+agreement of parties.
+
+60. The expression ex aequo et bono, viewed against this drafting his-
+tory, shows quite clearly that the concept travels far beyond equity intra
+legem or praeter legem as discussed below !. It refers to a decision untram-
+melled by rules of law but depending purely on the tribunal’s sense of
+justice. When, as in the present case, the Court uses equitable concepts
+and procedures which enter its jurisdictional field through routes other
+than Article 38 (2) and so long as the Court does not act contra legem, it is
+acting in a field far removed from the vast expanses of equity ex aequo et
+bono. However, within its far more limited field of operation, it is well
+entitled to use the full and appropriate range of equitable principles,
+procedures and methods without being inhibited by concerns that it is
+travelling beyond its jurisdiction.
+
+61. If the conceptual roadblock represented by ex aequo et bono is out
+of the way, a clearer path opens out for a fuller and more confident use of
+equity in the development of the law of the sea. This aspect was well sum-
+marized in the North Sea Continental Shelf cases, where the Court
+observed in the clearest terms:
+
+“when mention is made of a court dispensing justice or declaring the
+law, what is meant is that the decision finds its objective justification
+in considerations lying not outside but within the rules, and in this
+field it is precisely a rule of law that calls for the application of equi-
+table principles. There is consequently no question in this case of any
+decision ex aequo et bono, such as would only be possible under the
+conditions prescribed by Article 38, paragraph 2, of the Court’s
+Statute.” (I.C.J. Reports 1969, p. 48, para. 88.)?
+
+(b) Absolute equity
+
+62. This term, also inapplicable to the present case, connotes the appli-
+cation of a just and fair solution irrespective of whether it overrides exist-
+
+! Chaim Perelman, in his study of lacunae in the law, makes the point in the context
+of arbitrations and judicial decisions in public international law, that a request for a
+decision ex aequo et bono could be read “dans le sens contra legem” (Le probléme des
+lacunes en droit, 1968, p. 327).
+
+2 For similar expressions by other tribunals, see the statement of the Court of Arbi-
+tration in the Anglo-French Continental Shelf Arbitration Award (R144, Vol. XVIII,
+paras. 70 and 245; see, also, Guinea/ Guinea-Bissau Arbitral Award (Revue générale de
+droit international public (1985), Vol. 89, paras. 88 and 90) referring to the Judgment of
+this Court in the North Sea cases, and holding that its own function, likewise, was not to
+decide ex aequo et bono.
+
+
+
+ing rules or principles of positive law, however well entrenched they may
+be. It is a disregard of the letter for the spirit of the law, a disregard of
+technicalities in favour of justice !. This would come close to the connota-
+tion of equity ex aequo et bono as discussed in the preceding section.
+
+63. An illustrative and well-known example in the jurisprudence of
+international law of the use of the expression “absolute equity” is to be
+found in the Orinoco Steamship Co. case, 1910, where, in the words of the
+Permanent Court of Arbitration, the compromis required the US-Vene-
+zuelan Mixed Claims Commission to “give their decisions on the basis of
+absolute equity without regard to objections of a technical nature, or to the
+provisions of local legislation . . .”. The umpire’s recognition of local
+legislation in dismissing the claims on account of failure to exhaust
+local remedies and the debtor’s failure to notify the cession of the
+debt in accordance with local legislation, was held to be a decision not
+in accordance with absolute equity and thus to be in disregard of the
+compromis?.
+
+64. The methods of equity ex aequo et bono and of absolute equity are
+not the methods of international law. “Above all, it is necessary to stop
+viewing equity as something which is in opposition to the law or as supply-
+ing a corrective to the law.”
+
+(c) Equity praeter legem
+
+65. This sense of equity refers to filling in gaps and interstices in the
+law. Even where there is no rule of law to provide for a matter, a decision
+has nevertheless to be reached, for the judicial function does not permit
+the court to abdicate the responsibility of judgment because the law is
+silent*. Consequently, the gap? has to be filled in some manner. Some
+would say that the judge is free to act in his discretion. Others would say
+
+! See also Bin Cheng, “Justice and Equity in International Law”, Current Legal
+Problems, 1955, p. 203.
+
+2 1 Scott, Hague Court Reports (1916), p. 226.
+
+3 Shabtai Rosenne, “The Position of the International Court of Justice on the Foun-
+dations of the Principle of Equity in International Law”, in A. Bloed and P. van Dijk
+(eds.), Forty Years International Court of Justice : Jurisdiction, Equity and Equality, 1988,
+p. 108.
+
+4 See O. Schachter, “International Law in Theory and Practice”, 178 Recueil des cours
+(1982-V), Chap. IV, “General Principles and Equity”, p. 85.
+
+5 The question whether there is a “gap” in the law or whether there is always a rule or
+principle of law which is capable of extension and application to the case in hand is a
+nice jurisprudential one which it is not necessary to examine here at length. For a fuller,
+and perceptive, discussion, see Vaughan Lowe, “The Role of Equity in International
+Law”, 12 Australian Yearbook of International Law (1988-1989), pp. 58-63.
+
+
+
+the judge then falls back upon equity as a guide. It is in this latter sense that
+the expression equity praeter legem is generally used.
+
+66. In support of the view that equity should guide the judge in such
+cases, it could be said that judicial discretion does not then roam un-
+bridled and at large, but, rather, is used in a disciplined way along the
+lines indicated by equitable concepts and principles. Within the para-
+meters of those guidelines, that discretion will then be exercised though
+no rule of law has so far been formulated to govern the case.
+
+67. Equity praeter legem receives juridical justification also from the
+fact, outlined elsewhere in this opinion, that the body of general equitable
+principles, as part of “general principles of law”, is itself part of interna-
+tional law. Indeed, viewed strictly from that point of view, it ceases tobe a
+category of its own but is merely an application of the law itself.
+
+68. Inthe context of maritime delimitation, there are dicta in the juris-
+prudence of the Court that strongly support the view that the process in
+operation is one of the application of equity praeter legem :
+
+“Is not the conclusion therefore justified, to round off the enumer-
+ation of those international acts which refer to equity, that these acts
+constitute applications of the general principle of law which author-
+izes recourse to equity praeter legem for a better implementation of
+the principles and rules of law ? And it would not be premature to say
+that the application of the principle of equity for the delimitation of
+the areas of the continental shelf in the present case would thus be in
+line with this practice.” (North Sea Continental Shelf, 1.C.J. Reports
+1969, p. 141, Judge Ammoun, separate opinion |.)
+
+This aspect also receives some attention in the discussion, under item
+head VII (f) below, of the methods of equity.
+
+(d) Equity infra legem
+
+69. This is the category most relevant to the Judgment of the Court, for
+it is within its confines that the equity used by the Court has been adminis-
+tered. As the Court observed in the North Sea Continental Shelf cases :
+
+“when mention is made of a court dispensing justice or declaring the
+
+! See, also, the separate opinion of the same judge in Barcelona Traction, Light and
+Power Company, Limited, Second Phase (I.C.J. Reports 1970, pp. 332-333), in relation
+to equity praeter legem and the sense which Papinian, the author of that expression, gave
+to it.
+
+
+
+law, what is meant is that the decision finds its objective justification
+in considerations lying not outside but within the rules” (I.C.J.
+Reports 1969, p. 48, para. 88).
+
+This was clearly a reference to equity infra legem!.
+
+70. In relation to the general jurisprudence of the Court, the operation
+of equity infra legem has been well summarized by Shabtai Rosenne in
+terms that:
+
+“It [the Court] has permitted the first steps to be taken towards
+creating a conception of international equity, not contra legem in the
+sense that it is sometimes said that a decision ex aequo et bono may be
+a decision contra legem; but intra legem, it being the substantive law,
+and not the agreement of parties, that calls for its application.”?
+
+71. Judge Ammoun offered an important warning against exceeding
+the limits of equity infra legem when he said, with reference to its opposite,
+equity contra legem:
+
+“This conception of Equity, which really consists of a possible
+derogation from general law in a particular case, has never been
+applied in international law. An international court which conferred
+such jurisdiction upon itself would appoint itself a legislator.”
+(Barcelona Traction, Light and Power Company, Limited, 1.C.J.
+Reports 1970, p. 333, para. 42.)
+
+72. With special reference to maritime delimitation, a comprehensive
+doctrinal study has noted that:
+
+“the doctrine of equitable principles applicable to maritime delimi-
+tation has already achieved, both with regard to its procedural and
+substantive elements, a degree of clarity and predictability which is
+sufficient for it being recognized as a fundamental norm operating
+within, and not outside, the law” 3.
+
+(e) Equity contra legem
+
+73. Needless to say, equity as used in the Judgment is not of this cat-
+egory. The notion of equity being in opposition to the law and competing
+with it in some way by offering a set of alternative principles is not the
+
+! The fact that the judge must function infra legem, while the arbitrator is free of those
+constraints, is mentioned by Aristotle in a passage quoted by Grotius : “ ‘For the arbitra-
+tor has regard to what is fair, but the judge follows the law” (De Jure Belli ac Pacis,
+Bk. III, Chap. XX, sec. XLVII, Kelsey, trans, Classics of International Law).
+
+2 Shabtai Rosenne, The Law and Practice of the International Court, 1965, Vol. IL,
+p. 605.
+
+3 Barbara Kwiatkowska, “The International Court of Justice Doctrine of Equitable
+Principles Applicable to Maritime Delimitation and Its Impact on the International
+Law of the Sea”, in A. Bloed and P. van Dijk (eds.), Forty Years International Court of
+Justice : Jurisdiction, Equity and Equality, p. 158.
+
+
+
+image of equity that properly sets out the role of equity in international
+law. This aspect has already been discussed in Section II. In international
+law, equity is rather a force that supplements the law and helps it forward
+on its course of delivering just results in disputes between parties.
+
+“[Tlhe International Court has been very careful — and in this
+respect it may be possible to speak of a ‘position’ since fundamental
+questions of judicial policy are involved — to formulate its resort to
+‘equity’ not in terms of ‘opposition’ to ‘law’, but in terms of fulfilling
+the law and if necessary supplementing it.” !
+
+Judge Hudson, in the Diversion of Water from the Meuse case, also stressed
+this aspect when he said,
+
+“A sharp division between law and equity, such as prevails in the
+administration of justice in some States, should find no place in inter-
+national jurisprudence.” (P.C.LJ., Series A/B, No. 70, p. 76, separate
+opinion.)
+
+IV. The Routes of Entry of Equity
+
+74. There are many routes of entry of equity into international law, and
+equity has been drawn into the judgmental process in this case through
+several of them. A concentration of attention on only one or other of these
+routes of entry can constrict the full scope of operation of equity in a given
+case.
+
+(a) Equity as required to be applied by treaties
+
+75. In relation to the matter before the Court, there is, of course, the
+pre-eminent example of Articles 74 and 83 of the 1982 Law of the Sea
+Convention expressly making equity applicable in the delimitation of
+maritime boundaries.
+
+76. The invocation of equity by treaty is often a means by which a devel-
+oping branch of the law is brought into line with contemporary thinking,
+thereby enabling perspectives which have not yet crystallized into legal
+rules to make their impact upon the law in question. The Law of the Sea
+Convention exemplifies this process, which can also be seen in treaties
+regarding contemporary concerns relating to earth resources such as food
+and space and in regard to economic matters and the settlement of dis-
+putes. Thus, the International Covenant on Economic, Social and Cul-
+tural Rights, 1966, deals with the “equitable distribution” of world food
+supplies (Art. 11); and the Convention on International Liability for
+Damage Caused by Space Objects requires compensation to be deter-
+mined in accordance with “international law and the principles of justice
+
+! Shabtai Rosenne, “The Position of the International Court of Justice on the
+Foundations of the Principle of Equity in International Law”, op. cit, pp. 88-89.
+
+
+
+and equity”. The Charter of Economic Rights and Duties of States, 1974,
+likewise uses terms such as “equity”, “equitable”, “just”, “equitable shar-
+ing”, “equitable prices”, “equitable terms of trade” (see Arts. 10, 14, 26,
+28, 29); and the Protocol of the Commission of Mediation, Conciliation
+and Arbitration of the Organization of African Unity specifically draws
+
+equity into the settlement of disputes (Arts. 29 and 30).
+
+77. The specific invocation of equity by the Montego Bay Convention
+thus follows a time-honoured practice in international law, which can be
+traced back through the centuries?
+
+(b) Equity as contained in customary international law
+
+78. Customary international law has been invoked in the Judgment as a
+source of equity, especially in the context of giving meaning to the expres-
+sion “relevant circumstances” under international law (Judgment,
+para. 56). Those relevant circumstances have been shown to be assimi-
+lated with the special circumstances of Article 6 of the 1958 Convention,
+as both are intended to enable the achievement of an equitable result
+(ibid. ).
+
+79. The Court is required by Article 38 (1) of its Statute to decide such
+disputes as are submitted to it “in accordance with international law”.
+There is an impressive body of authority to the effect that equity is part of
+customary international law. Friedmann, writing of the changing struc-
+ture of international law, has observed :
+
+“There is thus overwhelming support for the view developed by
+Lauterpacht, Manley Hudson, De Visscher and Dahm that equity is
+part and parcel of the modern system of administration of justice.”3
+
+! See, further, Monique Chemillier-Gendreau, “Equity”, in Bedjaoui (ed.), Interna-
+tional Law : Achievements and Prospects, 1991, pp. 274-275.
+
+2 Cf. the Jay Treaty of 1794, which, by Article 7, provided that the Commissioners
+appointed under the Treaty to decide the matters in contention between Britain and the
+United States should decide the claims “according to the merits of the several cases and
+to Justice, Equity and the Law of Nations”. Judge Hudson has listed numerous bilateral
+treaties entered into during the intervening centuries which provide for the application
+of equity — such as the 1795 United States-Spain Treaty, the 1840 Great Britain-
+Portugal Treaty and the 1926 and 1930 Danish Treaties with Finland and Iceland,
+respectively. See M. O. Hudson, The Permanent Court of International Justice, 1920-
+1942, 1943 (1972 reprint), p. 616 (footnotes).
+
+3 Friedmann, The Changing Structure of International Law, 1964, p. 197, citing
+Hersch Lauterpacht, Private Law Sources and Analogies, 1927, para. 28; Manley Hud-
+son, The Permanent Court of International Justice, 1972 ed., p. 617; Charles De Visscher,
+“Contribution à I'étude des sources du droit international”, 60 Revue de droit interna-
+tional et de législation comparée (1933), pp. 325, 414 et seq.; Dahm, 1 Vôlkerrechts (1958),
+pp. 40 et seq.
+
+
+
+So, also, Judge Hudson observed in his individual opinion in the Diversion
+of Water from the Meuse case, “What are widely known as principles of
+equity have been long considered to constitute a part of international
+law ...”! — a view which received the support of Judge Jessup in the
+North Sea Continental Shelf cases”. In the Fisheries Jurisdiction case
+(United Kingdom v. Iceland)?, Judge Dillard cited this opinion with
+approval. Judge Hudson, writing extra-judicially, has observed, “equity is
+an element of international law itself” 4,
+
+80. In regard to the law of the sea and the delimitation of boundaries of
+the continental shelf and the exclusive economic zone, equity has been
+recognized by this Court as part of international law — as in the North Sea
+Continental Shelf cases>, and the Tunisia Libya case. Thus in the North
+Sea Continental Shelf cases, the Court considered it inequitable that the
+convexity or concavity of a coastline should deny equal treatment to
+States with coastlines that are comparable in length”. The requirement of
+a degree of proportionality between the shelf awarded to a State and the
+length of its coastlines was likewise looked upon as a principle of equity.
+So, also, equity did not require a “refashioning” of geography?.
+
+(c) Equity as a general principle of law”
+
+81. There are several categories of general principles of law applied by
+international law; and equitable principles, concepts and procedures,
+such as have been applied in the Judgment, find a place in more than one
+of them.
+
+82. Citing the Gentini case concerning international law’s recognition,
+through equity, of the principle of prescription, while denying recognition
+of local laws of prescription, Professor Bin Cheng states:
+
+“The process applied in the Gentini Case!'% of tracing a general
+principle from rules of positive law universally applied in foro do-
+
+! Loc. cit.
+
+2 LC. Reports 1969, p. 84.
+
+3 I.CJ. Reports 1974, p. 63, fn. 1.
+
+4 The Permanent Court of International Justice, 1920-1942, 1972 ed, p. 617.
+
+5 I.CJ. Reports 1969, p. 48, para. 88.
+
+6 I.C.J. Reports 1982, p. 60, para. 71.
+
+7 LC.J. Reports 1969, pp. 49-50, para. 91.
+
+8 Ibid.
+
+9 The phrase is used in this form rather than in the now inappropriate phraseology
+referring to “civilized nations”. Sir Humphrey Waldock preferred the expression
+“general principles of law recognized in national legal systems”, and the shortened
+expression “the general principles of law” is perhaps adequate for present purposes
+(see North Sea Continental Shelf, I.C.J. Reports 1969, p. 136, Judge Ammoun, separate
+opinion).
+
+10 Venezuelan Arbitrations of 1903, p. 720.
+
+
+
+mestico through the general feeling of mankind for the requirements
+of equity and to equity itself, is a striking reminder of Descamps’ pro-
+posal for the application in international law of ‘objective justice’ or
+‘equity’ as evidenced by the ‘conscience juridique des peuples civilisés’
+and confirms the belief drawn from the travaux préparatoires of the
+Statute of the Permanent Court of International Justice that this
+proposal is not very different from the ultimately adopted formula
+of ‘the general principles of law recognised by civilised nations’ in
+Article 38 I (c) of the Court’s Statute.”
+
+Many classifications of such general principles are possible and the first
+three items in a five-fold classification by Schachter? show again under
+how many heads of this classification the principles of equity used by the
+Court could have been drawn:
+
+“(1) The principles of municipal law ‘recognized by civilized
+nations’.
+(2) General principles of law ‘derived from the specific nature of
+the international community’.
+(3) Principles ‘intrinsic to the idea of law and basic to all legal sys-
+tems’...”
+
+83. Equity in its general sense, such as the Court has used, finds a place
+in all of these categories. Regarding the first clause, which of course is the
+language of Article 38, paragraph 1 (c), of the Statute of the International
+Court of Justice and the Permanent Court of International Justice,
+Schachter points out that some of the participants at the drafting stage of
+this clause had in mind equity and principles recognized by the “legal con-
+science of civilized nations”. Elihu Root, who prepared the draft finally
+adopted, had intended however to refer to principles actually recognized
+and applied in national systems. It would be correct to say also that inter-
+national law, as discussed by eminent commentators’ and by this Court,
+has looked for universal acceptance by legal systems rather than purely
+municipally adopted principles for this purpose. Equity clearly comes
+under this head . Part C of this opinion deals with the universal aspect of
+equity in some greater detail.
+
+! General Principles of Law as Applied by International Courts and Tribunals, 1987,
+pp. 377-378. .
+
+2 Op. cit, p. 75.
+
+3 Ibid.
+
+4 Ibid, p.76.
+
+5 See Wilfred Jenks, Common Law of Mankind, 1958, p. 106; Wolfgang Friedmann,
+The Changing Structure of International Law, 1964, pp. 188-210; and Bin Cheng, General
+Principles of Law as Applied by International Courts and Tribunals, 1987, p. 377.
+
+
+
+84. The second category would comprise such principles as pacta sunt
+servanda} which came into international law from the natural law tradi-
+tion which was inextricably linked with equity in the broader sense. The
+third category includes such ideas as reciprocity and equality of parties
+before a tribunal, which are basic to all law.
+
+85. The special influence of equity in its general sense is evident in all
+these categories and as the concept of a common law of mankind gathers
+momentum and principles relating to an equitable sharing of resources
+become more urgently required, this route of entry of equity will perhaps
+assume increasing importance in developing the law of the sea.
+
+86. Schwarzenberger, in commenting on “general principles of law
+recognised by civilised nations” as contained in the Statute of the Court,
+lists seven achievements of the draftsmen of that clause. One of them,
+which fittingly summarizes this discussion is that, “They [the draftsmen]
+opened a new channel through which concepts of natural law could be
+received into international law.” 2 Equity would represent a heavy item of
+traffic along that channel.
+
+(d) Equity as embodied in the decisions of courts and tribunals
+
+87. Article 38, paragraph 1 (d), of the Court’s Statute mentions that,
+subject to the consideration that decisions of the Court shall have no bind-
+ing force except between the parties and in respect of the particular case,
+judicial decisions shall be a subsidiary means for the determination of the
+law.
+
+88. The jurisprudence of this Court has now reached a stage where a
+considerable body of equitable principles is contained within the deci-
+sions of the Court and where there is frequent resort to equity as an aid
+towards the process of decision. Through their adoption by the Court,
+they have thus entered the mainstream of international law.
+
+89. The Fisheries case (I.C.J. Reports 1951, p. 116) is an outstanding
+
+! Schachter, op. cit, pp. 79-80.
+2 As set out in his Foreword to Bin Cheng’s General Principles of Law as Applied by
+International Courts and Tribunals, 1987, p. xi.
+
+3 See, for example, Barcelona Traction, Light and Power Company, Limited, Second
+Phase, 1.C.J. Reports 1970, p. 48, para. 94: -
+
+“It must first of all be observed that it would be difficult on an equitable basis to
+make distinctions according to any quantitative test … . The protector State may, of
+course, be disinclined to take up the case of the single small shareholder, but it
+could scarcely be denied the right to do so in the name of equitable considera-
+tions.”
+
+
+
+early example !, but since then there has been much development of this
+concept in the context of maritime delimitation through a series of deci-
+sions of this Court making explicit references to the application of equi-
+table principles.
+
+90. The heavy reliance in the Judgment on judicial decisions thus
+draws in equity through yet another source. Dependence on such cases as
+the North Sea Continental Shelf cases, the Libya/Malta case and the Gulf
+of Maine case has provided avenues not only for the entry of equity into
+maritime delimitation but for the construction, out of those equitable
+principles, of a coherent body of equity-based maritime jurisprudence.
+Any consideration of problems relating to the law of the sea must thus, as
+in this case, have regard to this considerable body of decisions which,
+through their adoption of equitable principles, have made the fertilizing
+influence of equity an integral part of maritime law.
+
+(e) Equity as expounded in the writings of the publicists
+
+91. Going back to the fountainheads of international law, one sees that
+Grotius incorporated into international law the idea that equity could
+complement the administration of international justice, for he cites Aris-
+totle’s references to “the perception of what is fair”, “the quality of fair-
+ness”, and “justice” 2. Aristotle’s definition of justice as “the correction of
+that in which the law, by reason of its general character, is at fault” is also
+cited. Indeed, Grotius’ comment goes so far as to suggest even the applica-
+tion of equity “outside the rules of justice, properly so-called”. Grotius is
+no doubt here using the term “rules of justice” in the sense in which we
+would speak of “rules of law”.
+
+92. One cannot fail to note, in this regard, the heavy reliance by Grotius
+on natural law, in his pioneering work on the construction of the basic
+principles of the law of the sea. The law of the sea may perhaps be
+described as an area of international law which is particularly sensitive to
+equitable influences.
+
+93. The process initiated by Grotius goes on to this day and the great
+publicists of each generation have, through their own writings, incorpo-
+rated considerations and principles of equity into their contributions,
+which have been assimilated into the corpus of public international law3.
+
+! See S. Rosenne, The Law and Practice of the International Court, 1965, Vol. II, p. 605.
+
+2 Grotius, De Jure Belli ac Pacis (1646), Bk. II, Chap. XVI, sec. XXVI; see, also,
+Bk. III, Chap. XX, sec. XLVII (Kelsey, trans., Classics of International Law, 1925,
+pp. 425, 824).
+
+3 With specific reference to the law of the sea, a number of eminent modern publi-
+cists, some of whom have been referred to in this opinion, are keeping up this tradition
+and making a distinguished contribution to this fast-developing field.
+
+
+
+(f) Equity as justice
+
+94. In the North Sea Continental Shelf cases, the Court stated, “What-
+ever the legal reasoning of a court of justice, its decisions must by defini-
+tion be just and therefore in that sense equitable.” (I.C.J. Reports 1969,
+p. 48, para. 88.) Equity as part of justice which the court is bound to
+administer then becomes part of its general jurisprudence. Equity in the
+sense of a quest for the just solution offers a firm substratum for a con-
+siderable part of the Court’s reasoning.
+
+95. In his separate opinion in Barcelona Traction, Light and Power
+Company, Limited, Second Phase, Judge Fitzmaurice, citing a standard
+work on equity (Snell's Principles of Equity, 26th ed, 1966, pp. 5-6), said :
+
+“as the author of the passage cited points out . . . equity is not
+distinguishable from law ‘because it seeks a different end, for both
+aim at justice . . .". But, it might be added, they can achieve it only if
+they are allowed to complement one another.” (7.C.J. Reports 1970,
+p. 86, para. 36.)
+
+96. In Continental Shelf (Tunisia/ Libyan Arab Jamahiriya), this Court
+observed,
+
+“Equity as a legal concept is a direct emanation from the idea of
+justice. The Court whose task is by definition to administer justice is
+bound to apply it.” (I.CJ. Reports 1982, p. 60, para. 71.)
+
+This Court and its predecessor have of course been careful to point out
+that the fact that it dispenses justice does not entitle it to ignore the rules of
+law. The need to administer justice does not, in the words of the Perma-
+nent Court, entitle it to “base its decision on considerations of pure expe-
+diency” (Free Zones of Upper Savoy and the District of Gex, P.C.IJ,
+Series A, No. 24, p. 15).
+
+97. Kelsen and some other authorities! have expressed the view that
+the Court’s function is to decide cases in accordance with international
+law and on no other grounds. Kelsen says, for example, that the Statute of
+the Court requires that the Court decide disputes in accordance with
+international law and does not mention justice, thus leading to the view
+that the Court is not authorized to decide disputes in accordance with
+justice”.
+
+98. Such views, with great respect, do not take into account the fact that
+much of international law already embodies equity, and that equity was a
+principal route through which many basic concepts entered the corpus of
+
+! E.g., Judge Koretsky in North Sea Continental Shelf cases (Federal Republic of
+Germany/Denmark; Federal Republic of Germany/Netherlands, 1.C.J. Reports 1969,
+p. 165.
+
+2 Kelsen, The Law of the United Nations, 1950, p. 366.
+
+
+
+international law and became part of it. They also do not take into account
+the fact that to shut the gates to the entry of this stream of influence into the
+corpus of international law is to cramp the development of the latter.
+
+(g) Equity as drawn in by the United Nations Charter
+
+99. The Charter of the United Nations in Article 1 sets out as one of the
+Purposes of the United Nations that “To maintain international peace
+and security” it shall “bring about by peaceful means, and in conformity
+with the principles of justice and international law, [the] adjustment or
+settlement of international disputes . . .”. The International Court has
+been set up within that framework as one of the principal organs of the
+United Nations and is thus obliged to act in the adjustment and settlement
+of international disputes “in conformity with the principles of justice and
+international law”. Equity as an inherent part of justice, if not of interna-
+tional law itself, thus enters into the Court’s jurisprudence. Its signifi-
+cance in this regard can be measured from the fact that the maintenance of
+international peace and security being among the foremost of the objects
+of the United Nations and all its agencies, a primary means of achieving
+this object, namely, the principles of justice and international law must
+themselves have primary importance. Indeed, justice and equity are
+inherent attributes of peace itself, which is foremost among the objects
+international law aims at achieving. The obligatory nature of this aspect
+becomes clearer when one considers also that the earlier draft of the Char-
+ter contained the words “with due regard to justice and international law”
+which were changed to “in conformity with” as the earlier phrase was not
+considered to be sufficiently emphatic?.
+
+100. So, also, the Preamble to the Charter expresses as one of the
+fountainheads of the whole concept of the United Nations the deter-
+mination of the peoples of the United Nations “to establish conditions
+under which justice and respect for the obligations arising from treaties
+and other sources of international law can be maintained”. Shabtai
+Rosenne rightly uses this aspect to point out that the unity of equity
+with law and justice must therefore be seen in terms of a “monad” of
+equity, law and justice (connoting a lack of opposition among them)
+
+1 See Annuaire de l’AAA, 1972/1973, Vol. 42/43, Editorial by Boutros Boutros-Ghali,
+p. 4, on the need for international lawyers of the future “à affronter les problèmes com-
+plexes d’un monde nouveau, où le droit international devrait établir une paix durable,
+juste et équitable”.
+
+2 Documents of the United Nations Conference on International Organization, Vol. VI,
+San Francisco, 1945, p. 454.
+
+
+
+rather than the “triad” of law, justice and equity conceptualized by
+Sohn'.
+
+101. It needs scarcely to be stressed that every portion of the Charter is
+as basic to the operation of the Court as the Court’s own Statute, for the
+two are one integrated document. The Court’s warrant to use equity in this
+case as in all others is thus mandatory and comes direct to it from its funda-
+mental statutory source. It is worthy of note, also, that the intimate link-
+age of justice and equity as set out in the United Nations Charter, with
+the law of the sea, was eloquently underlined by the President of
+UNCLOS II, Mr. H. S. Amerasinghe, at the very commencement of the
+Conference, when he said, in his opening address as President:
+
+“If the Conference resolved to be guided by the principles of jus-
+tice and equity, and if it showed a spirit of mutual understanding,
+goodwill and compromise, it would not only be living up to the high
+expectations of the United Nations Charter but also handing down
+to posterity one of the supreme achievements of the Organization.”2
+
+(h) Equity as embodied in State practice
+
+102. A number of items of State practice have been placed before the
+Court in support of propositions concerning their respective positions
+which the Parties seek to infer from them. State practice would within
+limits be evidentiary of customary international law. In so far as the State
+practice relied upon relates to the delimitation of maritime boundaries, it
+is important to note that equitable considerations, such as the principle of
+equidistance, often provide the background against which States nego-
+tiate on such matters. The resulting arrangements may therefore incorpo-
+rate principles of equity. To the extent that State practice helps to build up
+international law, international law would then have, built into it through
+this source, some of the principles of equity. Concretized in this fashion,
+their equitable origins may be obscured, but we may nevertheless some-
+times recognize them in the State practice they helped to evolve.
+
+1S. Rosenne, “The Position of the International Court of Justice on the Foundations
+of the Principle of Equity in International Law”, op. cit, pp. 88-89. Sohn’s view was
+expressed in “The Role of Equity in the Jurisprudence of the International Court of
+Justice”, in Mélanges Georges Perrin (1984), p. 303.
+
+2 Official Records of the Third United Nations Conference on the Law of the Sea, Vol. 1,
+p. 4, para. 16.
+
+
+V. A priori and a posteriori Employment of Equity
+(a) The positive or a priori use of equity to construct a result
+
+103. The positive use of equity would of course be illustrated in the
+Court’s Judgment by the application of equitable concepts and the use of
+equitable procedures and methods towards the achievement of an equi-
+table result.
+
+(b) The negative or a posteriori use of equity to test a result
+
+104. This has been touched on already in paragraphs 31-42. It was there
+pointed out that the application of the equidistance principle, itself a
+principle of equity, can on occasion yield a result which is not equitable,
+as pointed out by this Court on more than one occasion. Where there is a
+vast disproportion in coastlines, as in the Libya/Malta case, that would be
+a means for using equity in the sense of testing whether the result would be
+inequitable. So, also, in the present case, the vast disproportion between
+the lengths of the coastlines of Greenland and Jan Mayen has been used in
+testing whether the result obtained by equitable principles and methods is
+in fact inequitable. Such a role of equity can indeed be looked at as “not so
+much the positive assurance of an equitable result as the negative avoid-
+ance of an inequitable one” |, but it has both practical value and theoreti-
+cal justification.
+
+105. The use of equity in this sense is analogous to the use of injustice as
+a test of justice, which has a long history in philosophical thought.
+Although justice by its very nature is incapable of comprehensive formu-
+lation, injustice by its very nature is often a matter of instant detection.
+Likewise, though that which is equitable cannot be formulated in advance
+in terms of a comprehensive set of rules”, that which is inequitable can be
+readily identified as such when a situation has occurred or a proposal is
+mooted.
+
+106. This line of thought regarding justice has an ancient lineage3.
+Aristotle wrote in the Nicomachean Ethics regarding the sense of injus-
+tice that, “The many forms of injustice make the forms of justice quite
+
+! Prosper Weil, The Law of Maritime Delimitation : Reflections, 1989, p. 166.
+
+2 Cf. Kelsen, Was ist Gerechtigkeit ?, 2nd ed, Vienna, 1975, p. 43 — “Ich weiss nicht
+und kann nicht sagen was Gerechtigkeit ist und kann nur sagen was Gerechtigkeit für
+mich ist” (“I do not know and cannot say what justice is . . and can only say what justice
+is to me”).
+
+3 See Julius Stone, Human Law and Human Justice, 1965, p. 316.
+
+
+
+clear”, a theme also taken up by modern jurists2. Whereas the response
+to the concept of justice is merely contemplative, the response to a situa-
+tion one senses as unjust is a more positive one3. The enlistment of the
+sense of injustice in the service of justice thus enjoys strong philosophical
+justification. The “sense of injustice” is “largely retrospective and cor-
+rective”, while “the deficiencies it identifies can be finally repaired only
+by a body of doctrine that is prospective and creative”. This is an illustra-
+tion of the fact that “theories of justice in all their rich diversity of content
+and mode of presentation, cannot safely be discarded even from the
+most practical concern”.
+
+107. In short,
+
+“We are confronted here with the difference between, on the one
+hand, the question of the definition of equity in abstracto and, on the
+other hand, the question of whether a concrete situation, measure or
+decision is equitable.” ®
+
+108. All this is not to say, however, that relevant rules of equity appli-
+cable to a given object can never be formulated in advance. They can, up
+to a point, as the juristic learning on that topic matures, but they can never
+be formulated totally and the sense of injustice or the sense of the inequi-
+table will always continue to offer assistance in the pursuit of the equitable
+solution.
+
+109. With reference to boundary delimitation, no code of justice or
+equity, however precisely formulated, can cover all possibilities in
+advance. However, a solution once presented, can immediately attract
+a sense of injustice, which would then result in its rejection and the
+search for another which does not produce the same reaction. The stress
+upon the need for an equitable solution and the rejection of any solu-
+tion which, though reached in accordance with equity, is inequitable,
+is thus one which has philosophical support.
+
+! Nicomachean Ethics, V.i.5. See, also, Aquinas’ Commentary on the Nicomachean
+Ethics, 5.1. Cf. Plato’s Republic, 440C-D.
+
+2 See E. N. Cahn, The Sense of Injustice, 1949; Julius Stone, op. cit., p. 316.
+
+3 Cahn, op. cit, p. 13.
+
+4 1. Jenkins, “Justice as Ideal and Ideology”, in Nomos, Justice 191, cited in Stone,
+op. cit, p. 317.
+
+5 Stone, op. cit, p. 321.
+
+6 P.van Dijk, Nature and Function of Equity in International Economic Law, Grotiana
+New Series, 1986, Vol. 7, p. 5.
+
+
+
+VI. The Uses of Equity
+
+110. The uses of equity are manifold and more than one of them may be
+in operation simultaneously in a given case such as that before the Court.
+This aspect of equity is best appreciated by using any of the well-known
+classifications of the use of equity. Oscar Schachter’s analysis, for
+example, in his course on general international law at the Hague
+Academy in 1982 itemized five uses!:
+
+(a) equity as a basis for “individualized” justice tempering the rigours of
+strictlaw;
+
+(b) equity as introducing considerations of fairness, reasonableness, and
+good faith;
+
+(c) equity as offering certain specific principles of legal reasoning asso-
+ciated with fairness and reasonableness, to wit, estoppel, unjust
+enrichment and abuse of rights;
+
+(d) equity as furnishing equitable standards for the allocation and
+sharing of resources and benefits;
+
+(e) equity as a broad synonym for distributive justice and to satisfy
+demands for economic and social arrangements and redistribution of
+wealth.
+
+111. To this list may be added some others such as those listed below as
+methods of operation of equity. There may be some overlap between the
+two groups, for some of these uses of equity may also be listed as methods
+and vice versa.
+
+112. Of the five categories listed above, it is clear that at least the first
+four have relevance to this case.
+
+113. (a) Though Schachter mentions “individualized justice” in the
+sense of tempering the rigours of strict law, equity can be used to deliver
+“individualized justice” without in fact operating in conflict with a rule of
+law. The use of equity in this sense for maritime delimitation was well put
+by Judge Jiménez de Aréchaga in the Tunisia Libya case :
+
+“the judicial application of equitable principles means that a court
+should render justice in the concrete case, by means of a decision
+shaped by and adjusted to the relevant ‘factual matrix’ of that
+case. Equity is here nothing other than the taking into account of a
+complex of historical and geographical circumstances the considera-
+tion of which does not diminish justice but, on the contrary, enriches
+it.” (I.C.J. Reports 1982, p. 106, para. 24, separate opinion.)
+
+! Schachter, op. cit., p. 82.
+
+
+
+114. In many cases of maritime disputes including the present this
+aspect is of great relevance, for each case calls for individualized treat-
+ment within the context of whatever rules of customary or treaty law may
+be relevant. No conflict with those rules is implied but an operation within
+them, as more fully discussed in the section on equity intra legem. This use
+of equity to help shape the decision to the “factual matrix” of the case is
+very much in use in the present case as evidenced by the variety of factors
+considered by the Court, at least one of which — the ice factor — has
+perhaps not been considered in the Court’s jurisprudence before.
+
+115. The rationale of the individualized approach was also well
+expressed by Judge Jiménez de Aréchaga in the following terms:
+
+“Its [the Court’s] having authority to apply equitable principles
+does not entitle a court to reach a capricious decision in each particu-
+lar case, but to reach that decision which, in the light of the individual
+circumstances, is just and fair for that case. Equity is thus achieved,
+not merely by a singular decision of justice, but by the justice of that
+singular decision.” !
+
+116. (b) Equity as considerations of fairness and reasonableness is also
+clearly in operation in this case.
+
+117. (c) Equity as the basis of specific principles of legal reasoning has
+also been used, as when the Court considers whether the conduct of
+parties has been such as to amount to an estoppel. This becomes relevant
+in the present case in assessing, for example, the effect of the past conduct
+of the Parties in relation to equidistance in demarcating boundaries.
+
+118. (d) Equitable standards for the allocation and sharing of
+resources and benefits of course lie at the heart of this dispute and in the
+context of the sharing of natural resources it has been shown elsewhere in
+this opinion that equity is playing an increasingly important international
+role.
+
+119. Useful analogues to equity’s role in relation to the sharing of mari-
+time space come from space law and riparian law. Space law takes in the
+concept in the Moon Treaty, 1979 (Agreement governing the Activities of
+States on the Moon and other Celestial Bodies), which prescribes “the
+equitable sharing by all States parties” in the benefits derived from those
+resources and also in the allocation of “slots” for the geostationary com-
+munication satellites in outer space. The relevant treaties dealing with the
+allocation of these slots, such as the Convention of the International
+
+! E. Jiménez de Aréchaga, “The Conception of Equity in Maritime Delimitation”, in
+International Law at the Time of Its Codification : Essays in Honour of Roberto Ago, 1987,
+Vol. II, p. 232.
+
+
+
+Telecommunication Union, invoke equity for this purpose through their
+reference to “equitable access” as a goal !.
+
+120. A closer analogy, where a resource is to be divided between two
+States, would be the rights of littoral and riparian States to lakes and
+rivers. The Lac Lanoux Arbitration of 1957 between France and Spain? is
+an illustration of equitable principles of good faith and a just balance
+between the interests of the parties being used to determine the respective
+rights of two States. The Helsinki Rules on the Uses of the Waters of Inter-
+national Rivers (adopted by the International Law Association in 1966)
+and the Resolution on Pollution of Rivers and Lakes (adopted by the
+Institut de droit international in 1979) show a heavy dependence on equity
+in relation to the sharing of resources.
+
+121. (e) Equity in the sense of distributive justice and redistribution of
+wealth is not involved in the present case. With reference to maritime
+boundary delimitation, this Court has observed:
+
+“While it is clear that no rigid rules exist as to the exact weight to be
+attached to each element in the case, this is very far from being an
+exercise of discretion or conciliation ; nor is it an operation of distrib-
+utive justice.” (Continental Shelf (Tunisia/Libyan Arab Jamahiriya),
+I.C.J. Reports 1982, p. 60, para. 71.)
+
+VII. The Methods of Operation of Equity
+(a) Through balancing the interests of the parties
+
+122. True equity, it has been said, “consists in holding in the best equi-
+librium the considerations of equity invoked by both parties”*. The Judg-
+ment in this case has considered a number of circumstances and evaluated
+their resultant effect in a manner that can be so described. This is not only
+a well-accepted method of equity, but has ample support from the juris-
+prudence of this Court and of arbitral tribunals in maritime delimitation
+cases.
+
+123. Inthe Tunisia/Libya case, the Court defined its task as an obliga-
+
+! M. A. Rothblatt, “Satellite Communication and Spectrum Allocation”, 76 Ameri-
+can Journal of International Law (1982), p. 56.
+
+2 International Law Reports, 1957, pp. 139, 141.
+
+3 Bin Cheng, General Principles of Law as Applied by International Courts and
+Tribunals, 1987, pp. 48-49, citing the Pinson case (1928) as contained in Jurisprudence de
+la commission franco-mexicaine des réclamations (1924-1932), p. 133.
+
+
+
+tion “to balance up the various considerations which it regards as relevant
+in order to produce an equitable result” (I.C.J. Reports 1982, p. 60,
+para. 71).
+
+124. Judge Jiménez de Aréchaga, in his separate opinion in the same
+case, pointed out that:
+
+“To resort to equity means, in effect, to appreciate and balance the
+relevant circumstances of the case, so as to render justice, not through
+the rigid application of general rules and principles and of formal
+legal concepts, but through an adaptation and adjustment of such
+principles, rules and concepts to the facts, realities and circum-
+stances of each case.” (Ibid., p. 106, para. 24. See, also, ibid., Judg-
+ment, paras. 71 and 107 on the “balancing process”.)
+
+The process outlined by Judge Jiménez de Aréchaga describes very
+closely the process followed in the Judgment of the Court.
+
+125. This notion of the balancing of considerations to reach an equi-
+table result goes back very far in international law. The decisions of the
+Commissions set up under the Jay Treaty of 17941, and authorized to
+employ equity in their determinations, have been analysed as having been
+reached through “the necessary process of adjustment, of the weighing of
+one consideration against another”?
+
+126. A reference to the process of balancing up all relevant considera-
+
+tions was made also in the North Sea cases where the Court observed:
+
+“In fact, there is no legal limit to the considerations which States
+may take account of for the purpose of making sure that they apply
+equitable procedures, and more often than not it is the balancing-up
+of all such considerations that will produce this result rather than
+reliance on one to the exclusion of all others.” (I.C.J. Reports 1969,
+p- 50, para. 93.)
+
+127. The Tribunal hearing the Delimitation of the Continental Shelf
+between the United Kingdom and France case? also engaged itself specifi-
+cally in the task of balancing the factors presented to it by the respective
+parties in determining the boundary line in the Channel Islands.
+
+128. Of comparative interest, from a related area of the law, is the fol-
+lowing methodology described in Article V, paragraph 3, of the Helsinki
+Rules on the Uses of Waters of International Rivers:
+
+! A Treaty of Amity, Commerce and Navigation between the United States of
+America and Great Britain providing for the creation of three mixed commissions of
+American and British nationals to settle a number of outstanding questions between the
+two countries.
+
+2 Moore’s analysis, as cited by H. Lauterpacht in The Function of Law in the Interna-
+tional Community, 1933, p. 121, fn. 4. See, also, p. 132.
+
+3 Decision of 30 June 1977, RIAA, Vol. XVIII, pp. 87-95, paras. 180-202.
+
+
+
+“The weight to be given to each factor is to be determined by its
+importance in comparison with other relevant factors. In determin-
+ing what is a reasonable and equitable share, all relevant factors are
+to be considered together and a conclusion reached on the basis of
+the whole.”
+
+(b) Through an equitable interpretation of a rule of law or of a treaty or set of
+facts
+
+129. One of the important functions of the equitable approach in all
+judicial processes is to provide a method of interpretation. This can relate
+to the interpretation of a rule of law or of a document, or indeed of a set of
+facts. Literal interpretations, wedded to the letter of the law and to formal-
+ism, contrast with liberal interpretations, based upon an equitable
+approach. Whether it be a rule of law or a treaty or a factual situation that
+is under interpretation, the same duality of approach is possible, with
+widely varying consequences.
+
+130. Schwarzenberger spells out this aspect of equity in terms that,
+
+“The rule of equity, as it has grown, demands reasonableness and
+good faith in the interpretation and application of treaties.”!
+
+131. This could be more specifically addressed in terms of a choice not
+between two but among several available interpretations. In the words of
+De Visscher :
+
+“Equity can be something other than an independent basis of deci-
+sion, as when in a decision which in other respects is founded on pos-
+itive law (intra legem), the judge chooses among several possible
+interpretations of the rule the one which appears to him, having
+regard to the particular circumstances of the case, most in harmony
+with the demands of justice”?
+
+132. Inthis case, one of the major questions addressed by the Court has
+been the interpretation, in accordance with equity, of the “special circum-
+stances” mentioned by the 1958 Convention.
+
+(c) Through tempering the application of strict rules
+
+133. This is the classical Aristotelian concept of equity, described thus
+by Aristotle, in the Nicomachean Ethics:
+
+“The reason for this is that law is always a general statement, yet
+there are cases which it is not possible to cover in a general
+
+! Schwarzenberger, “Equity in International Law”, Yearbook of World Affairs, 1972,
+p. 346, at p. 357.
+
+2 Charles De Visscher, Theory and Reality in Public International Law, trans.
+P. E. Corbett, Princeton, 1957, p. 336.
+
+
+
+statement . . . This is the essential nature of the equitable: it is a recti-
+fication of law where law is defective because of its generality.” !
+
+134. Equity could thus adopt a dominant attitude and correct a law that
+is defective, or adopt a soft or more lenient interpretation of a law, thus
+tempering its rigidity without conflicting with it. The former attitude is, as
+already noted, inapplicable to international law.
+
+135. However, the latter aspect of flexibility, which is relevant, is cap-
+tured by Aristotle in the same work in his comparison of the indefinite-
+ness of equity to the “leaden rule used by Lesbian builders”, which “is not
+rigid but can be bent to the shape of the stone”? . In the context of mari-
+time delimitation, each case presents upon the facts a different shape from
+every other, and equity adjusts itself around that shape in the manner
+described because it is flexible, where a rigid rule would scarcely do it
+justice. The Judgment in this case does no less.
+
+(d) Through the choice of an equitable principle
+
+136. This is an aspect relevant to the judicial processes involved in the
+present case, for there are many equitable principles (and procedures and
+methods) that can be used. The Court, for reasons stated, has made its
+choice among these in deciding upon the line of delimitation it has
+chosen.
+
+137. The judicial function by its very nature involves a choice among
+competing principles all of which in one way or another have relevance to
+the matter in hand. What principles a court adopts from the range of
+choice available is determined by a weighing of considerations such as
+those of relevance, immediacy to the problem, practical value in the par-
+ticular circumstances, and the degree of authority of the principle. These
+are matters in which a court’s experience and sense of judgment will pro-
+vide it with guidance. In such situations, an important additional guide
+would be, within the limits of choice available in law, the court’s sense of
+justice, fairness and equity.
+
+138. In relation to maritime delimitation, apart from a few specific
+principles such as the equidistance-special circumstances rule (which
+have already emerged), it would be a matter for the court, among the range
+of general principles (and procedures and methods) available, to make
+such a choice as is in accordance with law and its sense of justice.
+
+139. This is another illustration of what Julius Stone describes as the
+“element of evaluative choice” that is part and parcel of the judicial pro-
+cess3. To use another expression of that eminent jurist, “leeways of judi-
+
+! Aristotle, The Nicomachean Ethics, H. Rackham (trans.), Loeb Classical Library,
+revised ed., 1934, pp. 315 and 317.
+
+2 Ibid.
+
+3 See Julius Stone, Legal System and Lawyers’ Reasonings, 1964, p. 305.
+
+
+
+cial choice”! exist within the concept of equity, as indeed they do in most
+departments of the law. The fact that international law is involved, rather
+than domestic law, does not alter the nature of the judicial process. Equity
+never was nor ever will be a completely objective department of legal
+knowledge. In the words of a well-known treatise, “Equity may play
+a dramatic role in supplementing the law or appear unobtrusively as
+part of legal reasoning.”
+
+(e) Through the use of judicial discretion
+
+140. Some aspects of this have already been dealt with in so far as judi-
+cial discretion relates to the choice of an appropriate principle for appli-
+cation. Judicial discretion also comes into operation in regard to the
+choice of an appropriate solution from among a range of choices, all of
+them equally available on the basis of the Court’s reasoning. Indeed, this
+aspect is particularly relevant in the present case, for, in theory, an infinite
+number of possible lines of delimitation would be available within the
+framework of the principles which the Court has chosen to follow.
+
+141. This aspect assumes even more relevance having regard to the
+express averment in paragraph 90 of the Judgment that the adjustment of
+the median line would be within “the measure of discretion conferred on
+the Court by the need to arrive at an equitable result”. I agree with this
+assertion of judicial discretion, for it is an explicit averment of what is
+often an implicit assumption. Itis essential to point out, if one may borrow
+the combined judicial and academic wisdom of O. W. Holmes and
+Julius Stone, that, in matters such as this, there are no unique answers
+which are “‘right’ in some absolute sense, as if judgment consists of
+‘adding up one’s sums correctly’ 3. The court, as distinct from an arbitra-
+tor or conciliator, works within certain parameters set by law. It exercises
+its discretion within the parameters thus set, and, where it uses the flexible
+tools of equity, it uses them infra legem. But yet, as with every exercise of
+judicial discretion, there is a range of choices available to the judge within
+a broad framework of permissible limits. Where the choice falls within
+that range depends upon the judge, and how he makes his choice depends
+on the guiding principles he employs. This is not an area of lacunae in the
+law, for, though the law can offer guiding principles, it is by its very nature
+incapable of covering entirely the innumerable permutations and combi-
+nations of fact that present themselves in a given case.
+
+! Julius Stone, Legal System and Lawyers’ Reasonings, 1964, p. 304.
+
+2 Tan Brownlie, Principles of International Law, 4th ed, 1990, p. 26.
+
+3 Julius Stone, Legal System and Lawyers’ Reasonings, 1964, p. 305; and
+O. W. Holmes, Jr, “Path of the Law”, 10 Harvard Law Review (1897), pp. 465-466.
+
+4 This distinction between the modes of operation of a judge and arbitrator was noted
+by Aristotle in a passage picked up by Grotius (see p. 233, footnote 1, above).
+
+
+
+142. The use of judicial discretion may not be one of the great illumi-
+nated places of the law but, within it, equity is par excellence one of the
+lights! available to a judge in determining his preference amidst the lee-
+ways of choice available“. Equity here may consist of specific principles
+that have emerged from equity, or equity in the broad and general sense
+already discussed. Either way equity can enter international law and make
+a vital contribution to its continued development. Since the use of judicial
+discretion within the prescribed parameters is thus a necessary and intrin-
+sic part of the judicial process, a court exercising its discretion in a case
+such as this does not exceed its judicial function in making its considered
+choice, within those limits, on the basis of its sense of the fair and equi-
+table. Nor does it need to feel inhibited, in the exercise of that very proper
+function, by concerns that it is trespassing beyond the limits of the judicial
+function. Viewed thus, the whole spectrum of equitable applications, uses
+and methods stretches out before the Court, enabling the best choice to be
+made from the range available within the limits of its authority.
+
+(f) Through filling in gaps and interstices in the law
+
+143. This has already been dealt with in the context of equity praeter
+legem.
+
+(g) Through following equitable procedures
+144. This has already been dealt with in classification I (b) above.
+
+(h) Through the application of equitable principles already embedded in the law
+
+145. Many principles of equity such as unjust enrichment, good faith,
+contractual fairness and the use of one’s property so as not to cause
+damage to others are already embedded in positive law. In the field of
+international law the position is the same. When one applies such a rule of
+
+! There could of course be several others, especially in a municipal forum, where a
+judge may consciously or unconsciously lean towards, for example, a utilitarian, an
+analytical positivist, a realist, or other philosophical stance in making his decision. See
+C. G. Weeramantry, “The Importance of Philosophical Perspectives in the Judicial
+Process”, 6 Connecticut Journal of International Law (1991), p. 599.
+
+2 Onleeways of choice in judicial discretion, see, generally, Julius Stone, Human Law
+and Human Justice, 1965, pp. 304-312. See also Lon L. Fuiler, The Morality of Law,
+revised ed., 1969, for a view of the choices available, ranging from what Fuller calls
+the morality of aspiration, high up on the scale, to the morality of duty lower down.
+The more idealistic judge would make his choice higher up the scale than the more
+pragmatic. The highest points of the scale would be unsuitable for practical use.
+
+
+
+positive law, one is thus giving effect at the same time to a principle of
+equity. At what precise time a particular rule of equity takes on also the
+mantle of a rule of law is often a difficult question to decide. The results
+reached would often be the same, and probing the matter further may then
+be a merely academic exercise.
+
+(i) Through its use in negative fashion to test a result
+
+146. This has already been dealt with in classification V (b) above.
+
+VIII. The Stages of Equitable Decision-Making!
+
+147. Itis perhaps helpful, in analysing a judgment involving the use of
+equity, to note that equity has not been applied in one sweeping operation,
+but that it is a careful and ordered process involving sequential stages
+which can be separately examined. The Judgment of the Court in this case
+applies equity in this ordered fashion and has my support in regard to the
+decision taken at each of these stages. These stages could of course be
+differently analysed, but the following stages perhaps represent the
+Court’s approach to the problem.
+
+(a) The identification of the area of the dispute
+
+148. The earlier part of the Judgment carefully considers this aspect in
+some detail (para. 21), specifying the three areas involved. The extent of
+the relevant area is also specified.
+
+(b) The preparatory phase of assembling the relevant circumstances
+
+149. As in this case, the next task that presents itself is to assemble the
+relevant circumstances. In so doing, the Court would independently
+assess the relevance of each circumstance. The Judgment of the Court
+indicates what circumstances it considers relevant. The particular circum-
+stances involved in this case are referred to in Part B of this opinion.
+
+150. In working on this preparatory phase the Court would be guided
+by the equitable procedure of considering every item relevant to the
+matter under examination. The decision whether a matter has relevance
+or not would naturally be dependent also on any applicable rules of law,
+for the equity the Court is here using is not equity contra legem. This
+
+! See, on this aspect, Michel Virally (“L’équité dans le droit. A propos des problèmes
+de délimitation maritime”, in International Law at the Time of Its Codification : Essays in
+Honour of Roberto Ago, 1987, Vol. 11, pp. 526-530), which makes a three-fold division.
+For a more elaborate analysis into five stages, see J. Charney, “Ocean Boundaries
+between Nations : A Theory for Progress”, op. cit. See, also, for a four-fold classification
+into identification of area, identification of method, application of practical method
+and assessment of equitability, M. D. Evans, Relevant Circumstances and Maritime Deli-
+mitation, 1989, pp. 87-88.
+
+
+
+aspect is of crucial importance in determining for example whether such
+circumstances as population or economic factors should be taken into
+account.
+
+(c) The decisional phase
+
+151. This has a three-fold aspect — decisions in regard to the appropri-
+ate rules, whether of law or equity that have to be employed; decisions in
+regard to the assessment of the facts found to be relevant under head (5);
+and the application of rules of law or equity to those facts to produce a
+practical result.
+
+152. Once the relevant circumstances are determined, their weight has
+to be assessed. What weight would, for example, be given to the ice factor
+in this case in working out a principle of fair division ? What is its weight
+both intrinsically and when matched against the other relevant factors?
+What is the weight to be given to proportionality in the light of the dispro-
+portionate coastal lengths involved?
+
+153. Thus each factor needs to be assessed for its intrinsic importance
+and for the weight it carries amidst the totality of relevant factors.
+
+(d) The confirmatory phase
+
+154. The Court would then reach a result, but that result needs to be
+tested, for equitable principles or procedures do not automatically lead to
+an equitable result. As already noted, while equidistance might represent
+an equitable principle or method, it could lead to a result which is not
+equitable. A result must not be unjust. The philosophical underpinnings
+of this concept have already been discussed in relation to the a posteriori
+use of equity in category V above.
+
+155. This short survey of the handling of equity in the Judgment, and of
+possible approaches to the application of equity, will show the multitude
+of heads and the diversity of routes through which equity becomes avail-
+able to the Court. It is hoped, also, that this analysis will have shown the
+inevitability of the entry of equity into a problem such as that confronting
+the Court, the productive role it can play through judicial decision and
+otherwise in constructing the law of the future and the fact that equity is a
+vital and integral part of positive law which one neglects only at the cost of
+legal development.
+
+UNCERTAINTIES IN THE USE OF EQUITY
+
+156. Itis intrinsic to the operation of equity that there are some uncer-
+tainties in regard to the extent of its application and the results which
+emerge. This has already been noted in an earlier part of this opinion.
+
+
+
+Some of the causes of these uncertainties, with special reference to mari-
+time delimitation, are separately considered below with a view to address-
+ing the question whether there is in equity, as is sometimes alleged, a
+quality of uncertainty which renders it an unsuitable instrument for deter-
+mining the claims of parties in a matter such as this.
+
+(a) Absence of mechanisms for precise quantification
+
+157. To expect greater precision is to ignore the very nature of equity L.
+One is reminded here of the Aristotelian aphorism that only so much
+precision can be achieved as the subject-matter will allow. The factual
+material which equity deals with is in most cases rarely assessable in
+quantifiable terms. Equity has no fine balances at its command to
+weigh human conduct, no graded units of value with which to measure
+the particular mix of varied factors a given case may present. It makes in
+most cases an overall assessment on the basis of legal principle and human
+experience and will not be able, in mathematical fashion, to produce a result
+precisely calibrated to match the circumstances, if, indeed, such a result
+were at all possible, having regard to the nature of the subject-matter.
+
+158. When therefore a court, as in this case, translates an equitable
+finding into a delimitation, it is only in terms of an assessment of the equi-
+ties as closely as it can and not with any suggestion that the resulting
+cartographic delimitation mirrors the exact ratio of equities involved.
+Certainties such as are contended for here do not exist even in the realm
+of the law, leave alone the realm of equity2.
+
+(b) Lack of definiteness in the scope of equity
+
+159. Equity’s seeming weakness in defying comprehensive definition3,
+or precise quantification is at the same time one of its strengths, for it has
+
+! Judge Manley Hudson points out:
+
+“The conceptions introduced into the law as principles of equity cannot be listed
+with definiteness; but they are not to be discarded because they are vague, for that
+is a quality attaching to international law itself . . .” (The Permanent Court of Inter-
+national Justice, 1920-1942 (1972 reprint, intro. by L. B. Sohn), p. 617.)
+
+2 On the belief in legal certainty even in law, as opposed to equity, see Julius Stone,
+The Province and Function of Law, 1946, pp. 204-205 :
+
+“[T]he defence of legal ‘certainty’ insofar as it assumes that certainty can be
+attained by continuing to adhere closely to logical development of the ‘principles
+of law’, is defending what has never existed. The appearance of certainty and
+stability in legal rules and principles conceals existing uncertainty.”
+
+3 O. Schachter, op. cit p. 82: “No concept of international law resists precise defini-
+tion more than the notion of equity.”
+
+
+
+given it the flexibility to make a prime contribution to the development of
+the law. Try as one may to achieve the desirable goal of certainty, this
+remains elusive, for
+
+“the finest legal dissertations on equity will never succeed in com-
+pletely eliminating what is perhaps an irreducible core of judicial
+subjectivism ...” (Continental Shelf (Libyan Arab Jamahiriya/Malta),
+ICJ. Reports 1985, p. 90, para. 37, joint separate opinion of
+Judges Ruda, Bedjaoui and Jiménez de Aréchaga).
+
+Elsewhere in this opinion, reference has been made to the series of semi-
+nal principles equity has contributed to international law. These have pro-
+ceeded from its quality of flexibility, its ability to handle new situations for
+which legal precedent affords no guidance, and its conformity with justice
+and fairness. In maritime delimitation law, likewise, these qualities will no
+doubt assist it in shaping that body of law in equitable fashion, and each
+individual decision based on equity, such as the present case can contri-
+bute to this end. The day equity is completely captured in a definition or
+formula, its creativity would be at an end.
+
+(c) Lack of crystallization of equitable results
+
+160. Inthe special field of the law of the sea, equitable concepts remain
+largely undefined and their theoretical foundations unclear. This is but
+natural, particularly in such an actively developing field, for as
+De Visscher has observed,
+
+“if one views the matter historically, rules of law have at all times
+been largely the offshoots of equity before being crystallized within
+the positive legal order” L.
+
+The danger of overconceptualization of equitable principles has indeed
+been noted by this Court in the context of the law of the sea?, however
+great the apparent need to concretize the application of equity in this field.
+
+(d) Changing nature of the law of the sea
+
+161. An additional circumstance making for uncertainty in this field
+should also be noted — namely that the uncertainties of equity are com-
+
+! Charles De Visscher, De l'équité dans le règlement arbitral ou judiciaire des litiges de
+droit international public, 1972, pp. 8-9:
+
+“envisagées du point de vue de la formation historique de leur contenu, les règles
+de droit ont de tout temps été largement tributaires de l’équité avant de se cristal-
+liser dans l’ordre juridique positif.”
+
+See, also, M. D. Blecher, “Equitable Delimitation of Continental Shelf”, 73 American
+Journal of International Law (1979), pp. 83-88.
+2 Continental Shelf (Tunisia/Libyan Arab Jamahiriya), I.C.J. Reports 1982, p. 92.
+
+
+
+pounded, in relation to the law of the sea, by the fact that the law of the sea
+itself has been undergoing a process of spectacular change. Some cases
+such as the 1969 North Sea Continental Shelf cases and the 1982 Continen-
+tal Shelf (Tunisia Libyan Arab Jamahiriya) case occurred before the Law
+of the Sea Convention was signed, whereas others such as the 1985 Conti-
+nental Shelf (Libyan Arab Jamahiriya/Malta) case and the 1985 Guinea/
+Guinea-Bissau cases occurred after. Maritime delimitations such as are
+sought in this case straddle the Geneva Convention of 1958 and the
+Montego Bay Convention of 1982, with all the conceptual changes occur-
+ring between 1958 and the present day.
+
+162. Not only was a new dimension given by that Convention to the
+applicability of equity but the very concepts to which it was being
+applied — such as that of the exclusive economic zone — were in a state of
+dynamic evolution. New concepts unknown in the 1950s such as that of
+the exclusive economic zone were gathering strength even as older con-
+cepts such as that which based the continental shelf on a natural prolonga-
+tion were losing momentum. It is no cause for surprise that flexible
+principles superimposed upon so fluid a subject should have failed to pro-
+duce a greater predictability of legal result.
+
+(e) The resort to fact-intensive rather than rule-intensive procedures
+
+163. An important aspect which the Court must address in maritime
+delimitation cases is the extent to which it should concentrate on the vari-
+able facts of each separate case rather than on a search for overriding
+rules which are common to all!. The juristic literature describes the for-
+mer as fact-intensive rather than rule-intensive procedures, and points to
+the concentration on fact-intensive procedures as an additional cause of
+uncertainty in this area of the law. However, the type of enquiry involved
+in the present case necessarily requires heavy reliance on fact-intensive
+procedures. Additionally, the crystallization of equitable rules relating to
+delimitation has not yet reached a stage of sufficient maturity to be a com-
+prehensive guide?. Fact-intensive procedures must therefore continue to
+play a significant role in maritime delimitations.
+
+164. In the history of maritime delimitation, there have indeed been
+attempts to reduce the solution of this problem to rule-intensive pro-
+cedures specified with nearly mathematical precision*. The effort at one
+
+Schachter, op. cit., p. 87.
+
+2 See, generally, Schachter, ibid...
+
+3 As perhaps best illustrated by J. L. Azcarraga’s suggestions running to three pages
+of mathematical formulae titled “Nuestra Formula Matematica”, in La Plataforma Sub-
+marina y el Derecho Internacional, 1952, pp. 82-84. The formulae allocate different areas
+of shelf according to three fixed factors — number of inhabitants, length of coast and
+area of territory.
+
+
+
+stage to erect the concept of equidistance into a rigid rule was another
+attempt at rule-intensive solutions aimed at achieving a predictable cer-
+tainty of result.
+
+165. The self-limiting nature of such formulae is clear, especially in the
+light of later experience revealing the relevance of numerous factors,
+some of which may not have been foreseen, and some of which — such as
+State conduct — cannot possibly be the subject of pre-set assessments.
+Legal concepts cannot thus be locked into the rigours of mathematical
+method.
+
+PART B. PARTICULAR INVOCATIONS OF EQUITY
+IN MARITIME DELIMITATION
+
+Long-standing Recognition of Equity in the Law of the Sea
+
+166. Apart from the general applicability of equity in international law
+which would, in any event, draw it into disputes in relation to the law of
+the sea, it has also been specifically drawn into the law of the sea by treaty,
+proclamation, judicial and arbitral decisions and State practice. Equity
+has long been specifically drawn into the law of the sea in this fashion.
+This aspect is dealt with in the Judgment of the Court and I shall deal with
+it only in outline. It will suffice for present purposes to note that its invoca-
+tion in the Truman Proclamation (of 28 September 1945) was coeval with
+the very birth of the continental shelf doctrine. The statement in that Proc-
+lamation that the determination of boundaries, where the continental
+shelf extended to the shores of another State or was shared with another
+State, was to be in accordance with equitable principles was a significant
+early indication that the law of the sea would, in its formative phase, lean
+heavily on equity.
+
+167. Alandmark event was the Geneva Convention of 1958 which will
+be considered below. However, even before this, the régime of equity in
+this field was well established:
+
+“It is generally admitted that in State practice prior to the Gen-
+eva Conference of 1958 the tendency was to refer in general terms to
+the delimitation of continental shelf boundaries or ‘equitable prin-
+ciples’ . . .” (North Sea Continental Shelf, T.C.J. Reports 1969, p. 91,
+Judge Padilla Nervo, separate opinion.)
+
+168. In the jurisprudence of this Court in maritime disputes, the equi-
+table approach received recognition in 1951 in the Anglo-Norwegian
+Fisheries case!. The development of this trend, through a series of
+
+! I.C.J. Reports 1951, p. 142. See, also, S. Rosenne, The International Court of Justice,
+1957, pp. 427-428.
+
+
+
+cases! until the latest decisions of this Court, has entrenched equity as
+a key legal factor in this field. This trend is evident also in the arbitral
+decisions?.
+
+169. In the deliberations during UNCLOS III, the role of equity in
+relation to the law of the sea progressively achieved increasing recogni-
+tion, till it became enshrined as a cardinal principle in the final draft of the
+Convention, in Articles 74 and 83. In achieving this status, equity dis-
+placed other suggested criteria such as equidistance which had appeared
+in earlier drafts as the prime consideration for delimitation. Indeed, a
+deep concern for equitable considerations permeates the Convention (see
+Arts. 160 (2) (d), 161 (1) (e), 162 (2) (d), 163 (4), 274 (a)).
+
+170. So much importance has equity gained in this regard that it has
+been described as “currently gaining ground as the central principle of
+maritime boundary delimitation over the 1958 equidistance-special cir-
+cumstances rule”.
+
+The Use of Equity in the 1958 Geneva Convention
+
+171. The 1958 Geneva Convention on the Continental Shelf provides
+by Article 6 that, where the same continental shelf is adjacent to the
+territories of the two States whose coasts are opposite to each other, the
+boundary of the continental shelf appertaining to such States shall be
+determined by agreement between them:
+
+“In the absence of agreement, and unless another boundary line is
+justified by special circumstances, the boundary is the median line,
+every point of which is equidistant from the nearest points of the
+baselines from which the breadth of the territorial sea of each State is
+measured.”
+
+172. Judge Oda has observed that, although not specifically mentioned
+in Article 6, the idea of an equitable solution lay at the basis of that provi-
+sion* which can perhaps be regarded as having inferentially attracted
+equity into delimitation.
+
+! North Sea Continental Shelf cases, I.C.J. Reports 1969, p. 3; Continental Shelf
+(Tunisia/Libyan Arab Jamahiriya) case, I.C.J. Reports 1982, p. 18; case concerning Deli-
+mitation of the Maritime Boundary in the Gulf of Maine Area, I.C.J. Reports 1984, p. 246;
+and Continental Shelf (Libyan Arab Jamahiriya/Malta) case, I.C.J. Reports 1985, p. 13.
+
+2 See, in particular, the decisions of the. Court of Arbitration in the Delimitation of the
+Continental Shelf between the United Kingdom and France case, RIAA, Vol. XVIII,
+pp. 3 ff.; and Chile/Argentina Beagle Channel Arbitration, International Legal Materials,
+1978, pp. 36 ff.
+
+3 H. W. Jayewardene, Regime of Islands in International Law, 1990, p. 316.
+
+4 Continental Shelf (Tunisia/Libyan Arab Jamahiriya), 1.C.J. Reports 1982, p. 246,
+para. 144, dissenting opinion of Judge Oda.
+
+
+
+173. There are two pointers in the Article to the area of enquiry in
+which the Court should engage itself —
+
+(i) any agreement between the parties, and,
+(ii) in the absence of such agreement, whether any line other than the
+median line is justified by special circumstances.
+
+174. Under each of these heads, there are matters which arise for con-
+sideration.
+
+175. Under the first head, there is the Agreement of 1965 between Nor-
+way and Denmark which is considered in the Judgment of the Court.
+I respectfully express my agreement with the conclusion of the Court that
+that Agreement does not relate to the maritime area in dispute in the
+present case.
+
+176. Under the second head, the Court has been addressed on a num-
+ber of factors — relative populations, proportionality of coastlines,
+respective landmasses and economic importance to the appurtenant
+coast, to mention a few. These matters will receive consideration later in
+this opinion. It is my view that none of them can be ruled out in limine on
+the basis of a general principle of irrelevance relating to any one category.
+
+177. As was observed by the Court of Arbitration in Delimitation of the
+Continental Shelf between the United Kingdom and France in 1977:
+
+“the réle of the ‘special circumstances’ condition in Article 6 is to
+ensure an equitable delimitation; and the combined ‘equidistance-
+special circumstances rule’, in effect, gives particular expression to a
+general norm that, failing agreement, the boundary between States
+abutting on the same continental shelf is to be determined on equi-
+table principles” !.
+
+The Use of Equity in the 1982 Montego Bay Convention
+
+178. The “equitable solution” formula contained in the Convention
+(Arts. 71 (1) and 83 (1)) — a compromise between that favoured by the
+equidistance group? and that favoured by the equitable principles
+group3 — gave further recognition to the role of equity.
+
+! RIAA, Vol. XVIII, p. 45, para. 70.
+
+2 “The delimitation of the Exclusive Economic Zone/Continental Shelf between
+adjacent or opposite States shall be effected by agreement employing, as a general
+principle, the median or equidistance line, taking into account any special circum-
+stances where this is justified.” (Doc. NG 7/2/Rev.2, 28 March 1980, cited by
+Brown, “Delimitations of Offshore Areas: Hard Labour and Bitter Fruits at
+UNCLOS III”, Marine Policy (1981), p. 180.)
+
+3 “The delimitation of the exclusive economic zone between adjacent or/and oppo-
+site States shall be effected by agreement, in accordance with equitable principles
+taking into account all relevant circumstances and employing any methods where
+appropriate, to lead to an equitable solution.” (Doc. NG 7/10/Rev.2, 28 March
+1980, cited by Brown, op. cit.)
+
+
+
+179. As is observed in a contemporary text on the régime of islands
+under international law:
+
+“The most distinctive feature of the provision [on the economic
+zone and continental shelf in the Informal Single Negotiating Text]
+was the abandonment of the 1958 equidistance-special circum-
+stances model in favour of a formula based on the principle of equi-
+table delimitation.”!
+
+180. The acceptance by both groups? of phraseology including “an
+equitable solution” despite the wide disparities in the positions of the two
+groups gives equity a position of special importance in this sensitive and
+controversial area of international law, thus creating a special need for a
+fuller investigation of all the implications of the phraseology so adopted*.
+
+Categories of Relevant Factors Are Not Closed
+
+181. In paragraphs 122-128 above dealing with the operation of equity
+through the balancing of interests, attention has been given to the way in
+which the various relevant circumstances are weighed against each other.
+Reference was there made to the North Sea cases which stated that there
+was no legal limit to the considerations which States take account of for
+this purpose. So, also, in the Libya/Malta case, this Court observed:
+
+“For a court, although there is assuredly no closed list of consider-
+ations, it is evident that only those that are pertinent to the institution
+of the continental shelf as it has developed within the law, and to the
+application of equitable principles to its delimitation, will qualify for
+inclusion.” (I.C.J. Reports 1985, p. 40, para. 48.)
+
+182. No complete list can be made, if for no other reason than that each
+case is unique and one can never foretell what circumstances may surface
+or achieve importance in the unknown disputes of the future. Moreover,
+
+! H. W. Jayewardene, The Regime of Islands in International Law, 1990, p. 320.
+
+2 See Official Records of the Third United Nations Conference on the Law of the Sea,
+Vol. XV, pp. 39-42, for the discussion on the compromise text formulated by the Presi-
+dent, and for its acceptance by the two groups concerned.
+
+3 It is not necessary for present purposes to enter into discussions of the question
+whether the provisions of the Convention have acquired the force of customary interna-
+tional law. That question is not free of controversy — see Jennings, “Law Making
+and Package Deal”, in Mélanges offerts à Paul Reuter, Paris, 1981, pp. 347-355;
+L. A. Howard, “The Third UN Conference on the Law of the Sea and the Treaty/
+Custom Dichotomy”, 16 Texas International Law Journal (1981), pp. 321-345;
+H. Caminos and M. R. Molitor, “Progressive Development of International Law and
+the Package Deal”, 79 American Journal of International Law (1985), pp. 871-890; and
+M. C. W. Pinto, “Maritime Security and the 1982 UN Conference on the Law of the
+Sea”, Maritime Security, The Building of Confidence, UNIDIR, 1993, p. 9, at pp. 40-46.
+
+4 I.CJ. Reports 1969, p. 50, para. 93.
+
+
+
+each item — such as State conduct or national security — is infinitely
+variable and, more often than not, is itself a conglomerate of factors
+which themselves need to be assessed and evaluated. This Court’s descrip-
+tion of each as “monotypic”! thus aptly captures its individuality.
+
+183. Itmay be noted that, although the 1961 Helsinki Rules on the Uses
+of Water of International Rivers, contained in Article V, paragraph 2, a list
+of relevant factors, the list is expressly stated to be non-exhaustive.
+
+184. From these preliminary observations to what extent can the pro-
+cess be carried forward of developing equitable principles in relation to
+maritime delimitation ?
+
+185. Since “there is no legal limit to the considerations which States
+may take account of”?, it would seem, for example, that they cannot be
+limited to the purely geographic. Geographic factors may perhaps be used
+as the starting point for an enquiry of this nature, and it is right to stress
+their importance. However the equitable solution yielded by the applica-
+tion of the principles of equity is not attained by the mere application of
+geographically based principles such as the equidistance principle. In the
+anxiety to concretize equitable principles by relating them to demon-
+strable and quantifiable data such as geographic data we may perhaps
+shut out important considerations relevant to equity. Definiteness of
+principle is no doubt an important value to be striven after3, but it could
+be bought at too high a price at an incipient stage of development of a legal
+concept.
+
+186. Among the factors taken into consideration in the Tunisia Libya
+case were not merely geographical factors but historical and political fac-
+tors as well. Among these were the history of the enactment of petroleum
+licensing by each party and the grant of successive petroleum conces-
+sions*, and such indicia as were available of the line or lines which the
+parties themselves had considered equitable or acted upon as such”.
+
+187. When one ventures outside the areas of pure geography and geo-
+logy, one encounters considerations which are of immense importance in
+the real world — matters such as population, security, history, practical
+usability, political status and economic dependence. Doubtless they will
+
+1 I.C.J. Reports 1984, p. 290, para. 81.
+
+2 North Sea Continental Shelf cases, I.C.J. Reports 1969, p. 50, para. 93.
+
+3 See Shigeru Oda, “Delimitation of a Single Maritime Boundary”, in International
+Law at the Time of Its Codification: Essays in Honour of Roberto Ago, 1987, Vol. II,
+p. 349.
+
+4 See Continental Shelf (Tunisia/Libyan Arab Jamahiriya), I.C.J. Reports 1982, p. 83,
+para. 117.
+
+5 Ibid, p.84, para. 118. See, also, Jiménez de Aréchaga, “The Conception of Equity in
+Maritime Delimitation”, in International Law at the Time of Its Codification: Essays in
+Honour of Roberto Ago, 1987, Vol. II, p. 232.
+
+
+
+have different values in individual cases varying from the minimal to the
+immensely influential and these will need to be taken into consideration
+and evaluated.
+
+188. In the Delimitation of the Continental Shelf between the United
+Kingdom and France, the United Kingdom relied upon such matters as
+demography and economics! and, though the court did not regard them
+as exercising a decisive influence on the delimitation, it held that they
+could support and strengthen, but not negative, any conclusions indicated
+by the geographical, political and legal circumstances? To quote
+Judge Jiménez de Aréchaga again:
+
+“All the relevant circumstances are to be considered and balanced;
+they are to be thrown together into the crucible and their interaction
+will yield the correct equitable solution of each individual case.”
+(I.C.J. Reports 1982, p. 109, para. 35.)
+
+189. Equity was by very definition the process by which situations
+which could not be provided for by the specific letter of a legal rule were
+taken into account where the purely mechanical application of the rule
+would shut them out. It would be a negation of that flexibility which is a
+characteristic of equity if we were at this early stage in the development of
+maritime demarcation to introduce into it the very element of rigidity
+which equitable doctrine was devised to prevent. As this Court observed
+in Tunisia/Libya, no attempt should be made to overconceptualize the
+application of the principles and rules applicable to the continental shelf
+(ibid., p. 92, para. 132).
+
+The Equidistance Principle
+
+190. Itis necessary to consider the status of the equidistance method, as
+Norway lays great store by it, not only in its own right but also by virtue of
+the 1965 Agreement between the Parties.
+
+191. Speaking in general terms, three possible ranks may be assigned to
+this rule:
+
+(i)- the status of a mandatory rule either under customary international
+law or, where parties are bound by the Convention, in the absence
+of agreement or justification of a different rule by other circum-
+stances;
+
+(ii) astatus of priority over other equitable factors to be considered;
+
+(iii) a status of parity with other equitable factors.
+
+! RIAA, Vol. XVIII, pp. 84-85, paras. 171-173.
+2 Ibid., p. 90, para. 188.
+
+
+(i) Is it a mandatory rule?
+
+192. Inthe North Sea Continental Shelf cases, this Court, while viewing
+the equidistance rule as one of great practical convenience and wide
+applicability, held that the equidistance method was neither prescribed by
+a mandatory rule of customary international law (I.C.J. Reports 1969,
+p. 46, para. 83, p. 53, para. 101) nor an inherent necessity of continental
+shelf doctrine (ibid., pp. 35-36). Placing the rule in the context of its equi-
+table origins, the Court observed :
+
+“It was, and it really remained to the end, governed by two
+beliefs; — namely, first, that no one single method of delimitation
+was likely to prove satisfactory in all circumstances, and that delimi-
+tation should, therefore, be carried out by agreement (or by reference
+to arbitration); and secondly, that it should be effected on equitable
+principles. It was in pursuance of the first of these beliefs that in the
+draft that emerged as Article 6 of the Geneva Convention, the Com-
+mission gave priority to delimitation by agreement, — and in pursu-
+ance of the second that it introduced the exception in favour of
+‘special circumstances’. Yet the record shows that, even with these
+mitigations, doubts persisted, particularly as to whether the equi-
+distance principle would in all cases prove equitable.” (Ibid.
+pp. 35-36, para. 55.)
+
+193. The Gulf of Maine case also made this clear:
+
+“The Chamber must therefore conclude in this respect that the
+provisions of Article 6 of the 1958 Convention on the Continental
+Shelf, although in force between the Parties, do not entail either for
+them or for the Chamber any legal obligation to apply them to the
+single maritime delimitation which is the subject of the present case.”
+(1.C.J. Reports 1984, p. 303, para. 125.)
+
+194. This Court tersely summarized the jurisprudence on this point
+when it observed in the Libya/ Malta case,
+
+“The Court is unable to accept that, even as a preliminary and pro-
+visional step towards the drawing of a delimitation line, the equidis-
+tance method is one which must be used . . .” (LC. Reports 1985,
+p. 37, para. 43.)
+
+195. Ifthe rule is to have a mandatory status under the Convention, this
+can only occur in the absence of agreement and in the absence of justifica-
+tion by special circumstances. Where special circumstances exist, as they
+do in this case, the equidistance rule cannot in any event be mandatory.
+
+196. Although the equidistance rule may be basically equitable in con-
+ception and origin, it is by its very nature and definition inflexible, con-
+trasting in this respect with the flexibility of equity which enables the latter
+
+
+
+to accommodate itself to varying and unforeseeable conditions which
+must depend on each particular case.
+
+(ii) Does it have priority over other factors ?
+
+197. This Court also expressed itself on this aspect in the North Sea
+Continental Shelf cases, when it said that this rule did not have a privileged
+status in relation to other methods. State practice, as the Court observed,
+often resorted to this rule but it showed also that in many cases other
+criteria had been resorted to, when they were found to offer a better
+way to reach agreement.
+
+198. As the Chamber observed in the Gulf of Maine case, “Nor is there
+any method of which it can be said that it must receive priority”
+(I.C.J. Reports 1984, p. 315, para. 163).
+
+199. In the Libya Malta case, this Court observed that
+
+“the equidistance method has never been regarded, even in a delimi-
+tation between opposite coasts, as one to be applied without modifi-
+cation whatever the circumstances” (I.C.J. Reports 1985, p. 48,
+para. 65).
+
+(iii) Does it have parity with other factors ?
+
+200. The previous discussion shows that the equidistance rule, impor-
+tant though it be, is one of the multiple factors that need consideration in
+the context of any delimitation case. What can be said of these different
+factors is that they may assume different degrees of importance in the con-
+text of different cases, but that there is no ranking order among them. This
+was the position under the 1958 Convention but, after the 1982 Conven-
+tion, the matter has been made clearer still.
+
+201. It is perhaps not without significance that the equidistance rule
+does not appear in either Article 74 or Article 83 of the Convention on the
+Law of the Sea, 1982, although the Revised Single Negotiating Text
+(RSNT) of 19762, and the Informal Composite Negotiating Text (ICNT)
+of 19773 as well as the two revised texts of the latter contained a reference
+to the median or equidistance line “where appropriate”.
+
+202. The Court of Arbitration in Delimitation of the Continental Shelf
+between the United Kingdom and France, 1977, placed the equidistance
+rule in context when it observed that:
+
+1 T.C.J. Reports 1969, pp. 45-46, para. 82.
+2 See Official Records of the Third United Nations Conference on the Law of the Sea,
+Vol. V, pp. 164 and 165. Articles 74 and 83 were then numbered 62 and 71, respectively.
+
+3 See ibid., Vol. VIII, pp. 16 and 17.
+4 See ibid. Vol. X111, pp. 77-78.
+
+
+
+“even under Article 6 [of the 1958 Convention] it is the geographi-
+cal and other circumstances of any given case which indicate and jus-
+tify the use of the equidistance method as the means of achieving an
+equitable solution rather than the inherent quality of the method as a
+
+legal norm of delimitation” 1.
+
+The Court went on to observe that the equidistance method, like any other
+method, was “a function or reflection of the geographical and other rele-
+vant circumstances of each particular case”?
+
+203. The status of parity of the equidistance method when compared
+with others was well expressed by the Arbitral Tribunal in the dispute
+between Guinea and Guinea-Bissau, 1985, when it said:
+
+“Le tribunal estime pour sa part que l’équidistance n’est qu’une
+méthode comme les autres et qu’elle n’est ni obligatoire ni prioritaire,
+même s’il doit lui être reconnu une certaine qualité intrinsèque en
+raison de son caractère scientifique et de la facilité relative avec
+laquelle elle peut être appliquée.”*
+
+The “Special Circumstances” Principle
+
+204. “Attempts made at the Geneva Conference on the Law of the Sea
+to strike out the alternative of ‘special circumstances’ and to make the
+equidistance method the only rule were rejected by a large majority.”
+(North Sea, 1.C.J. Reports 1969, p. 93, Judge Padilla Nervo, separate opin-
+ion.) This is readily understandable when one considers that
+
+“in certain geographical circumstances which are frequently met
+with, the equidistance method, despite its known advantages, leads
+unquestionably to inequity . . .” (ibid., Judgment, p. 49, para. 89).
+
+205. This principle articulates the rule of procedural equity that all
+material circumstances relevant to the matter in hand should be taken into
+account in reaching an equitable result and that no legally relevant cir-
+cumstances should be left out of consideration unless there is compelling
+reason to do so.
+
+206. As was observed by the Court of Arbitration in Delimitation of the
+Continental Shelf between the United Kingdom and France in 1977:
+
+“the rôle of the ‘special circumstances’ condition in Article 6 is to
+ensure an equitable delimitation; and the combined ‘equidistance-
+special circumstances rule’, in effect, gives particular expression to a
+
+! RIAA, Vol. XVIII, pp. 45-46, para. 70.
+2 Ibid., p. 57, para. 97.
+3 Revue générale de droit international public (1985), Vol. 89, p. 525, para. 102.
+
+
+
+general norm that, failing agreement, the boundary between States
+abutting on the same continental shelf is to be determined on equi-
+table principles”.
+
+207. Every case is different and, while general guidelines exist such as
+the equidistance principle in the absence of other or competing factors, it
+is for the Court to decide in each case what are the appropriate factors to
+be taken into account and what weight should attach to them. It is too
+early in the history of maritime delimitation for any determining prin-
+ciples to be laid down by this Court as to the relative importance of one
+factor over the other. It may be that when these determinations are made
+on a case-by-case basis, some guidelines will in course of time emerge.
+
+The “Relevant Circumstances” Principle
+
+208. As the Court of Arbitration observed in 1977 in Delimitation of the
+Continental Shelf between the United Kingdom and France:
+
+“The choice of the method or methods of delimitation in any given
+case, whether under the 1958 Convention or customary law, has
+therefore to be determined in the light of those circumstances
+fi.., geographical and other relevant circumstances of each particu-
+lar case] and of the fundamental norm that the delimitation must be
+in accordance with equitable principles.” 2
+
+209. It is also to be stressed, before approaching a consideration of
+each of these factors, that they will be approached not from the standpoint
+of either Norway or Denmark but from the standpoint of the two territo-
+ries in question — Jan Mayen and Greenland — as if these were inde-
+pendent territories competing for maritime rights, for it is clear that
+whatever maritime rights these territories enjoy are generated by their
+relevant coastlines and not by considerations that they are part of some
+larger political entity.
+
+210. I agree with the Court in its careful consideration and overall
+evaluation of the various relevant factors enumerated by it. While doing
+so, I would like, however, to emphasize that consideration should not
+be limited to factors which are geophysical in their nature.
+
+211. In each case there surfaces for consideration a varied mix of fac-
+tors. Apart from the different nature of the mix in each case, any one fac-
+tor, such as population or economy, will naturally present itself differently
+in each case. For example, the population factor may be of little relevance
+or no relevance in one case, while in another it may assume considerable
+
+! RIAA, Vol. XVIII, p. 45, para. 70.
+2 Ibid, p. 57, para. 97.
+
+
+
+significance. So, also, with economic factors or indeed any other factor
+one may care to name. Any general proposition that population or econ-
+omy are irrelevant because, unlike geophysical configurations, they may
+change with time is juristically untenable and not in conformity with the
+flexibility of equity.
+
+212. In other words, I respectfully endorse the findings the Court has
+reached on the respective items arising for consideration in this case.
+Access to fishery resources is a matter to which the Court has rightly
+devoted particular care and attention and I am in agreement with this
+approach and with its resultant effect upon the overall delimitation.
+I would, however, add a few observations on some of the matters con-
+sidered.
+
+(a) Population
+
+213. For example, while agreeing with the weight the Court gives to
+the population factor in the present case, I would stress that no general
+proposition can be laid down that the population factor is in all cases
+irrelevant.
+
+214. One can visualize a case where a particular coast has sustained a
+teeming population for several centuries and the coast facing it has no
+population whatsoever and has been uninhabited as far as historical
+memory extends. Cases such as that need to be considered as and when
+they arise and cannot be left out of consideration on any general principle
+that the population factor is irrelevant. Such an approach would be con-
+trary to equitable principles and procedures.
+
+215. Reference may also be made in this context to the Anglo-French
+Arbitration, in which it is significant that among the factors advanced by
+the United Kingdom was the fact that the Channel Islands were “popu-
+lous islands of a certain political and economic importance” !. The Court
+observed that it “accepts the equitable considerations invoked by the
+United Kingdom as carrying a certain weight” 2.
+
+216. It is true that factors such as population or lack of it are change-
+able over time. À piece of land which is today barren and uninhabited may
+in a hundred years be the centre of a numerous and thriving population
+just as a thriving population of today may, for reasons which cannot now
+be foreseen, be reduced to a few struggling survivors some generations
+from today. These are factors inherent in the nature of human life and
+settlement but on the basis of such lack of certainty, these factors ought
+not, in my view, to be totally disregarded by an overriding general prin-
+ciple applicable in all cases.
+
+! RIAA, Vol. XVIII, p. 93, para. 197.
+2 Ibid. p. 93, para. 198.
+
+
+
+217. When the Law of the Sea Convention spelt out in Article 121 (3)
+that rocks which cannot sustain human habitation or economic life of
+their own shall have no exclusive economic zone or continental shelf, it
+was perhaps giving expression to the concept that population and econ-
+omic life are relevant to the enjoyment of exclusive economic zones and
+continental shelf entitlements. It was not rocks per se that were excluded
+from these rights but rocks which lacked the possibility of sustaining habi-
+tation or economic life, thus indicating the importance of these factors in
+attracting exclusive economic zone and continental shelf entitlements, in
+an appropriate case.
+
+218. The Law of the Sea Convention could not have adopted a divided
+rationale in its different parts on this vital question, and if it considered
+population and economic life to be a vital and determining factor in
+regard to the question whether rocks attracted these entitlements, it could
+not have considered that in regard to other geographical configurations
+population and economic life were irrelevant and to be ignored.
+
+(b) Economic factors
+
+219. Similar considerations apply to economic factors. On this aspect,
+it must be pointed out that this is an area in which the jurisprudence of the
+Court has not thus far been conclusive, despite the trend of recent deci-
+sions to treat economic factors as irrelevant. In the Gulf of Maine!, when
+the dispute was clearly about resources, Canada argued for the preserva-
+tion of fishing patterns established over the past ten to fifteen years while
+the United States contended that it was virtually entitled to a monopoly
+over the Georges Bank fishery. Although the Chamber dismissed these
+arguments as irrelevant in law, yet it did not altogether ignore them, hold-
+ing that data as to human and economic geography, although
+
+“ineligible for consideration as criteria to be applied in the delimita-
+tion process itself, may . . . be relevant to assessment of the equitable
+character of a delimitation first established on the basis of criteria
+borrowed from physical and political geography” (p. 340, para. 232).
+
+In other words, these factors could in fact be used to test the equity of the
+result. The Chamber placed stringent limitations on such use, limiting it to
+cases where the results were
+
+! I.C.J. Reports 1984, paras. 48 and 232 of Judgment.
+
+
+
+“radically inequitable, that is to say, as likely to entail catastrophic
+repercussions for the livelihood and economic well-being of the
+population of the countries concerned” (I.C.J. Reports 1984, p. 342,
+para. 237).
+
+Yet we have here a recognition, however restricted, that such factors can
+play a part in the overall result!.
+
+(c) State practice
+
+220. So, also, in considering individual acts of State practice, an
+important limiting factor is that the special circumstances and political
+considerations that lie behind a particular arrangement between two
+countries are often veiled in obscurity unless the parties themselves
+record or state those facts”. This is well illustrated in the present case in
+relation to Norway’s own treaty with Iceland, for Norway herself accepts
+that there were special political considerations lying behind that arrange-
+ment. As stated in paragraph 560 of Norway’s Counter-Memorial,
+“The political bargain struck between Norway and Iceland was excep-
+tional .. .”, and in the same paragraph, the arrangement giving Iceland a
+200-mile zone is described as a “concession made in favour of Iceland”
+which “produced a boundary which reflects no norm of equitable delimi-
+tation”. On Norway’s own submission, these circumstances render an
+agreement atypical, which might otherwise be relied upon as an item of
+State practice.
+
+221. Another variable factor in relation to State practice is the fact that
+the effect given to islands for equidistance purposes has sometimes been a
+partial effect, thus introducing an additional element of flexibility. For
+example, the Greece-Italy Agreement of 24 May 1977 gives to the Greek
+islands involved a varying effect, ranging from full effect for the large
+islands of Corfu, Kefallinia and Zakinthos to lesser effects for the islands
+of Othonoi and Mathraki.
+
+“ 222. Other instances of partial effect also exist, such as the Iran-Oman
+Agreement of 25 July 1974, where the presence of the small island of
+Umm al Faiyarin belonging to Oman does not cause a proportional devia-
+tion of the demarcation line between Oman and Iran. Had this island been
+given full effect, the line would have moved considerably closer to the
+Iranian coast than it appears on the map (Reply of Denmark, Ann. 71).
+
+I See, generally on this aspect, D. W. Bowett, “The Economic Factor in Maritime
+Delimitation Cases”, in International Law at the Time of its Codification: Essays in
+Honour of Roberto Ago, 1987, Vol. IL, p. 45, esp. at pp. 58-63, pointing out, inter alia, that
+economic interests of States lay at the very heart of the 1982 Convention and that no part
+of the Convention is divorced from these economic interests.
+
+2 Rejoinder of Norway, p. 178, para. 605.
+
+
+
+223. So also in the United Kingdom-Ireland Agreement of 7 Novem-
+ber 1988 (Reply of Denmark, Ann. 72), the Scilly Isles have not been given
+full effect.
+
+224. Nor is the jurisprudence of this Court markedly different in this
+regard. The Court itself has in more than one of its judgments given less
+than full effect to small islands in relation to the equidistance principle.
+The half-effect basis of delimitation was used in Tunisia/Libya! in regard
+to the Kerkennah Islands, and in the Gulf of Maine case? in regard to the
+Canadian Seal Island. The half-effect basis was also used by the Court of
+Arbitration in the case concerning the Delimitation of the Continental Shelf
+between the United Kingdom and France in relation to the Scilly Isles, for
+
+“abating the disproportion and inequity which would otherwise
+result from giving full effect to the Scilly Isles as a base-point for
+determining the course of the boundary”*.
+
+(d) The ice factor
+
+225. On the ice factor, likewise, one would hesitate to say that there can
+be a general proposition that it can have no bearing. In the present case,
+the factors are such that although the ice is a real geophysical factor that
+impinges on the usability of the waters in question, it is so situated that it
+does not make a difference significant enough to affect the result.
+
+226. However, while in these days of climatic change there may be
+some changeability in drift ice patterns, there may well be cases where
+drift ice or the freezing of the seas for the greater part of the year have,
+throughout recorded history, rendered ice-bound the sector adjacent to
+the coastline of one party, while the sector adjacent to the coastline of the
+other remains largely unaffected. In such a case this seems indeed to be a
+factor pertinent to the question of equitable division, for it intrinsically
+affects the usability of the areas to be demarcated.
+
+227. These are but extreme cases. However, they serve the purpose of
+showing that possible avenues of enquiry ought not to be foreclosed.
+
+(e) National security
+
+228. Similar considerations apply to factors bearing on national secu-
+rity which again will vary from case to case and may in a given case assume
+considerable importance. The observation in Libya/Malta cited in the
+Judgment (para. 81) to the effect that security considerations are not
+unrelated to the concept of the continental shelf bears this out (1.C.J.
+Reports 1985, p. 42, para. 51).
+
+! LC.J. Reports 1982, pp. 63-64, para. 79; p. 89, para. 129.
+2 I.C.J. Reports 1984, pp. 336-337, para. 222.
+3 RIAA, Vol. XVIII, p. 117, para. 251.
+
+
+(F) The conduct of parties
+
+229. Regarding the conduct of parties, this has been fully dealt with by
+the Court. Conduct can, in an appropriate case, assume importance as,
+for example, where it amounts to an admission or an estoppel, but I agree
+that it does not constitute an element which could influence the particular
+delimitation in the present case.
+
+230. While the items of conduct relied upon do not thus become suffi-
+ciently significant to affect the present decision, the possibility must
+always remain open in future cases that any one or more of such factors
+can assume sufficient significance to affect a delimitation.
+
+(g) Disproportion in coastal length
+
+231. The disproportion in length of the coastlines, however, assumes
+importance in this case. The Court in its Judgment has dealt with this
+aspect at length and I am in agreement with the Court’s reasoning and
+conclusion on this matter.
+
+232. The equitable aspects involved in this question of disproportion
+or proportionality may be briefly set out as follows:
+
+(a) Disproportion in coastal lengths of the magnitude present in this case
+is clearly a relevant circumstance requiring consideration both on the
+basis of prior decisions and on the basis of equitable principles.
+
+(b) The principle of proportionality does not mean a division of mari-
+time space on a proportionate basis. This Court observed in the
+Libya Malta case that it rejects any attempt to “define the equities in
+arithmetical terms” (I.C.J. Reports 1985, p. 55, para. 75). As the Court
+there observed:
+
+“The Court does not consider that an endeavour to achieve a
+predetermined arithmetical ratio in the relationship between the rele-
+vant coasts and the continental shelf areas generated by them would
+be in harmony with the principles governing the delimitation opera-
+tion.” (Tbid.)
+
+(c) The factor of proportionality applies only to coastlines and not to
+landmass, for “it is the coastal length that matters” (ibid., p. 73,
+Judge Sette-Camara, separate opinion).
+
+(d) Proportionality can legitimately be used as a test to verify the equity
+of a delimitation.
+
+“In the view of the Court, there is no reason of principle why the
+test of proportionality, more or less in the form in which it was used in
+the Tunisia/Libya case, namely the identification of ‘relevant coasts’,
+the identification of ‘relevant areas’ of continental shelf, the calcula-
+tion of the mathematical ratios of the lengths of the coasts and the
+
+
+
+areas of shelf attributed, and finally the comparison of such ratios,
+should not be employed to verify the equity of a delimitation between
+opposite coasts, just as well as between adjacent coasts.” (LC.J.
+Reports 1985, p. 53, para. 74.)
+
+(e) The Court would use proportionality as an instrument for correcting
+disproportionality where —
+
+“the flagrant disproportion in the lengths of coasts is such that the
+correction of any line according to a reasonable ratio is indispensable
+for achieving an equitable result” (ibid., p. 73, Judge Sette-Camara,
+separate opinion. See, also, Anglo-French Arbitration, RIAA,
+Vol. XVIII, p. 58, para. 101).
+
+(f) The application of the principle of proportionality is an instance of
+the use of the sense of injustice to test the justice of a result, as
+described in paragraphs 104-109 above.
+
+(g) Even though the equidistance principle is based on equitable consid-
+erations, equidistance is only a prima facie solution. The fact of gross
+disproportionality as in this case would suffice to move the Court
+away from that prima facie solution.
+
+(h) Such disproportion constitutes a special circumstance within the
+meaning of Article 6, paragraph 1, of the 1958 Convention as well as a
+relevant circumstance under customary international law.
+
+PART C. Equity VIEWED IN GLOBAL TERMS
+
+233. Atthe conclusion of this survey of the applications of equity in the
+Judgment of the Court, it would be appropriate to examine the concept
+briefly in global terms. Given the crucial importance of equity to the law
+of the sea, and given also that the law of the sea is still at a critical and
+formative phase, no examination of equity’s influence upon the law of the
+sea is complete without a search for concepts, principles and attitudes that
+range further afield in a global sense. Such a universal view can only
+strengthen maritime law, both in its conceptual content and in its authori-
+tative force. The concepts of equity currently drawn upon by international
+law do not represent the totality of the available corpus of equitable
+thought wherewith to strengthen the equitable approach to the problems
+of maritime law. Such perspectives can also offer insights of value in the
+determination of a case such as this.
+
+234. The International Court of Justice, specifically structured to
+embody a “representation of the main forms of civilization and of the
+principal legal systems of the world” (see Article 9 of the Statute of the
+Court), is under a particular obligation to search in all these traditions and
+
+
+
+legal systems for principles and approaches that enrich the law it adminis-
+ters, and in the context of the present case, this applies to the contributions
+that equity can make to the law of the sea.
+
+235. A search of global traditions of equity in this fashion can yield
+perspectives of far-reaching importance in developing the law of the sea.
+Among such perspectives deeply ingrained therein, which international
+law has not yet tapped, are concepts of a higher trust of earth resources, an
+equitable use thereof which extends inter-temporally, the “sui generis”
+status accorded to such planetary resources as land, lakes and rivers, the
+concept of wise stewardship thereof, and their conservation for the
+benefit of future generations. Their potential for the development of
+the law of the sea is self-evident.
+
+236. Such perspectives are to be found in many traditions and civiliza-
+tions, and the ubiquitous nature of the principle of equity has already
+been noted in the jurisprudence of this Court.
+
+237. With special reference to the Law of the Sea, Judge Ammoun
+observed in the North Sea Continental Shelf cases:
+
+“Incorporated into the great legal systems of the modern world
+referred to in Article 9 of the Statute of the Court, the principle of
+equity manifests itself in the law of Western Europe and of Latin
+America, the direct heirs of the Romano-Mediterranean jus gentium;
+in the common law, tempered and supplemented by equity described
+as accessory; in Muslim law which is placed on the basis of equity
+(and more particularly on its equivalent, equality) by the Koran and
+the teaching of the four great jurisconsults of Islam condensed in the
+Shari’a, which comprises, among the sources of law, the istihsan,
+which authorizes equity-judgments; Chinese law, with its primacy
+for the moral law and the common sense of equity, in harmony with
+the Marxist-Leninist philosophy; Soviet law, which quite clearly pro-
+vides a place for considerations of equity; Hindu law which recom-
+mends ‘the individual to act, and the judge to decide, according to his
+conscience, according to justice, according to equity, if no other rule
+of law binds them’; finally the law of the other Asian countries, and
+of the African countries, the customs of which particularly urge the
+judge not to diverge from equity and of which ‘the conciliating role
+and the equitable nature’ have often been undervalued by Euro-
+peans; customs from which sprang a jus gentium constituted jointly
+with the rules of the common law in the former British possessions,
+the lacunae being filled in ‘according to justice, equity and good con-
+science’; and in the former French possessions, jointly with the law of
+Western Europe, steeped in Roman Law.
+
+A general principle of law has consequently become established,
+which the law of nations could not refrain from accepting, and which
+
+
+
+founds legal relations between nations on equity and justice.”
+(I.C.J. Reports 1969, pp. 139-140, Judge Ammoun, separate opinion;
+footnotes omitted.)
+
+238. The list of sources cited by Judge Ammoun provides a vast
+resource from which to quarry the elements of the universal sense of jus-
+tice and fairness that underlies the meaning of equity. Some other impor-
+tant sources should also be mentioned — the fine analyses of justice in
+Greek! and Judaic? philosophy; the equity-impregnated concept of
+“dharma” in Hindu jurisprudence3; the elaborately researched concept
+of fairness and justice in Buddhism*; the Christian tradition of justice
+and conscience as “weightier matters of the law” as opposed to mere
+legalism’; and the Qur’anic injunction:
+
+Cf. the conflict between conscience and the unjust law as highlighted in Sophocles’
+Antigone, fifth century B.C. — Sophocles, Antigone, Eliz. Wyckoff (trans.), in Complete
+Greek Tragedies II, ed. D. Grene and R. Lattimore, 1960, University of Chicago Press,
+p. 170.
+
+2 “If mankind is to master the greatest of all arts, the art of living together in neigh-
+bourliness — if law is to light the march of the human spirit toward a closer under-
+standing among nations — we must recognize the truth which was revealed to the
+Prophets of Israel, that equity is an integral component of justice.” (Ralph A. New-
+man, “The Principles of Equity as a Source of World Law”, 4 Israel Law Review
+(1966), p. 631.)
+
+3 The Bhagavad Gita gives righteousness a central place in world order (IV.7) and
+the very first word of this classic, described as the glory of Sanskrit literature, is
+the word “dharma” — see Juan Mascarô (trans.), Penguin Classics, 1962, p. 37; and
+the Brihad Aranyaka Upanishada characterizes dharma as the king of kings (1, 4-14).
+Kane’s monumental treatise on the dharmasastra (P. V. Kane, History of Dharmasastra,
+1946) sets out among the meanings of dharma the concepts of duty, right, justice
+and morality (Vol. 1, p. 1). Fritz Berolzheimer describes the philosophical positions
+regarding justice in ancient India as “the antecedents of later legal and ethical
+developments among the Greeks and Romans” (Berolzheimer, The World’s Legal
+Philosophies, 1968, p. 37).
+
+4 See, generally, K. N. Jayatilleke, “The Principles of International Law in Buddhist
+Doctrine”, 120 Recueil des cours (1967-1), pp. 443-567. World rulership is to be under a
+“kingless authority”. That “kingless authority” is to be the law (p. 539); and righteous-
+ness is extremely important to the Buddhist conception of law (p. 449). Two conceptions
+underlie the Buddhist attitude towards law: (a) the rule of righteousness; (b) the happi-
+ness and well-being of mankind (L. P. N. Perera, Buddhism and Human Rights, 1991,
+
+p. 41).
+
+5 See Matthew 23 : 23. The expositions of conscience by mediaeval churchmen (such
+as the Summae Confessorum written to guide priests in assessing the moral conduct of
+penitents) were probably an influential source in shaping the thinking of the early
+English Chancellors (see A. W. B. Simpson, A History of the Common Law of Contract,
+1975, p. 405. See, also, ibid., pp. 377-379 and pp. 397-405). Their primary concern
+centred so much on conscience that the rubric under which early Chancery cases are
+to be found is not Equity but Conscience (see ibid., p. 398), for in laying the founda-
+tions of equity jurisprudence, the Chancellor sat “as a judge of conscience, in a court
+of conscience, to apply the law of conscience . . .” (ibid.).
+
+24]
+
+
+“If thou judge
+
+judge in equity between them
+for God loveth those
+
+who judge in equity”!
+
+which has been the subject of extensive commentary over the centuries by
+the jurists of Islam?
+
+239. The sophisticated notions of reasonable and fair conduct cur-
+rently being unveiled by modern researches in African3, Pacific* and
+Amerindian’ customary law, and the principle of deep harmony with the
+environment which underlies Australian Aboriginal customary law add
+to the reservoir of sources available.
+
+240. What emerges is a notion of equity broad-based upon global juris-
+prudence which speaks therefore with greater authority. Notions of the
+supremacy of international law, its impregnation with concepts of right-
+eousness, the sacrosanct nature of earth resources, harmony of human
+activity with the environment, respect for the rights of future generations,
+and the custody of earth resources with the standard of due diligence
+expected of a trustee are equitable principles stressed by those tradi-
+
+! Surah 5, Verse 45, Yusuf Ali’s translation. In particular, the technique of legal rea-
+soning called istihsan, referred to by Judge Ammoun, accords an important role to
+equity. See, also, John Makdisi, “Legal Logic and Equity in Islamic Law”, 33 American
+Journal of Comparative Law (1985), p. 63; H. Afchar, “The Muslim Conception of Law”,
+International Encyclopedia of Comparative Law, Vol. VII, pp. 90-96, and the same author
+on “Equity in Musulman Law”, in Ralph Newman (ed.), Equity in the World’s Legal
+Systems, 1973, pp. 111-123.
+
+2 Their techniques of legal reasoning included givas (reasoning by analogy), istishab
+(presumption of continuity), istislah (considerations of public interest) and istihsan
+(a concept of equity). See Makdisi, op. cit, pp. 40-45. The relevance to equity of some of
+them — such as istislah and istihsan — need scarcely be stressed.
+
+3 The individual’s right of ownership of land is limited by the superior right of the
+social group to which he belongs — A. N. Allott, in Cotran and Rubin (eds.), Readings in
+African Law, 1970, p. 265. See also, T. O. Elias, The Nature of African Customary Law,
+1956, p. 272 : “It is this motive of the judge to do equity that is the most persistent charac-
+teristic of the African judicial process.” See, also, M. Gluckman, The Judicial Process
+among the Barotse of N. Rhodesia, 1955, pp. 202-206; J. H. Driberg (“The African Con-
+ception of Law”, Journal of Comparative Legislation and International Law, November
+1934, pp. 230-246) discusses African law as an organic growth keeping in tune with the
+changing needs of society. On the felt standards of the community which are not them-
+selves matters of law entering the process of judgment, see, M. Gluckman, Order and
+Rebellion in Tribal Africa, 1963, pp. 178-206.
+
+4 See, generally, Peter Sack, Land between Two Laws, 1973 ; and P. Hambruch, Nauru:
+Results of the South Seas Expedition, 1914. For the trust concept in traditional Hawaiian
+land law, see M. K. MacKenzie (ed.), Native Hawaiian Rights Handbook, 1991, p. 26.
+
+5 See K. N. Llewellyn and E. A. Hoebel, The Cheyenne Way, 1941 ; Charles F. Wilkin-
+son, American Indians, Time, and the Law, 1987.
+
+6 See H. McRae, G. Nettheim, L. Beacroft, Aboriginal Legal Issues, 1991, pp. 44-56;
+Mabo v. Queensland (1992), 7 Australian Law Journal 408 (High Court of Australia).
+
+
+
+tions — principles whose fuller implications have yet to be woven into the
+fabric of international law. Such an approach can also give to equity, espe-
+cially in its application to the increasingly important area of planetary
+resources such as the sea, a deeper and more insightful meaning than it
+would bear if the search were less than universal. It also emphasizes the
+long-term perspectives that need to be kept in view as a developing branch
+of the law settles into the conceptual mould which gives it shape for the
+foreseeable future.
+
+241. Two examples of such broader perspectives which are specially
+relevant to the law of the sea and which are drawn from two widely differ-
+ent legal traditions will illustrate this proposition. They highlight the
+principles of conservation of earth resources and safeguards against
+environmental pollution which are of particular importance to the
+law relating to such an important earth resource, and are not without
+relevance to maritime boundary delimitation cases. This case itself has
+highlighted the importance of conservation as a factor constituting the
+background to the dispute before it, for the near extinction of the capelin,
+one of the richest resources of this maritime region, was a compelling
+circumstance leading to the international negotiations preceding this
+case.
+
+242. The first illustration of such a broader perspective comes from
+traditional legal systems such as the African, the Pacific, and the Amer-
+indian, which contained a deeply ingrained respect for the earth, the
+atmosphere, the lakes and the seas, which the evolving law of the sea can
+consider with profit!. Among Pacific societies, for example, land had
+metaphysical connotations which prevented it from being seen as a sale-
+able commodity like items of merchandise. Respect for these elemental
+constituents of the inheritance of succeeding generations dictated rules
+and attitudes based upon a concept of an equitable sharing which was
+both horizontal in regard to the present generation and vertical for the
+benefit of generations yet to come“.
+
+! See, also, E. B. Weiss, In Fairness to Future Generations : International Law, Common
+Patrimony and Intergenerational Equity, 1989, for the recognition by diverse cultures
+that each generation is a trustee or steward of the natural environment for the benefit of
+generations yet unborn, and for the fact that intergenerational fairness can be addressed
+under principles of equity in accordance with a long tradition in international law of
+using equitable principles to achieve a just result.
+
+2 See P. Sack, op. cit, pp. 33 and 37.
+3 See E. B. Weiss, op. cit., p. 37,
+
+“The use of equity to provide equitable standards for allocating and sharing
+resources and benefits lays the foundation for developing principles of intergener-
+ational equity. These principles can build upon the increasing use by the Interna-
+tional Court of Justice of equitable principles to achieve a result that the Court
+views as fair and just.”
+
+
+
+243. The second illustration comes from Islamic law which enshrines
+another deeply relevant equitable idea — the idea that earth resources
+such as land cannot be the subject of outright ownership as is the case with
+movables, but are the subject of trusteeship for the benefit of all future
+generations. Such a juristic concept dictates the principle that such
+resources must be treated with the care due to the property of others and
+that the present must preserve intact for the future the inheritance it has
+received from the past. In such equitable principles may lie a key to many
+of the environmental concerns which affect the land, the sea and the air
+space of the planet.
+
+244. Such transcending equities, as visualized by those systems, add
+new dimensions to the equitable framework within which the equities of
+the law of the sea can evolve, and add authority to this structure. They
+underscore the special responsibility of a tribunal delimiting maritime
+areas to pay due emphasis to the universal nature of the material out of
+which it is moulding the law of the future.
+
+245. To place these conclusions in an elegant setting:
+
+“Behind the diverse facades of legal systems we discern the sub-
+stantial identity of the underlying principles of equity which link
+legal systems together, as in a Gothic cathedral the multiplicity of its
+rhythms of stone unite with the fundamental impulses of the mind
+and of nature.” !
+
+246. Not without reason did the emerging law of the sea find in equity a
+general area of agreement among participants at UNCLOS who came to
+its meetings representing widely different backgrounds and widely diver-
+gent interests.
+
+x Fox
+
+247. This brief survey of a vast topic — the contribution of equity to an
+individual decision — is intended to indicate the many ways in which it
+contributes to the process of judgment and can contribute to the develop-
+ment of the law of the sea. While not intended to be a comprehensive
+exposition, it could also serve the limited purpose of drawing attention
+to aspects of its operation which, by remaining implicit, may remain
+unexplored.
+
+248. International law throughout its history has been richly inter-
+woven with equitable strands of thought. Of equity perhaps more than of
+any other department of legal thought it could truly be said that, “Under
+
+! Newman, op. cit., p. 631.
+
+
+the surface eddies created by the decisions of individual cases, there
+surges a mighty tide of the fundamental principles of justice.” ! That tide
+
+needs to be drawn into service to its fullest potential as the developing law
+of the sea moves towards its fuller maturity.

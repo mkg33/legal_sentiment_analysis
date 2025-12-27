@@ -1,0 +1,184 @@
+      1. I make this declaration to indicate what are, in my view, shortcomings in the Court’s
+reasoning on Iran’s expropriation claim under Article IV (2) of the Treaty of Amity. The passages in
+the Judgment concerning judicial expropriation in my view require greater depth of analysis.
+
+       2. Paragraph 184 of the Judgment states as follows:
+
+              “The Court considers that a judicial decision ordering the attachment and
+       execution of property or interests in property does not per se constitute a taking or
+       expropriation of that property. A specific element of illegality related to that decision is
+       required to turn it into a compensable expropriation. Such an element of illegality is
+       present, in certain situations, when a deprivation of property results from a denial of
+       justice, or when a judicial organ applies legislative or executive measures that infringe
+       international law and thereby causes a deprivation of property. Therefore, in order to
+       determine whether there exists a specific element of illegality, it is necessary to examine
+       the legislative, executive and judicial acts adopted by the United States as a whole.”
+       (Emphasis added.)
+
+       3. This paragraph addresses an important aspect of international economic relations, and it
+states a purported rule of international law. That statement, however, is not supported by any
+precedent or adequate reasons. In my opinion, the Court should be extremely cautious when making
+such broad statements of law. When it does so, the Court should, at a minimum, ensure that its
+statements can withstand scrutiny by backing them up with the necessary analysis and support. That
+has not occurred here, notwithstanding the fact that other international tribunals have explored this
+aspect of the international law of expropriation.
+
+       4. Perhaps the reason why this paragraph stands unsupported, though, is because it is not
+necessarily in keeping with prevailing understandings of expropriation in connection with decisions
+by domestic courts. Paragraph 184 states that “an element of illegality is present, in certain situations,
+when a deprivation of property results from a denial of justice, or when a judicial organ applies
+legislative or executive measures that infringe international law and thereby causes a deprivation of
+property”. This is a debatable proposition.
+
+       5. The prevailing understanding among international tribunals is that, in order for a judicial
+decision to constitute an expropriation, an element of international unlawfulness must taint the
+judicial decision itself. When a court in a lawful manner simply applies legislation that is itself in
+breach of a treaty obligation, or otherwise not in conformity with international law, that is not
+necessarily sufficient for the judicial decision to amount to an expropriation 1. That latter scenario
+seems to reflect the Court’s understanding of the facts in this case, given its specific finding that “the
+rights of Iranian companies to appear before the courts in the United States, to make legal
+submissions and to lodge appeals, have not been curtailed”. The Court then adds that “[t]he
+
+
+       1 I note Iran’s statement in its Memorial that “the U.S. judiciary has merely acted to implement U.S. legislation and
+
+executive orders”: Memorial of the Islamic Republic of Iran, para. 5.64.
+
+                                                          -2-
+
+enactment of legislative provisions removing legal defences based on separate legal personality, and
+their application by the courts, do not in themselves constitute a serious failure in the administration
+of justice amounting to a denial of justice” (Judgment, para. 143, emphasis added).
+
+       6. The decisions of investor-State arbitral tribunals, the primary international tribunals to
+adjudicate expropriation claims today, largely accept the requirement that the domestic judicial
+decision itself must be tainted by unlawfulness. For the most part, these tribunals have distinguished
+legitimate judicial determinations from abusive interferences. They have done so by requiring, in
+addition to a finding that the conduct of a State’s judiciary substantially deprived an investor of its
+economic rights, a further element of impropriety. Notably, these tribunals emphasized that a finding
+of judicial expropriation is an exception rather than the rule. In sum, no expropriation would, as a
+general rule, occur in the absence of a judicial decision amounting to a denial of justice or other
+violation of international law, such as lack of due process or non-compliance with specific procedural
+safeguards set out in treaties and customary international law.
+
+        7. Recent decisions have generally confirmed this understanding. Lion Mexico
+Consolidated LP v. United Mexican States, an arbitration under the North American Free Trade
+Agreement (“NAFTA”), concerned a fraudulent scheme of judicial and administrative proceedings
+initiated by a debtor. In its 2021 award, the tribunal reaffirmed the general rule that “liability for
+expropriation under [NAFTA] Art. 1110 arising from the decisions of domestic courts requires a
+finding of a denial of justice” 2.
+
+       8. Krederi v. Ukraine is a case from which the present Judgment seems to have drawn
+inspiration. In its 2018 award, the tribunal observed, in the context of private law disputes over
+ownership of movable or immovable property, that “judicial determinations [of which party prevails
+in a private law dispute over ownership of movable or immovable property] do not constitute
+expropriation” 3. It added that where a court finds that a property transfer was invalid, “the resulting
+transfers of ownership do not amount to expropriation” 4. The tribunal in Krederi then stated it is
+necessary to ascertain, in order to determine whether an indirect expropriation or a measure
+tantamount to expropriation had occurred in those circumstances, “whether an additional element of
+procedural illegality or denial of justice was present” 5. The tribunal in Krederi dismissed the
+expropriation claim on the basis that the domestic judicial proceedings had not involved a breach of
+due process 6.
+
+       9. Other international decisions have adopted similar approaches. What they have in common
+is that the unlawfulness in question must attach to the judicial decision itself. Thus, in Swisslion v.
+Macedonia, the tribunal concluded with respect to an expropriation claim premised on a judicial
+decision that “[s]ince there was no illegality on the part of the courts, the first element of the
+
+
+         2 Lion Mexico Consolidated LP v. United Mexican States, ICSID Case No. ARB (AF)/15/2, Award, 20 September
+
+2021, para. 188. In support, the tribunal cited The Loewen Group, Inc. and Raymond L. Loewen v. United States of America,
+ICSID Case No. ARB (AF)/98/3, Award, 26 June 2003, para. 141: “Claimants’ reliance on Article 1110 adds nothing to
+the claim based on Article 1105. In the circumstances of this case, a claim alleging an appropriation in violation of
+Article 1110 can succeed only if Loewen establishes a denial of justice under Article 1105.” The Loewen tribunal used the
+test of “[m]anifest injustice in the sense of a lack of due process leading to an outcome which offends a sense of judicial
+propriety” for the determination of unfair and inequitable treatment or denial of justice (ibid., para. 132).
+       3 Krederi Ltd. v. Ukraine, ICSID Case No. ARB/14/17, Award, 28 July 2018, para. 709 (emphasis added).
+
+       4 Ibid. (emphasis added).
+
+       5 Ibid., para. 713 (emphasis added).
+
+       6 Ibid., para. 715.
+
+                                                         -3-
+
+Claimant’s expropriation claim is not established” 7. In Manolium Processing v. Belarus, the tribunal
+stated that “the standard [for an indirect expropriation claim based on a judgment of the Belarus
+Supreme Court] must be equivalent to that applied to judicial decisions which violate the [fair and
+equitable treatment] standard: judicial expropriation must result from denial of justice”8. The tribunal
+did not find that judicial expropriation had occurred, because it had found no denial of justice 9. In
+Muhammet Çap & Sehil v. Turkmenistan, although the claimants had not alleged judicial
+expropriation in connection with domestic proceedings concerning the termination of contracts, the
+tribunal still observed that “[t]here is a high threshold to prove judicial expropriation and that has not
+been proved in this case” 10.
+
+       10. Some tribunals have articulated a particularly high threshold in this regard. In Garanti
+Koza v. Turkmenistan, the tribunal found that a seizure of property does not amount to an
+expropriation unless there existed “an element of serious and fundamental impropriety about the
+legal process” 11.
+
+       11. Similarly, by way of comparison, in litigation before the European Court of Human Rights
+(“ECtHR”) concerning the right to property under Article 1 of Protocol 1 to the European Convention
+on Human Rights and alleged interferences with that right by national judiciaries, the emphasis has
+also generally been on the judicial process itself. Vulakh and others v. Russia, for example,
+concerned a dispute between private parties regarding a compensation claim. The ECtHR noted that
+a State’s role in a dispute under Article 1 of Protocol 1 was limited to providing a forum for the
+determination of the applicants’ civil rights and obligations in the form of its judicial system. While
+providing a judicial forum did not, the ECtHR stated, by itself engage the State’s responsibility under
+Article 1 of Protocol No. 1, “the State may be held responsible for losses caused by such
+determinations if the court decisions were not given in accordance with domestic law or if they were
+flawed by arbitrariness or manifest unreasonableness contrary to Article 1 of Protocol No. 1” 12. The
+ECtHR explained that, in order to afford the protections required by Article 1 of Protocol 1, “States
+are under an obligation to afford judicial procedures that offer the necessary procedural guarantees
+and therefore enable the domestic courts and tribunals to adjudicate effectively and fairly any
+disputes between private persons” 13.
+
+      12. Certain international tribunals have adopted a more lenient posture. While this is a
+defensible view, it appears overall to be the less favoured position. In Saipem v. Bangladesh, the
+tribunal stated that judicial expropriation does not presuppose a denial of justice (although it did
+“concur[] with the parties that expropriation by the courts presupposes that the courts’ intervention
+
+
+
+
+        7 Swisslion DOO Skopje v. The Former Yugoslav Republic of Macedonia, ICSID Case No. ARB/09/16, Award,
+
+6 July 2012, para. 314.
+       8     OOO Manolium Processing v. Republic of Belarus, PCA Case No. 2018-06, Final Award, 22 June 2021,
+para. 591.
+       9 Ibid., para. 592.
+
+       10 Muhammet Çap & Sehil Inşaat Endustri ve Ticaret Ltd. Sti. v. Turkmenistan, ICSID Case No. ARB/12/6, Award,
+
+4 May 2021, para. 950. The tribunal noted that the claimants “were represented at the hearings”, “put forward arguments”,
+“had the opportunity to and did in fact file replies to the statements of claim”, and “exercised [the] right to appeal”,
+concluding for these reasons that there were no due process violations. Ibid., paras. 953-954.
+       11 Garanti Koza LLP v. Turkmenistan, ICSID Case No. ARB/11/20, Award, 19 December 2016, para. 365.
+
+       12Vulakh and others v. Russia, Application No. 33468/03, Judgment, 10 January 2012, para. 44. See further
+Melnychuk v. Ukraine, Application No. 28743/03, Decision, 5 July 2005, para. 3.
+       13 Vulakh and others v. Russia, Application No. 33468/03, Judgment, 10 January 2012, para. 45.
+
+                                                        -4-
+
+was illegal”) 14. In Sistem v. Kyrgyzstan, the investor’s ownership rights in a hotel had been abrogated
+by decisions of the host State’s judiciary invalidating a share purchase agreement. The tribunal did
+not separately examine the lawfulness of the judicial decision. It found that the State’s abrogation of
+contractual rights was tantamount to an expropriation of property, stating that “[t]he Court decision
+deprived the Claimant of its property rights in the hotel just as surely as if the State had expropriated
+it by decree” 15. In Standard Chartered Bank (Hong Kong) v. Tanzania, the tribunal stated that
+“judicial decisions that permit the actions or inactions of other branches of the State and which
+deprive the investor of its property or property rights, can still amount to expropriation”. It added
+that “[w]hile denial of justice could in some case[s] result in expropriation, it does not follow that
+judicial expropriation could only occur if there is denial of justice” 16. Certain tribunals have also
+upheld expropriation claims involving domestic judicial decisions where those decisions formed part
+of a series of acts or omissions or of a composite act attributable to the State 17.
+
+       13. These materials make it plain that most international decisions support a stance different
+from the one adopted in this Judgment. While those views are, of course, not binding on the Court,
+it requires sufficient reasons and more justification to swim against the tide of international
+jurisprudence. In any case, yet especially in light of the Court’s stance on this point, it would have
+done well to adopt a fuller analysis, more thoroughly reasoned and supported by authority, on the
+question of judicial expropriation.

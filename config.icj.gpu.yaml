@@ -1,0 +1,98 @@
+model_name: nlpaueb/legal-bert-base-uncased
+device: cuda
+
+amp: bf16
+tf32: true
+grad_accum_steps: 2
+num_workers: 6
+pin_memory: true
+persistent_workers: true
+prefetch_factor: 2
+gradient_checkpointing: true
+compile: false
+
+max_length: 512
+batch_size: 12
+eval_batch_size: 24
+
+lr: 2e-5
+weight_decay: 0.01
+num_epochs: 4
+warmup_steps: 0
+
+alpha_cls: 1.0
+alpha_vad: 1.0
+alpha_sinkhorn: 0.4
+alpha_mass: 0.1
+sinkhorn_epsilon: 0.1
+sinkhorn_iters: 30
+ot_mode: unbalanced_divergence
+ot_cost: vad
+ot_reg_m: 0.1
+
+threshold: 0.5
+use_silver: true
+silver_weight: 1.0
+seed: 13
+grad_clip: 2.0
+log_every: 20
+save_dir: checkpoints
+
+data_path: data/train.jsonl
+eval_path: data/dev.jsonl
+
+lexicon_path: data/NRC-Emotion-Lexicon
+
+vad_lexicon_path: data/NRC-VAD-Lexicon-v2.1
+lexicon_vad_scale: null
+word_vad_scale: null
+lexicon_stopwords_file: data/stopwords_legal_en.txt
+lexicon_negation_window: 3
+lexicon_negators: ["not", "no", "never", "without", "neither", "nor", "cannot", "can't", "dont", "don't", "won't"]
+lexicon_shared_term_weighting: split
+lexicon_extra_path: data/lexicon_custom.json
+lexicon_intensity_path: data/external/NRC-Emotion-Intensity-Lexicon-v1
+lexicon_intensity_min: 0.0
+lexicon_min_vad_salience: 0.45
+lexicon_min_vad_arousal: 0.0
+lexicon_require_word_vad: false
+lexicon_allow_seed_only: false
+vad_allow_missing: false
+label_vad_scale: auto
+count_pred_scale: density
+semantic_calibration: true
+semantic_calibration_allow_seed: false
+semantic_lexicon_strength_per_1k: 0.2
+semantic_lexicon_basis: chunks
+semantic_min_signal_per_1k_words: 5.0
+semantic_zero_low_signal: true
+semantic_strict_lex_gate: true
+semantic_min_lex_hits: 10
+semantic_min_lex_chunk_ratio: 0.05
+compare_drop_low_signal: true
+compare_min_words: 200
+
+token_ot_embed_model: mixedbread-ai/mxbai-embed-large-v1
+token_ot_embed_backend: encoder
+token_ot_embed_pooling: mean
+token_ot_embed_batch_size: 48
+token_ot_embed_max_length: 32
+token_ot_embed_prompt_mode: none
+token_ot_allow_model_embed: true
+token_emotional_vocab: lexicon_or_vad
+token_stopwords_file: data/stopwords_legal_en_token_ot.txt
+token_include_english_stopwords: false
+token_vad_imputed_weight: 0.35
+token_vad_imputed_path: data/derived/token_vad_imputed.json
+token_term_weights_path: data/derived/token_term_weights.json
+token_term_weight_power: 2.0
+token_term_weight_min: 0.0
+token_term_weight_max: 1.0
+token_term_weight_mix: 1.0
+token_term_weight_default: 1.0
+
+silver_teacher_model: SamLowe/roberta-base-go_emotions
+silver_teacher_batch_size: 16
+silver_teacher_max_length: 512
+silver_force_has_lex: true
+emotion_init_from_sentiment: true

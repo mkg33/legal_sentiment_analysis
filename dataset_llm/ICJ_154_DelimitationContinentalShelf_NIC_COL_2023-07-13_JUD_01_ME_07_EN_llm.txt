@@ -1,0 +1,773 @@
+       1. This opinion explains why I have voted against all subparagraphs of the operative clause of
+today’s Judgment. The questions that the Court had set out to address in the present phase of the
+proceedings were cast in abstract terms, detached from the specific facts of the case before the Court
+(see paragraph 14 of the Judgment). This was the reason I supported the Order of 4 October 2022. In
+my view, however, the Court’s reasoning allows considerations specific to this case to colour its
+discussion of abstract principles.
+
+
+
+        2. The first question was worded as follows:
+
+               “Under customary international law, may a State’s entitlement to a continental
+        shelf beyond 200 nautical miles from the baselines from which the breadth of its
+        territorial sea is measured extend within 200 nautical miles from the baselines of another
+        State?” (Question of the Delimitation of the Continental Shelf between Nicaragua and
+        Colombia beyond 200 Nautical Miles from the Nicaraguan Coast (Nicaragua v.
+        Colombia), Order of 4 October 2022.)
+
+
+                           A. Maritime entitlements and maritime delimitation
+
+      3. The first question concerns the determination of a maritime entitlement — specifically, a
+coastal State’s maritime entitlement to a continental shelf beyond 200 nautical miles from its
+baselines (“extended continental shelf”) 1. This question is distinct from, albeit complementary to,
+
+
+
+
+        1 I use the term “baselines” as a shorthand for “baselines from which the breadth of the territorial sea is measured”,
+
+and I treat it as synonymous to “coast”. I use the term “extended continental shelf” to denote the continental shelf extending
+to the outer edge of the continental margin, where that edge extends beyond 200 nautical miles from the coastal State’s
+baselines.
+
+                                                            -2-
+
+the question of maritime delimitation 2. The two questions are governed by different legal rules, and
+they can give rise to separate disputes 3.
+
+
+        4. As the Judgment affirms (Judgment, para. 42), the determination of maritime entitlements
+is the first step in any maritime delimitation. In that step, the question is whether, under international
+law, a coastal State may claim to exercise jurisdiction over a maritime area. Where, however,
+multiple coastal States may lay claim to exercise jurisdiction over the same maritime area, this
+jurisdiction may not be exercised concurrently by all coastal States, at least not without their consent.
+It is in such circumstances that maritime delimitation is employed to resolve situations of multiple
+entitlements over the same maritime area. The process of maritime delimitation determines the
+spatial ambit of each coastal State’s jurisdiction over part of that common maritime area4, and thereby
+sanctions the exercise of coastal State jurisdiction as recognized by international law.
+
+
+       5. The object of any maritime delimitation is to achieve an equitable solution5. In a situation
+in which multiple coastal States have entitlements over the same area, therefore, the delimitation
+process will almost inevitably result in each coastal State sacrificing part of its maritime entitlement
+and exercising jurisdiction over a maritime area that is less than its full entitlement 6. For example,
+where the coasts of two States are 100 nautical miles apart, either State is in theory entitled to a
+continental shelf that reaches the other State’s shores. However, this does not mean that either State
+may exercise continental shelf jurisdiction on the basis of this entitlement to its full extent. It is left
+to the process of maritime delimitation to determine the areas over which each coastal State may
+exercise the jurisdiction to which it is entitled under international law.
+
+
+       6. Whether a coastal State is entitled under international law to exercise sovereign rights for
+the exploration and exploitation of the continental shelf’s natural resources is a question of maritime
+entitlement. What parts of the continental shelf should be found to appertain to this coastal State
+where another coastal State is also entitled to sovereign rights over the same continental shelf is a
+question of maritime delimitation and its effects.
+
+
+                               B. The determination of maritime entitlements
+                                       in the Court’s jurisprudence
+
+      7. The Court has a considerable jurisprudence on maritime entitlements. In Anglo-Norwegian
+Fisheries, the Court explained that “[i]t is the land which confers upon the coastal State a right to the
+waters off its coasts” 7. This point was affirmed with respect to a State’s entitlement to a continental
+
+
+
+        2 Continental Shelf (Libyan Arab Jamahiriya/Malta), Judgment, I.C.J. Reports 1985, p. 30, para. 27.
+
+        3 South China Sea Arbitration (Republic of the Philippines v. People’s Republic of China), Jurisdiction and
+
+Admissibility, Award of 29 October 2015, United Nations, Reports of International Arbitral Awards (RIAA), Vol. XXXIII,
+p. 65, para. 156.
+        4Yoshifumi Tanaka, Predictability and Flexibility in the Law of Maritime Delimitation (2nd edn., Oxford:
+Hart 2019), p. 6; see also Prosper Weil, The law of maritime delimitation — Reflections (transl. Maureen MacGlashan,
+Cambridge: Grotius Publications 1989), p. 3.
+        5 Maritime Delimitation in the Area between Greenland and Jan Mayen (Denmark v. Norway), Judgment,
+
+I.C.J. Reports 1993, p. 59, para. 48; see also Continental Shelf (Tunisia/Libyan Arab Jamahiriya), Judgment, I.C.J. Reports
+1982, p. 59, para. 70; Delimitation of the maritime boundary in the Bay of Bengal (Bangladesh/Myanmar), Judgment,
+ITLOS Reports 2012, p. 67, para. 235.
+        6 Delimitation of maritime areas between Canada and France, Decision of 10 June 1992, RIAA, Vol. XXI, p. 289,
+
+para. 67; ibid., dissenting opinion of Prosper Weil, p. 307, para. 17.
+        7 Fisheries (United Kingdom v. Norway), Judgment, I.C.J. Reports 1951, p. 133.
+
+                                                              -3-
+
+shelf in Black Sea 8. The International Tribunal for the Law of the Sea concurs, having held that “[a]
+coastal State’s entitlement to the continental shelf exists by the sole fact that the basis of entitlement,
+namely, sovereignty over the land territory, is present” 9. This is not necessarily to say that maritime
+entitlements are contingent on the presence or on the integrity of the land territory in perpetuity. The
+legal conception of maritime entitlements may well need to adapt to modern challenges 10. It simply
+means that, under customary international law, entitlements at sea are derivative of the title to land.
+
+
+       8. As a result, when determining a coastal State’s entitlement to maritime areas, the Court
+refers only to the question of whether the State has sovereignty over the relevant land territory, as
+well as to the characteristics of that land territory (because, for example, not all maritime features
+generate an entitlement to a continental shelf) 11. No other factors have been found to inform the
+question of a coastal State’s entitlement to a maritime area — certainly not factors pertaining to other
+coastal States’ maritime entitlements in the vicinity. The logic of determining each State’s maritime
+entitlements in isolation can also be seen in the constraints applicable to the establishment of the
+outer edge of the continental margin under Article 76 of the United Nations Convention on the Law
+of the Sea (hereinafter “UNCLOS” or the “Convention”), leaving aside the question of whether these
+constraints form part of customary international law. None of these constraints contemplates the
+presence of other States.
+
+
+       9. The maritime entitlements of other States will of course inform the question of delimitation.
+This point is illustrated in the Court’s Judgment in Territorial and Maritime Dispute with respect to
+the relationship between a State’s entitlement to a territorial sea and another State’s entitlement to a
+continental shelf 12. In that Judgment, the Court discussed “the overlap . . . between the territorial sea
+entitlement of Colombia derived from each island and the entitlement of Nicaragua to a continental
+shelf and exclusive economic zone” 13. The Court’s point of departure was that a State’s entitlement
+to a continental shelf (in that case, Nicaragua’s) may well extend into — and thus overlap with —
+another State’s entitlement to a territorial sea (in that case, Colombia’s). However, the Court clarified
+that, in such a situation, the former State’s entitlement would not be given effect, namely, that the
+former State be allowed to exercise jurisdiction over a continental shelf that extends within the latter
+State’s territorial sea 14.
+
+
+        8 Maritime Delimitation in the Black Sea (Romania v. Ukraine), Judgment, I.C.J. Reports 2009, p. 89, para. 77:
+
+“The title of a State to the continental shelf and to the exclusive economic zone is based on the principle that the land
+dominates the sea through the projection of the coasts or the coastal fronts.” That Judgment also cites from North Sea
+Continental Shelf (Federal Republic of Germany/Denmark; Federal Republic of Germany/Netherlands): “the land is the
+legal source of the power which a State may exercise over territorial extensions to seaward” (Judgment, I.C.J. Reports 1969,
+p. 51, para. 96). See also Aegean Sea Continental Shelf (Greece v. Turkey), Judgment, I.C.J. Reports 1978, p. 36, para. 86:
+“continental shelf rights are legally both an emanation from and an automatic adjunct of the territorial sovereignty of the
+coastal State”.
+        9 Delimitation of the maritime boundary in the Bay of Bengal (Bangladesh/Myanmar), Judgment, ITLOS Reports
+
+2012, p. 107, para. 409.
+         10 See, for example, “Sea-level rise in relation to international law: Additional paper to the first issues paper (2020),
+
+by Bogdan Aurescu and Nilüfer Oral, Co-Chairs of the Study Group on sea-level rise in relation to international law”,
+UN doc. A/CN.4/761 (13 February 2023), para. 155; see also “Resolution 5/2018: Committee on International law and sea
+level rise”, International Law Association Reports of Conferences, Vol. 78 (2018), p. 29.
+         Article 121, paragraph 3, of UNCLOS, which forms part of customary international law: Territorial and
+
+Maritime Dispute (Nicaragua v. Colombia), Judgment, I.C.J. Reports 2012 (II), p. 674, para. 139.
+        12 Territorial and Maritime Dispute (Nicaragua v. Colombia), Judgment, I.C.J. Reports 2012 (II), p. 690,
+
+paras. 177-178.
+        13 Ibid., p. 690, para. 177 (emphasis added).
+
+       14 Ibid., pp. 690-691, paras. 178-180; see also Delimitation of the maritime boundary in the Bay of Bengal
+
+(Bangladesh/Myanmar), Judgment, ITLOS Reports 2012, p. 51, para. 169, which refers to a process of “giving more
+weight” to one coastal State’s entitlement than the other’s.
+
+                                                         -4-
+
+       10. By contrast, today’s Judgment holds that, in a specific maritime area (the area within
+200 nautical miles from a coastal State’s baselines), a specific type of competing maritime
+entitlement (the entitlement to an extended continental shelf) is precluded (Judgment, para. 79).
+Other maritime entitlements in the same area — for example, a third State’s maritime entitlement to
+an exclusive economic zone, or a fourth State’s entitlement to a territorial sea — are legally valid,
+and the ensuing overlap is to be resolved through maritime delimitation. The entitlement to an
+extended continental shelf, however, is not. On that basis, the Court does not proceed to maritime
+delimitation (Judgment, paras. 86 and 91).
+
+
+                                         C. Methodological approach
+
+       11. The Court’s task in this case is essentially an interpretative one: it consists in identifying
+the contours of the entitlement to an extended continental shelf under customary international law.
+There is no doubt that UNCLOS reflects many aspects of the customary international law of the sea:
+some of its provisions codify pre-existing rules of customary international law, others crystallize
+then-emerging rules, and yet others have since given rise to a general practice accepted as law,
+generating new customary rules 15. For that reason, I share the Court’s view that recourse to the
+Convention can assist in the interpretation of the rules of customary international law that are
+reflected in it. At the same time, the methods of treaty interpretation are not fully transposable to the
+context of the interpretation of customary international law, and not all interpretative methods apply
+with equal force in the two processes 16. The interpreter must keep in mind that custom is neither
+generated, nor modified, nor extinguished in the same manner as a treaty.
+
+
+       12. The majority bases its conclusion on two sets of considerations: first, considerations
+pertaining to the relationship between the régime of the exclusive economic zone and that of the
+continental shelf and, second, considerations pertaining to the régime of the extended continental
+shelf (Judgment, paras. 68 and 74; see also ibid., para. 78). In the following sections, I will explain
+why, in my view, these factors do not support the Court’s reasoning. I will start with the concept of
+the extended continental shelf (section D), before turning to its relationship with the exclusive
+economic zone (section E). I will then set out my misgivings about the Court’s discussion of the
+practice of States (section F).
+
+
+                              D. The concept of the extended continental shelf
+                                    under customary international law
+
+       13. In my view, the conclusion of the Judgment is not supported by the terms of the definition
+of the continental shelf under customary international law, as reflected in Article 76, paragraph 1, of
+UNCLOS 17. This provision establishes two methods to determine the limit of the entitlement to a
+continental shelf: the outer edge of the continental margin, or the distance of 200 nautical miles where
+that outer edge lies within that distance. The provision does not compel any coastal State to use one
+method over the other when determining the outer limits of its continental shelf. Customary
+international law stipulates that a coastal State’s minimum entitlement to a continental shelf extends
+
+
+
+       15 See, with respect to the Convention on the Continental Shelf, North Sea Continental Shelf (Federal Republic of
+
+Germany/Denmark; Federal Republic of Germany/Netherlands), Judgment, I.C.J. Reports 1969, p. 37, para. 60; see also
+“Conclusions on identification of customary international law, with commentaries”, Yearbook of the International Law
+Commission (YILC), 2018, Vol. II, Part Two, p. 91 (Conclusion 11, para. 1).
+        16 See Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America),
+
+Merits, Judgment, I.C.J. Reports 1986, p. 95, para. 178.
+       17    Territorial and Maritime Dispute (Nicaragua v. Colombia), Judgment, I.C.J. Reports 2012 (II), p. 666,
+para. 118.
+
+                                                         -5-
+
+up to 200 nautical miles from its baselines 18, and it recognizes a broader continental shelf where the
+outer edge of the continental margin extends beyond that distance 19.
+
+
+       14. The rule reflected in Article 76, paragraph 1, of the Convention, being a rule of maritime
+entitlement, is not concerned with the maritime entitlements of other coastal States or with the
+method through which the outer limits of those entitlements are themselves determined. Therefore,
+this rule allows an overlap in the same maritime area when two coastal States have used different
+methods to determine the limits of their maritime entitlements. This is not undermined by the fact
+that only one of the two methods requires the application of “scientific and technical criteria”
+(Judgment, para. 75). These criteria are in practice, if not in theory, more difficult to apply than the
+criterion of distance. It does not follow, however, that the burden of meeting the scientific and
+technical criteria somehow tarnishes the maritime entitlement thus determined, compared to a
+maritime entitlement determined with reference to distance.
+
+
+       15. May treaty provisions that have not themselves been affirmed as reflecting custom serve
+as context for the interpretation of provisions that do reflect custom? The Judgment invokes
+Article 82, paragraph 1, of UNCLOS — a provision with a doubtful status under customary
+international law. In essence, the Court relies on the broad text of that provision, which does not
+indicate any exceptions or qualifications, to offer an interpretation that prevents its application in
+situations in which a coastal State encroaches upon the 200-nautical-mile zone of another State. This,
+in turn, is used as context to interpret the definition of the continental shelf under Article 76,
+paragraph 1, of the Convention. I have some doubts about the Court’s interpretation of Article 82.
+Whether the purpose of this provision can be served in the situation envisaged by the Court depends,
+in part, on the interpretation of the “equitable sharing criteria” that will guide the distribution of
+payments in such a situation, pursuant to Article 82, paragraph 4, of the Convention.
+
+
+       16. Moreover, I am reluctant to attach significance to the fact that the substantive and
+procedural conditions for determining the outer limits of the extended continental shelf — namely,
+those enshrined in Article 76, paragraphs 4 to 9 — were the result of a compromise (Judgment,
+para. 76). Leaving the definition of the continental shelf to one side, the Court has refrained from
+pronouncing on the status under customary international law of Article 76 of UNCLOS (see
+Judgment, paragraph 82) 20. If the criteria for determining the outer limits of the extended continental
+shelf are reflective of custom, then the fact that they emerged out of a compromise seems
+inconsequential. If they are not reflective of custom, then the pertinence of the compromise seems
+even more limited.
+
+
+       17. The preparatory work of UNCLOS assumes importance in today’s Judgment. As the
+Judgment acknowledges, however, the question now before the Court was not debated during the
+Third United Nations Conference on the Law of the Sea (Judgment, para. 76). On other occasions,
+in situations where the preparatory work evidences little or no discussion of a topic, the Court avoided
+
+
+
+
+       18 See Continental Shelf (Libyan Arab Jamahiriya/Malta), Judgment, I.C.J. Reports 1985, p. 33, para. 34: “natural
+
+prolongation . . . is in part defined by distance from the shore”.
+       19 Furthermore, at least under UNCLOS, a maximal limit is established in relation to the outer edge of the
+
+continental margin; see Article 76, paragraphs 5 and 6, of UNCLOS.
+       20 See also Territorial and Maritime Dispute (Nicaragua v. Colombia), Judgment, I.C.J. Reports 2012 (II), p. 666,
+
+para. 118.
+
+                                                             -6-
+
+drawing any inferences for the purposes of treaty interpretation 21. In my view, the Court should
+proceed with even greater caution where customary international law is in question.
+
+
+                              E. The significance of the exclusive economic zone
+
+       18. The Judgment places weight on the fact that the institutions of the exclusive economic
+zone and the continental shelf are integrated (Judgment, para. 49) and that their legal régimes are
+interrelated (Judgment, para. 70). In this regard, two points are worth making.
+
+
+       19. First, while linked, the institutions of the exclusive economic zone and of the continental
+shelf remain legally distinct, and the continental shelf up to 200 nautical miles has not been absorbed
+by the exclusive economic zone 22. The separate character of the two institutions is illustrated by the
+fact that, in the context of maritime delimitation, the Court maintains the distinction between the
+delimitation of the exclusive economic zone and the delimitation of the continental shelf even where
+it draws a single maritime boundary, despite the fact that the rights accruing in the continental shelf
+are, in the main, included among the exclusive economic zone rights 23. A coastal State’s entitlement
+to an exclusive economic zone is distinct from its entitlement to a continental shelf (even if the latter
+only extends up to 200 nautical miles), and indeed a State may enjoy sovereign rights over a
+continental shelf up to 200 nautical miles even where it has not proclaimed an exclusive economic
+zone, or where its exclusive economic zone is narrower than 200 nautical miles 24.
+
+
+       20. Second, the interrelated character of the exclusive economic zone and the continental shelf
+is potentially relevant where the two institutions attach to the same coastal State. This was the
+situation in Continental Shelf (Libyan Arab Jamahiriya/Malta). In that case, Libya had argued that
+the discontinuity in Malta’s natural prolongation nullified Malta’s own entitlement to a continental
+shelf on the basis of distance 25. Libya’s argument was effectively that Malta was not entitled to a
+continental shelf of up to 200 nautical miles unless it could prove that this shelf was the natural
+prolongation of its land territory. In emphasizing the importance of the criterion of distance, the Court
+rejected Libya’s contention that Malta’s continental shelf was terminated in the absence of natural
+prolongation in the geomorphological sense 26. By contrast, the Court did not address the question of
+
+
+
+
+       21 Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Georgia v.
+
+Russian Federation), Preliminary Objections, Judgment, I.C.J. Reports 2011 (I), pp. 129-130, para. 147; Immunities and
+Criminal Proceedings (Equatorial Guinea v. France), Judgment, I.C.J. Reports 2020, p. 323, para. 70; Maritime
+Delimitation and Territorial Questions between Qatar and Bahrain (Qatar v. Bahrain), Jurisdiction and Admissibility,
+Judgment, I.C.J. Reports 1995, p. 22, para. 41.
+       22 Continental Shelf (Libyan Arab Jamahiriya/Malta), Judgment, I.C.J. Reports 1985, p. 33, paras. 33-34.
+
+        23 Territorial and Maritime Dispute (Nicaragua v. Colombia), Judgment, I.C.J. Reports 2012 (II), p. 719,
+
+para. 251, subpara. 4; Territorial and Maritime Dispute between Nicaragua and Honduras in the Caribbean Sea
+(Nicaragua v. Honduras), Judgment, I.C.J. Reports 2007 (II), pp. 760-763, para. 321, subparas. 2-3.
+       24 Continental Shelf (Libyan Arab Jamahiriya/Malta), Judgment, I.C.J. Reports 1985, p. 33, para. 34.
+
+       25 Ibid., p. 34, para. 36:
+
+
+       “it is Libya’s case that the natural prolongation, in the physical sense, of the land territory into and under
+       the sea is still a primary basis of title to continental shelf. For Libya, as a first step each Party has to prove
+       that the physical natural prolongation of its land territory extends into the area in which the delimitation is
+       to be effected; if there exists a fundamental discontinuity between the shelf area adjacent to one Party and
+       the shelf area adjacent to the other, then the boundary, it is contended, should lie along the general line of
+       that fundamental discontinuity.”
+       26 Ibid., p. 35, para. 39:
+
+                                                           -7-
+
+whether Malta’s continental shelf entitlement could somehow counter Libya’s continental shelf
+entitlement. That question, as discussed, is a question of delimitation.
+
+
+       21. The fact that a coastal State’s entitlement to an exclusive economic zone does not nullify
+a priori another coastal State’s entitlement to an extended continental shelf is also reflected in
+international jurisprudence on maritime delimitation beyond 200 nautical miles. This includes the
+two Bay of Bengal cases 27 and the case of Maritime Delimitation in the Indian Ocean 28. In all three
+cases, at least one coastal State claimed an entitlement to an extended continental shelf lying within
+another State’s 200-nautical-mile limit. In the cases, three different international courts and tribunals
+proceeded with the delimitation of the maritime area, and in fact held that the entitlement to an
+extended continental shelf should be given some effect through the creation of a “grey area” 29. While
+the modalities may vary in each grey area, the upshot is that the coastal State entitled to an extended
+continental shelf and the coastal State with maritime entitlements up to 200 nautical miles both
+exercise a degree of jurisdiction in the same maritime area. Following the reasoning adopted by the
+Court in the present case, the coastal State’s claim to an extended continental shelf should have been
+declared inadmissible in so far as it lay within 200 nautical miles from the other State’s baselines,
+and no maritime delimitation would have been possible in that area (see Judgment, paras. 86 and 91).
+Yet the three courts and tribunals did not declare Bangladesh’s or Kenya’s claims inadmissible in so
+far as they lay within 200 nautical miles from Myanmar, India or Somalia. Nor did they readjust the
+delimitation line beyond 200 nautical miles from Bangladesh or Kenya, so that it respects the
+200-nautical-mile limit from Myanmar, India or Somalia.
+
+
+       22. Today’s Judgment notes that, in those cases, the grey areas were of limited size and arose
+as an incidental result, or as a consequence, of maritime delimitation (Judgment, paras. 71-72). This
+observation, however, overlooks the precedential value of the cases in the context of answering the
+question of determining maritime entitlements. For the purposes of the abstract question now before
+the Court, what matters is that the presence of grey areas at the conclusion of maritime delimitation
+presupposes, before that process, the existence of a maritime area where a State’s entitlement to an
+extended continental shelf overlaps with another State’s maritime entitlements up to 200 nautical
+miles from its coasts. If the latter maritime entitlements displaced the former, then maritime
+delimitation beyond 200 nautical miles in those cases would have been barred altogether, and no grey
+area would have been possible. The questions of whether grey areas — in the sense of areas of
+overlapping jurisdiction — should be recognized sparingly, whether they should cover a limited size,
+or whether they should be avoided altogether, would only come at play at the stage of delimitation.
+
+
+      23. The insistence that the jurisprudence of Bay of Bengal should be distinguished from the
+present case (Judgment, para. 72) illustrates, in my view, the Court’s oscillation between abstract
+questions of law and the circumstances of the present case. The only difference between those cases
+and the case at hand that might be relevant for answering the abstract question before the Court
+
+
+               “It follows that, since the distance between the coasts of the Parties is less than 400 miles, so that
+       no geophysical feature can lie more than 200 miles from each coast, the feature referred to as the ‘rift zone’
+       cannot constitute a fundamental discontinuity terminating the southward extension of the Maltese shelf and
+       the northward extension of the Libyan as if it were some natural boundary.” (Emphasis added.)
+       27 Delimitation of the maritime boundary in the Bay of Bengal (Bangladesh/Myanmar), Judgment, ITLOS Reports
+
+2012, p. 4; The Bay of Bengal Maritime Boundary Arbitration (People’s Republic of Bangladesh v. Republic of India),
+Award of 7 July 2014, RIAA, Vol. XXXII, p. 1.
+       28 Maritime Delimitation in the Indian Ocean (Somalia v. Kenya), Judgment, I.C.J. Reports 2021, p. 206.
+
+       29 Delimitation of the maritime boundary in the Bay of Bengal (Bangladesh/Myanmar), Judgment, ITLOS Reports
+
+2012, p. 120, para. 471; The Bay of Bengal Maritime Boundary Arbitration (People’s Republic of Bangladesh v. Republic
+of India), Award of 7 July 2014, RIAA, Vol. XXXII, p. 147, para. 498; Maritime Delimitation in the Indian Ocean
+(Somalia v. Kenya), Judgment, I.C.J. Reports 2021, p. 277, para. 197.
+
+                                                            -8-
+
+concerns the coastal configuration of the States involved. As the Judgment notes, the previous cases
+involved States with adjacent coasts (Judgment, paras. 71-72). This, however, does not reduce their
+relevance to the present case. The distinction between opposite and adjacent coasts 30 is not always
+clear. Within the same case, the Court commonly finds that the coasts of the litigant parties shift from
+adjacent to opposite or vice versa 31 regardless of whether the coastal States share a land boundary or
+not, or that they fit in both categories 32, or indeed in neither 33. But even if the criterion of adjacency
+could be applied in a sufficiently predictable manner, it is not clear how it could inform a coastal
+State’s maritime entitlements, which are identified on the basis of the rule reflected in Article 76,
+paragraph 1, of UNCLOS.
+
+
+                                               F. The practice of States
+
+       24. The practice of States provides the strongest support for the Court’s conclusion (Judgment,
+para. 77).
+
+
+1. Identifying practice
+
+       25. There is extensive practice whereby coastal States refrain from claiming that they are
+entitled to an extended continental shelf that intrudes within 200 nautical miles from another coastal
+State’s baselines 34. This practice is drawn primarily from the executive summaries of submissions to
+
+
+
+         30 International Hydrographic Organization, “Manual on technical aspects of the United Nations Convention on the
+
+Law of the Sea — 1982 (TALOS)” (6th edn., 2020), Appendix 1 (Glossary), para. 1: “Adjacent coasts: The coasts lying
+either side of a land boundary between two adjoining States”. See also ibid., para. 69: “Opposite coasts: The geographical
+relationship of the coasts of two States facing each other”.
+      31 Maritime Delimitation and Territorial Questions between Qatar and Bahrain (Qatar v. Bahrain), Merits,
+
+Judgment, I.C.J. Reports 2001, p. 91, para. 170.
+        32 Maritime Delimitation in the Black Sea (Romania v. Ukraine), Judgment, I.C.J. Reports 2009, p. 93, para. 88.
+
+      33 North  Sea Continental Shelf (Federal Republic of                    Germany/Denmark;       Federal    Republic    of
+Germany/Netherlands), Judgment, I.C.J. Reports 1969, p. 28, para. 36.
+        34 For example, France, “Partial Submission to the Commission on the Limits of the Continental Shelf pursuant to
+
+Article 76, paragraph 8 of the United Nations Convention on the Law of the Sea in respect of the areas of French Guiana
+and New Caledonia: Part 1: Executive Summary” (May 2007), p. 3, https://www.un.org/depts/los/clcs_new/
+submissions_files/fra07/fra_executivesummary_2007.pdf (visited 30 June 2023): “The extension is limited to the west by
+the area under Australian jurisdiction (EEZ)”; Ghana, “Submission for the Establishment of the Outer Limits of the
+Continental Shelf of Ghana pursuant to Article 76, paragraph 8 of the United Nations Convention on the Law of the Sea:
+Executive Summary” (April 2009), p. 5, para. 6.2, https://www.un.org/depts/los/clcs_new/submissions_files/gha26_09/
+gha_2009execsummary.pdf (visited 30 June 2023): “1 (Point OL-GHA-5) [marking the outer limit] is a point where the
+outer limit line joins to the 200 [nautical miles] from Nigeria’s territorial sea baseline”; Federated States of Micronesia,
+Papua New Guinea and the Solomon Islands, “Joint submission to the Commission on the Limits of the Continental Shelf
+concerning the Ontong Java Plateau: Executive Summary” (May 2009), p. 11, para. 6.5, https://www.un.org/depts/
+los/clcs_new/submissions_files/fmpgsb32_09/exsumdocs/fmpgsb2009executivesummary.pdf (visited 30 June 2023): “1
+point (OJP-ECS-004) [marking the outer limit], where the 60 [nautical mile] formula line (Article 76, paragraph 4 (a) (ii)
+of the Convention) that defines the outer limit of the extended continental shelf intersects the line 200 [nautical miles] from
+the territorial sea baseline of Nauru”; Mozambique, “Submission to the Commission on the Limits of the Continental Shelf
+of the Outer Limits of the Extended Continental Shelf of the Republic of Mozambique under the Provisions of Article 76
+of the United Nations Convention on the Law of the Sea, 1982: Executive Summary” (June 2010), p. 6,
+https://www.un.org/depts/los/clcs_new/submissions_files/moz52_10/moz_2010_es.pdf (visited 30 June 2023): “Point
+MOZ-OL-92 [marking the outer limit] is located on the 200 [nautical mile] line measured from the territorial sea baseline
+of South Africa”; Kiribati, “Submission to the Commission on the Limits of the Continental Shelf: Executive Summary”
+(December 2012), p. 5, para. 6.3, https://www.un.org/depts/los/clcs_new/submissions_files/kir64_2012/kir_es_doc.pdf
+(visited 30 June 2023): “The Western Platform Area (FP_001 to FP_081), defined by 78 fixed points on the Hedberg line,
+one fixed point on the 200 [nautical mile] line measured from the Kiribati Territorial Sea baseline and one fixed point on
+the 200 [nautical mile] line of another coastal State”; Canada, “Partial submission to the Commission on the Limits of the
+Continental Shelf regarding its continental shelf in the Atlantic Ocean: Executive Summary” (December 2013), pp. 6-7,
+https://www.un.org/depts/los/clcs_new/submissions_files/can70_13/es_can_en.pdf (visited 30 June 2023):
+
+                                                             -9-
+
+the Commission on the Limits of the Continental Shelf (hereinafter “CLCS”) of States party to
+UNCLOS under Article 76, paragraph 8, of the Convention.
+
+
+       26. This practice appears to be a general one. The generality of the practice is not necessarily
+to be ascertained with reference to the totality of States, but rather with reference to the States that
+are concerned with, or in a position to contribute to the formation of, the putative rule 35. The relevant
+States in this context are those that, as a matter of geomorphology, are capable of sustaining a claim
+to an extended continental shelf intruding within 200 nautical miles from another State’s baselines.
+Within that pool of coastal States, there appears to be a clear trend among States from several regions.
+In the International Law Commission’s terminology, therefore, the practice is “sufficiently
+widespread and representative, as well as consistent” 36.
+
+
+       27. I am also prepared to accept that this practice is supported by legal conviction
+(opinio juris). Identifying the subjective element of custom might be arduous when the relevant
+practice consists of abstentions, as was the case in Lotus 37. By contrast, in this case the Court is
+presented with an abundance of States expressly limiting their claims at the 200-nautical-mile mark
+from other States’ baselines. Moreover, the field in question — maritime entitlements — is governed
+by customary international law, in the sense that customary international law clearly regulates States’
+behaviour in the field, even if the precise contours of that regulation may need to be ascertained. In
+the face of a clearly identifiable pattern of conduct on the part of States, it is reasonable to infer that
+States conform to a rule of customary international law. The Court in similar situations has accepted
+that the general practice was accompanied by opinio juris38.
+
+
+       28. This practice cannot be dismissed simply because it emanates from States party to
+UNCLOS. It is true that the conduct of States that emerges from the executive summaries of their
+submissions to the CLCS could be attributed to an intention to comply with conventional obligations,
+rather than with customary law 39. But there is nothing in these executive summaries nor in the
+relevant provisions of the Convention that would suggest that this conduct is peculiar to or triggered
+by the specific terms of those provisions. In fact, some States party to UNCLOS refrain from claiming
+an entitlement to areas within 200 nautical miles from the baselines of third States, non-parties of the
+
+
+
+
+                 “The outer limits of the continental shelf in the Labrador Sea region are defined by 47 fixed points
+         (LS-ECS-001 through LS-ECS-047). These fixed points are either formula points established in accordance
+         with article 76 (4) (a) (i) or (ii), points on the distance or depth constraint lines established in accordance
+         with article 76(5), or a point on the intersection of the line delineating the outer edge of the continental
+         margin and the 200 [nautical mile] limit of the Kingdom of Denmark.”
+       35 “Conclusions on identification of customary international law, with commentaries”, YILC (2018), Vol. II,
+
+Part Two, pp. 100-101 (Commentary to Conclusion 8, paras. 3-4).
+         36 Ibid., p. 91 (Conclusion 8, para. 1).
+
+         37 “Lotus”, Judgment No. 9, 1927, P.C.I.J., Series A, No. 10, p. 28.
+
+         38 For example, Right of Passage over Indian Territory (Portugal v. India), Merits, Judgment, I.C.J. Reports 1960,
+
+p. 40.
+         39 See “Conclusions on identification of customary international law, with commentaries”, YILC (2018), Vol. II,
+
+Part Two, p. 102 (Commentary to Conclusion 9, para. 4).
+
+                                                            - 10 -
+
+Convention, which could only accrue benefits from customary international law rather than from the
+Convention 40.
+
+
+2. Evaluating practice
+
+       29. More complicated is the determination of the content of the putative rule of customary
+international law to which the practice conforms. Here, and elsewhere, opinio juris manifests itself
+in a partial way. In the publicly available documents, most States simply place their claimed outer
+limit of their extended continental shelf at the 200-nautical-mile mark of another State, without
+revealing the reasons behind their choice 41. Similarly, there is little information as to the legal
+grounds put forward by States objecting to claims by another State to an extended continental shelf
+that intrudes within 200 nautical miles from their baselines 42. In view of the States’ silence, it is the
+Court’s task to articulate the legal rule to which the general practice conforms. Practice will
+inevitably be susceptible to multiple interpretations; in this case, there are several possible rules that
+would explain the practice. The Court should then identify a legal rule that accommodates the
+broadest variety of practice, that conforms to the established principles concerning the relevant legal
+field (here, maritime entitlements), and that is in harmony with international jurisprudence, including
+the jurisprudence of this Court.
+
+
+       30. On this analysis, it is difficult to conclude that States, in stopping at the 200-nautical-mile
+limit in their submissions to the CLCS, consider that their entitlement to an extended continental
+
+
+        40 For example, Costa Rica and Ecuador, “Joint Partial Submission of Data and Information on the Outer Limits of
+
+the Continental Shelf in Panama Basin pursuant to Part VI of and Annex II to the United Nations Convention on the Law
+of the Sea: Part I: Executive Summary” (December 2020), p. 18, para. 6, https://www.un.org/depts/los/clcs_new/
+submissions_files/criecu_86_2020/PART-I%20(secured).pdf (visited 30 June 2023), with respect to Colombia; Ecuador,
+“A Partial Submission of Data and Information on the Outer Limits of the Continental Shelf in the Southern Region of the
+Carnegie Ridge pursuant to Part VI of and Annex II to the United Nations Convention on the Law of the Sea: Part I:
+Executive Summary” (March 2022), p. 16, para. 6, https://www.un.org/depts/los/clcs_new/submissions_files/ecu90_2022/
+PartI.pdf (visited 30 June 2023), with respect to Peru.
+        41 For example, Cook Islands, “Revised Submission to the Commission on the Limits of the Continental Shelf
+
+concerning the Manihiki Plateau: Executive Summary” (December 2021), p. 6, para. 21, https://www.un.org/depts/los/
+clcs_new/submissions_files/cok23_09/CKI_REV_ES_DOC.pdf (visited 30 June 2023): “5 are points [marking the outer
+limits of the extended continental shelf] located on the 200 [nautical mile] line of an opposite or adjacent coastal State”;
+Denmark, “Partial Submission to the Commission on the Limits of the Continental Shelf: The Continental Shelf North of
+the Faroe Islands: Executive Summary” (April 2009), p. 12, https://www.un.org/depts/los/clcs_new/submissions_files/
+dnk28_09/dnk2009executivesummary.pdf (visited 30 June 2023): “To the west, north-west, and south-east, the outer limits
+of the continental shelf are delineated by the 200 nautical mile limits of Iceland, Jan Mayen and the mainland of Norway,
+respectively”; Sri Lanka, “Submission made in accordance with the Statement of Understanding adopted by the Third
+United Nations Conference on the Law of the Sea, on 29 August 1980, contained in Annex II to the Final Act of the
+Conference, and under paragraph 8 of article 76 of the United Nations Convention of the Law of the Sea and article 3 of
+Annex II of the Convention: Part I: Executive Summary” (May 2009), p. 9, para. 4.1, https://www.un.org/depts/los/
+clcs_new/submissions_files/lka43_09/lka2009executivesummary.pdf (visited 30 June 2023): “Point B . . . [marking the
+outer limit of the extended continental shelf is] where the outer limits of the extended continental shelf joins the approximate
+position of another coastal State’s 200 [nautical mile] line”; Bahamas, “Submission to the Commission on the Limits of
+the Continental Shelf: Executive Summary” (February 2014), p. 4, para. 6.3, https://www.un.org/depts/los/clcs_new/
+submissions_files/bhs71_14/BHS-ES-DOC.pdf (visited 30 June 2023): “FP 1 [a point marking the outer limit of the
+extended continental shelf] marks the location of the intersection of the 350 [nautical mile] constraint line with the
+200 [nautical mile] line measured from the territorial sea baselines of the United States of America”; Oman, “Submission
+to the Commission on the Limits of the Continental Shelf pursuant to article 76 (8) of the United Nations Convention on
+the Law of the Sea: Executive Summary” (October 2017), p. 6, para. 7.0.2, https://www.un.org/depts/los/clcs_new/
+submissions_files/omn78_17/omn_es.pdf (visited 30 June 2023): “1 point [marking the outer limit of the extended
+continental shelf] on the line 200 nautical miles from the territorial sea baseline of India”.
+         42 For example, Japan, Letter to the Secretary-General of the United Nations (28 December 2012),
+
+https://www.un.org/depts/los/clcs_new/submissions_files/chn63_12/jpn_re_chn_28_12_2012.pdf (visited 30 June 2023);
+Colombia, Costa Rica and Panama, Letter to the Secretary-General of the United Nations (5 February 2014),
+https://www.un.org/depts/los/clcs_new/submissions_files/nic66_13/col_cri_pan_re_nic_2014_02_05_e.pdf       (visited
+30 June 2023).
+
+                                                          - 11 -
+
+shelf is somehow limited by a neighbouring State’s own maritime entitlement. Such a legal
+conviction would be in tension with the principles governing the establishment of maritime
+entitlements, including entitlements to an extended continental shelf, as well as with the international
+practice of maritime delimitations involving an extended continental shelf on the one hand and, on
+the other, a 200-nautical-mile maritime zone.
+
+
+       31. The most likely explanation for the abundant State practice is, in my view, a legal
+conviction that, under the applicable rules on maritime delimitation, an entitlement to an extended
+continental shelf in principle shall be given no effect in so far as it overlaps with another State’s
+entitlement to a 200-nautical-mile zone. This can be understood as a manifestation of the goal to
+achieve “an equitable solution”, which, as noted, is the paramount consideration in any delimitation
+exercise 43. The Court recently affirmed that “the achievement of an equitable solution requires that,
+so far as possible, the line of delimitation should allow the coasts of the Parties to produce their
+effects in terms of maritime entitlements in a reasonable and mutually balanced way” 44.
+
+
+       32. The goal of ensuring an equitable solution has been translated into what the Court refers
+to as the “usual” three-stage methodology 45. While not mandatory, this methodology is based on
+objective geographical criteria, and it has brought predictability and consistency in maritime
+delimitation 46.
+
+
+        33. The first step towards achieving an equitable solution under the three-stage methodology
+is to draw a provisional equidistance line. It is reported that an overwhelming majority of maritime
+delimitation agreements involving States with opposite coasts or with coasts of a hybrid character
+employs an equidistance line 47. In Territorial and Maritime Dispute, the provisional equidistance
+line was defined as “a line each point on which is an equal distance from the nearest points on the
+two relevant coasts” of the parties 48. When applied to States with opposite coasts lying further than
+400 nautical miles apart, the provisional equidistance line ensures that each coastal State is granted
+a continental shelf of at least 200 nautical miles. It is not obvious why the provisional equidistance
+line should be drawn differently in a situation involving entitlements to an extended continental
+shelf 49, including those of States with opposite coasts. Even if the provisional equidistance line is
+drawn with reference to the outer limits of the coastal States’ respective continental shelf
+
+
+
+       43 See para. 5 above.
+
+        44 Maritime Delimitation in the Indian Ocean (Somalia v. Kenya), Judgment, I.C.J. Reports 2021, p. 250, para. 124,
+
+citing Territorial and Maritime Dispute (Nicaragua v. Colombia), Judgment, I.C.J. Reports 2012 (II), p. 703, para. 215;
+see also North Sea Continental Shelf (Federal Republic of Germany/Denmark; Federal Republic of Germany/Netherlands),
+Judgment, I.C.J. Reports 1969, p. 53, para. 101, subpara. (C) (1), Continental Shelf (Tunisia/Libyan Arab Jamahiriya),
+Judgment, I.C.J. Reports 1982, p. 43, para. 37, and Maritime Delimitation in the Black Sea (Romania v. Ukraine),
+Judgment, I.C.J. Reports 2009, p. 127, para. 201.
+       45 Maritime Delimitation in the Indian Ocean (Somalia v. Kenya), Judgment, I.C.J. Reports 2021, p. 252, para. 131.
+
+       46 Ibid., p. 251, para. 128.
+
+       47 Yoshifumi Tanaka, Predictability and Flexibility in the Law of Maritime Delimitation (2nd edn., Oxford:
+
+Hart 2019), p. 191, with further references therein.
+       48  Territorial and Maritime Dispute (Nicaragua v. Colombia), Judgment, I.C.J. Reports 2012 (II), p. 695,
+para. 191; see also Art. 6, para. 1, of the Convention on the Continental Shelf (concluded 29 April 1958; entered into force
+10 June 1964), United Nations, Treaty Series, Vol. 499, p. 311.
+        49 See Delimitation of the maritime boundary in the Bay of Bengal (Bangladesh/Myanmar), Judgment,
+
+ITLOS Reports 2012, p. 117, para. 455; The Bay of Bengal Maritime Boundary Arbitration (People’s Republic of
+Bangladesh v. Republic of India), Award of 7 July 2014, RIAA, p. 139, para. 464; Delimitation of the Maritime Boundary
+in the Atlantic Ocean (Ghana/Côte d’Ivoire), Judgment, ITLOS Reports 2017, p. 142, para. 526; Maritime Delimitation in
+the Indian Ocean (Somalia v. Kenya), Judgment, I.C.J. Reports 2021, pp. 276-277, para. 195.
+
+                                                          - 12 -
+
+entitlements 50, the fact that one of them is entitled to a 200-nautical-mile zone in the relevant area
+under delimitation may constitute a relevant circumstance warranting the adjustment of the
+provisional equidistance line at the 200-nautical-mile limit 51. In either case, at the end of the maritime
+delimitation process, the area of the continental shelf up to 200 nautical miles of a coastal State will
+in principle be found to appertain to that coastal State, and not to another State that may be entitled
+to an extended continental shelf in the same area. While a State’s entitlement to an extended
+continental shelf remains intact in the abstract, in practice it will likely be subordinated to the
+neighbouring State’s entitlement to a 200-nautical-mile zone by virtue of the goal of achieving an
+equitable solution.
+
+
+       34. The executive summaries of States’ submissions to the CLCS should be assessed against
+this legal background. It then becomes clear that coastal States refrain from claiming an extended
+continental shelf within 200 nautical miles from their neighbours’ coasts because they hold the legal
+conviction that principles of maritime delimitation would eventually prevent them from exercising
+the sovereign rights over that maritime area. Of course, a State cannot unilaterally implement any
+delimitation through its submission to the CLCS 52, nor does the CLCS have any role in the
+delimitation process 53. Nonetheless, a State understandably considers it futile — or indeed
+inequitable — to claim before the CLCS an area over which, under the governing principles of
+delimitation that will eventually apply, it will never exercise continental shelf rights. There is little
+incentive to enter into a costly and lengthy process of establishing one’s entitlement in an area over
+which one is unlikely ever to exercise jurisdiction.
+
+
+      35. Of course, exceptional situations might call for the adoption of a different outcome. The
+relevant circumstances of a specific case might justify a delimitation line that does not merely reach
+the 200-nautical mile limit but exceeds it. One can imagine, for example, a situation where State A
+has a particularly narrow coastal front but is entitled to an extended continental shelf, whereas
+State B, lying opposite, has an exceptionally wide coastal front, over which it is entitled to a
+continental shelf only up to 200 nautical miles. In such a situation, it is conceivable that, in the course
+of a delimitation, the narrow continental shelf projection of State A’s coastal front be allowed to
+intrude within State B’s continental shelf entitlement. Exceptional circumstances might also justify
+the position taken by the few States the submissions of which to the CLCS stand in contrast with the
+rest.
+
+
+
+                                                            *
+
+
+
+
+       50 As argued by Nicaragua: see Judgment, para. 29.
+
+        51 See Continental Shelf (Libyan Arab Jamahiriya/Malta), Judgment, I.C.J. Reports 1985, p. 33, para. 33: “one of
+
+the relevant circumstances to be taken into account for the delimitation of the continental shelf of a State is the legally
+permissible extent of the exclusive economic zone appertaining to that same State.”
+       52 See Delimitation of the Maritime Boundary in the Gulf of Maine Area (Canada/United States of America),
+
+Judgment, I.C.J. Reports 1984, p. 299, para. 112 (1).
+        53 Question of the Delimitation of the Continental Shelf between Nicaragua and Colombia beyond 200 Nautical
+
+Miles from the Nicaraguan Coast (Nicaragua v. Colombia), Preliminary Objections, Judgment, I.C.J. Reports 2016 (I),
+p. 137, para. 112.
+
+                                                          - 13 -
+
+       36. In sum, a coastal State’s entitlement to an extended continental shelf is not curtailed
+because of another coastal State’s entitlement to 200-nautical-mile zones in the same maritime area.
+Consequently, any overlap between the two entitlements must be resolved through the process of
+maritime delimitation. In that context, I am persuaded that a coastal State’s entitlement to an extended
+continental shelf will in principle be sacrificed in order to give effect to another coastal State’s
+entitlement to 200-nautical-mile zones. This rule ought to be applied with regard to the specific facts
+of each case, including the case before the Court.
+
+
+                                               III. CONCLUSION
+
+      37. For the reasons set out above, I think that the Court is not in a position today to reject the
+submissions that Nicaragua made in its written pleadings. In my view, the Court should have
+responded to both questions formulated in the Order of 4 October 2022, and it should have proceeded
+to hold oral proceedings to decide the remaining issues dividing the Parties in this case. In voting
+against the rejection of Nicaragua’s proposed delimitation lines, I do not necessarily endorse
+Nicaragua’s position on the question of maritime delimitation. Rather, I express my reservations
+about the Court’s rejection of Nicaragua’s position on the question of maritime delimitation without
+the benefit of oral argument.
+
+
+       38. My reservations remain regardless of the Court’s answer to the first question. As the term
+suggests, and as Article 60, paragraph 2, of the Rules indicates, a party’s final submissions are its
+final word in a case. By contrast, each party is free to amend the submissions it presents in its written
+pleadings, provided that it remains within the confines of the dispute as presented in the application54.
+At the end of its oral argument in the present phase of the proceedings in this case, Nicaragua formally
+reserved its right to complete its final submissions 55.
+
+
+       39. The Judgment shifts its focus from the final submissions presented by Nicaragua at the
+oral proceedings to the submissions that it had presented in its written pleadings. Those written
+submissions were formulated at a time before the Court’s decision to direct the Parties to specific
+questions, and they address issues extending beyond the Court’s focus at the current stage of the
+proceedings. This fact in itself justifies allowing the Parties to revise their positions on these issues
+in light of today’s Judgment.
+
+
+                                                                   (Signed)    Hilary CHARLESWORTH.
+
+
+                                                  ___________
+
+
+
+
+       54 For that final point, see Certain Phosphate Lands in Nauru (Nauru v. Australia), Preliminary Objections,

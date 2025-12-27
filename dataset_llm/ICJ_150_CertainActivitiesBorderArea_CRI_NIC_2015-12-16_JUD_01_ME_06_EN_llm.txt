@@ -1,0 +1,546 @@
+                         5. While I concur with the majority’s conclusion that Costa Rica ought
+                      to have produced an EIA in the Construction of a Road case (Judgment,
+                      paras. 104‑105 and 160‑162), I feel the present Judgment offers a welcome
+                      opportunity to expand upon the present state of the law surrounding
+                      EIAs, and to offer insight as to how the body of law governing such
+                      instruments may be complemented so as to provide clearer guidance to
+                      nation-States contemplating large‑scale public works projects that con-
+                      tain a prospect of transboundary impacts.
+                         6. As I shall discuss at greater length below, the obligation to produce
+                      an EIA presently arises not only under general international law, but has
+                      also been codified by various international treaties and other legal instru-
+                      ments. Regrettably, despite the current widespread acceptance of the
+                      necessity to conduct an EIA where there is a risk of transboundary harm,
+                      public international law presently offers almost no guidance as to the spe-
+
+
+
+
+
+5 Ord 1088.indb 254                                                                                  19/10/16 12:01
+
+                      791 	 certain activities and construction of a road (sep. op. bhandari)
+
+                      cific circumstances giving rise to the need for an EIA, nor the requisite
+                      content of any such assessment.
+
+                         7. For these reasons, in the present opinion I intend to offer some sug-
+                      gestions as to how the public international law standards governing EIAs
+                      could be improved. In undertaking this endeavour, I draw inspiration
+                      from the words of Judge Weeramantry in his dissenting opinion to this
+                      Court’s Nuclear Tests II Order :
+
+                               “This Court, situated as it is at the apex of international tribunals,
+                            necessarily enjoys a position of special trust and responsibility in rela-
+                            tion to the principles of environmental law, especially those relating
+                            to what is described in environmental law as the Global Commons.
+                            When a matter is brought before it which raises serious environmen-
+                            tal issues of global importance, and a prima facie case is made out of
+                            the possibility of environmental damage, the Court is entitled to take
+                            into account the Environmental Impact Assessment principle in deter-
+                            mining its preliminary approach.” 1
+
+                         8. In keeping with this sage pronouncement, I shall first examine how
+                      the legal instrument of an EIA fits within the broader history and con-
+                      temporary régime of international environmental law. Against this back-
+                      drop I shall proceed to a discussion of current trends in public international
+                      law pertaining to transboundary EIAs. Finally, I shall provide some rec-
+                      ommendations that in my respectful view could serve as useful minimum
+                      standards for determining the content of transboundary EIAs under pub-
+                      lic international law.
+
+                         9. Over approximately the past half‑century remarkable progressive
+                      steps have been taken with regard to international environmental law
+                      since the United Nations Conference on the Human Environment was
+                      held at Stockholm in 1972 (“Stockholm Conference”) 2. One of the rea-
+                      sons for this evolution is scientific development, in so far as increased
+                      technological capacity for scientific inquiry has heightened the ability of
+
+                        1 Request for an Examination of the Situation in Accordance with Paragraph 63 of the
+
+                      Court’s Judgment of 20 December 1974 in the Nuclear Tests (New Zealand v. France) Case,
+                      Order of 22 September 1995, I.C.J. Reports 1995, p. 345 (“Nuclear Tests II Order”).
+                        2 The United Nations Conference on the Human Environment (1972) convened by
+
+                      United Nations General Assembly res. 2398 (XXIII).
+
+
+
+
+
+5 Ord 1088.indb 256                                                                                             19/10/16 12:01
+
+                      792 	 certain activities and construction of a road (sep. op. bhandari)
+
+                      mankind to ascertain the harm it is committing against its own natural
+                      habitat. This is demonstrated most obviously through a greatly intensi-
+                      fied focus on climate change over the past twenty years 3.
+                         10. Some of the driving forces behind the advent and growing accep-
+                      tance of the need to conduct EIAs are the concomitant rise in other inter-
+                      national environmental law doctrines, such as the principle of sustainable
+                      development, the principle of preventive action, global commons, the pre-
+                      cautionary principle, the polluter pays principle and the concept of trans-
+                      boundary harm.
+
+                                            Principle of Sustainable Development
+                         11. The principle of sustainable development has been a driving force
+                      in international environmental law for several decades. Indeed, the Stock-
+                      holm Conference culminated in the issuance of a comprehensive report
+                      recognizing, inter alia, that environmental management is designed for
+                      the purpose of facilitating comprehensive planning that takes into account
+                      the side effects of human activities on the environment 4. Chapter I of that
+                      report consisted of a declaration (“Stockholm Declaration”) containing
+                      26 principles.
+                         12. Principle 1 of the Stockholm Declaration implicitly embodied the
+                      principle of sustainable development when it stated in relevant part that :
+                               “Man has the fundamental right to freedom, equality and adequate
+                            conditions of life, in an environment of a quality that permits a life
+                            of dignity and well‑being, and he bears a solemn responsibility to
+                            protect and improve the environment for present and future genera-
+                            tions.”
+                      The actual term “sustainable development” was coined in a report pre-
+                      pared in 1987 by the World Commission on Environment and Develop-
+                      ment 5, commonly known as the “Brundtland Report” 6, and has figured
+                      prominently in numerous international treaties, legal instruments and
+                      cases applying international environmental law ever since.
+
+                         13. The notion of sustainable development is said to embody the balan­
+                      cing of two ideas. The first is the idea of granting priority to essential needs
+                      such as food, clothing, shelter, and the second is the idea of limitations
+                      imposed by the ability of the environment to meet such future needs 7.
+                      As the term implies, the industrial development and scientific progress
+
+                         3 See, generally, Gabčíkovo-Nagymaros Project (Hungary/Slovakia), Judgment,
+
+                      I.C.J. Reports 1997, p. 7.
+                         4 Report of the United Nations Conference on the Human Environment, UN doc. A/
+
+                      CONF.48/14/Rev.1, p. 28.
+                         5 Philippe Sands, Principles of International Environmental Law, 2nd ed., 2003, p. 252.
+                         6 Report of the World Commission on Environment and Development, Our Com-­
+
+                      mon Future (1987), p. 43.
+                         7 Ibid.
+
+
+
+
+
+
+
+5 Ord 1088.indb 258                                                                                                19/10/16 12:01
+
+                      793 	 certain activities and construction of a road (sep. op. bhandari)
+
+                      taking place in the world must be done in a manner that takes into
+                      account the impact of such activities on the environment. In fact, in the
+                      Gabčíkovo‑Nagymaros Project Judgment, this Court discussed this bal-
+                      ancing act in the following terms :
+                               “Throughout the ages, mankind has, for economic and other rea-
+                            sons, constantly interfered with nature. In the past, this was often
+                            done without consideration of the effects upon the environment.
+                            Owing to new scientific insights and to a growing awareness of the
+                            risks for mankind — for present and future generations — of pursuit
+                            of such interventions at an unconsidered and unabated pace, new
+                            norms and standards have been developed, set forth in a great number
+                            of instruments during the last two decades. Such new norms have to
+                            be taken into consideration, and such new standards given proper
+                            weight, not only when States contemplate new activities but also when
+                            continuing with activities begun in the past. This need to reconcile
+                            economic development with protection of the environment is aptly
+                            expressed in the concept of sustainable development.” 8
+
+
+                      The principle of sustainable development is thought of as an underlying
+                      concern in all negotiations and discussions of the international commu-
+                      nity relating to the environment 9.
+
+                                                Principle of Preventive Action
+                         14. In addition to sustainable development, the principle of preventive
+                      action is another pillar of modern international environmental law 10.
+                      Whereas certain principles of international environmental law such as
+                      sustainable development focus on balancing the often competing needs of
+                      industrial development and environmental protection, the principle of
+                      preventive action, by contrast, focuses solely on the minimization of envi-
+                      ronmental damage 11. As the term would imply, the preventive action
+                      called for must be done prior to the occurrence of any environmental
+                      damage. This Court has recognized the importance of the principle of
+                      preventive action in the Gabčíkovo‑Nagymaros Project Judgment, where
+                      it stated that :
+                            “[t]he Court is mindful that, in the field of environmental protection,
+                            vigilance and prevention are required on account of the often irre-
+
+                         8 Gabčíkovo-Nagymaros Project (Hungary/Slovakia), Judgment, I.C.J. Reports 1997,
+
+                      p. 78, para. 140.
+                         9 Xue Hanqin, Transboundary Damage in International Law, p. 326.
+                         10 Report of the International Law Commission, Draft Principles on the Prevention of
+
+                      Transboundary Harm from Hazardous Activities, with Commentaries (2001), 56th Ses-­
+                      sion, UN doc. A/56/10.
+                         11 Philippe Sands, Principles of International Environmental Law, 2nd ed., 2003, p. 281.
+
+
+
+
+
+
+
+5 Ord 1088.indb 260                                                                                                 19/10/16 12:01
+
+                      794 	 certain activities and construction of a road (sep. op. bhandari)
+
+                            versible character of damage to the environment and of the limita-
+                            tions inherent in the very mechanism of reparation of this type of
+                            damage” 12.
+
+                                                         Global Commons
+                         15. Central to the principles of sustainable development and preven-
+                      tive action is the core idea of common custody over the earth’s resources
+                      and that stewardship over the environment cannot end at the border of a
+                      nation-State. These values of good neighbourliness and co‑operation 13
+
+                      tant one, its status in international law is still evolving. Its core ethos,
+                      however, is captured by Principle 15 of the Rio Declaration :
+                              “In order to protect the environment, the precautionary approach
+                            shall be widely applied by States according to their capabilities. Where
+                         12 Gabčíkovo-Nagymaros Project (Hungary/Slovakia), Judgment, I.C.J. Reports 1997,
+
+                      p. 78. para. 140.
+
+                      Dictionary of Law, 7th ed., 2009, 2014 online version.
+                         15 The United Nations Conference on the Human Environment (1972) convened by
+
+                      United Nations General Assembly res. 2398 (XXIII).
+                         16 Philippe Sands, Principles of International Environmental Law, 2nd ed., 2003, p. 267.
+
+
+                            there are threats of serious or irreversible damage, lack of full
+                            ­scientific certainty shall not be used as a reason for postponing cost‑­
+                             effective measures to prevent environmental degradation.” 17
+
+                         18. There exists some confusion in the international community with
+                      regard to this principle as it has been provided for in many conventions
+                      though in different language. Certain conventions couch this principle in
+                      terms similar to progressive realization of enhanced scientific capabilities
+                      and available knowledge 18. This principle was urged before the Court by
+                      New Zealand (as well as all five intervening nations) in Nuclear Tests II 19.
+                      However, in that Order the Court did not make any finding as to the
+                      applicability of the precautionary principle. Nearly two decades later, and
+                      despite being urged by New Zealand as an intervening State, the Court
+                      did not take into account the precautionary principle in its analysis d
+
+
+
+
+                                                     Polluter Pays Principle
+                         19. The principle of polluter pays 23 might be looked at as a retrospec-
+                      tive method of allocating loss after an incident resulting in transboundary
+                      harm has already occurred. This principle could contribute to enhancing
+                      economic efficiency 24 in the case of an incident that causes transboundary
+                         17 United Nations Conference on Environment and Development, Rio Declaration on
+
+                      Environment and Development, UN doc. A/Conf.151/26 (1992).
+                         18 International Convention for the Regulation of Whaling, 161 United Nations, Treaty
+
+                      Series (UNTS), 1946, signed at Washington, D.C. ; Convention concerning the Protection
+                      of Workers against Ionising Radiations (entry into force: 17 June 1962), adoption : Geneva,
+                      44th Session of the International Law Commission (22 June 1960).
+                         19 Request for an Examination of the Situation in Accordance with Paragraph 63 of the
+
+                      Court’s Judgment of 20 December 1974 in the Nuclear Tests (New Zealand v. France) Case,
+                      Order of 22 September 1995, I.C.J. Reports 1995, p. 288.
+                         20 Whaling in the Antarctic (Australia v. Japan : New Zealand intervening), Judgment,
+
+                      I.C.J. Reports 2014, p. 226.
+                         21 Ibid., pp. 371‑375, paras. 60‑71 ; separate opinion of Judge Cançado Trindade.
+                         22 Ibid., pp. 455‑456, paras. 6‑10 ; separate opinion of Judge ad hoc Charlesworth.
+                         23 Report of the International Law Commission, Draft Principles on the Prevention of
+
+                         24 Alan E. Boyle, “Making the Polluter Pay ? Alternatives to State Responsibility in
+
+                      the Allocation of Transboundary Environmental Costs” in Francesco Francioni and
+                      Tulio Scovazzi (eds.), International Responsibility for Environmental Harm, pp. 363, 369.
+
+
+                      796 	 certain activities and construction of a road (sep. op. bhandari)
+
+                      harm, by judging the actions of polluters under a strict liability standard
+                      of care. As the concept arose from the Organization for Economic
+                      Co‑operation and Development (“OECD”) 25 and does not have the sta-
+                      tus of a principle of general international law 26, it presently acts as merely
+                      a general guideline of public international law 27.
+
+                                                       Transboundary Harm
+                        20. As the preceding discussion underscores, there are a variety of
+                      overlapping principles when it comes to international environmental law,
+                      with distinct approaches and objectives, that converge upon the com-
+
+
+                         21. There exists no single definition of transboundary harm under
+                      international law. Though the Draft Principles relating to prevention of
+                      transboundary harm by the International Law Commission (“ILC”) 28 do
+                      contain a definition of this concept, the idea of “risk of causing significant
+                      transboundary harm” is quite vague. Harm as per the ILC must be phys-
+                      ical and is limited to persons, property or the environment 29. However,
+
+
+                               “For the purposes of these articles, ‘risk of causing significant trans-
+                            boundary harm’ refers to the combined effect of the probability of
+                            occurrence of an accident and the magnitude of its injurious impact.
+
+                          25 OECD, Guiding Principles concerning International Economic Aspects of
+
+                      Environmental Policies, 26 May 1972, C (72), p. 128.
+                          26 Declaration on the Human Environment, Report of the UN Conference on the
+
+                      Human Environment (Stockholm, 1972), UN doc. A/Conf.48/14/Rev.1 ; Alan E. Boyle,
+                      “Making the Polluter Pay ? Alternatives to State Responsibility in the Allocation of
+                      Transboundary Environmental Costs” in Francesco Francioni and Tulio Scovazzi (eds.),
+                      International Responsibility for Environmental Harm, pp. 363, 369 ; James Crawford (ed.),
+                      Brownlie’s Principles of Public International Law, Oxford University Press, 7th ed., 2008,
+
+                      UN doc. A/56/10.
+                          29 Ibid., Art. 2 (b).
+                          30 Ibid., Art. 2, Commentary 2.
+
+5 Ord 1088.indb 266                                                                                                    19/10/16 12:01
+
+                      797 	 certain activities and construction of a road (sep. op. bhandari)
+
+                      The ILC also gives guidance on the meaning of the word “significant” by
+
+                               ‘significant’ is something more than ‘detectable’ but need not be at the
+                               level of ‘serious’ or ‘substantial’. The harm must lead to a real detri-
+                               mental effect on matters such as, for example, human health, industry,
+                               property, environment or agriculture in other States. Such detrimen-
+                               tal effects must be susceptible of being measured by factual and objec-
+                               tive standards.” 31
+                         22. Transboundary harm has been succinctly described by this Court
+
+                      harm must be a result of human activity ; secondly, the harm must result
+                      as a consequence of that human activity ; thirdly, there must be trans-
+                      boundary effects on a neighbouring nation-State ; and fourthly, the harm
+                      must be significant or substantial 33.
+                         23. The requirement of a country contemplating a public works project
+
+                      gated by the United Nations Environment Programme (“UNEP”)
+                      in 1987, and endorsed by the United Nations General Assembly that
+                      same year (“UNEP Principles”) demonstrate that the rise in the impor-
+                      tance of ­conducting EIAs has been commensurate with the increase in the
+                      possibility of transboundary harm emanating from activities carried out
+                      by neighbouring nation-States 34. Moreover, when the United Nations
+                      Conference on Environment and Development, popularly known
+
+
+                         31    Cf. op. cit. supra note 28, p. 152.
+                         32    Corfu Channel (United Kingdom v. Albania), Merits, Judgment, I.C.J Reports 1949,
+                      p. 22.
+                         33 O. Schachter, International Law in Theory and Practice (1991), pp. 366‑368 as referred
+
+                      GC/14/25, 14th Session (1987), endorsed by UNGA res. 42/184 (1987), p. 1.
+                        35 UN Conference on Environment and Development, Rio Declaration on Environ-
+
+                      ment and Development, UN doc. A/Conf.151/26 (1992).
+
+
+                      798 	 certain activities and construction of a road (sep. op. bhandari)
+
+                      the obligation to undertake an EIA already existed in many international
+                      law instruments 36.
+
+                      law instruments, including UNGA resolutions 37, the UNEP Principles 38,
+                      the Rio Declaration 39 and a host of multilateral conventions 40.
+
+                        25. For example, the Rio Declaration does not dictate the contents of
+                      an EIA, but rather simply states that: “Environmental impact assessment,
+                      as a national instrument, shall be undertaken for proposed activities that
+                      are likely to have a significant adverse impact on the environment and are
+
+                      interpreting and communicating the potential impacts that a proposed
+                      project or plan may have on the environment” 42.
+
+                         27. Another pertinent example is the Convention on Biological Diver-
+                      sity (“CBD”) 43, also an outcome of the Earth Summit at Rio de Janeiro 44,
+
+                         36 Convention on Biological Diversity, 1760 UNTS, p. 79, signed on 5 June 1992 at
+
+                      Rio de Janeiro ; UN Convention on the Law of the Sea, 1833 UNTS, p. 320, signed on
+                      10 December 1982 at Montego Bay.
+                         37 Co‑operation between States in the Field of the Environment, General
+
+                      Assembly res. 2995 (XXVII), UNGAOR 27th Session, Supplement No. 30 (1972), para. 2.
+
+                      UN doc. UNEP/IG.12/2 (1978), Principle 4 ; UNEP Goals and Principles of Environmental
+                      Impact Assessment, UN doc. UNEP/GC/14/25, 14th Session (1987), endorsed by United
+                      Nations General Assembly, res. 42/184, UNGAOR 42nd Session, UN doc. A/Res/42/184
+                      (1987).
+                         39 UN Conference on Environment and Development, Rio Declaration, 14 June 1992,
+
+                      Rio de Janeiro ; UN Convention on the Law of the Sea, 1833 UNTS, p. 320, signed on
+                      10 December 1982 at Montego Bay.
+                         41 UN Conference on Environment and Development, Rio Declaration, 14 June 1992,
+
+                      31 ILM 874, UN doc. A/Conf.151/5/Rev.1, Principle 17.
+                         42 UNEP Principles on EIA, p. 1.
+                         43 1760 UNTS, p. 79, signed on 5 June 1992 at Rio de Janeiro.
+
+
+
+
+
+5 Ord 1088.indb 270                                                                                           19/10/16 12:01
+
+                      elucidation as to the practical implications of this responsibility.
+                         28. Finally, in the Pulp Mills Judgment of 2010, upon which the pres-
+                      ent Judgment has placed considerable emphasis, this Court noted :
+
+                            “a practice, which in recent years has gained so much acceptance
+                            among States that it may now be considered a requirement under
+                            general international law to undertake an environmental impact
+
+                            sidered to have been exercised, if a party planning works liable to
+                            affect the régime of the river or the quality of its waters did not under-
+                            take an environmental impact assessment on the potential effects of
+                            such works.
+
+                            over, once operations have started and, where necessary, throughout
+                            the life of the project, continuous monitoring of its effects on the
+                            environment shall be undertaken.” 46
+                      However, in the same section of that Judgment, the Court opined that
+                            “it is the view of the Court that it is for each State to determine in its
+                            domestic legislation or in the authorization process for the project,
+                            the specific content of the environmental impact assessment required
+
+                         29. Thus, we see that while the Pulp Mills Judgment elevated the prac-
+                      tice of conducting an EIA to an imperative under general international
+                      law when certain preconditions are met, at the same time it allowed for a
+                      renvoi to domestic law in terms of the procedure and content required
+                      when carrying out such an assessment. In view of the paucity of guidance
+
+
+                      1760 UNTS, p. 79, Art. 14 (1).
+                         46 Pulp Mills on the River Uruguay (Argentina v. Uruguay), Judgment, I.C.J. Reports
+
+                      2010 (I), pp. 83‑84, paras. 204‑205.
+                         47 Ibid., p. 83, para. 205.
+
+
+
+5 Ord 1088.indb 272                                                                                                                              19/10/16 12:01
+
+                      800 	 certain activities and construction of a road (sep. op. bhandari)
+
+                         30. One reason for the lack of clarity as to what exactly a nation-State
+                      must do under international law to discharge its burden of conducting an
+                      EIA under these various authorities could be that the extent of the obliga-
+                      tions arising under such instruments are difficult to define with precision.
+                      Some have suggested that this lack of precision is attributable to the fact
+                      that such assessments are a policy instrument 48. Whatever the reason, the
+                      situation as it currently stands is less than ideal.
+
+
+                         31. To discern the current state of the law on this point, one must
+                      endeavour to assimilate the various international law instruments that
+                      impose upon nation-States an obligation to conduct an EIA and synthe-
+                      size the obligations imposed thereunder. Notwithstanding the lack of
+
+                      transboundary harm. The first stage is to conduct a preliminary assess-
+                      ment measuring the possibility of transboundary harm. In the present
+                      case, we see the Court has looked at the magnitude of the road project
+                      and local geographic conditions in assessing that a preliminary assess-
+                      ment by Costa Rica was warranted as to the possibility of harm to the
+                      San Juan River (Judgment, para. 155). If a preliminary assessment deter-
+                      mines that there is a risk of significant transboundary harm, then the
+
+                      and final stage of this process is that of post‑project assessment (ibid.,
+                      para. 161). This is in keeping with the Court’s reasoning in the Pulp Mills
+                      Judgment that “once operations have started and, where necessary,
+                      throughout the life of the project, continuous monitoring of its effects on
+                      the environment shall be undertaken” 49.
+
+                         48 Neil Craik, The International Law of Environmental Impact Assessment, Cambridge
+
+                      University Press, 2008, pp. 3‑6.
+                         49 Pulp Mills on the River Uruguay (Argentina v. Uruguay), Judgment, I.C.J. Reports
+
+                      2010 (I), pp. 83‑84, para. 205.
+
+5 Ord 1088.indb 274                                                                                            19/10/16 12:01
+
+                      801 	 certain activities and construction of a road (sep. op. bhandari)
+
+                      process. In attempt to fill this lacuna, the present opinion will offer sug-
+
+                      for Europe (“UNECE”) provides, in my view, an exemplary standard for
+                      the process to be followed when conducting an EIA. In making this state-
+                      ment, I readily concede that the Espoo Convention is primarily a regional
+                      instrument designed to regulate transboundary harm in a European con-
+                      text. Because international law is grounded in the bedrock principle of
+                      consent between sovereign nation-States, and bearing in mind that the
+                      present case arises in the geopolitical context of Latin America, I am
+
+                      nations, which reduces the probability of ratification 51.
+
+                        33. Taking such valid criticism into account, but also noting that the
+                      Espoo Convention contains a provision that allows for non‑European
+                      nation-States to join it 52, I believe that it is helpful to consider the
+
+                      boundary EIAs under public international law. If the international com-
+                      munity were to come together for the purpose of putting in place a
+                      convention dealing with transboundary EIAs, I propose that the
+                      Espoo Convention would constitute a very useful starting-point.
+
+
+                                        Espoo Convention : A Brief Overview
+
+
+                        35. Article 2 (6) of the Convention places heavy emphasis on the need
+                      for public participation of the likely affected population(s). The form that
+                      this obligation takes under the Convention requires that the State propos-
+                        50 UNTS, Vol. 1989, p. 309.
+
+                      Impact Assessment in a Transboundary Context] UN doc. ECE/MP.EIA/4 (2001), p. 144,
+                      Ann. XIV.
+
+                      ing the project allow for the participation of not only its own affected
+                      population but that of the potentially affected neighbouring State as well.
+                      The notion that international law has begun to pay more attention to
+                      individuals is demonstrated by the requirement of public participation 53.
+                      This concept of public participation expands upon prior pronouncements
+
+                         36. Article 3 of the Convention requires the nation proposing a project
+                      to notify a potentially affected neighbouring nation-State regarding any
+                      proposed activity that is likely to cause a “significant adverse transbound-
+                      ary impact”. There is, naturally, great debate about the extent of the obli-
+                      gation that this phrase entails. A country proposing a project might argue
+                      that any impact is neither significant nor adverse, and thus escapes the
+                      ambit of Article 3. In fact this seems to be a similar threshold provided
+
+                      to be settled by an inquiry commission.
+                         37. Article 5 of the Convention requires consultations with the affected
+                      State, to give recommendations to the State of origin methods for the
+                      reduction or the elimination of the harmful impact. This allows for a
+                      more amicable settling of disputes and problems arising out of a particu-
+
+
+
+                        53 Simon Marsden, “Public Participation in Transboundary Environmental Impact
+
+                      Assessment : Closing the Gap between International and Public Law”, in Brad Jessup and
+                      Kim Rubenstein, Environmental Discourses in Public and International Law, p. 238.
+                        54 Principle 10 :
+
+                            citizens, at the relevant level. At the national level, each individual shall have appro-
+                            priate access to information concerning the environment that is held by public
+                            authorities, including information on hazardous materials and activities in their
+                            communities, and the opportunity to participate in decision‑making processes. States
+                            shall facilitate and encourage public awareness and participation by making infor-
+                            mation widely available. Effective access to judicial and administrative proceedings,
+                            including redress and remedy, shall be provided.”
+
+                         55 Pulp Mills on the River Uruguay (Argentina v. Uruguay), Judgment, I.C.J.
+
+                      Reports 2010 (I), pp. 86-87, paras. 215‑219 : “The Court is of the view that no legal
+                      obligation to consult the affected populations arises for the Parties from the instruments
+                      invoked by Argentina.” (Para. 216.)

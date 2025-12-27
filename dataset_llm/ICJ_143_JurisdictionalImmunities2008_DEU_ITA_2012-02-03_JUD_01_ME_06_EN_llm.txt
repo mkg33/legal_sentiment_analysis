@@ -1,0 +1,584 @@
+                        1. The Court’s Judgment accepts the view that the jurisdictional immu-
+                     nity of a foreign State does not cover certain claims concerning repara-
+                     tion for torts committed in the forum State. However, the Court
+
+                           “considers that customary international law continues to require that
+                           a State be accorded immunity in proceedings for torts allegedly com-
+                           mitted on the territory of another State by its armed forces and other
+                           organs of State in the course of conducting an armed conflict”
+                           (para. 78).
+                     This point is decisive for rejecting the applicability of the so‑called “tort
+                     exception” in the case at hand. The Court consequently concludes that
+                     the Italian courts breached an international obligation when they asserted
+                     their jurisdiction over claims relating to wrongful acts committed by Ger-
+                     many in Italy during the Second World War.
+
+                       The Court’s argument is well built and includes a wide survey of rel­
+                     evant State practice. However, the scope of the “tort exception” deserves
+                     further analysis, also because this is an area where the law, according to
+                     several judicial decisions, is currently “developing”.
+
+                       2. The “tort exception” has found expression in Article 12 of the
+                     United Nations Convention on Jurisdictional Immunities of States and
+                     Their Property, according to which :
+                              “Unless otherwise agreed between the States concerned, a State
+                           cannot invoke immunity from jurisdiction before a court of another
+                           State which is otherwise competent in a proceeding which relates to
+                           pecuniary compensation for death or injury to the person, or damage
+                           to or loss of tangible property, caused by an act or omission which is
+                           alleged to be attributable to the State, if the act or omission occurred
+                           in whole or in part in the territory of that other State and if the
+                           author of the act or omission was present in that territory at the time
+                           of the act or omission.”
+
+                        This codification Convention, which was adopted by the General
+                     Assembly in 2004, has so far been ratified by 13 States and is not yet in
+                     force. It would be in any event unwarranted to assume that all its sub-
+                     stantive provisions correspond to rules of general international law. On
+
+                     the other hand, many of its provisions cannot be regarded as fully inno-
+                     vative. This certainly applies to Article 12, which finds precedents in sev-
+                     eral provisions of municipal legislation which will be referred to later and,
+                     before these statutes were enacted, in Article 11 of the 1972 European
+                     Convention on State Immunity. The latter text reads as follows :
+
+                             “A Contracting State cannot claim immunity from the jurisdiction
+                           of a court of another Contracting State in proceedings which relate to
+                           redress for injury to the person or damage to tangible property, if the
+                           facts which occasioned the injury or damage occurred in the territory
+                           of the State of the forum, and if the author of the injury or damage
+                           was present in that territory at the time when those facts occurred.”
+                       In the following paragraphs there will be only a few references to the
+                     European Convention, because it is clearly of limited significance for the
+                     purpose of ascertaining the existing rules of general international law on
+                     State immunity. It received only eight ratifications, all by States from a
+                     defined geographical area (Austria, Belgium, Cyprus, Germany, Luxem-
+                     bourg, Netherlands, Switzerland and United Kingdom). Moreover, it
+                     does not attempt to state general rules, but only considers the immunity
+                     of a Contracting State from the jurisdiction of other Contracting States.
+
+                        3. The “tort exception” has also been expressed in statutes concerning
+                     the jurisdictional immunity of foreign States that nine States have enacted.
+                     Only one State (Pakistan) has not included the “tort exception” in its
+                     legislation on this subject.
+                        Legislation is an important aspect of State practice. It is significant also
+                     when the object of a rule of international law is the conduct of judicial
+                     authorities, as with regard to the exercise of jurisdiction by courts. One
+                     may assume that only in exceptional circumstances will judicial authori-
+                     ties depart from what is required from them by the respective legislator.
+                     To my knowledge, no court of any of the States which enacted legislation
+                     incorporating the “tort exception” has raised any question of consistency
+                     between the relevant legislation and general international law.
+
+                        The number of States in question may at first sight seem insufficient to
+                     represent the attitude of the generality of States, since most States have
+                     not adopted statutes on jurisdictional immunity and directly rely on gen-
+                     eral international law. However, it would be difficult to consider the leg-
+                     islative practice of ten States, which spans a period of more than 30 years,
+                     as insignificant for the purpose of ascertaining the current status of gen-
+                     eral international law. The criterion adopted by these States was not
+                     intended to codify a standard that all the States would be required to
+                     follow. On certain issues, the legislation of some States was arguably
+
+
+
+
+
+6 CIJ1031.indb 426                                                                                     22/11/13 12:25
+
+                     311 	 jurisdictional immunities of the state (diss. op. gaja)
+
+                     more favourable to immunity than general international law. This is cer-
+                     tainly lawful, which would not be the case for a more restrictive approach.
+                     When asserting a “tort exception”, the States concerned no doubt
+                     assumed that they were entitled to exercise their jurisdiction lawfully in
+                     applying the exception. Should their view be regarded as unfounded
+                     under general international law, all these States would incur international
+                     responsibility when applying the “tort exception”. One would have
+                     expected some form of protest on the part of other States at the interna-
+                     tional level, since the legislation in question was well known and many
+                     States were likely to be affected. The silence kept by the majority of States
+                     cannot be interpreted as an implicit criticism of the lawfulness of resort-
+                     ing to the “tort exception”.
+
+                       4. In the nine States that have enacted legislation on jurisdictional
+                     immunity of foreign States including a “tort exception” this exception has
+                     a similar content. It may be appropriate to quote the texts of the perti-
+                     nent provisions. I shall follow a chronological order.
+                       According to Section 1605 (a) of the United States Foreign Sovereign
+                     Immunities Act 1976 :
+                        “(a) A foreign State shall not be immune from the jurisdiction of courts
+                               of the United States or of the States in any case
+                         .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+                               (5)		not otherwise encompassed in paragraph (2) above, in which
+                                      money damages are sought against a foreign State for per-
+                                      sonal injury or death, or damage to or loss of property, occur-
+                                      ring in the United States and caused by the tortious act or
+                                      omission of that foreign State or of any official or employee
+                                      of that foreign State while acting within the scope of his office
+                                      or employment ; except that this paragraph shall not apply to
+                                      
+                                      (A) any claim based upon the exercise or performance or the
+                                             failure to exercise or perform a discretionary function
+                                             regardless of whether the discretion be abused, or
+                                      (B) any claim arising out of malicious prosecution, abuse of
+                                             process, libel, slander, misrepresentation, deceit, or inter-
+                                             ference with contract rights.”
+
+                       Section 5 of the United Kingdom State Immunity Act 1978 runs as fol-
+                     lows : “A foreign State is not immune from the jurisdiction of a court in
+                     any proceedings that relate to (a) death or personal injury ; or (b) dam-
+                     age to or loss of tangible property, caused by an act or omission in the
+                     United Kingdom.”
+
+
+
+
+
+
+6 CIJ1031.indb 428                                                                                                                           22/11/13 12:25
+
+                     312 	 jurisdictional immunities of the state (diss. op. gaja)
+
+                       Section 7 of Singapore’s State Immunity Act is identical to this text,
+                     with only replacement of the words “the United Kingdom” with “Singa-
+                     pore”.
+                       Section 6 of South Africa’s Foreign States Immunities Act declares
+                     that : “A foreign State shall not be immune from the jurisdiction of the
+                     courts of the Republic in proceedings relating to (a) the death or injury
+                     of any person ; or (b) damage to or loss of tangible property, caused by
+                     an act or omission in the Republic.”
+
+                        According to Section 13 of Australia’s Foreign States Immunities Act
+                     1985 : “A foreign State is not immune in a proceeding in so far as the
+                     proceeding concerns (a) the death of, or personal injury to, a person ; or
+                     (b) loss of or damage to tangible property, caused by an act or omission
+                     done or omitted to be done in Australia.”
+                        Section 6 of Canada’s State Immunity Act reads as follows : “A foreign
+                     State is not immune from the jurisdiction of a court in any proceedings
+                     that relate to (a) any death or personal or bodily injury, or (b) any dam-
+                     age to or loss of property, that occurs in Canada.”
+                        In Argentina, Article 2 of Law No. 24,488 on jurisdictional immunity
+                     of foreign States provides that : “Foreign States may not invoke jurisdic-
+                     tional immunity in the following cases : . . . (e) where the foreign State is
+                     subject to a claim for losses or damages derived from crimes or offences
+                     committed in Argentina” [“(e) cuando fueren demandados por daños y
+                     perjuicios derivados de delitos o cuasidelitos cometidos en el territorio”].
+
+                        According to Section 5 of Israel’s Foreign States Immunity Law
+                     No. 5769‑2008 : “A foreign State shall not have immunity from jurisdic-
+                     tion in an action in tort where personal injury or damage to tangible
+                     property has occurred, provided the tort was committed in Israel.”
+                        Finally, Article 10 of the Act on the Civil Jurisdiction of Japan with
+                     respect to a Foreign State, etc., provides that :
+                               “In cases where the death of or injury to a person or the loss of or
+                           damage to a tangible object resulted from an act for which it is
+                           ­claimed a Foreign State, etc., should take responsibility, if all or part
+                            of said act took place in Japan and the person who performed said
+                            act was in Japan at the time it was committed, said Foreign State,
+                            etc., shall not be immune from jurisdiction with respect to judicial
+                            proceedings in which monetary compensation for the damage or
+                            loss resulting from said act is being sought.”
+                       Although the wording varies, all these texts contain a general statement
+                     which appears to cover claims for all the acts or omissions attributable to
+                     a foreign State that take place in the territory of the forum State and
+                     cause death or personal injury or damage to tangible property.
+
+                     restricts the applicability of the “tort exception” when the act or omission
+
+
+
+
+
+6 CIJ1031.indb 430                                                                                      22/11/13 12:25
+
+                     313 	 jurisdictional immunities of the state (diss. op. gaja)
+
+                     of the foreign State is taken within an activity which may be described
+                     jure imperii because it occurs in the exercise of a sovereign power by the
+                     foreign State.
+                        The commentary of the International Law Commission (ILC) on draft
+                     Article 12, which later became without change Article 12 of the 2004 UN
+                     Convention, noted that “[t]he areas of damage envisaged in Article 12 are
+                     mainly concerned with accidental death or physical injuries to persons or
+                     damage to tangible property involved in traffic accidents”, but that “the
+                     scope of Article 12 is wide enough to cover also intentional physical harm
+                     such as assault and battery, malicious damage to property, arson or even
+                     homicide, including political assassination”. The ILC commentary also
+                     noted that, while “the case law of some States” maintained the distinction
+                     between acts jure imperii and acts jure gestionis, the “tort exception” in
+                     Article 12 “makes no such distinction” (Yearbook of the International
+                     Law Commission, 1991, Vol. II, Part Two, p. 45). According to the com-
+                     mentary :
+
+
+                              “The locus delicti commissi offers a substantial territorial connec-
+                           tion regardless of the motivation of the act or omission, whether
+                           intentional or even malicious, or whether accidental, negligent, inad-
+                           vertent, reckless or careless, and indeed irrespective of the nature of
+                           the activities involved, whether jure imperii or jure gestionis.”
+                        There is nothing in the text of the UN Convention or in the prepara-
+                     tory work that suggests that the “tort exception” should not apply when
+                     the foreign State acts jure imperii.
+
+                     stressed in Ferrini that, according to Article 12 of the ILC draft Articles,
+
+                           “the distinction between acts performed jure imperii and acts carried
+                           out jure gestionis assumes no relevance in respect of damages claims
+                           arising from ‘assaults on the physical integrity of a person’ or
+                           from loss or damage of a ‘bodily’ nature” (judgment No. 5044 of
+                           11 March 2004, English translation in International Law Reports
+                           (ILR), Vol. 128, p. 672).
+                        The Supreme Court of Canada in Schreiber v. Federal Republic of Ger‑
+                     many and the Attorney General of Canada agreed that the “tort exception”
+                     also covered acts jure imperii, adding the observation that if one restricted
+                     the exception in this regard, one “would deprive the victims of the worst
+                     breaches of basic rights of any possibility of redress in national courts”
+                     ([2002] Supreme Court Reports, Vol. 3, p. 269, para. 37).
+
+                      A different view was expressed by the Supreme Court of Ireland in
+                     McElhinney v. Williams when Chief Justice Hamilton held that, even if
+
+
+
+
+
+6 CIJ1031.indb 432                                                                                   22/11/13 12:25
+
+                     314 	 jurisdictional immunities of the state (diss. op. gaja)
+
+                     the tortious act of a British soldier had occurred in the forum State,
+                     immunity had to be granted to the foreign State “when such act or omis-
+                     sion is committed jure imperii” (ILR, Vol. 104, p. 703). Ireland has not
+                     enacted legislation on jurisdictional immunity, nor is it a party to the
+                     European Convention on State Immunity. An application to the Euro-
+                     pean Court of Human Rights was later made by Mr. McElhinney against
+                     Ireland. This court said that the “tort exception” corresponded to a
+                     “trend in international and comparative law”, but that :
+
+                           “the trend may primarily refer to ‘insurable’ personal injury, that is
+                           incidents arising out of ordinary road traffic accidents, rather than
+                           matters relating to the core area of State sovereignty such as the acts
+                           of a soldier on foreign territory which, of their very nature, may
+                           involve sensitive issues affecting diplomatic relations between States
+                           and national security. Certainly, it cannot be said that Ireland is
+                           alone in holding that immunity attaches to suits in respect of such
+                           torts committed by acta jure imperii or that, in affording this immu-
+                           nity, Ireland falls outside any currently accepted international stan-
+                           dards.” (ILR, Vol. 123, p. 85, para. 38.)
+
+                        6. The European Convention on State Immunity contains various
+                     clauses which restrict the scope of the Convention. What is relevant for
+                     our purposes is Article 31, which runs as follows :
+                              “Nothing in this Convention shall affect any immunities or privile-
+                           ges enjoyed by a Contracting State in respect of anything done or
+                           omitted to be done by, or in relation to, its armed forces when on the
+                           territory of another Contracting State.”
+                        The ILC draft Articles do not contain a similar clause. However, the
+                     ILC commentary on draft Article 12 observes that this provision does not
+                     “apply to situations involving armed conflicts” (Yearbook of the Interna‑
+                     tional Law Commission, 1991, Vol. II, Part Two, p. 46). No explanation is
+                     given, nor is there an indication of the intended consequences of the fact
+
+
+6 CIJ1031.indb 434                                                                                   22/11/13 12:25
+
+                     315 	 jurisdictional immunities of the state (diss. op. gaja)
+
+                     that draft Article 12 does not apply. It is not clear in particular whether
+                     “situations involving armed conflicts” are considered to be outside the
+                     scope of the UN Convention or whether another rule set forth in the
+                     Convention becomes applicable.
+
+                        The exclusion suggested in the ILC commentary has not found its way
+                     either into the text of the UN Convention or into the understandings
+                     which represent an annex to the Convention. Nor is there anything on
+                     this matter in the report presented to the General Assembly by the Ad
+                     Hoc Committee which recommended the adoption of the Convention
+                     (A/59/22). However, when introducing this report to the Sixth Commit-
+                     tee, the Chairman of the Ad Hoc Committee, Mr. Gerhard Hafner, made,
+                     among others, the following statement : “[o]ne of the issues that had been
+                     raised was whether military activities were covered by the Convention.
+                     The general understanding had always prevailed that they were not”. He
+                     then referred to the exclusion of “situations involving armed conflicts”
+                     suggested by the ILC in its commentary (A/C.6/59/SR.13, para. 36),
+                     which is a narrower subject than “military activities”. The Chairman of
+                     the Ad Hoc Committee expressed the opinion that this matter was not
+                     regulated by the UN Convention. The legal significance of this statement
+                     is not altogether clear. GA resolution 59/38, which adopted the Conven-
+                     tion, said in its last preambular paragraph : “Taking into account the
+                     statement of the Chairman of the Ad Hoc Committee introducing the
+                     report of the Ad Hoc Committee.” This paragraph also does not entirely
+                     clarify matters.
+
+                     they understood the Convention not to apply to “military activities”.
+                     These two States shared Mr. Hafner’s view that “military activities” are
+                     not covered by the UN Convention. These interpretative declarations
+                     support the idea that “military activities” are not regulated by the UN
+                     Convention, but do not provide a solution binding all the contracting
+                     States.
+                        7. None of the legislative acts referred to above in paragraph 3 con-
+                     tains a general exclusion concerning claims relating to “situations involv-
+                     ing armed conflicts” or to “military activities”. There are, however, some
+                     provisions concerning these matters.
+                        Section 16 (2) of the United Kingdom State Immunity Act 1978 states :
+                     
+                             “This Part of this Act does not apply to proceedings relating to
+                           anything done by or in relation to the armed forces of a State while
+                           present in the United Kingdom and, in particular, has effect subject
+                           to the Visiting Forces Act 1952.”
+
+
+                       Section 19 (2) (a) of Singapore’s State Immunity Act is similarly
+                     worded. These provisions appear concerned with claims that may be
+
+
+
+
+
+6 CIJ1031.indb 436                                                                                 22/11/13 12:25
+
+                     relate more generally to the legislation concerning immunities of foreign
+                     States. In any event, the implication of these texts is that claims relating
+                     to armed activities that are not covered by the exclusion clauses come
+                     within the rules on immunity expressed in the statute, including the “tort
+                     exception”.
+
+                     of Germany in relation to acts of its armed forces during World War II.
+
+                        In Ferrini the Italian Corte di Cassazione based its main argument
+                     against immunity on a different basis but also gave weight to the fact that
+                     the wrongful act, consisting of the deportation of an Italian national to
+                     Germany where he underwent forced labour, “was commenced in the
+                     country in which the legal proceedings have since been brought” (judg-
+                     ment No. 5044 of 11 March 2004, English translation in ILR, Vol. 128,
+                     pp. 670‑671). In a group of later decisions the same court denied immu-
+                     nity “also in view of the fact that the wrongful act had occurred also in
+                     Italy” (thus, for example, order No. 14209 of 29 May 2008 ; Rivista di
+                     diritto internazionale, Vol. 91 (2008), p. 900).
+
+                        Greek courts were divided on the issue. The Greek Areios Pagos found
+                     in the Distomo case (judgment of 4 May 2000 ; English translation in ILR,
+                     Vol. 129, p. 519) that a rule of international customary law :
+                           “requires, by way of exception from the principle of immunity, that
+                           national courts may exercise international jurisdiction over claims
+                           for damages in relation to torts committed against persons and
+                           ­property on the territory of the forum State by organs of a foreign
+                            State present on that territory at the time of the commission of these
+                            torts even if they resulted from acts of sovereign power (acta jure
+                            imperii)”.
+                        The majority held that this would also apply to “damages arising [from
+                     military action] in situations of armed conflict” when “the offences for
+                     which compensation is sought (especially crimes against humanity) did
+                     not target civilians generally, but specific individuals in a given place who
+                     were neither directly nor indirectly connected with the military opera-
+                     tions”.
+
+                        A similar approach was taken by the Polish Supreme Court in Nato‑
+                     niewski (judgment of 29 October 2010 ; English translation in Polish Year‑
+                     book of International Law, Vol. XXX (2010), p. 299). The court reached
+                     the conclusion that :
+                           “there are insufficient grounds for recognizing an exception to State
+                           immunity in cases concerning redress for breaches of human rights
+                           occasioned by unlawful acts committed in the territory of the forum
+                           State which come within the category of armed activities”.
+
+
+                     that State authorities have taken a variety of approaches. One can apply
+                     to the issue of State immunity under consideration the introductory
+                     remark made by the ILC in its commentary, that there is a “grey area in
+                     which opinions and existing case law and, indeed, legislation still vary”
+                     (Yearbook of the International Law Commission, 1991, Vol. II, Part Two,
+                     p. 23). In this “grey area” States may take different positions
+                     ­without ­necessarily departing from what is required by general interna-
+                      tional law.
+
+                        The rationale of the suggested restriction to the “tort exception” con-
+                     cerning military activities is not clear. First of all, the conduct of all State
+                     organs is equally attributed to the State, as expressed in Article 4 of the
+                     ILC Articles on the responsibility of States for internationally wrongful
+                     acts. Why should a distinction be made between military and other organs
+                     of the same State ? Moreover, when the forum State gives its consent to
+                     the presence on its territory of foreign troops, a specific, and more favour-
+                     able, régime of immunities is understandable. This will normally be estab-
+                     lished by an agreement between the States concerned. It is more difficult
+                     to understand why there should be a favourable régime for a hostile State
+                     that would prevail over the sovereign right of the territorial State to exer-
+                     cise its jurisdiction concerning conduct taking place on its territory.
+
+
+                        The fact that military activities may cause injuries on a large scale does
+                     not seem a good reason for depriving the many potential claimants of
+                     their judicial remedy. It may be that in practice this remedy will not be
+                     effective, but this applies more generally to all claims brought against for-
+                     eign States given the difficulty for a successful claimant of enforcing any
+                     judgment that may be obtained.
+
+                        10. One factor that could contribute to justifying a restrictive approach
+                     to State immunity when applying the “tort exception” is the nature of the
+                     obligation for the breach of which a claim to reparation is brought against
+                     a foreign State. This may be an obligation only covered by municipal
+                     law ; it may also be the breach of an obligation under international law
+                     and, in the latter case, of an obligation under a peremptory norm,
+                     which can reasonably be evoked at least with regard to the massacres of
+                     civilians.
+
+                       What is in fact in question is not the exercise of jurisdiction for pre-
+                     venting the breach of an obligation under a peremptory norm or for
+                     obtaining the cessation of the breach, but a judicial remedy for the repa-
+                     ration of the injury caused by the alleged breach. It would be difficult to
+                     maintain that the obligation to provide reparation of a breach of an obli-
+                     gation under jus cogens is also set forth by a peremptory norm.
+
+                        Thus, for example, while Article 91 of Additional Protocol I to the
+                     Geneva Conventions of 1949 considers that “[a] Party to the conflict
+                     which violates the provisions of the Conventions or of this Protocol shall,
+                     if the case demands, be liable to pay compensation”, the commentary by
+                     the International Committee of the Red Cross observes that “[o]n the
+                     conclusion of a peace treaty, the Parties can in principle deal with the
+                     problems relating to war damage in general and those relating to the
+                     responsibility for starting the war, as they see fit” (C. Pilloud, J. de Preux,
+                     Y. Sandoz, B. Zimmermann, P. Eberlin, H.‑P. Gasser and C. F. Wenger,
+                     Commentary on the Additional Protocols of 8 June 1977 to the Geneva
+                     Conventions of 12 August 1949, 1987, p. 1055).
+                        While the obligation of reparation can hardly be viewed as an obliga-
+                     tion under a peremptory norm, the fact that the alleged breach concerns
+                     an obligation of jus cogens may have some relevant consequences. Arti-
+                     cle 41 of the ILC Articles on Responsibility of States for Internationally
+                     Wrongful Acts lists some consequences of a serious breach by a State of
+                     an obligation under a peremptory norm of general international law that
+                     are additional to those following from an ordinary wrongful act. Para-
+                     graphs 1 and 2 enumerate some specific consequences and paragraph 3
+                     refers to “further consequences that a breach to which this chapter applies
+                     may entail under international law”. While the issue of jurisdictional
+                     immunity has not been mentioned either in the text of the article or in the
+                     related commentary, a restriction of immunity could well be regarded as
+                     an appropriate consequence which would strengthen the effectiveness of
+                     compliance with the obligation to make reparation. This would contrib-
+                     ute to removing doubts about the lawfulness for a State of exercising its
+                     jurisdiction in the “grey area” of injury caused by military activity of a
+                     foreign State on the territory of the forum State. In other words, even if
+                     immunity covered in general claims regarding damages caused by military
+                     activities in the territory of the forum State, it would not extend to claims
+                     relating to massacres of civilians or torture in the same territory.
+
+                       11. It would be more difficult to infer from the nature of the breach a
+                     restriction of the jurisdictional immunity of foreign States that would
+                     cover injuries caused by a foreign State wherever they occur.
+
+                       This conclusion was suggested by a minority opinion in the European
+                     Court of Human Rights in Al‑Adsani v. United Kingdom and by the Ital-
+                     ian Corte di Cassazione in a number of judgments, especially those in
+                     Ferrini (judgment No. 5044 of 11 March 2004 ; English translation in
+                     ILR, Vol. 128, pp. 668‑669) and in Milde (judgment No. 1072 of 13 Janu-
+                     ary 2009). Also a decision by the French Cour de cassation in La Réunion
+
+
+
+
+
+6 CIJ1031.indb 444                                                                                     22/11/13 12:25
+
+                     aérienne v. Libyan Arab Jamahiriya (case No. 09-14743 of 9 March 2011)
+                     pointed to the existence of a restriction of immunity when a claim con-
+                     cerns reparation of the breach of an obligation under jus cogens, provided
+                     that the breach consists in a positive conduct of the foreign State.
+
+                        The European Convention on State Immunity and the UN Convention
+                     do not lend support to this view, because they do not establish any excep-
+                     tion to immunity which is based on the nature of the obligation breached
+                     by the foreign State.
+                        In 1999 the denial of jurisdictional immunity with regard to claims “in
+                     the case of death or personal injury resulting from acts of a State in viola-
+                     tion of human rights norms having the character of jus cogens” was con-
+                     sidered by an ILC working group chaired by Mr. Hafner as a “recent
+                     development” which the working group took the initiative of highlight-
+                     ing, suggesting to the General Assembly that it “should not be ignored”
+                     (Yearbook of the International Law Commission, 1999, Vol. II, Part Two,
+                     p. 172). The report of the Chairman of the GA Working Group (again
+                     Mr. Hafner) found that it did not “seem advisable to include this matter
+                     among the issues to be covered by the forthcoming considerations on the
+                     topic” (A/C.6/54/L.12, p. 9, para. 67). This cannot be taken as a total
+                     rejection of the suggested exception.
+
+                        It is to be noted that the ILC working group had referred only to two
+                     decisions restricting State immunity, both based on the United States
+                     Anti-Terrorism and Effective Death Penalty Act of 1996. This had
+                     amended the Foreign Sovereign Immunity Act in order to restrict immu-
+                     nity of foreign States with regard to claims for damages caused by acts of
+                     torture, extrajudicial killings and some other acts wherever committed,
+                     but only if these acts had been committed by a foreign State designated
+                     by the Secretary of State as a State sponsor of terrorism and if the claim-
+                     ant or victim was a national of the United States. Given these conditions,
+                     the United States Act is not indicative of the existence of a possible excep-
+                     tion to immunity based on the nature of the obligation under interna-
+                     tional law which is at the origin of the claim.
+
+                        What appears more significant for that issue is that none of the legisla-
+                     tive acts referred to above in paragraph 3 contains any reference to a
+                     similar exception.
+
+                     Rights in Al‑Adsani v. United Kingdom. By a majority of nine votes to
+                     eight, the court stated that it did not
+
+                           “find it established that there is yet acceptance in international law of
+                           the proposition that States are not entitled to immunity in respect of
+
+
+
+
+
+6 CIJ1031.indb 446                                                                                     22/11/13 12:25
+
+                     321 	 jurisdictional immunities of the state (diss. op. gaja)
+
+                           civil claims for damages for alleged torture committed outside the
+                           forum State”.
+                        Also the Ontario Court of Appeal stressed in Bouzari and Others v.
+
+                      The Constitutional Court of Slovenia (judgment of 8 March 2001, case
+                     Up‑13/99) found that there was a “trend”, but no
+                           “rule of international customary law, which would in the case of vio-
+                           lations of the cogent norms of international law in the area of human
+                           rights protection as a consequence of state activities in the framework
+                           of iure imperii . . . allow Slovenian courts to try foreign states in such
+                           cases”.
+                     The court was here considering an activity which had occurred on what
+                     had become Slovenian territory.
+                        A similar approach was taken by the German Bundesgerichtshof in a
+                     judgment of 26 June 2003 when it was faced with the request to enforce
+                     the Greek judgment on the merits in the Distomo case (English transla-
+                     tion in International Legal Materials, Vol. 42 (2003), p. 1033).
+                        A flat rejection of the existence of an exception to immunity covering
+                     claims for breaches of obligations under peremptory norms was expressed
+                     by the House of Lords in Jones v. Saudi Arabia ([2007] 1 AC 270). This
+                     judgment concerned a claim relating to an act of torture that had taken
+
+                        If one takes into consideration all these elements of practice, one has to
+                     reach the conclusion that the nature of the obligation under international
+                     law which is at the origin of the claim does not per se provide sufficient
+                     evidence that jurisdiction may be exercised over foreign States in case of
+                     a claim for reparation for the breach of an obligation under a peremptory
+                     norm wherever committed. On the other hand, one cannot infer from this
+                     practice that the nature of the obligation breached negatively affects the
+                     applicability of the “tort exception”. It would indeed be extraordinary if
+                     a claim could be entertained on the basis of the “tort exception” when the
+                     obligation breached is of a minor character while this exception would
+                     not apply to claims relating to breaches of obligations under peremptory
+                     norms.
+
+                     Court to examine in greater detail, in relation to the facts of each case,
+
+
+
+
+
+6 CIJ1031.indb 448                                                                                      22/11/13 12:25
+
+                     322 	 jurisdictional immunities of the state (diss. op. gaja)
+
+                     the various decisions of Italian courts to which the Application of Ger-
+                     many refers. This should have led the Court to conclude that, at least for
+                     certain decisions of Italian courts, the exercise of jurisdiction could not be
+                     regarded as being in breach of an obligation under general international
+                     law.

@@ -1,0 +1,370 @@
+                        Obligation under customary international law to exercise due diligence in
+                      preventing significant transboundary environmental harm — Environmental
+                      Impact Assessment — Notification — Consultation.
+
+                           1. In each of these joined cases, the Applicant contends that the
+                      Respondent violated general international law by causing significant
+                      transboundary harm to the territory of the Applicant, by failing to con-
+                      duct an environmental impact assessment and by failing to notify and to
+                      consult with the Applicant. I write separately to present my views regard-
+                      ing customary international law in respect of transboundary environmen-
+                      tal harm. In particular, I emphasize that States have an obligation under
+                      customary international law to exercise due diligence in preventing
+                      ­significant transboundary environmental harm. I consider that the ques-
+                       tion whether a proposed activity calls for specific measures, such as an
+                       environmental impact assessment, notification to, or consultation with,
+                       a potentially affected State, should be judged against this underlying
+                       ­obligation of due diligence.
+                           2. I begin with two points of terminology. First, the Court today, as in
+                        the Pulp Mills case (Pulp Mills on the River Uruguay (Argentina v. Uru‑
+                        guay), Judgment, I.C.J. Reports 2010 (I), p. 14), uses the terms “general
+                        international law” and “customary international law”, apparently with-
+                        out differentiation. Although some writers have ascribed distinct mean-
+                        ings to these two terms, I consider that the task before the Court today is
+                        the examination of “international custom, as evidence of a general prac-
+                        tice accepted as law” in accordance with Article 38, paragraph 1 (b), of
+                      the Statute of the Court. Secondly, I use the term “State of origin” here
+                      to refer to a State that itself plans and engages in an activity that could
+                      pose a risk of transboundary harm. Much of what I have to say would
+                      also apply to a State that authorizes such an activity. I do not intend here
+                      to address the legal consequences of private activities that are not attrib-
+                        utable to the territorial State, nor do I take account of ultra-hazardous
+                        activities, which are not before the Court today.
+
+                         3. An assessment of the existence and content of customary interna-
+                      tional law norms is often challenging. Over the years, some have seized on
+                      the 1927 statement of the Permanent Court of International Justice that
+
+
+
+
+
+5 Ord 1088.indb 238                                                                                   19/10/16 12:01
+
+                      783 	certain activities and construction of a road (sep. op. donoghue)
+
+                      “[r]estrictions upon the independence of States cannot . . . be presumed”
+                      (“Lotus”, Judgment No. 9, 1927, P.C.I.J., Series A, No. 10, p. 18) to sup-
+                      port the assertion that, where evidence of State practice and opinio juris is
+                      incomplete or inconsistent, no norm of customary international law
+                      ­constrains a State’s freedom of action. Such an assertion, an aspect of
+                       the so‑called “Lotus” principle, ignores the fact that the identification of
+                       ­customary international law must take account of the fundamental para­
+                        meters of the international legal order. These include the basic character­
+                        istics of inter‑State relations, such as territorial sovereignty, and the
+                        norms embodied in the Charter of the United Nations, including the
+                        ­sovereign equality of States (Article 2, paragraph 1, of the Charter of the
+                         United Nations).
+                            4. In the case concerning Jurisdictional Immunities of the State ((Ger‑
+                         many v. Italy : Greece intervening), Judgment, I.C.J. Reports 2012 (I),
+                         p. 99), the question was whether, under customary international law,
+                         Germany was immune from certain lawsuits and measures of constraint
+                         in Italy. The Court recognized that it faced a situation in which two basic
+                         parameters of the international legal order — sovereign equality and ter-
+                         ritorial sovereignty — were in tension. It observed that State immunity
+                         “derives from the principle of sovereign equality of States” which “has to
+                         be viewed together with the principle that each State possesses sover-
+                         eignty over its own territory” (ibid., pp. 123‑124, para. 57). More pre-
+                         cisely, “[e]xceptions to the immunity of the State represent a departure
+                         from the principle of sovereign equality. Immunity may represent a
+                         departure from the principle of territorial sovereignty and the jurisdiction
+                         which flows from it” (ibid., p. 124, para. 57). The Court then evaluated
+                         the evidence of State practice and opinio juris in light of these competing
+                         principles, finding sufficient evidence of State practice and opinio juris to
+                         define with some precision the rules of customary international law that
+                         governed the facts in that case.
+
+                         5. The Court’s approach in Jurisdictional Immunities of the State,
+                      which grounds the analysis in fundamental background principles, applies
+                      with equal force to the consideration of the existence and content of cus-
+                      tomary international law regarding transboundary environmental harm.
+                      If a party asserts a particular environmental norm without evidence of
+                      general State practice and opinio juris, the “Lotus” presumption would
+                      lead to a conclusion that customary international law imposes no limita-
+                      tion on the State of origin. As in Jurisdictional Immunities of the State,
+                      however, the appraisal of the existence and content of customary interna-
+                      tional law regarding transboundary environmental harm must begin by
+                      grappling with the tension between sovereign equality and territorial sov-
+                      ereignty.
+
+                        6. As a consequence of territorial sovereignty, a State of origin has
+                      broad freedom with respect to projects in its own territory (the building
+
+
+
+
+
+5 Ord 1088.indb 240                                                                                      19/10/16 12:01
+
+                      784 	certain activities and construction of a road (sep. op. donoghue)
+
+                      of a road, the dredging of a river). However, the equal sovereignty
+                      of other States means that the State of origin is not free to ignore the
+                      potential environmental impact of the project on its neighbours. At the
+                      same time, the rights that follow from the equal sovereignty of a poten-
+                      tially affected State do not give it a veto over every project by the State
+                      of ­origin that has the potential to cause transboundary environmental
+                      harm.
+
+                      ciple 2) and its predecessor, the 1972 Stockholm Declaration of the United
+                      Nations Conference on the Human Environment (Principle 21), offer a
+                      widely‑cited formulation that balances the interests of the State of origin
+                      and potentially affected States :
+
+                              “States have, in accordance with the Charter of the United Nations
+                            and the principles of international law, the sovereign right to exploit
+                            their own resources pursuant to their own environmental and devel-
+                            opmental policies, and the responsibility to ensure that activities
+                            within their jurisdiction or control do not cause damage to the envi-
+                            ronment of other States or of areas beyond the limits of national
+                            jurisdiction.” (Rio Principle 2.)
+
+                        8. The Court in the Pulp Mills case took an approach that synthesizes
+                      the competing rights and responsibilities of two sovereign equals in
+                      respect of transboundary environmental harm, by holding the State of
+                      origin to a standard of due diligence in the prevention of significant trans-
+                      boundary environmental harm :
+
+                               “The Court points out that the principle of prevention, as a cus-
+                            tomary rule, has its origins in the due diligence that is required of a
+                            State in its territory. It is ‘every State’s obligation not to allow know-
+                            ingly its territory to be used for acts contrary to the rights of other
+                            States’ (Corfu Channel (United Kingdom v. Albania), Merits, Judg‑
+                            ment, I.C.J. Reports 1949, p. 22). A State is thus obliged to use all the
+                            means at its disposal in order to avoid activities which take place in
+                            its territory, or in any area under its jurisdiction, causing significant
+                            damage to the environment of another State. This Court has estab-
+                            lished that this obligation ‘is now part of the corpus of international
+                            law relating to the environment’ (Legality of the Threat or Use of
+                            Nuclear Weapons, Advisory Opinion, I.C.J. Reports 1996 (I), p. 242,
+                            para. 29).” (Pulp Mills on the River Uruguay (Argentina v. Uruguay),
+                            Judgment, I.C.J. Reports 2010 (I), pp. 55‑56, para. 101.)
+
+                      Thus, taking into account the sovereign equality and territorial sover-
+                      eignty of States, it can be said that, under customary international law, a
+                      State of origin has a right to engage in activities within its own territory,
+
+
+
+
+
+5 Ord 1088.indb 242                                                                                      19/10/16 12:01
+
+                      785 	certain activities and construction of a road (sep. op. donoghue)
+
+                      as well as an obligation to exercise due diligence in preventing significant
+                      transboundary environmental harm.
+                         9. The requirement to exercise due diligence, as the governing primary
+                      norm, is an obligation of conduct that applies to all phases of a project
+                      (e.g., planning, assessment of impact, decision to proceed, implementa-
+                      tion, post‑implementation monitoring). In the planning phase, a failure to
+                      exercise due diligence to prevent significant transboundary environmental
+                      harm can engage the responsibility of the State of origin even in the
+                      absence of material damage to potentially affected States. This is why (as
+                      in Nicaragua v. Costa Rica) a failure to conduct an environmental impact
+                      assessment can give rise to a finding that a State has breached its obliga-
+                      tions under customary international law without any showing of material
+                      harm to the territory of the affected State. If, at a subsequent phase, the
+                      failure of the State of origin to exercise due diligence in the implementa-
+                      tion of a project causes significant transboundary harm, the primary
+                      norm that is breached remains one of due diligence, but the reparations
+                      due to the affected State must also address the material damage caused
+                      to the affected State. (For these reasons, I do not find it useful to draw
+                      distinctions between “procedural” and “substantive” obligations, as the
+                      Court has done.)
+
+                         10. This obligation to exercise due diligence is framed in general terms,
+                      but that does not detract from its importance. The question whether the
+                      State of origin has met its due diligence obligations must be answered in
+                      light of the particular facts and circumstances. Of course, it is possible
+                      that customary international law also contains specific procedural or sub-
+                      stantive rules that give effect to this due diligence obligation. To reach
+                      conclusions on the existence and content of such specific rules, however,
+                      account must be taken of State practice and opinio juris. Absent consider-
+                      ation of such information, the Court is not in a position to articulate
+                      specific rules, and the rights and obligations of parties should be assessed
+                      with reference to the underlying due diligence obligation.
+
+                      regarding environmental impact assessment, notification and consulta-
+                      tion.
+
+
+                                         Environmental Impact Assessment
+
+                         12. In the Pulp Mills case, the Court supported its interpretation of a
+                      bilateral treaty between the Parties by observing that :
+
+                            “it may now be considered a requirement under general international
+                            law to undertake an environmental impact assessment where there is
+                            a risk that the proposed industrial activity may have a significant
+                            adverse impact in a transboundary context, in particular, on a shared
+
+
+
+
+
+5 Ord 1088.indb 244                                                                                  19/10/16 12:01
+
+                      786 	certain activities and construction of a road (sep. op. donoghue)
+
+                            resource. Moreover, due diligence, and the duty of vigilance and pre-
+                            vention which it implies, would not be considered to have been exer-
+                            cised, if a party planning works liable to affect the régime of the river
+                            or the quality of its waters did not undertake an environmental impact
+                            assessment on the potential effects of such works.” (Pulp Mills on the
+                            River Uruguay (Argentina v. Uruguay), Judgment, I.C.J. Reports
+                            2010 (I), p. 83, para. 204.)
+
+                         13. This statement is widely understood as a pronouncement that gen-
+                      eral (or customary) international law imposes a specific obligation to
+                      undertake an environmental impact assessment where there is a risk of
+                      significant transboundary environmental harm. I am not confident, how-
+                      ever, that State practice and opinio juris would support the existence of
+                      such a specific rule, in addition to the underlying obligation of due dili-
+                      gence. This does not mean that I am dismissive of the importance of envi-
+                      ronmental impact assessment in meeting a due diligence obligation. If a
+                      proposed activity poses a risk of significant transboundary environmental
+                      harm, a State of origin would be hard pressed to explain a decision to
+                      undertake that activity without prior assessment of the risk of trans-
+                      boundary environmental harm.
+                         14. In Pulp Mills, the Court wisely declined to elaborate specific rules
+                      and procedures regarding the assessment of transboundary environmen-
+                      tal impacts, stating that :
+
+                               “[I]t is for each State to determine in its domestic legislation or in
+                            the authorization process for the project, the specific content of the
+                            environmental impact assessment required in each case, having regard
+                            to the nature and magnitude of the proposed development and its
+                            likely adverse impact on the environment as well as to the need to
+                            exercise due diligence in conducting such an assessment.” (Ibid.,
+                            para. 205.)
+
+                         15. Today’s Judgment makes clear that the above‑quoted passage from
+                      the Pulp Mills case does not give rise to a renvoi to national law in respect
+                      of the content and procedures of environmental impact assessment (as
+                      one of the Parties had asserted). Instead, the “[d]etermination of the con-
+                      tent of the environmental impact assessment should be made in light of
+                      the specific circumstances of each case” (para. 104). Thus, the Court does
+                      not presume to prescribe details as to the content and procedure of trans-
+                      boundary environmental impact assessment. This leaves scope for varia-
+                      tion in the way that States of origin conduct the assessment, so long as
+                      the State meets its obligation to exercise due diligence in preventing trans-
+                      boundary environmental harm.
+
+                                           Notification and Consultation
+
+                        16. Today’s Judgment also addresses the asserted obligations of notifi-
+                      cation and consultation in relation to significant transboundary environ-
+                      mental harm, stating that :
+                               “If the environmental impact assessment confirms that there is a
+                            risk of significant transboundary harm, the State planning to under-
+                            take the activity is required, in conformity with its due diligence obli-
+                            gation, to notify and consult in good faith with the potentially affected
+                            State, where that is necessary to determine the appropriate measures
+                            to prevent or mitigate that risk.” (Judgment, para. 104.)
+                          17. The Court does not provide reasons for its particular formulation
+                      of the obligations of notification and consultation, which does not emerge
+                      obviously from the positions of the Parties or from State practice and
+                      opinio juris. Both Parties assert that general international law requires
+                      notification and consultation regarding activities which carry a risk of
+                      significant transboundary environmental harm. However, the Parties do
+                      not present a shared view of the specific content of such an obligation.
+                      For example, Nicaragua maintains that a duty to notify and consult only
+                      arises if an environmental impact assessment indicates a likelihood of
+                      ­significant transboundary harm to other States, whereas Costa Rica sug-
+                      gests that notice to the potentially affected State may be required prior
+                      to undertaking an environmental impact assessment.
+
+                         18. Because each Party seeks to hold the other to these asserted require-
+                      ments, neither has an incentive to call attention to aspects of State prac-
+                      tice or opinio juris that would point away from the existence of particular
+                      obligations to notify or to consult. The Court is also ill‑equipped to con-
+                      duct its own survey of the laws and practices of various States on this
+                      topic. (To arrive at an understanding of United States federal law regard-
+                      ing environmental impact assessment in a transboundary context, for
+                      example, one would need to study legislation, extensive regulations, judi-
+                      cial decisions and the pronouncements of several components of the exec-
+                      utive branch.)
+
+                         19. The Parties do not offer direct evidence of State practice regarding
+                      notification and consultation with respect to transboundary environmen-
+                      tal impacts, but instead refer the Court to international instruments and
+                      decisions of international courts and tribunals. The Court’s formulation
+                      of specific obligations regarding notification and consultation bears simi-
+                      larity to Articles 8 and 9 of the International Law Commission’s
+                      2001 Draft Articles on Prevention of Transboundary Harm from Hazard-
+                      ous Activities (Yearbook of the International Law Commission, 2001,
+                      Vol. II, Part Two, pp. 146‑147). Although these widely‑cited Draft Arti-
+                      cles and associated commentaries reflect a valuable contribution by the
+                      Commission, their role in the assessment of State practice and opinio juris
+
+
+
+
+
+5 Ord 1088.indb 248                                                                                     19/10/16 12:01
+
+                      788 	certain activities and construction of a road (sep. op. donoghue)
+
+                      must not be overstated. One must also be cautious about drawing broad
+                      conclusions regarding the content of customary international law from
+                      the text of a treaty or from judicial decisions that interpret a particular
+                      treaty (such as the Judgment in Pulp Mills). The 1991 Convention on
+                      Environmental Impact Assessment in a Transboundary Context (the
+                      Espoo Convention), for example, contains specific provisions on notifica-
+                      tion and consultation. The Treaty was drafted to reflect practices in
+                      Europe and North America, and, although it is now open to accession by
+                      States from other regions, it remains largely a treaty among European
+                      States and Canada. When a broader grouping of States has addressed
+                      environmental impact assessment, notification and consultation, as in the
+                      1992 Rio Declaration, the resulting formulation has been more general
+                      (see Rio Principle 19, which calls for the provision of “prior and timely
+                      notification and relevant information” to potentially affected States and
+                      consultations with those States “at an early stage and in good faith”).
+
+
+
+
+                         20. For these reasons, whereas I agree that a State’s obligation under
+                      customary international law to exercise due diligence in preventing signi­
+                      ficant transboundary environmental harm can give rise to requirements to
+                      notify and to consult with potentially affected States, I do not consider
+                      that customary international law imposes the specific obligations formu-
+                      lated by the Court. I note two particular concerns.
+
+
+
+                         22. The facts in the Nicaragua v. Costa Rica case illustrate the impor-
+                      tance of notification before the environmental impact assessment is com-
+                      plete. Only Nicaragua is in a position to take measurements or samples
+                      from the San Juan River, or to authorize such activities by Costa Rica.
+
+
+
+
+
+5 Ord 1088.indb 250                                                                                   19/10/16 12:01
+
+                      789 	certain activities and construction of a road (sep. op. donoghue)
+
+                      Consequently, it is difficult to see how Costa Rica could conduct a suffi-
+                      cient assessment of the impact on the river without seeking input from its
+                      neighbour.
+                         23. Secondly, there are topics other than measures to prevent or to
+                      mitigate the risk of significant transboundary harm as to which consulta-
+                      tions could play a role in meeting the State of origin’s due diligence obli-
+                      gation, such as the parties’ respective views on the sensitivity of the
+                      environment in the affected State or the procedural details of an environ-
+                      mental impact assessment process.
+                         24. Because the Court today reaffirms that the fundamental duty of the
+                      State of origin is to exercise due diligence in preventing significant trans-
+                      boundary environmental harm, I do not understand the Judgment to
+                      mean that a State is obligated to notify a potentially affected State only
+                      when an environmental impact assessment finds a risk of significant trans-
+                      boundary environmental harm, nor do I consider that the Court has
+                      excluded the possibility that the due diligence obligation of the State of
+                      origin would call for notification of different information or consultation
+                      regarding topics other than those specified by the Court. The question
+                      whether due diligence calls for notification or consultation, as well as the
+                      details regarding the timing and content of such notification and consul-
+                      tation, should be evaluated in light of particular circumstances.

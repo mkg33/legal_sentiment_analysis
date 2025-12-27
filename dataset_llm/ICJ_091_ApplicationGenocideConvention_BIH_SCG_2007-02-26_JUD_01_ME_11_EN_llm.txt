@@ -1,0 +1,3104 @@
+      I. General Considerations in Respect of the Res Judicata Rule
+
+   1. The expression res judicata has more than one meaning. It is used to
+mean an issue decided by a court of law ; a judgment which cannot be
+refuted by ordinary legal vehicles ; and, also, a decision which is immu-
+table and irrevocable.
+
+   The broad use of the expression res judicata could be attributed to a
+certain confusion about the very quality of a judicial decision and its
+effects both subjective and objective. Occasionally and especially as
+regards some kinds of judgments, account is not taken of the difference
+existing between irrefutability and irrevocability. If, bearing in mind the
+absence of ordinary legal vehicles provided by the Statute and the Rules
+of Court to a dissatisfied party for overturning the judgment, it could be
+said that in general the judgments of the Court are irrefutable. It could
+not however be said that they are irrevocable as well, owing not only to
+the rule on revision embodied in Article 61 of the Statute, as an extraor-
+dinary legal vehicle, but also due to some other judicial vehicles existing
+in the law of the Court, such as the principle compétence de la com-
+pétence in regard to jurisdictional issues as well as non-preliminary objec-
+tions to the jurisdiction of the Court.
+
+  2. Two components may be discerned in the substance of res judicata
+as provided in the Statute of the Court :
+ (i) procedural, which implies that : “The judgment is final and without
+     appeal. In the event of dispute as to the meaning or scope of the
+     judgment, the Court shall construe it upon the request of any party”
+     (Art. 60) ; and
+(ii) substantive, according to which : “The decision of the Court has no
+     binding force except between the parties and in respect of that par-
+     ticular case.” (Art. 59).
+   3. The primary effect of res judicata in the procedural sense is claim
+preclusion — meaning that a future lawsuit on the same cause of action
+is precluded (non bis in idem), whereas the effect of res judicata in the
+substantive sense is mainly related to the legal validity of the Court’s
+decision as an individualization of objective law in the concrete matter —
+pro veritate accipitur — and, also, to the exclusion of the application of
+the principle of stare decisis.
+   4. Two components of res judicata — procedural and substantive —
+do not necessarily go hand in hand in each particular case. Each decision
+of the Court — be it judgment or order — is binding upon the parties,
+although not in an identical way, but such characteristic of the decision
+of the Court is not necessarily followed by its finality.
+
+
+
+                                                          uA)
+   The relationship between these two components of res judicata is not
+static and a priori defined because it reflects the balancing power of the
+considerations underlying the procedural and substantive aspects of res
+judicata rule, respectively.
+   The considerations underlying the substantive aspect of res judicata
+essentially protect the authority of the Court as a court of law and the
+legitimacy of its decisions. Hence, it is possible to say that the binding
+force of the Court’s decisions derives from the very nature of the judicial
+function irrespective of the nature and content of a Court’s decision. As
+the Court established in the Northern Cameroons case (I.C.J. Reports
+1963, p. 38), the effect of res judicata extends also to the judgment of the
+Court establishing the impossibility of changing the created legal situa-
+tion.
+   Underlying res judicata in the procedural sense are, in fact, considera-
+tions of legal security and predictability combined with economy of the
+judicial process.
+   5. The distinction between characteristic of a judicial decision and its
+effect derives from contrasting res judicata in its abstract normative
+meaning and its application within the body of law regulating the judicial
+activity of the Court, i.e. its legal meaning in casu.
+
+   Although it is a rule of fundamental importance, forming part of the
+legal system of all civilized nations, res judicata is certainly not a fetish
+of, or seen as a deus ex machina by, courts of law, including the Inter-
+national Court of Justice.
+   The res judicata rule operates within the law that the Court applies in
+parallel with other rules having an objective nature. In other words, the
+res judicata rule, just like other fundamental rules governing judicial
+activity of the Court, is only a part, however important it may be, of the
+normative milieu in which the Court operates and which, as a whole,
+determines the effect of a Court’s decision. A possible effect that the
+other rules of an objective nature have upon res judicata might be sum-
+marized as follows : “Finality itself . . . is rather a plastic term that need
+not prohibit re-examination.” 1 It seems clear that revision in accordance
+with the conditions specified in Article 61 of the Statute “constitutes
+direct exception to the principle res judicata, affecting the validity of a
+final judgment” 2. It is equally true that the operation of the principle of
+compétence de la compétence and non-preliminary objections to the
+affirmed jurisdiction of the Court may result in a reversal of one sort of
+Court judgment, i.e., judgments on preliminary objections.
+
+
+
+
+  1 M. Reisman, Nullity and Revision, 1971, p. 341.
+  2 B. Cheng, General Principles of Law as Applied by International Courts and Tribu-
+nals, 1953, p. 372.
+
+
+                                                          uA)
+   6. In that regard, none of the legal vehicles designed to challenge or
+capable of use to challenge a matter already decided derogates the exist-
+ence of the res judicata rule as such, for they are based on the authority
+of the law which the Court applies in its totality and are made opera-
+tional in the form of a binding decision by which the previous decision of
+the Court is repudiated — judicum posterior derogat priori. As the effects
+of res judicata attach only to decisions brought lege artis, in accordance
+with the rules, procedural and substantive, of the law applied by the
+Court, it could be said that the exceptions to the finality of a Court judg-
+ment constitute a part of the substance of res judicata.
+
+  Consequently, finality of the Court’s judgments within the law applied
+by the Court may be relative or absolute. Only for the latter can it be said
+that finality is tantamount to res judicata in terms of irrevocability.
+
+   The judgment (sententia) and res judicata in the sense of a final and
+irrevocable decision of the Court obviously are not identical notions. The
+judgment as such is res judicans while res judicata est causa sinae finem
+controversiae accepit.
+   As a judicial act, every judgment of a court of law has a potential of res
+judicata in terms of irrevocability which may be materialized or not,
+depending on the outcome of procedures and weapons designed to chal-
+lenge the decision of the court. So, the intrinsic quality of res judicata is,
+in fact, the end point in the development of the authority which is inher-
+ent in every judgment, the point in which jugement passe en force de la
+chose jugée, judgment becomes enforceable.
+
+
+            II. Res Judicata as Regards Jurisdictional Decisions
+
+
+   7. The full effect of the res judicata rule is in principle attached to “a
+final decision of an international tribunal” (Permanent Court of Arbitra-
+tion (Trail Smelter case), Reports of International Arbitral Awards
+(RIAA), Vol. III, pp. 1950-1951). In his separate opinion in the Fisheries
+Jurisdiction case, Judge Waldock stated, “[u]nder Article 60 of the Stat-
+ute the Judgment is ‘final and without appeal’. It thus constitutes a final
+disposal of the case brought before the Court by the Application of
+14 April 1972” (I.C.J. Reports 1974, p. 125, para. 46) 3.
+
+  However, it does not follow a contrario that the Court’s judgments
+on preliminary objections are excluded from the scope of Articles 59
+
+  3 A. V. Freeman, International Responsibility of States for Denial of Justice, 1938,
+
+p. 975 ; B. Cheng, op. cit., 1953, p. 337 ; Schwarzenberger, International Law, I, 1949,
+pp. 454-455.
+
+
+                                                           uA)
+and 60 of the Statute of the Court. Such an interpretation would
+obviously run counter to the general determination made in these
+Articles.
+   8. It appears that the effects of judgments on preliminary objections,
+or at least some types of judgment on preliminary objections, with
+respect to both their binding force and finality, are of a specific character
+distinguishable to some extent from the effects of judgments on the mer-
+its of the case.
+   The meaning of the characterization “final” in regard to a judgment on
+a preliminary objection lies solely in the fact that, after it is pronounced,
+all the parties are precluded from raising any preliminary objections
+whatsoever leading to revival or restitution of the preliminary objection
+proceeding, as provided for in Article 79 of the Rules of Court.
+
+  But a preliminary objection as such is not the only legal vehicle in the
+body of law of the Court designed to challenge a decision of the Court.
+Therefore, it is difficult to say that the judgment on the preliminary
+objections raised by a party to a dispute before the Court puts a final end
+to the issue of jurisdiction, so that the issue of jurisdiction can never be
+raised. In the jurisprudence of the Court, and on the basis of Article 79,
+paragraph 1, of the Rules, the notion of non-preliminary objection to the
+jurisdiction of the Court has developed, which proves, by itself, that the
+notion of objection to jurisdiction is broader than the notion of prelimi-
+nary objection. The fundamental principle compétence de la compétence
+may also give rise to reconsideration of the jurisdictional decision taken.
+
+
+   As long as it is the functus officio in the case, the Court, as a court of
+law, has the inherent power to re-open and reconsider any issue of law
+and fact decided. That power would be devoid of substance if not accom-
+panied by the power of the Court to reverse its earlier jurisdictional deci-
+sion under special circumstances.
+
+   9. The uncritical ascribing of immutability to every judgment is fetish-
+ist and may find a model only in some long-abandoned decisions under
+Langobardic law 4. Since the Roman Law (in the Roman Law the char-
+acter of res judicata could be given only to final decisions in meritum 5),
+the solution has been adopted that the authority of res judicata belongs,
+as a rule, only to decision on the merits of a case. For instance, in French
+law, decisions on incidental questions may not acquire the autorité de la
+chose jugée, unless that is indispensable for the interpretation of the dis-
+
+   4 Capitula 370 Edictum Langobardorum stipulated that an adjudicated case semper in
+
+eadem deliberatione debeant permanere, although there existed the possibility of its rejec-
+tion by a higher instance — Pugliese, Giudicato civile, Enciclopedia di diritto XVI, 1969,
+p. 158.
+   5 Pugliese, op. cit., p. 752 ; Kaser, Das römische Zivilprozessrecht, MCMLXVI, p. 504.
+
+
+
+
+                                                          uA)
+positifs of the decision in meritum or they are its “soutien nécessaire” 6.
+The Italian judiciary also tends to perceive res judicata to cover the solu-
+tion of the dispute which the parties submitted to the court 7. Para-
+graph 322 of the German Zivilprozessrechnung (Materielle Rechtskraft)
+states that only those decisions which on the demand (Anspruch) which
+is stipulated in the accusation or counter-accusation may be effective.
+
+
+
+   In English law as well, res judicata indicates the final judicial decision
+adopted by the judicial tribunal competent for the causa, or the matter in
+litigation 8. Also, the existence of the competent jurisdiction is considered
+a condition of validity of every res judicata 9.
+   Therefore, the view that the application of res judicata is objectively
+limited to the issues decided by the final judicial decision is dominant in
+the law of civilized nations.
+   10. In that regard three types of judgments on preliminary objections
+may be distinguished :
+— judgments by which a preliminary objection, irrespective of its nature,
+  is accepted and the dispute ipso facto ended ;
+— judgments by which the objection is rejected and the Court is declared
+  competent to entertain the merits of the case ; and
+— judgments by which a preliminary objection raised is determined to
+  be an objection which does not possess an exclusively preliminary
+  character.
+   The effects of res judicata such as those characterizing a judgment on
+the merits of a case are possessed only by those judgments on preliminary
+objections by which an objection is accepted. In contrast to the other two
+remaining jurisdictional decisions, which are both constituent parts of the
+pending case, this kind of jurisdictional decision puts an end to a case,
+thus assuming the full effects of the res judicata rule attaching to a final
+judgment in the case. There are certain differences as regards res judicata
+effects between the two remaining kinds of judgments on preliminary
+objections, on the one hand, and judgments on the merits, on the other.
+
+
+   11. The difference in finality between jurisdictional decisions, on the
+one hand, and decisions on the merits, on the other, is, in principle, quan-
+titative rather than qualitative in nature. The finality of jurisdictional
+
+  6 Perrot, Chose jugée, Répertoire de procédure civile et commerciale, 1955, 1, Nos. 8,
+
+45, 78-87 ; Vincent, Procédure civile, 1978, p. 98, No. 76.
+  7 Pugliese, op. cit., p. 834.
+  8 Bower, Turner and Handley, The Doctrine of Res Judicata, 1969, II, p. 1 ; Walker and
+
+Walker, The English Legal System, 1885, Vol. 6, p. 589.
+  9 Bower, Turner and Handley, op. cit., p. 92.
+
+
+
+
+                                                          uA)
+decisions is more relative owing to a larger number of legal weapons by
+which they can be challenged. It is reflected in the fact that a jurisdic-
+tional decision may be challenged not only through revision proceeding
+under Article 61 of the Statute but also in the further course of the pro-
+ceedings and by a non-preliminary objection, i.e., by an objection which
+is raised to the Court’s jurisdiction 10 after the preliminary objection pro-
+cedure has been completed by the delivery of the judgment.
+   In the practice of international courts, in particular that of the Inter-
+national Court of Justice, this difference assumes qualitative proportions.
+Reversal of judgments on the merits, as opposed to jurisdictional deci-
+sions, is unknown in the jurisprudence of the International Court of Jus-
+tice, unlike that of arbitration courts 11.
+
+  12. The question as to whether the tribunal is irrevocably bound by its
+preliminary objection judgment was raised for the first time in the
+Tiedemann case (1926) before the Polish-German Mixed Arbitral Tribu-
+nal.
+  Sedes materiae of the matter, the Tribunal explained succinctly and
+convincingly :
+     “the Tribunal considers that, in the interests of legal security, it is
+     important that a judgment, once rendered, should in principle be
+     held to be final.
+        However, the question takes on a special complexion when the
+     preliminary judgment rendered is a judgment upholding the Tribu-
+     nal’s jurisdiction and the latter finds subsequently, but prior to the
+     judgment on the merits, that in fact it lacks jurisdiction. In such a
+     case, if it were obliged to regard itself as being bound by its first deci-
+     sion, it would be required to rule on a matter which it nevertheless
+     acknowledges to stand outside its jurisdiction. And when — as in the
+     instant case — it has in the meantime ruled that it has no jurisdiction
+     in cases of the same nature, it would totally contradict itself by nev-
+     ertheless ruling on the merits, and it would expose itself to the risk
+     that the respondent State might take advantage of the Tribunal’s
+     own acknowledgment of its lack of jurisdiction, in order to refuse to
+     execute its judgment . . .
+        In other words, in order to remain faithful to the res judicata prin-
+     ciple, it would have to commit a manifest abuse of authority.” 12
+
+  The principle that a court of law hearing a case which has proceeded
+beyond a judgment on preliminary objections is not irrevocably bound
+
+  10 The word “jurisdiction” is used in its generic sense comprising both general, i.e.,
+
+locus standi in judicio, and special jurisdiction.
+  11 See J. L. Simpson and M. Fox, International Arbitration — Law and Practice, 1959,
+
+pp. 250 et seq.
+  12 Von Tiedemann v. Polish State, Rec. TAM, t. VI, pp. 997-1003 ; see also CR 2006/44,
+
+Varady, translation.
+
+
+                                                          uA)
+by that judgment has also been confirmed by the jurisprudence of the
+Court.
+   13. In the Nottebohm case (Preliminary Objections) the Court rejected
+by its Judgment of 18 November 1953 Guatemala’s preliminary objection
+to its jurisdiction and resumed proceedings on the Merits (I.C.J. Reports
+1953, p. 124). Guatemala, however, raised a number of objections to
+admissibility in its Counter-Memorial, in its Reply and in the course of
+the oral proceedings on the merits but treated them as subsidiary to the
+subject of the dispute. In its Judgment of 6 April 1955, the Court
+accepted one of the objections, which related to the admissibility of
+Liechtenstein’s claim given that at the time of naturalization no “genuine
+link” had existed between Nottebohm and Liechtenstein (I.C.J. Reports
+1955, pp. 4-65).
+   The Nottebohm case can be taken as an example of reversal of the pre-
+liminary objection judgment upon a non-preliminary objection raised by
+the Respondent.
+   14. On the other hand, the South West Africa cases (Second Phase)
+illustrate the pattern of reversal of the judgment on preliminary objec-
+tions by action of the Court proprio motu.
+   In the preliminary objections phase (I.C.J. Reports 1962, p. 319), the
+Court rejected four South African objections, amongst others the objec-
+tion concerning the standing (locus standi) of the Applicant as well as its
+interests. South Africa pointed out, inter alia, that :
+
+        “Secondly, neither the Government of Ethiopia nor the Govern-
+      ment of Liberia is ‘another Member of the League of Nations’, as
+      required for locus standi by Article 7 of the Mandate for South West
+      Africa ; Thirdly, . . . more particularly in that no material interests of
+      the Governments of Ethiopia and/or Liberia . . . are involved therein
+      or affected thereby” (ibid., p. 327).
+
+In the merits phase the Court returned to the determination made in its
+1962 Judgment and found that, in fact, the Applicants did not have
+standing in the proceedings (I.C.J. Reports 1966, pp. 36-38). Namely, in
+its Judgment on Preliminary Objections of 21 December 1962, the Court
+established inter alia that :
+         “For the manifest scope and purport of the provisions of this Arti-
+      cle indicate that the Members of the League were understood to have
+      a legal right or interest in the observance by the Mandatory of its
+      obligations both toward the inhabitants of the Mandated Territory,
+      and toward the League of Nations and its Members”,
+
+and that :
+        “Protection of the material interests of the Members or their
+      nationals is of course included within its compass, but the well-being
+
+
+                                                          uA)
+      and development of the inhabitants of the Mandated territory are not
+      less important” (South West-Africa, Preliminary Objections, Judg-
+      ment, I.C.J. Reports 1962, pp. 343-344 ; emphasis added).
+In essence, the Court explained the reversal of its previous finding by
+describing the nature of the decision on preliminary objection. The Court
+stated inter alia :
+        “As regards the issue of preclusion, the Court finds it unnecessary
+      to pronounce on various issues which have been raised in this con-
+      nection, such as whether a decision on preliminary objection consti-
+      tutes a res judicata in the proper sense of that term, whether it ranks
+      as a ‘decision’ for the purposes of Article 59 of the Court’s Statute,
+      or as ‘final’ within the meaning of Article 60. The essential point is
+      that a decision on a preliminary objection can never be preclusive of
+      a matter appertaining to the merits, whether or not it has in fact been
+      dealt with in connexion with the preliminary objection.” (I.C.J.
+      Reports 1966, pp. 36-37, para. 59 ; emphasis added.)
+However, reasoning further about the preclusive effect of the 1962 Judg-
+ment, the Court characterized — albeit indirectly — jurisdictional deci-
+sions, finding that :
+         “Since decisions of an interlocutory character cannot pre-judge
+      questions of merits, there can be no contradiction between a decision
+      allowing that the Applicants had the capacity to invoke the jurisdic-
+      tional clause . . . and a decision that the Applicants have not estab-
+      lished the legal basis of their claim on the merits.” (I.C.J. Reports
+      1966, p. 38, para. 61 ; emphasis added.)
+   In the merits phase the Court returned to the determination made in its
+1962 Judgment and found that, in fact, the Applicants did not have
+standing in the proceedings (I.C.J. Reports 1966, pp. 36-38).
+   15. The legal basis for reconsideration of a preliminary objection judg-
+ment and, possibly, a reversal of an affirmative finding on jurisdiction lies
+in the inherent power of the Court to determine its own jurisdiction (the
+principle of compétence de la compétence), in both its narrow and broad
+meanings.
+   In the narrow sense, as expressed in Article 36, paragraph 6 of the Stat-
+ute, the Court takes jurisdictional decisions in cases of disputes between
+the parties as regards its jurisdiction. Jurisdictional decisions of the Court
+under Article 36, paragraph 6, may be of either of two types : judgments
+on preliminary objection raised in accordance with Article 79 of the
+Rules of Court ; and decisions taken upon non-preliminary objection.
+Characteristic of decisions on non-preliminary objections is that they are
+taken in phases of the proceedings other than the preliminary objection
+stage, generally in the phase which should be on the merits and which is
+determined in the practice of the Court to be a Judgment on jurisdiction
+(Nottebohm case) or simply a Judgment in the Second Phase (South West
+Africa cases). The real meaning of the last expression is in fact the second
+
+
+                                                             uA)
+jurisdictional phase, given that the judgment upon preliminary objection
+was adopted previously.
+   However, as commonly observed, the Court is bound to remain atten-
+tive to the issue of jurisdiction independently from the actions of the
+parties in the litigation. The Court achieves this by application of the
+principle compétence de la compétence in its wider form (Nottebohm case,
+I.C.J. Reports 1953, p. 120) as the basis for proprio motu action of the
+Court.
+   “Remain attentive” as such, without proper action of the Court, has
+no practical effect on the fundamental question — whether the Court has
+jurisdiction in casu. The Court, bearing in mind ex officio its competence
+from the moment the proceedings are begun until their end, undertakes
+various decisions in that regard. Specifically, the Court’s compétence de
+la compétence :
+       “is not limited to verifying in each case whether the Court can deal
+       with the merits . . . By extending the scope of the power in issue
+       [compétence de la compétence] to all matters within the incidental
+       jurisdiction of the Court, the Court has established this power as the
+       most pre-preliminary function the Court undertakes.” 13
+   The very seisin of the Court as a first step of a procedural nature
+implies the operation of the principle compétence de la compétence by
+proprio motu action of the Court. The need to resort to the principle com-
+pétence de la compétence results directly from the fact that the seisin of
+the Court is not the automatic consequence of the proper actions of the
+parties to a dispute, and the seisin of the Court is not a pure fact but a
+judicial act linked to the jurisdiction of the Court (see Nottebohm, Pre-
+liminary Objections, Judgment, I.C.J. Reports 1953, p. 122 ; Maritime
+Delimitation and Territorial Questions between Qatar and Bahrain
+(Qatar v. Bahrain), Jurisdiction and Admissibility, Judgment, I.C.J.
+Reports 1995, p. 23, para. 43).
+   Without the operation of the principle compétence de la compétence as
+a principle of general international law, it would be legally impossible to
+establish the competence of the Court to indicate provisional measures,
+for the objections to the Court’s jurisdiction, pursuant to Article 79 of
+the Rules, may be submitted by the Respondent within the time-limit
+fixed for the delivery of the Counter-Memorial and by a party other than
+the Respondent within the time-limit fixed for the delivery of the first
+pleading. The operation of the principle in this case results in the judicial
+presumption on proper jurisdiction of the Court in the form of “prima
+facie jurisdiction” (Legality of Use of Force, Preliminary Objections,
+Judgment, I.C.J. Reports 2004 ; separate opinion of Judge Krecua,
+para. 12 ; emphasis added).
+   16. The special position of a judgment on preliminary objection exists
+
+  13   Shihata, op. cit., pp. 41-42 ; emphasis added.
+
+
+                                                           uA)
+in respect of both aspects of the res judicata rule — its binding force and
+finality.
+   A perception of distinct relativity of a jurisdictional decision of the
+Court pervades the body of law regulating the Court’s activity. The rules
+regarding preliminary objections are grouped in Subsection 2 of Sec-
+tion D of the Rules of Court, entitled “Incidental Proceedings”. Such
+placement of the rules on preliminary objections suggests, as the Court
+stated in the South West Africa cases (Second Phase) (I.C.J. Reports
+1966, p. 38, para. 61), that judgment on a preliminary objection is “of an
+interlocutory character”, which implies a provisional, rather than final,
+character. Furthermore, Article 79, paragraph 1, of the Rules of Court,
+providing that “[a]ny objection . . . to the jurisdiction of the Court or to
+the admissibility . . . or other objection the decision upon which is
+requested before any further proceedings on the merits” (emphasis added),
+per se expresses the relative finality of a judgment on preliminary objec-
+tions. Preliminary objections as such do not, however, exhaust objections
+to the jurisdiction of the Court. As early as the 1980s, the jurisprudence
+of the Court, supported by State practice, developed to the effect that the
+formal preliminary objection procedure is not exhaustive of the matter 14,
+as well as that non-preliminary objections to jurisdiction are also capable
+of reversing a judgment on preliminary objections as demonstrated in the
+Nottebohm case. Non-preliminary objections to the jurisdiction of the
+Court give rise to application of the principle of compétence de la com-
+pétence understood, as I have noted before (Legality of Use of Force
+(Serbia and Montenegro v. Belgium), Preliminary Objections, Judgment,
+I.C.J. Reports 2004, paras. 43-50), in the narrow sense.
+
+
+
+   Finally, the principle of compétence de la compétence understood in a
+general sense can be seen in the Resolution Concerning the Internal Judi-
+cial Practice of the Court in its provision stating that “the Court may pro-
+ceed to entertain the merits of the case or, if that stage has already been
+reached, on the global question of whether, finally, the Court is competent
+or the claim admissible” (Art. 8 (ii) (b) ; emphasis added). It seems clear
+that the “global question” is “one which would normally arise only after
+all the previous questions and the merits have been pleaded (that is to
+say, the substance of any particular phase [has] thus been decided”) 15.
+
+  17. With regard to the binding force of a judgment on preliminary
+objections, it seems clear that it does not create legal obligations stricto
+
+
+  14 See Shabtai Rosenne, « The Reconceptualization of Objections in the ICJ » , Communi-
+
+cazioni e studi, volume quattordicesimo, 1975, pp. 735-761.
+  15 Shabtai Rosenne, Procedure in the International Court. A Commentary on the 1978
+
+Rules of the International Court of Justice, 1983, p. 232 ; emphasis added.
+
+
+                                                          uA)
+sensu which parties in the proceedings are required to comply with. The
+party that raised a preliminary objection rejected by the Court does not
+suffer any legal consequences if, for instance, it decides not to participate
+in the proceedings for which the Court declared itself competent. An
+affirmative judgment in the preliminary objection procedure creates for
+that party a processual burden rather than a legal duty stricto sensu.
+Moreover, the Applicant has no legal obligation to proceed to plead the
+claim either. While an affirmative jurisdictional decision creates a pro-
+cessual burden for the Respondent, vis-à-vis the Applicant it constitutes a
+pure processual entitlement which the Applicant uses with absolute dis-
+cretion (discretio legalis) without suffering any sanctions in proceedings
+of failure to comply with the letter of affirmative jurisdictional decisions.
+
+   In fact, an affirmative judgment in the preliminary objections phase
+creates a duty for the Court only to proceed to the merits phase, but judi-
+cial action by the Court in that regard is dependent upon proper actions
+by the parties to a case.
+   In contrast to a jurisdictional judgment, a judgment on the merits of a
+case possesses binding effect in terms of creating legal duties for the
+parties, so that “neither party can by unilateral means free itself from its
+obligation under international law to carry out the judgment in good
+faith” 16.
+   18. The more relative character of jurisdictional decisions of the Court
+as compared with the finality of a judgment on the merits of the case is
+justified on a number of grounds.
+   Jurisdictional issues are not, as a rule, core issues of cases before the
+Court, nor are they the raison d’être of recourse to the Court by the
+parties to a dispute. Cases, such as the Appeal Relating to the Jurisdiction
+of the ICAO Council (I.C.J. Reports 1972), in which the Court acts as a
+court of appeal, are the only exceptions.
+
+   The parties to a dispute turn to the Court to protect a subjective right
+or interest in the sense of substantive law, not because of the issue of
+jurisdiction as such. An affirmative judgment on jurisdictional issues
+establishes only the necessary prerequisite for resolving the main issue
+and it concerns substantive law in terms of conferring or imposing upon
+the parties a legal right or obligation of a positive or negative nature. In
+this sense, a judgment on jurisdictional issues is of
+
+      “a purely declaratory nature and it can never create a right i.e.,
+      bestow on the Court itself a jurisdiction which is not supported by
+      applicable rules of law either general or particular” (Certain German
+      Interests in Polish Upper Silesia, Jurisdiction, Judgment No. 6, 1925,
+
+   16 Société Commerciale de Belgique, Judgment, 1939, P.C.I.J., Series A/B, No. 78,
+
+p. 176.
+
+
+                                                          uA)
+      P.C.I.J., Series A, No. 6, dissenting opinion of Judge Rostworowski,
+      p. 32).
+
+In other words, a judgment on jurisdictional issues is adjective rather
+than substantive in its nature and, consequently, in its effects as well.
+It does not create a new legal situation in terms of substantive law nor
+gives an order to perform an act as it does not state how the law
+disputed between the parties is to be applied. (For classification of inter-
+national judgments, see Encyclopedia of Public International Law, III,
+1997, pp. 33-34.)
+
+   The reversal by a court of law acting within its judicial prerogatives of
+the jurisdictional judgment in a pending case does not substantially, if at
+all, affect stability and predictability as the rationale of finality of the
+judgment, as advocated by the majority (Judgment, para. 116). This is
+because the subject matter here is not substantive rights and obligations
+of the parties. As an affirmative jurisdictional decision merely confers
+entitlement to have a claim entertained and decided by the court, it is
+hard to say that its reversal may result in disturbing jural relations under
+substantive law. The only disturbance that can be spoken of in case of a
+reversal of an affirmative jurisdictional decision is the disturbance in the
+processual relationship established by the jurisdictional decision, distur-
+bance which is a matter of the subjective expectations of the parties to a
+dispute rather than a matter of public policy underlying the finality of the
+Court’s decision.
+
+
+
+   On the contrary, if, after adopting a jurisdictional decision and before
+handing down its judgment on the merits, the Court found that its deci-
+sion was erroneous for any reason, it would commit a manifest abuse of
+its power if it were to abide by the res judicata rule. Thus, rather than
+strengthening the res judicata rule, insistence on the finality of jurisdic-
+tional decisions in all circumstances would be to its detriment, paralyz-
+ing, and even nullifying, the activity of the Court as a court of law and
+justice, for, besides the intrinsic, constituent elements of the res judicata
+rule, there exists the fundamental extrinsic condition, the requisite valid-
+ity of the Court’s decision in terms of substantive and procedural law.
+
+
+  Finally, the more relative character of jurisdictional decisions, as
+regards finality, results or may result from the operation of the principle
+of compétence de la compétence. Specifically, the principle of compétence
+de la compétence operates exclusively in respect of jurisdictional issues.
+
+   19. In practical terms, the relativity of jurisdictional decisions, espe-
+cially judgments on preliminary objections as a formal type of jurisdic-
+
+
+                                                          uA)
+tional decision might result from balancing two considerations which
+differ by nature :
+(i) special circumstances forming an objective element deriving from
+    legality which dictate reversal of the jurisdictional decision ; and
+
+(ii) a subjective element, which implies the readiness of a court of law to
+     address the matter.
+   As regards this element, while somewhat pathetic, the warning is essen-
+tially correct that the “future of international adjudication, if not global
+peace, may paradoxically depend on the capacity of our supreme judicial
+organ to say mea culpa” 17.
+
+
+      III. Application of the Res Judicata Rule to the 1996 Judgment
+  20. The position taken by the majority on the application of res judi-
+cata to the 1996 Judgment of the Court suffers from two basic weak-
+nesses :
+(a) a narrow and fetishist perception of the res judicata rule ;
+(b) an erroneous assessment of the relevant conditions for its applica-
+    tion in casu.
+  As a consequence, it can be said that the perception of the res judicata
+rule as well as its application to the 1996 Judgment is completely misguided.
+
+1. Perception of the res judicata rule
+  21. The dual, organically linked, structure of the res judicata rule as
+designed in Articles 59 and 60 of the Statute has been reduced by the
+majority to only one element — its binding force, although the crucial
+question in the case at hand is, in fact, the finality of the 1996 Judgment.
+In that regard, it is said that the “Statute . . . declares, in Article 60, the
+res judicata principle without exception” (Judgment, para. 119).
+
+  The essence of the perception can be expressed as follows :
+        “Article 59 of the Statute, notwithstanding its negative wording,
+      has as its core the positive statement that the parties are bound by the
+      decision of the Court in respect of the particular case. Article 60 of
+      the Statute provides that the judgment is final and without appeal ;
+      Article 61 places close limits of time and substance on the ability of
+      the parties to seek the revision of the judgment.” (Judgment,
+      para. 115 ; emphasis added.)
+
+  17 W. M. Reisman, “Revision of West South Africa Cases — An Analysis of the
+
+Grounds of Nullity in the Decision of 18 July 1966 and Methods of Revision”, The Vir-
+ginia Journal of International Law, 1966, Vol. 7, No. 1, p. 4.
+
+
+                                                           uA)
+This reasoning seems to confuse the characteristics and effects of the res
+judicata rule.
+   The binding force of the Court’s decision most certainly constitutes its
+substantive aspect. But, such a characteristic of the decision of the Court
+does not necessarily imply its finality, which is a matter of the procedural
+effects of the Court’s decision.
+   In fact, each decision of the Court, being a proper expression of the
+judicial power, possesses binding force. In the formula auctoritas res judi-
+cata or l’autorité de la chose jugée, auctoritas does not per se mean final-
+ity, but rather the specific weight or credit of a judicial decision serving as
+a basis for its finality. Finality is never an attribute of the auctoritas itself.
+It may be the attribute of the auctoritas of the judgment after exhausting
+legal avenues, either regular or extraordinary, by which the judgment can
+be challenged.
+
+   22. According to the majority view, the 1996 Judgment is considered
+final, for
+      “[t]he Statute provides for only one procedure in such an event : the
+      procedure under Article 61, which offers the possibility for the revi-
+      sion of judgments . . .” (Judgment, para. 120),
+and, furthermore,
+         “Subject only to this possibility of revision, the applicable princi-
+      ple is res judicata pro veritate habetur, that is to say that the findings
+      of a judgment are, for the purposes of the case and between the
+      parties, to be taken as correct, and may not be reopened on the basis
+      of claims that doubt has been thrown on them by subsequent events.”
+      (Judgment, para. 120 ; emphasis added.)
+
+   Such a perception of the finality of a judgment seems too narrow,
+because it obviously does not take into account all legal vehicles avail-
+able, either to the parties or to the Court itself, for the purpose of recon-
+sideration of the issue of jurisdiction. The law of the Court knows, in
+addition to revision under Article 61 of the Statute, two legal vehicles
+which are relevant in that regard. As stated above, these are the principle
+of compétence de la compétence in terms of both Article 36, paragraph 5,
+of the Statute and the rule of general international law (Nottebohm, Pre-
+liminary Objection, Judgment, I.C.J. Reports 1953, pp. 119-120) and
+non-preliminary objections to the jurisdiction of the Court.
+   23. The principle compétence de la compétence is “indispensably nec-
+essary to the discharge of any . . . duties” 18 of any judicial authority.
+Although, in contrast to jurisdictional objections raised by the parties, it
+
+  18 United States Commissioner Gore in the Betsey case (1797), J. B. Moore (ed.), Inter-
+
+national Adjudications, Ancient and Modern History and Documents, Modern Series,
+Vol. IV, p. 183.
+
+
+                                                          uA)
+is not specifically designed to challenge the jurisdiction of the Court, its
+operation, either proprio motu or upon an objection by a party, always
+affects, positively or negatively, the jurisdiction of the Court.
+
+   The power of the Court to determine whether it has jurisdiction, ema-
+nating from the principle of compétence de la compétence, is an inherent
+right and duty of the Court and it knows no bounds (Electricity Com-
+pany of Sofia and Bulgaria, Judgment, 1939, P.C.I.J., Series A/B, No. 77,
+dissenting opinion of Judge Urrutia, pp. 102-103). The Court exercises its
+inherent power from beginning to end of the proceedings with a view to
+establishing whether it possesses jurisdiction or not in the particular case.
+In reality, the Court exercises its inherent power in two ways :
+(a) by taking a quiet, informal decision as to the existence of the proc-
+    essual requirements for jurisdiction through prima facie assessment,
+    this being substantively a judicial presumption of jurisdiction ; and
+
+(b) by adopting a formal decision on jurisdiction.
+   In that sense, the Court’s power to determine whether it has jurisdic-
+tion in a given case seems absolute, considering that the Court, even if it
+declares that it has no jurisdiction in casu, exercises that inherent power.
+
+   24. Accordingly, the exercise of that power cannot be limited ratione
+temporis as long as the Court is functus officio in the case. Inherent in the
+power of the Court to determine whether it has jurisdiction ad casum is
+the proper right to reopen and reconsider the issue of jurisdiction, either
+proprio motu or upon jurisdictional objection by a party to a dispute, as
+clearly demonstrated in the Nottebohm case (para. 13 above) and the
+South West Africa cases (para. 14 above).
+
+   This, of course, does not mean, as the Judgment correctly stated, that
+“jurisdictional decisions remain reviewable indefinitely . . .” (Judgment,
+para. 118).
+   There exist clear limits, both temporal and substantive, within which
+jurisdictional decisions are reviewable. As regards temporal limits, the
+jurisdictional decision is reviewable until the Court is functus officio in a
+given case, whereas substantive limits concern the nature of the circum-
+stances which justify reconsideration. They must be of a special nature
+affecting legality as the primary value and ultimate purpose of judicial
+decisions of any court of law, for
+
+         “The Commission is a tribunal sitting continuously with all the
+      attributes and functions of a continuing tribunal until its work shall
+      have been closed. Where the Commission has misinterpreted the evi-
+      dence, or made a mistake in calculation, or where its decision does
+      not follow its fact findings, or where in any other respect the decision
+
+
+                                                          uA)
+      does not comport with the record as made, or where the decision
+      involves a material error of law, the Commission not only has
+      power, but is under the duty, upon a proper showing, to re-open and
+      correct a decision to accord with the facts and the applicable legal
+      rules.” (Mixed Claims Commission — United States of America and
+      Germany, AJIL, 1940, Vol. 34, No. 1, p. 154.)
+
+   Such inherent power and, even, a duty emanate from the very nature
+of the judicial function, for, as Commissioner Owen Roberts stated, “No
+tribunal worthy of its name or of any respect may allow its decision to
+stand if such allegations are well-founded” (ibid., p. 164).
+
+  25. The unjustifiably narrow interpretation of the res judicata rule
+inevitably leads to a striking conclusion that
+         “Subject only to [the] possibility of revision, the applicable prin-
+      ciple is res judicata pro veritate habetur, that is to say that the find-
+      ings of a judgment are, for the purposes of the case and between the
+      parties, to be taken as correct, and may not be reopened on the basis
+      of claims that doubt has been thrown on them by subsequent events.”
+      (Judgment, para. 120 ; emphasis added.)
+
+  Considering the Court’s findings to be immutable even in the face of
+subsequent events throwing doubt on their veracity, the majority view
+neglects the aspect of legality in the substance of the res judicata rule.
+
+   As subsequent events can hardly be considered as “a new fact” under
+Article 61 of the Statute, it appears that the Court as a rule takes deci-
+sions ex jure proprio, independently of international law, so that the legal
+situation determined by the Court is, ex definitione, the true position
+under international law.
+   Such a view can only be seen as judicial extremism, which cannot but
+be conducive to absurd results. A good illustration in that regard is pre-
+cisely this particular case.
+   If the findings of the Court are to be taken as correct, whatever doubt
+may be thrown on them by subsequent events, the conclusion that fol-
+lows is that the Respondent State in the case at hand is the Federal
+Republic of Yugoslavia because the Court so decided in its 1996 Judg-
+ment, which, according to the finding by the majority of the Court, is res
+judicata.
+   26. A non-preliminary objection, as a vehicle for challenging a judg-
+ment on preliminary objections, brings into play the principle of com-
+pétence de la compétence in accordance with paragraph 6 of Article 36 of
+the Statute.
+   That is exactly what happened in the present case.
+   In May 2001, the Federal Republic of Yugoslavia submitted a docu-
+
+
+                                                          uA)
+ment entitled “Initiative to the Court to Reconsider Ex Officio Jurisdic-
+tion over Yugoslavia”, requesting the Court to adjudge and declare that
+it had no jurisdiction ratione personae over it. The request was based on
+the argument that the Federal Republic of Yugoslavia had not been a
+party to the Statute of the Court until its admission to the United
+Nations on 1 November 2000 and that it had not been a party to the
+Genocide Convention (Judgment, para. 26). In addition, Yugoslavia
+asked the Court to suspend the proceedings on the merits until the deci-
+sion on the Initiative was rendered (ibid.).
+
+   In a letter of 3 December 2001, Bosnia and Herzegovina requested the
+Court, inter alia, to “respond in the negative to the request embodied in
+the ‘Initiative’” (Judgment, para. 28).
+   Acting on this matter, the Court decided, as shown by a letter from the
+Registrar dated 12 June 2003, that it could not effect a suspension of the
+proceedings.
+   As regards the issue of reconsideration by the Court of its jurisdiction
+in the case, it was stated inter alia :
+         “The Court . . . as was in fact observed by Serbia and Montenegro
+      in the ‘Initiative’ document, and as the Court has emphasized in the
+      past, is entitled to consider jurisdictional issues proprio motu, and
+      must ‘always be satisfied that it has jurisdiction’ (Appeal Relating to
+      the Jurisdiction of the ICAO Council, I.C.J. Reports 1972, p. 52). It
+      goes without saying that the Court will not give judgment on the mer-
+      its of the present case unless it is satisfied that it has jurisdiction.
+      Should Serbia and Montenegro wish to present further argument to
+      the Court on jurisdictional questions during the oral proceedings on
+      the merits, it will be free to do so.” (Letter of 12 June 2003 ; emphasis
+      added.)
+   In a word, the view of the majority that “[s]ubject only to [the] possi-
+bility of revision, the applicable principle is res judicata pro veritate
+habetur . . .” (Judgment, para. 120) seems to run contra factum proprium.
+
+
+2. Erroneous assessment of the relevant conditions for its application in
+   casu
+
+   27. The conditions for the application of the res judicata rule can be
+divided into two categories : intrinsic and extrinsic. As regards the intrin-
+sic one, according to the classic formula, res judicata applies only where
+there is an identity of parties (eadem personae) and an identity of the
+question at issue (eadem res). The latter element is sometimes divided
+into the object (petitum) and the grounds advanced (causa petendi), for
+example, Interpretation of Judgments Nos. 7 and 8 (Factory at Chorzów),
+Judgment No. 11, 1927, P.C.I.J., Series A, No. 13, dissenting opinion of
+
+
+                                                         uA)
+Judge Anzilotti, p. 23 ; Polish Postal Service in Danzig, Advisory Opin-
+ion, 1925, P.C.I.J., Series B, No. 11, p. 30.
+   The extrinsic condition for applying the res judicata rule, assuming the
+intrinsic elements are present, is the validity of the judgment. In the
+Effect of Awards of Compensation Made by the United Nations Adminis-
+trative Tribunal case, the Court clearly set out the requirement of validity
+by construing the question put to it by the General Assembly as referring
+“only to awards of compensation made by the Administrative Tribunal,
+properly constituted and acting within the limits of its statutory compe-
+tence” (I.C.J. Reports 1954, p. 55).
+
+   28. The “Long March” on the part of the majority of the Court
+through the issue of the Respondent’s jus standi, ended, after almost
+14 years, by its adoption of a third successive position, a position sharing
+a negative characteristic with the preceding two. That is to say, it has not
+provided any answer to the question which is the sedes materiae of the
+jurisdictional complex in the present case, whether the Respondent,
+under Article 35 of the Statute of the Court, possesses the right to appear
+before the Court or not.
+   The Court’s first position, embodied in the 1996 Judgment, could be
+characterized as that of clearly avoiding the question. The majority sim-
+ply closed their eyes to the relevant issue, as if it did not exist at all. A
+characteristic feature of the second position, elaborated in the Judgment
+in Application for Revision of the Judgment of 11 July 1996 in the Case
+concerning Application of the Convention on the Prevention and Punish-
+ment of the Crime of Genocide (Bosnia and Herzegovina v. Yugoslavia),
+Preliminary Objections (Yugoslavia v. Bosnia and Herzegovina) (Judg-
+ment, I.C.J. Reports 2003, p. 7), is the attempt to construct a sui generis
+position of the Respondent vis-à-vis the United Nations in the period
+1992-2000. It is some type of explanation for the tacit treatment of the
+Respondent as a State having jus standi before the Court. In the present
+Judgment, the majority has formulated a third position, one that can be
+described, from the substantive point of view, as a return to a modified
+avoidance position. Specifically, the third position accepts the incontest-
+able fact that the Respondent was admitted, by decision of the competent
+political organs of the United Nations, to membership of the world
+Organization on 1 November 2000 (Judgment, para. 99) as a new Mem-
+ber, but it avoids accepting the necessary consequences of that fact as
+regards the Respondent’s jus standi relying on an erroneous perception of
+the res judicata rule.
+
+
+  However, in another dispute in which Serbia and Montenegro was
+involved, namely, the Legality of Use of Force cases, the Court decided
+that the act of admission of Serbia and Montenegro to United Nations
+membership was determinative as regards jus standi.
+
+
+
+                                                           uA)
+  This sharp contradiction in determining the legal consequences of the
+admission of Serbia and Montenegro as regards its jus standi before the
+Court perhaps vindicates, Honoré de Balzac’s cynicism in observing that :
+“Les lois sont des toiles d’araignées à travers lesquelles passent les grosses
+mouches et où restent les petites.” 19
+
+   29. The issue of jus standi deserves a more detailed elaboration due to
+its crucial importance in the present case.
+
+
+3. Jus standi 20 as an autonomous processual condition
+   30. Jus standi, in relation to jurisdiction understood in the standard
+sense to be the Court’s power to solve concrete disputes, is an autono-
+mous and separate processual condition. Substantively, it means a gen-
+eral, potential right of a State entitling it, under the additional proviso of
+the existence of a proper jurisdictional instrument, to participate in a case
+before the Court in the capacity of a party, either as an Applicant or as
+a Respondent, or as an intervening party. As such, jus standi is a general,
+positive processual condition. It is materialized if a State possessing jus
+standi brings legal action, has an action brought against it, or, in accord-
+ance with the relevant rules of the Court, intervenes in proceedings pend-
+ing before the Court. Being autonomous, jus standi belongs to a State
+even if the State is not a party to the dispute or a party to the proceedings
+pending before the Court.
+
+
+  There is no direct, organic link between jus standi before the Court and
+the jurisdiction of the Court. As the Court stated in the South West
+Africa cases (Second Phase) :
+        “It is a universal and necessary, but yet almost elementary princi-
+      ple of procedural law that a distinction has to be made between . . .
+      the right to activate a court and the right of the court to examine the
+      merits of the claim.” (South West Africa, Second Phase, Judgment,
+      I.C.J. Reports 1966, p. 39, para. 64 ; Fisheries Jurisdiction (Federal
+      Republic of Germany v. Iceland), Jurisdiction of the Court, Judg-
+      ment, I.C.J. Reports 1973, p. 53, para. 11 ; emphasis added.)
+   Accordingly, the Court does not acquire jurisdiction in the concrete
+dispute eo ipso, simply because the parties to the dispute possess jus
+standi before the Court, just as vice versa the existence of a proper juris-
+
+   19 Honoré de Balzac, La Maison Nucingen (http://www.citationspolitiques.com/
+
+recherche.php3 ?rechercheLes+lois+sont+des+toiles+d92araignE9es).
+   20 The expression “locus standi” or “locus standi in judicio” is usually used. However
+
+the expression “jus standi” appears to be more appropriate since it directly addresses the
+right established by Article 35 of the Statute. The expression “locus standi” is used when
+it is, as such, employed in the jurisprudence of the Court.
+
+
+                                                           uA)
+dictional instrument in force between the parties to the dispute does not
+imply jus standi of the parties to the dispute before the Court.
+   31. In relation to the issue of jurisdiction, jus standi is antecedent in
+nature, being a pre-condition for the establishment of the Court’s juris-
+diction in casu. In the absence of jus standi of a State (or States) in the
+dispute, it is legally impossible for the Court to establish its jurisdiction,
+for “only those States which have access to the Court can confer jurisdic-
+tion upon it” (Legality of Use of Force (Serbia and Montenegro v.
+Netherlands), Preliminary Objections, Judgment, I.C.J. Reports 2004,
+p. 1030, para. 45). Moreover, in such a case the Court would not be
+authorized either to take into consideration the issue of its jurisdiction or
+to take any judicial action of a substantive nature.
+   Not only is a State, without jus standi precluded from being a party in
+the proceedings before the Court, but the Court cannot stricti juris even
+have any dealings with such a State in the judicial, as opposed to admin-
+istrative, sphere. The Court cannot have recourse to the exercise of the
+power, vis-à-vis such a State, of determining its jurisdiction (compétence
+de la compétence), nor can it indicate provisional measures of protection
+or exercise any of the powers inherent in the judicial function.
+   Consequently actions of the Court, with the exception of those aimed
+at establishing the jus standi of a State to a dispute are not legally
+founded in the law of the Court. It could not even be said of any such
+actions that they had been taken ultra vires, because the effect of ultra
+vires implies a measure of judicial vires which the Court, has exceeded in
+the concrete case, but rather the legally non-existent, factual actions had
+been taken sine vires.
+   Accordingly, the absence of jus standi would be a reason for the abso-
+lute nullity of Court actions purporting to be judicial in nature.
+
+  3.1. Legal force of the jus standi rule
+  32. Article 35, paragraph 1, of the Statute is of a constitutional nature,
+an integral part of the public order established by the Charter of the
+United Nations. As such, together with other provisions of the Statute of
+such a nature, it represents a jus cogens 21, incapable of any modification
+even by the Court itself. Therefore,
+
+         “The function of the Court to enquire into the matter and reach
+      its own conclusion is thus mandatory upon the Court irrespective of
+      the consent of the parties and is in no way incompatible with the
+      principle that the jurisdiction of the Court depends on consent.”
+      (Legality of Use of Force (Serbia and Montenegro v. Netherlands),
+
+  21 G. Schwarzenberger, “International Law as Applied by International Courts and
+
+Tribunals”, Vol. IV, International Judicial Law, 1986, pp. 434-435 : R. Kolb, Théorie du
+jus cogens international, Essai de relecture du concept, 2001, pp. 344-348 ; Fachiri, The
+Permanent Court of International Justice, 1932, p. 63.
+
+
+                                                          uA)
+      Preliminary Objections, Judgment, I.C.J. Reports 2004, p. 1027,
+      para. 35.)
+Article 35 of the Statute provides :
+        “(1) The Court shall be open to the States parties to the present
+      Statute.
+          (2) The conditions under which the Court shall be open to other
+      States shall, subject to the special provisions contained in treaties in
+      force, be laid down by the Security Council, but in no case shall such
+      conditions place the parties in a position of inequality before the
+      Court.” (Emphasis added.)
+   The imperative form of the provisions of Article 35, paragraphs 1 and
+2, of the Statute carries with it a dual — permissive and prohibitive —
+meaning.
+   On the one hand, the provisions authorize a party to the Statute — and
+a State not party to the Statute, on the condition that it accept the gen-
+eral jurisdiction of the Court in conformity with Security Council resolu-
+tion 9 (1946) — to gain access to the Court. On the other, they prohibit
+access to the Court by a non-party to the Statute which has not accepted
+the general jurisdiction of the Court pursuant to Security Council resolu-
+tion 9 (1946).
+   The combined effects of Article 35, paragraphs 1 and 2, of the Statute
+together with Article 34, paragraph 1, of the Statute express the limited
+nature of the right to judicial protection before the International Court
+of Justice.
+   The limited right to judicial protection before the International Court
+of Justice is part of the public order of the Organization of the United
+Nations, whose principal judicial organ is the Court. In Article 93 (1) and
+(2) the Charter provides :
+        “(1) All Members of the United Nations are ipso facto parties to
+      the Statute of the International Court of Justice.
+          (2) A State which is not a Member of the United Nations may
+      become a party to the Statute of the International Court of Justice
+      on conditions to be determined in each case by the General Assem-
+      bly upon the recommendation of the Security Council.”
+This should be read in conjunction with Articles 34 (1) and 35 (1) and (2)
+of the Statute of the Court, which is itself “an integral part of the present
+Charter” (Art. 92 of the Charter).
+   As such, paragraphs 1 and 2 of Article 35 of the Statute are mandatory
+and the Court is bound to apply them ex officio. In respect
+of the temporal element in the application of the rules, given the
+antecedent nature of jus standi, the Court is under an obligation to
+establish the jus standi of the parties to the dispute before any
+proceedings whatsoever, and to take account of it throughout the
+entire proceedings. For instance, it is possible that a party in the
+
+
+                                                          uA)
+case before the Court ceases to exist as a State in the course of the
+proceedings.
+  33. A proper pattern of ex lege reasoning of the Court, in the other-
+wise modest jurisprudence of the Court relating to jus standi, is offered
+by the Judgment in the Fisheries Jurisdiction (Federal Republic of Ger-
+many v. Iceland) case :
+
+      “the Minister for Foreign Affairs of Iceland seemed to suggest that
+      the timing of the declaration of the Federal Republic of Germany of
+      29 October 1971, deposited with the Registrar on 22 November
+      1971, may have had some effect on the binding force of the agree-
+      ment contained in the Exchange of Notes of 19 July 1961 or on the
+      right of access to the Court of the Federal Republic of Germany. As
+      to the first point, it is clear that the binding force of the agreement
+      between the two Governments, which is to be examined in the
+      present Judgment, bears no relation to the date on which the declara-
+      tion required by the Security Council resolution of 15 October 1946
+      was deposited with the Registrar : the former is designed to establish
+      the jurisdiction of the Court over a particular kind of dispute ; the
+      latter provides for access to the Court of States which are not parties
+      to the Statue. As to the second point (i.e., the question of the Federal
+      Republic’s right of access to the Court), according to the Security
+      Council resolution, a declaration, which may be either particular or
+      general, must be filed by the State which is not a party to the Statute,
+      previously to its appearance before the Court. This was done.” (Juris-
+      diction of the Court, Judgment, I.C.J. Reports 1973, p. 53, para. 11 ;
+      emphasis added.)
+
+
+The pattern was followed by the Court in the Legality of Use of Force
+cases as well :
+
+      “the question whether Serbia and Montenegro was or was not a
+      party to the Statute of the Court at the time of the institution of the
+      present proceedings is fundamental ; for if it were not such a party,
+      the Court would not be open to it under Article 35, paragraph 1, of
+      the Statute. In that situation, subject to any application of para-
+      graph 2 of that Article, Serbia and Montenegro could not have prop-
+      erly seised the Court, whatever title of jurisdiction it might have
+      invoked, for the simple reason that Serbia and Montenegro did not
+      have the right to appear before the Court.
+         The Court can exercise its judicial function only in respect of
+      those States which have access to it under Article 35 of the Statute.
+      And only those States which have access to the Court can confer
+      jurisdiction upon it.” (Legality of Use of Force (Serbia and Mon-
+      tenegro v. Belgium), Preliminary Objections, Judgment, I.C.J.
+      Reports 2004, p. 299, para. 46 ; emphasis added.)
+
+
+                                                          uA)
+  3.2. Differentia specifica between jus standi and jurisdiction of the
+       Court ratione personae
+
+   34. Both notions — jus standi and jurisdiction ratione personae —
+share the characteristic of belonging to the corpus of processual condi-
+tions necessary for the validity of proceedings — whether incidental or
+on the merits — before the Court and with respect to the reference of
+disputes to the Court for decision. They also share the attribute of being
+absolute processual conditions that must be satisfied in every case and
+both are positive requirements in that, if they are not satisfied, the Court
+cannot entertain the claims made.
+
+   35. The differences between them, however, are considerably greater,
+making them distinct processual conditions. Primo, they reflect the dif-
+ferent aspects of the legal nature of the Court. While jurisdiction ratione
+personae, as one of the relevant aspects of jurisdiction, expresses the con-
+sensual nature of the Court’s jurisdiction, jus standi derives from the fact
+that the International Court of Justice, in contrast to arbitration courts,
+is not a fully open court of law. Access to the Court is limited in two
+respects on the basis of Articles 34, paragraph 1, and Article 35, para-
+graphs 1 and 2, of the Statute of the Court. Tertio, although both juris-
+diction ratione personae and jus standi are regulated by the rules of the
+Statute having an objective, constitutional character, there exists a fun-
+damental difference in the application of these rules. The rules of the
+Statute which concern jus standi are applied by the Court ex lege, while
+the corresponding rules concerning jurisdiction ratione personae are
+applied on the basis of the consent of the States to the dispute. In its
+Judgments in the Legality of Use of Force cases, the Court stated, inter
+alia, that
+
+      “a question of jurisdiction . . . relates to the consent of a party and
+      the question of the right of a party to appear before the Court under
+      the requirements of the Statute, which is not a matter of consent”
+      (Serbia and Montenegro v. Netherlands, Preliminary Objections,
+      Judgment, I.C.J. Reports 2004, p. 1026, para. 35).
+
+Therefore, it can be said that in substance the jurisdiction of the Court is
+governed by the law in force between the parties, while jus standi is gov-
+erned by objective rules of the Statute as such.
+   Quatro, the differing natures of jus standi, on the one hand, and
+jurisdiction ratione personae, on the other, generate corresponding
+legal consequences in the proceedings. A lack of jus standi
+possesses an automatic effect, since, as a rule, it cannot be over-
+come in the proceedings before the Court, while a lack of juris-
+diction ratione personae is surmountable as the parties may either
+confer jurisdiction upon the Court in the course of the proceedings
+
+
+                                                          uA)
+or perfect it — for instance, by express agreement or by forum
+prorogatum.
+  As a consequence, in contrast to a lack of jus standi, the absence of
+jurisdiction ratione personae does not preclude valid seisin of the Court.
+
+  Quinto, the competence or special jurisdiction in the particular case of
+the International Court of Justice, as a semi-open court of law with juris-
+diction based on consent of the parties to a dispute, implies twofold con-
+sent by States :
+
+(a) consent that the Court is “an organ instituted for the purpose jus
+    dicere” (Corfu Channel, Preliminary Objection, Judgment, 1948,
+    I.C.J. Reports 1947-1948, dissenting opinion of Judge Daxner,
+    p. 39). This consent is expressed indirectly, through membership of
+    the United Nations, or directly, in the case of a non-Member of the
+    United Nations either by adhering to the Statute of the Court or by
+    accepting the general jurisdiction of the Court in conformity with
+    Security Council resolution 9 (1946), as a preliminary condition ;
+    and
+(b) consent that the Court is competent to deal with the particular dis-
+    pute or type of dispute which is given through relevant jurisdictional
+    bases under Article 36 of the Statute, as a substantive but qualified
+    condition.
+   As the Court stated in the Nottebohm case : “under the system of the
+Statute the seisin of the Court by means of an Application is not ipso
+facto open to all States parties to the Statute, it is only open to the extent
+defined in the applicable Declarations” (Nottebohm (Liechtenstein v.
+Guatemala), Preliminary Objection, Judgment, I.C.J. Reports 1953,
+p. 122). The principle was further elaborated by the Court in the Legality
+of the Use of Force case :
+         “Whereas the Court, under its Statute, does not automatically
+      have jurisdiction over legal disputes between States parties to that
+      Statute or between other States to whom access to the Court has
+      been granted . . . whereas the Court can therefore exercise jurisdic-
+      tion only between States parties to a dispute who not only have
+      access to the Court but also have accepted the jurisdiction of the
+      Court, either in general form or for the individual dispute con-
+      cerned.” (Provisional Measures, Order of 2 June 1999, I.C.J. Reports
+      1999 (I), pp. 549-550, para. 20 ; emphasis added.)
+
+   36. In the application of the two autonomous rules — jurisdiction
+ratione personae and jus standi — with their own objects and effects, the
+latter possesses logical and normative priority. Jus standi, as an expres-
+sion of the right to judicial protection is antecedent in nature, is a pre-
+liminary question which “should be taken in advance of any question of
+
+
+                                                          uA)
+competence” (Northern Cameroons (Cameroons v. United Kingdom),
+Preliminary Objections, I.C.J. Reports 1963, separate opinion of Sir
+G. Fitzmaurice, p. 105 ; emphasis in the original). For
+
+        “The Court can exercise its judicial function only in respect of
+      those States which have access to it under Article 35 of the Statute.
+      And only those States which have access to the Court can confer
+      jurisdiction upon it.” (Legality of Use of Force (Serbia and Mon-
+      tenegro v. Netherlands), Preliminary Objections, Judgment, I.C.J.
+      Reports 2004, p. 1030, para. 45.)
+
+4. Assessment of the Respondent’s jus standi by the majority
+
+
+  37. The majority assessment of the Respondent’s jus standi is some-
+what confused and significantly self-contradictory, mostly because it
+seeks to reconcile the irreconcilable.
+  As regards the nature of jus standi, i.e., whether or not it is an autono-
+mous processual requirement, the position of the majority is that it “may
+be regarded as an issue prior to that of jurisdiction ratione personae, or
+as one constitutive element within the concept of jurisdiction ratione per-
+sonae” (Judgment, para. 102).
+  The finding could be considered correct if it related to the terminology
+used in relation to these two notions, but not in the present context.
+
+   If, as pointed out, jus standi, in contrast to jurisdictional issues, “is not
+a matter of the consent of the parties” (ibid.), then obviously the latter
+understanding does not apply. Like any other processual requirement, jus
+standi cannot simultaneously be based on the consent of the parties and
+on the requirements of the Statute, which is not a matter of consent, as
+stated in the Judgment in the Legality of Use of Force (Serbia and Mon-
+tenegro v. Belgium) (Judgment, I.C.J. Reports 2004, p. 295, para. 36) to
+which reference is made.
+
+   After all, in further reasoning the Judgment determines jus standi in
+negative terms as a distinct condition by saying that “the capacity to
+appear before the Court . . . was an element in the reasoning of the 1996
+Judgment, which can — and indeed must — be read into the Judgment as
+a matter of logical construction” (Judgment, para. 135 ; emphasis added).
+If jus standi is indeed an element of jurisdiction ratione personae, then
+there is probably no need for any “logical construction” on the basis of
+which jus standi, although unstated, should be read into the judgment. It
+appears, however, that the legal situation is a different one. As the Court
+stated in the South West Africa cases :
+
+        “It is a universal and necessary, but yet almost elementary princi-
+
+
+                                                          uA)
+      ple of procedural law that a distinction has to be made between . . .
+      the right to activate a court and the right of a court to examine the
+      merits of the claim.” (South West Africa, Second Phase, Judgment,
+      I.C.J. Reports 1966, p. 39, para. 64 ; Fisheries Jurisdiction, (United
+      Kingdom v. Iceland), Jurisdiction of the Court, Judgment, I.C.J.
+      Reports 1973, p. 53, para. 11.)
+
+   Jus standi can be perceived as an element of jurisdiction ratione per-
+sonae only if in a descriptive sense or if jurisdiction ratione personae is
+understood lato sensu to comprise different legal concepts set out in Arti-
+cles 35 and 36 of the Statute.
+   38. In casu, the relevant issue is not jurisdiction ratione personae, but
+the issue of the right of Serbia to appear before the Court. The petitum
+non-preliminary objection of Serbia is its jus standi and not jurisdiction
+ratione personae, and causa petendi is Article 35 of the Statute and not its
+Article 36. In that sense, the finding of the Court in Asylum case seems
+applicable. In the said case, the Court, inter alia, found :
+
+
+      “the question of the surrender of the refugee was not decided by the
+      Judgment of November 20th. This question is new . . . There is con-
+      sequently no res judicata upon the question of surrender.” (I.C.J.
+      Reports 1951, p. 80.)
+
+It is true that the Respondent, while invoking the lack of jus standi on its
+part, uses also the expression “jurisdiction ratione personae”. But, that
+fact can hardly be excusable for the Court because involved here is a
+questio juris which falls within the ambit of the rule of jura novit curia.
+   39. The Judgment correctly recognizes that the capacity of the Federal
+Republic of Yugoslavia to appear before the Court in accordance with
+the Statute “was unstated” in the 1996 Judgment, that is, that “[n]othing
+was stated in the 1996 Judgment about . . . whether it [Federal Republic
+of Yugoslavia] could participate in proceedings before the Court . . .”
+(Judgment, para. 122). The matter is clearly self-evident.
+   And it is self-evident not only as regards the dispositif of the Judgment,
+at that. The reasons in point of law which served as the basis for the dis-
+positif of the Judgment are basically limited to the question whether the
+parties to the dispute could have been considered parties to the Genocide
+Convention (1996 Judgment, paras. 17-20), and to such related issues as
+automatic succession in relation to certain types of international treaties
+and conventions (ibid., paras. 21, 23), the nature of the Genocide Con-
+vention (ibid., para. 22) and the effect of non-recognition of the contrac-
+tual nexus between parties to a multilateral treaty (ibid., paras. 25, 26).
+
+  Ergo, the evidence appears to be incontrovertible : the Court’s
+Judgment of 11 July 1996 did not, either in the dispositif or in
+the principles underlying it, touch upon, let alone decide, the issue
+
+
+                                                          uA)
+of the jus standi of the Federal Republic of Yugoslavia before the
+Court.
+   Moreover, there is no trace in other components of the 1996 Judg-
+ment — the headnote setting out the main issues discussed, the summary
+of the proceedings, including the parties’ submissions — indicating that
+the Court at least considered the issue.
+   However, the majority has not drawn the necessary consequences from
+factum proprium. Regardless of possible differences in the perception of
+the res judicata rule as regards its nature and effects, there remain the
+classic intrinsic conditions for the application of the rule in casu. And it
+is obvious, on the basis of the majority view itself, that one of the ele-
+ments — identity of the question at issue eadem res — is lacking, which
+automatically disqualifies the rule from application in relation to the
+1996 Judgment.
+
+  40. The judgment has been construed by inference, which, combined
+with a peculiar perception of the res judicata rule, is supposed to avert
+the necessary consequences of the Respondent’s lack of jus standi in the
+present case.
+  The main elements of the reasoning come down to the following :
+   The operative part of the 1996 Judgment saying that “on the basis of
+Article IX of the Convention on the Prevention and Punishment of
+the Crime of Genocide, [the Court] has jurisdiction to decide upon
+the dispute”, being res judicata, established the jurisdiction of the Court
+in casu
+      “with the full weight of the Court’s judicial authority. For a party to
+      assert today that, at the date the 1996 Judgment was given, the
+      Court had no power to give it, because one of the parties can now be
+      seen to have been unable to come before the Court is . . . to call in
+      question the force as res judicata of the operative clause of the Judg-
+      ment.” (Judgment, para. 123.)
+
+The fact that the Court has given no consideration to, let alone decided
+upon, the jus standi of the Respondent is of no significance, because it
+must be considered
+      “by necessary implication, to mean that the Court at that time per-
+      ceived the Respondent as being in a position to participate in cases
+      before the Court. On that basis, it proceeded to make a finding on
+      jurisdiction which would have the force of res judicata.” (Judgment,
+      para. 132.)
+  The reasoning arising by “necessary implication” continues, so that
+
+      “the express finding in the 1996 Judgment that the Court had juris-
+      diction in the case ratione materiae, . . . is a finding which is only
+
+
+                                                          uA)
+      consistent, in law and logic, with the proposition that, in
+      relation to both Parties, it had jurisdiction ratione personae in its
+      comprehensive sense, that is to say, that the status of each of them
+      was such as to comply with the provisions of the Statute concerning
+      the capacity of States to be parties before the Court” (Judgment,
+      para. 133).
+   The “necessary implication” underlying the reasoning referred to above
+is, in fact, an attempt to incorporate inferential judgment, or judgment by
+implication, into the sphere of judicial reasoning.
+
+   Given the very concept of judgment, i.e., that “[n]othing was stated in
+the 1996 Judgment about . . . whether it [the Federal Republic of Yugo-
+slavia] could participate in proceedings before the Court . . .” (Judgment,
+para. 122), the requirements relating to the content and structure of judg-
+ments, as laid down in Article 56, paragraph 1, of the Statute and Arti-
+cle 95, paragraph 1, of the Rules, the underlying legal considerations and,
+even common sense, the interpretation of the Judgment by inference is, at
+the very least, contradictio in adiecto. In particular, in relation to the
+issue of jus standi, which can by no means be said to be dependent on,
+or for that matter an aspect of, the issue of jurisdiction ratione
+personae which was formally decided. It is not only a distinct and
+autonomous issue but also one that determines objective limits of the
+judicial power of the Court, legality of its actions in terms of objective
+international law.
+
+
+   41. The wording of the Judgment suggests that the reason why the
+Court did not consider and decide upon jus standi of the Respondent was
+the position taken in that regard by Parties to the dispute, but particu-
+larly the Respondent.
+        “Nothing was stated in the 1996 Judgment about . . . the question
+      whether it [the FRY] could participate in proceedings before the
+      Court ; for . . . both Parties had chosen to refrain from asking for a
+      decision on these matters.” (Judgment, para. 122.)
+The Respondent raised seven preliminary objections, but “[n]one of these
+objections were however founded on a contention that the FRY was not
+a party to the Statute at the relevant time ; that was not a contention spe-
+cifically advanced in the proceedings on the preliminary objections”
+(Judgment, para. 106).
+   Owing to the nature of the issue of jurisdiction, the reason is not effec-
+tive as an excuse and has no legal effect in the matter at hand.
+
+   42. In view of the fact that “the establishment or otherwise of jurisdic-
+tion is not a matter for the parties but for the Court itself” (Fisheries
+Jurisdiction (Spain v. Canada), Jurisdiction of the Court, Judgment,
+
+
+                                                          uA)
+I.C.J. Reports 1998, p. 450, para. 37 ; also, separate opinion of Presi-
+dent McNair in the jurisdiction phase of the case concerning Anglo-
+Iranian Oil Co., in which he stated that “[a]n international tribunal
+cannot regard a question of jurisdiction solely as a question inter partes”
+(Preliminary Objection, Judgment, I.C.J. Reports 1952, p. 116)),
+the dispute between the parties as to the jurisdiction in the prelimi-
+nary objection phase is not a necessary condition for the Court to
+address the issue of jurisdiction and, a fortiori, the issue of jus
+standi.
+
+  Preliminary objections raised by a party are only a tool, a procedurally
+designed weapon for the establishment of the jurisdiction of the Court,
+suo nomine et suo vigore, for it is under an obligation to do so ex officio.
+The legal significance of proceedings on preliminary objections was
+defined by the Court in the case concerning Rights of Minorities in Upper
+Silesia (Minority Schools) (hereinafter referred to as “Minority Schools”
+as follows :
+     “the raising of an objection by one Party merely draws the attention
+     of the Court to an objection to the jurisdiction which it must ex offi-
+     cio consider” (Rights of Minorities in Upper Silesia (Minority
+     Schools), Judgment No. 12, 1928, P.C.I.J., Series A, No. 15, p. 23 ;
+     emphasis added).
+  Or, as stated by the Court in the Genocide Convention case :
+
+      “[t]he Court must, in each case submitted to it, verify whether it has
+      jurisdiction to deal with the case, . . . [s]uch objections as are raised
+      by the Respondent may be useful to clarify the legal situation” (Pre-
+      liminary Objections, Judgment, I.C.J. Reports 1996 (II), p. 622,
+      para. 46 ; emphasis added).
+
+   Accordingly, the establishment by the Court of its jurisdiction in casu
+is not necessarily linked with the dispute as to jurisdiction. If the Court is
+under a duty to verify its jurisdiction in each specific case whether or not
+there is a preliminary objection as such, then the pleadings of the parties
+in the proceedings are not a fortiori of decisive importance in that
+respect. If, as Shabtai Rosenne, commenting on the case concerning
+Monetary Gold Removed from Rome in 1943 (hereinafter referred to as
+“Monetary Gold”) says :
+
+      “[t]he fact that an objection is made does not mean — in the eyes of
+      the Court — that the Court is being asked not to determine the mer-
+      its of the claim under any circumstances” 22,
+
+  22 Shabtai Rosenne, The Law and Practice of the International Court, 1920-1996, 3rd
+
+ed., Vol. II, Jurisdiction, 1997, p. 863.
+
+
+                                                            uA)
+then the contrary is equally valid, i.e., that the Court is being asked not
+to determine the merits of the claim if an objection to the preliminary
+objection is not made. Extensive practice of the Court to this effect has
+been established.
+   The Court’s dictum in the case concerning the Appeal Relating to the
+Jurisdiction of the ICAO Council (hereinafter referred to as “ICAO
+Council”) may be taken as a synthesis of that practice : “[t]he Court must
+however always be satisfied that it has jurisdiction, and must if necessary
+go into that matter proprio motu” (Judgment, I.C.J. Reports 1972, p. 52,
+para. 13).
+   This is also reflected in the opinions of judges. In the case concerning
+Mavrommatis Palestine Concessions, Judge Moore in his dissenting
+opinion stated that “even though the Parties be silent, the tribunal, if it
+finds that competence is lacking, is bound of its own motion to dismiss
+the case” (Judgment No. 2, 1924, P.C.I.J., Series A, No. 2, p. 58) ; in the
+Minority Schools case, Judge Huber in his dissenting opinion found that
+the Court “must ex officio ascertain on what legal foundation it is to base
+its judgment upon the claims of the Parties” (Judgment No. 12, 1928,
+P.C.I.J., Series A, No. 15, p. 54) ; and in the case concerning the Free
+Zones of Upper Savoy and the District of Gex, Judge Kellogg pointed
+out in his observations attached to the Order of 6 December 1930
+that it was not necessary that the question of jurisdiction be raised
+by one of the parties, since “[i]t may and should be raised by the
+Court on its own initiative, as was done in the Eastern Carelia
+case” (Order of 6 December 1930, P.C.I.J., Series A, No. 24,
+p. 43).
+   43. As a questio juris 23, the jurisdiction of the Court is within the
+scope of the principle jura novit curia. In the case concerning Territorial
+Jurisdiction of the International Commission of the River Oder (herein-
+after referred to as “River Oder”) it was not until the oral proceedings
+that the Polish Government contended that the Barcelona Convention
+had not been ratified by Poland. The six Respondents asked the
+Court to reject the Polish contention a limine, for having been sub-
+mitted at such an advanced stage of the proceedings. The Court dismissed
+the objection as untenable for “[t]he fact that Poland has not ratified
+the Barcelona Convention not being contested, it is evident that the
+
+
+  23 “The existence of jurisdiction of the Court in a given case is ... not a question of fact,
+
+but a question of law to be resolved in the light of the relevant facts.” (Border and Trans-
+border Armed Actions (Nicaragua v. Honduras), Jurisdiction and Admissibility, Judg-
+ment, I.C.J. Reports 1988, p. 76, para. 16.) The question of the Court’s jurisdiction is
+
+      “necessarily an antecedent and independent one — an objective question of law —
+      which cannot be governed by preclusive considerations capable of being so expressed
+      as to tell against either Party — or both Parties” (Appeal Relating to the Jurisdiction
+      of the ICAO Council, Judgment, I.C.J. Reports 1972, p. 54, para. 16 (c)).
+
+
+
+                                                          uA)
+matter is purely one of law such as the Court . . . should examine
+ex officio” (Judgment No. 16, 1929, P.C.I.J., Series A, No. 23,
+p. 19).
+   Being bound by law, the Court is not bound by the arguments of the
+parties. This follows clearly from the principle jura novit curia addressed
+by the Court in its Judgments in the cases concerning Fisheries Jurisdic-
+tion (United Kingdom v. Iceland) and Fisheries Jurisdiction (Federal
+Republic of Germany v. Iceland) :
+
+        “The Court . . . as an international judicial organ, is deemed to
+      take judicial notice of international law, and is therefore required in
+      a case falling under Article 53 of the Statute, as in any other case, to
+      consider on its own initiative all rules of international law which
+      may be relevant to the settlement of the dispute . . . for the law lies
+      within the judicial knowledge of the Court.” (Merits, Judgment,
+      I.C.J. Reports 1974, p. 9, para. 17 ; ibid., p. 181, para. 18 ; emphasis
+      added.)
+
+The principle has also been confirmed in the Nicaragua case by a dictum :
+
+     “[f]or the purpose of deciding whether the claim is well founded in
+     law, the principle jura novit curia signifies that the Court is not solely
+     dependent on the argument of the parties before it with respect to
+     the applicable law” (Merits, Judgment, I.C.J. Reports 1986, p. 24,
+     para. 29 ; cf. “Lotus”, Judgment No. 9, 1927, P.C.I.J., Series A,
+     No. 10, p. 31).
+Consequently, the rule according to which a party seeking to assert a fact
+must bear the burden of proving it “has no relevance for the establish-
+ment of the Court’s jurisdiction” (Fisheries Jurisdiction (Spain v.
+Canada), Jurisdiction of the Court, Judgment, I.C.J. Reports 1998,
+p. 450, para. 37).
+   44. Accordingly, in these circumstances, in its 1996 Judgment the
+Court proceeded from the “assumption” that the FRY possessed the
+right to appear before the Court in accordance with the Statute
+(Judgment, para. 135).
+   That assumption “was an element in the reasoning of the 1996 Judgment
+which can — and indeed must — be read into the judgment as a matter
+of logical construction” (ibid.). It does not, however, follow that “that
+element is not one which can at any time be reopened and
+re-examined . . .” (ibid.).
+   The reasoning seems to fail to take into account the differences between
+legal assumptions (praesumptio juris) and judicial (praesumptio facti vel
+homine), into which category the “assumption” regarding the Federal
+Republic of Yugoslavia’s jus standi before the Court actually falls.
+
+
+
+                                                           uA)
+  Judicial presumption, along with legal presumption 24, is one of the
+main sorts of presumption in international law.
+  It means that a certain fact or state of affairs, even though it has not been
+proved, is taken by an international tribunal as truthful. As such it does
+not necessarily coincide with, or is not equivalent to, the fact or the state
+of affairs.
+
+   Considerations of a practical nature prevail in the rationale for the use
+of judicial presumption.
+   Judicial presumption is a tool used to preclude a long wait in discov-
+ering the full facts and exact situation on which depends the existence,
+content or cessation of the right where such protracted periods would
+have adverse consequences for the parties concerned or would impede the
+due course of legal proceedings.
+
+  45. As a sort of presumption, a judicial presumption has some specific
+features differentiating it from a legal presumption (praesumptio juris).
+
+  Two principal features of judicial presumption should be mentioned in
+this regard.
+   Primo, judicial presumption is, as a rule, a natural, factual presump-
+tion (praesumptio facti vel homine) having no basis in the particular
+rules that constitute the law of the international tribunal or the law it is
+applying. It is an inherent element of the legal reasoning of the interna-
+tional tribunal in interpreting and applying the rules of law.
+
+
+
+
+  24 Better known than judicial presumptions, legal presumptions (praesumptio juris) are
+
+widely applied in international law. International tribunals are used to resorting to proof
+by inferences of fact (présomption de fait) or circumstantial evidence (Corfu Channel,
+Merits, Judgment, I.C.J. Reports 1949, p. 18). For legal presumption in the practice of the
+Inter-American Court of Human Rights, see T. Buergenthal, R. Norris and D. Shelton,
+Protecting Human Rights in the Americas, Selected Problems, 2nd ed., 1986, pp. 130-132
+and pp. 139-144.
+
+   The practice of international courts abounds in presumptions based on general principles
+of international law, whether positive such as presumptions of good faith (exempli causa,
+Mavrommatis Jerusalem Concessions, Judgment No. 5, 1925, P.C.I.J., Series A, No. 5,
+p. 43) or negative such as presumptions of abuse of right (Certain German Interests in
+Polish Upper Silesia, Merits, Judgment No. 7, 1926, P.C.I.J., Series A, No. 7, p. 30 ; Free
+Zones of Upper Savoy and the District of Gex, Order of 6 December 1930, P.C.I.J.,
+Series A, No. 24, p. 12 ; Corfu Channel, Merits, Judgment, 1949, I.C.J. Reports 1949,
+p. 119 : dissenting opinion of Judge Ecer). They possess special weight in the interpreta-
+tion of treaties since the function of treaty interpretation is to discover “what was, or what
+may reasonably be presumed to have been, the intention of the parties to a treaty when
+they concluded it” (Harvard Law School, Research in International Law, Part III, Law of
+Treaties, Art. 19, p. 940 ; emphasis added).
+
+
+
+                                                         uA)
+  Secundo, in contrast to legal presumptions which can be irrefutable
+(praesumptio juris et de jure), judicial presumptions as natural or factual
+ones are, by definition, refutable. Their refutability is, however, specific in
+nature.
+
+  Given that it is a part of the reasoning of the international tribunal, a
+judicial presumption cannot be refutable in the same way that a legal pre-
+sumption can be. A judicial presumption, as such, is in fact capable of
+being abandoned or replaced by the international tribunal.
+
+   In its legal reasoning the international tribunal abandons it, or replaces
+it, by another presumption or established fact. In the strict sense, only
+those findings or decisions of the international tribunal that are based on
+legal presumptions are refutable. However, judicial presumptions lose the
+ratio of their existence when the international tribunal identifies the con-
+troversial matter in controversy which constitutes its object. They then
+fall away by themselves because they are deprived of their subject. But
+even then it is the duty of the international tribunal to refute, in the
+proper proceedings, its own finding or decision based on presumption.
+
+
+
+   Also, in contrast to a legal presumption, a judicial presumption is not,
+and by its effects cannot be equated with, a judicial finding of the Court,
+being its factual substitute. Hence, it cannot be considered that, by rely-
+ing on that particular presumption, the Court has taken a decision on the
+Respondent’s jus standi. Rather, the Court has done so factually as an
+element of its reasoning.
+
+
+  46. The rationale of judicial presumptions is provisionally to substi-
+tute for proven facts or circumstances in order to avert delay in identify-
+ing the exact facts and situations where such delay is likely to have
+adverse consequences for the parties to a dispute or to impede the due
+course of legal proceedings.
+
+  However, after the true facts and circumstances have been established,
+judicial presumptions should be abandoned and replaced by proven facts.
+A contrario, if a court of law stands by legal presumptions in preference
+to proven facts, it maintains a judicial fiction, its own truth, in the face of
+facts and situations in terms of law.
+
+  The Court is doing exactly this by clinging to the assumption about the
+Respondent’s jus standi, and the inextricably related issue of the Respon-
+dent’s membership in the United Nations in the period 1992-2000.
+
+
+
+
+                                                          uA)
+5. The effects of the 2004 Judgment
+
+   47. The question of the Respondent’s United Nations membership as
+determinative in regard to its jus standi before the Court, in the circum-
+stances surrounding the issue, seems, considering its being of a status
+nature, to have been solved by the Court’s Judgment in the Legality of
+Use of Force cases in 2004. Also, the majority holds the view that the
+FRY was admitted to the United Nations “as a new member in 2000”
+(Judgment, para. 109). However, the Court has not drawn from that fact,
+a fact of decisive jurisdictional significance in casu, necessary conse-
+quences regarding the jus standi of the Respondent. The reason for this
+has been found in the recognition of the Parties that these Judgments “do
+not constitute res judicata for the purposes of the present proceedings”
+(Judgment, para. 84). Two observations may be made in respect of this
+determination of the effects of the 2004 Judgments. Primo, the question
+of the effects of the Court’s judgments is a questio juris and, as such,
+within the ambit of the principle of jura novit curia signifying that the
+Court is not dependent on the agreement of the parties with respect to
+the applicable law. Secundo, the effects of a judgment are not fully
+exhausted by the rule of res judicata.
+
+
+   48. It is hardly necessary to say that the Court’s Judgment of 15 Decem-
+ber 2004 in the Legality of Use of Force cases does not produce the
+effects of res judicata in the present case, given that one of the intrinsic
+elements of the res judicata rule — eadem personae — is lacking. Bosnia
+and Herzegovina was not a party in the Legality of Use of Force cases.
+Consequently, it is not bound by the Court’s decision in those cases qua
+decision.
+   49. That is one point. The material effects of the 2004 Judgment on
+the case at hand are another. It is clearly established in the jurisprudence
+of the Court that the material effects of a decision of the Court are not
+necessarily limited to the case decided and therefore may, depending on
+circumstances, occasionally extend beyond it.
+
+  In the Aegean Sea case the Court stated inter alia :
+         “Although under Article 59 of the Statute ‘the decision of the
+      Court has no binding force except between the parties and in respect
+      of that particular case’, it is evident that any pronouncement of the
+      Court as to the status of the 1928 [General Act for the Pacific Set-
+      tlement of International Disputes], whether it were found to be a
+      convention in force or to be no longer in force, may have implica-
+      tions in relations between States other than Greece and Turkey
+      [Parties to the present proceedings].” (I.C.J. Reports 1978, pp. 17-
+      18, para. 39 ; emphasis added.)
+
+
+
+                                                             uA)
+A narrow interpretation of Article 59 simply does not fit into the corpus
+of the Court’s law25.
+   50. Accordingly, the real question in concreto is not whether there are
+material effects of the 2004 Judgment on the case at hand, but “whether,
+in this case, there is cause not to follow the reasoning and conclusions of
+earlier cases” (Land and Maritime Boundary between Cameroon and
+Nigeria (Cameroon v. Nigeria), Preliminary Objections, Judgment, I.C.J.
+Reports 1998, para. 28), or to treat the 2004 Judgment “as a statement of
+what the Court regarded as the correct legal position” (Temple of Preah
+Vihear (Cambodia v. Thailand), Preliminary Objections, Judgment, I.C.J.
+Reports 1961, p. 27) in the matter.
+
+   51. It appears not only that such cause does not exist, but that there
+are moreover several reasons why the Court should follow its earlier rea-
+soning, which inevitably leads to the conclusions adapted by the Court in
+its 2004 Judgment.
+
+  First of all, the relevant issue — was the Respondent a member of the
+United Nations at the material point in time and, as such, a party to the
+Statute of the Court — in the identical form, followed by identical legal
+consequences, is posed in both cases. The locus standi of Serbia and
+Montenegro in the present proceedings is, exactly as in the Legality of
+Use of Force cases, inextricably linked with membership in the
+United Nations, owing to the fact that Serbia and Montenegro could
+not be considered to be a party to the Statute on any basis other
+than membership in the United Nations, the fact that its locus standi
+cannot be based on the conditions set forth in Article 35, paragraph 2,
+of the Statute. As a rule, a given factual state and legal status
+occurring in two different cases demands equal treatment under
+
+
+  25   “If it is true that a Judgment of the Court is clothed with authority of res judicata
+       only in the case which has been decided, that would mean that if the lis concerns the
+       interpretation of a clause of a treaty, the interpretation given could be used again in
+       arguments in any future lis concerning the same clause of a treaty. Such a result
+       would not only be absurd ; it would put Article 59 in irreconcilable contradiction with
+       the last sentence of Article 63 of the same Statute, which provides that when a third
+       state intervenes in a case in which there is in question the construction of a multilat-
+       eral convention to which it and the States concerned in the case are parties, the con-
+       struction given by the Court will be equally binding on that state.” (Lighthouses
+       Arbitration (France v. Greece), Permanent Court of Arbitration, 23 ILR 81 at
+       86 (1956).)
+
+
+  Also, Judge Oda in his separate opinion in the Continental Shelf (Tunisia/Libyan Arab
+Jamahiriya), Application for Permission to Intervene), I.C.J. Reports 1981, p. 30, para. 14 ;
+Continental Shelf (Libyan Arab Jamahiriya/Malta), I.C.J. Reports 1984, dissenting
+opinion of Judge Jennings, pp. 157-160 ; ibid., dissenting opinion of Vice-President Sette-
+Camara, p. 87, para. 81 ; ibid., dissenting opinion of Judge Schwebel, p. 134, paras. 9-10).
+
+
+
+                                                             uA)
+the principles of consistency of judicial reasoning and equality before the
+Court.
+
+   Furthermore, the Court, by finding that “at the time of filing of its
+Application to institute . . . proceedings before the Court on 29 April 1999,
+the Applicant in the present case, Serbia and Montenegro, was not a
+Member of the United Nations” (Legality of Use of Force (Serbia and
+Montenegro v. Portugal), Preliminary Objections, Judgment, I.C.J.
+Reports 2004, p. 1195, para. 90), basically took judicial notice of a fact
+objectively established by the competent organs of the United Nations,
+which in the context of the case operated as a jurisdictional fact of deci-
+sive significance. United Nations General Assembly resolution 55/12 as
+such has created an objective legal status which is erga omnes in charac-
+ter. Even if we leave aside the binding force of resolution 55/12, that part
+of the Judgment of the Court concerning the determination of the status
+of Serbia and Montenegro vis-à-vis the United Nations in the relevant
+period of time remains none the less, by its nature, a declaratory judg-
+ment in rem producing conclusive effects at least as regards States parties
+to the Statute of the Court. As such, the Judgment cannot, in that part,
+be treated as a judgment in personam, having conclusive effects only
+between the parties to the case, because its subject matter is the status of
+Serbia and Montenegro both in relation to the United Nations itself and
+in relation to the Members of the United Nations.
+
+  52. Resolution 55/12 belongs to the species of United Nations General
+Assembly resolutions having a definitive and binding effect within the
+United Nations structure as a whole.
+           “Article 18 [of the Charter] deals with ‘decisions’ of the General
+        Assembly ‘on important questions’. These ‘decisions’ do indeed include
+        certain recommendations, but others have dispositive force and effect.
+        Among these latter decisions, Article 18 26 includes suspension of
+        rights and privileges of membership, expulsion of Members . . . In
+        connection with the suspension of rights and privileges of member-
+        ship and expulsion from membership under Articles 5 and 6, it is the
+        Security Council which has only the power to recommend and it is
+        the General Assembly which decides and whose decision determines
+        status.” (Certain Expenses of the United Nations (Article 17, Para-
+        graph 2, of the Charter), Advisory Opinion, I.C.J. Reports 1962,
+        p. 163 ; emphasis added.)
+
+
+  26   Article 18 of the Charter reads :
+         “2. Decisions of the General Assembly on important questions shall be made by a
+       two-thirds majority of the members present and voting. These questions shall
+       include : ... the admission of new Members to the United Nations, the suspension of
+       the rights and privileges of membership, the expulsion of Members ...”
+
+
+                                                          uA)
+   On the basis of Article 4, paragraph 2 of the Charter “The admission
+of any . . . State to membership in the United Nations will be effected by
+a decision of the General Assembly upon the recommendation of the
+Security Council” (emphasis added).
+   53. Lying within the exclusive competence of two principal political
+organs of the United Nations, the Security Council and the General
+Assembly, decisions on the admission of a State to the United Nations
+are a part of international law which “[the Court] . . . is bound to
+respect” (Questions of Interpretation and Application of the 1971 Mon-
+treal Convention arising from the Aerial Incident at Lockerbie (Libyan
+Arab Jamahiriya v. United Kingdom), Provisional Measures, Order of
+14 April 1992, I.C.J. Reports 1992, separate opinion of Judge Lachs,
+p. 26). In the system of functional parallelism, it must be assumed as a
+governing principle of relations between the principal organs of the
+United Nations that the “Court must co-operate in the attainment of the
+aims of the Organization and strive to give effect to the decisions of other
+principal organs and not to achieve results which would render them
+nugatory” 27.
+   The determination that the Respondent enjoyed the status of member
+as from 1 November 2004 became a part of the objective reality estab-
+lished in the United Nations structures as a whole. In a letter to the Presi-
+dent of the United Nations General Assembly, dated 27 December 2001,
+United Nations Secretary-General Kofi Annan stated :
+
+        “I have the honour to refer to General Assembly resolution 55/12
+      of 1 November 2000, in which the Assembly decided to admit the
+      Federal Republic of Yugoslavia to membership in the United
+      Nations. This decision necessarily and automatically terminated the
+      membership in the Organization of the former Yugoslavia, the State
+      admitted to membership in 1945.” 28
+  Under the heading “Historical Information on Multilateral Treaties
+Deposited with the Secretary-General” 29, it is stated expressis verbis that
+the “Yugoslavia” to which the Legal Counsel referred in his letter of
+29 September 1992 as the State whose membership in the Organization
+“the resolution neither terminates nor suspends”, was the former
+Yugoslavia, i.e., the Socialist Federal Republic of Yugoslavia, not the
+Federal Republic of Yugoslavia : “The Legal Counsel took the view,
+however, that this resolution of the General Assembly neither terminated
+nor suspended the membership of the former Yugoslavia in the United
+Nations.”
+
+
+  27 Shabtai Rosenne, The Law and Practice of the International Court, 1920-2005, 3rd
+
+ed., Vol. I, The Court and the United Nations, 1997, pp. 69-70.
+  28 United Nations doc. A/56/767 ; emphasis added.
+  29 See Historical Information, http ://untreaty.un.org/ENGLISH/bible/englishinternet-
+
+bible/historicalinfo.asp under the heading “former Yugoslavia”.
+
+
+                                                           uA)
+   It is also relevant that no State has objected to the legal opinion of the
+United Nations Legal Counsel referred to above, in contrast to the posi-
+tion of United Nations Member States with respect to the description of
+the Federal Republic of Yugoslavia as a predecessor State made in the
+“Summary of Practice of the Secretary-General as depositary of Multi-
+lateral Treaties” 30 ; in response to the objections raised, the Legal Coun-
+sel issued “Errata” 31 which, inter alia, deleted the description of the Fed-
+eral Republic of Yugoslavia as a predecessor State.
+
+   54. This fact taken per se evidences universal acceptance both by the
+Member States of the United Nations and by the organs of the Organiza-
+tion of the legal consequences of the admission of the Federal Republic
+of Yugoslavia to membership of the United Nations. The Court summa-
+rized these as follows :
+         “The Applicant [Serbia and Montenegro] thus has the status of
+       membership in the United Nations as from 1 November 2000. How-
+       ever, its admission to the United Nations did not have, and could
+       not have had, the effect of dating back to the time when the Socialist
+       Federal Republic of Yugoslavia broke up and disappeared ; there
+       was in 2000 no question of restoring the membership rights of the
+       Socialist Federal Republic of Yugoslavia for the benefit of the Fed-
+       eral Republic of Yugoslavia.” (Legality of Use of Force (Serbia and
+       Montenegro v. Belgium), Preliminary Objections, Judgment, I.C.J.
+       Reports 2004, p. 310, para. 78.)
+
+  55. This interpretation of the meaning of resolution 47/1 is not a new
+one. It should be noted that it was advocated in the literature as well. In
+an article entitled “The New United Nations and Former Yugoslavia”,
+Professor Rosalyn Higgins wrote :
+         “The Assembly did recommend that the new Federal Republic
+       (Serbia-Montenegro) should apply for membership of the United
+       Nations. But the resolution did not either suspend, or terminate,
+       Yugoslavia’s membership in the UN. The outcome has been anoma-
+       lous in the extreme. The seat and nameplate remain as before. The
+       old Yugoslav flag continues to fly on the 42nd Street. ‘Yugoslavia
+       remains a member of the UN, i.e., not Serbia and Montenegro, but
+       Yugoslavia in its entirety.’ ” 32
+
+
+   56. Although it limited itself in the dispositif to the determination of
+its jurisdiction to entertain the case, the Court essentially dealt, in the
+
+  30 ST/LEG.8, p. 89, para. 297.
+  31 United Nations doc. LA41TR/220.
+  32 69 International Affairs, 1993, p. 479 ; emphasis added.
+
+
+
+
+                                                            uA)
+reasoning part of the 2004 Judgment, with the question of the Federal
+Republic of Yugoslavia’s membership in the United Nations in the rele-
+vant time period. The Court’s finding that the Federal Republic of Yugo-
+slavia was not a member of the United Nations before its admission to
+the Organization in November 2000 was of fundamental importance in
+the circumstances surrounding the issue of the Court’s competence in
+casu.
+   57. The dispositif in the 2004 Judgment was not the result of the rea-
+soning by the Court in selecting among alternatives or choosing one of
+several different interpretations for which the relevant jurisdictional fact
+would provide a motive ; it was the unavoidable result of the Federal
+Republic of Yugoslavia’s non-membership status in the United Nations
+or, in other words, a kind of judicial notice of the fact established by the
+principal political organs in the exercise of their exclusive competence
+under the United Nations Charter, which, in the circumstances of the
+present case, operates as the jurisdictional fact of decisive importance.
+
+   Resolutions of the United Nations General Assembly, like resolu-
+tion 55/12, create an objective legal situation, a status with erga omnes
+effects. This fact is reflected in the effects of the Judgments of the Court
+by which such a status is established ad casum.
+   58. Judgments of the Court on the status issue, in their effect ratione
+personae, cannot, unlike other judgments, be limited to the Parties to a
+dispute. Their material effects surpass the effects of the judgment defined
+in Article 60 of the Statute. By the very nature of their object, judgments
+on status issues, which do not allow for uncertainty and insecurity, act
+intra partes. The effect of a judgment on status, i.e., the creation of an
+objective legal situation (situation légale objective) 33, is incorporated in
+the national laws of civilized nations 34.
+
+   However, this is not a question of the technical effect, under Article 59
+of the Statute, of judgments on status issues intra partes but a question of
+the material, reflective effect of such judgments on third States. It is bind-
+ing erga omnes not as a judicial act in the formal sense, but as a result of
+its intrinsic persuasive force, in parallel with the mandatory force of the
+judgment in the technical sense, based on the presumption of truthful-
+ness — pro veritate accipitur — which must, in questions of status, as
+absolute law, have universal effect. This is especially valid for judgments
+of the Court, like the Judgment in the Legality of Use of Force cases,
+
+
+  33 Dugguit, Traité de droit constitutionnel, 1923, Vol. II.
+  34 For instance, the novel Article 311 of the Code civil (law of 1972), see Vincent,
+op. cit., p. 108, No. 79 ; in Italian law it is traditionally considered that decisions on status
+matters act erga omnes — for examples of judgments by Italian courts, see Pugliese,
+op. cit., p. 888 ; British law has, in that sense, the special notion “judgments in rem” (see
+Bower, Turner and Handley, “The Doctrine of Res Judicata”, 1965, pp. 213 et seq.).
+
+
+
+                                                          uA)
+which, basically, merely gives judicial confirmation to the status conclu-
+sively determined by the competent organs of the United Nations (see
+Judgment, paras. 88 et seq.).
+
+   59. It seems crystal clear that the Respondent’s jus standi in casu
+is, as in the Legality of Use of Force cases, organically linked
+to its membership in the United Nations owing to the fact that
+the Respondent could not be considered to be a party to the Statute
+on any basis apart from that of being a Member State of the United
+Nations and to the fact that its jus standi cannot be based on the
+conditions set forth in Article 35, paragraph 2, of the Statute of the
+Court.
+   The majority approach to this “twin” issue is truly astonishing.
+
+  On the one hand, it is recognized that “in 1999 — and even more so in
+1996 — it was by no means so clear as the Court found it to be in 2004
+that the Respondent was not a Member of the United Nations” (Judg-
+ment, para. 131 ; emphasis added).
+
+  On the other,
+      “as a matter of law, no possibility that the Court might render ‘its
+      final decision with respect to a party over which it cannot exercise
+      its judicial function’, because the question whether a State is or is
+      not a party subject to the jurisdiction of the Court is one which is
+      reserved for the sole and authoritative decision of the Court . . . the
+      operation of the ‘mandatory requirements of the Statute’ falls to be
+      determined by the Court in each case before it ; and once the
+      Court has determined, with the force of res judicata, that it has
+      jurisdiction, then for the purposes of that case no question of ultra
+      vires action can arise, the Court having sole competence to
+      determine such matters under the Statute” (Judgment, paras. 138
+      and 139).
+   The reasoning suggests that quidquid judicii placuit, habet legis vig-
+orem. It reflects the anachronistic and totally unacceptable idea that the
+Court is not the guardian but the creator of legality and, in fact, that the
+Court makes decisions independently from objective law established by
+its Statute.
+   It nolens volens leads to the creation of the Court’s own, judicial reality
+in contrast to the objective legal one, producing a proper judicium illu-
+sorum.
+   The erroneous perception of the res judicata rule embodied in this
+Judgment gives rise to an absurd ambivalence in respect of the Respon-
+dent’s status in the United Nations.
+
+   In contrast to the erga omnes effects of General Assembly resolu-
+tion 55/12, the Court’s Judgment is, as provided by Article 59 of the Stat-
+
+
+                                                         uA)
+ute, binding only on the Parties to the case. This logically means that in
+the context of the dispute before the Court the Respondent is considered,
+at least tacitly, to have been a United Nations member in the period
+1992-2000 as far as the Court and the Applicant are concerned, whereas
+for the Organisation itself it was not a member and even for Bosnia and
+Herzegovina, it was not a member in respect of any other matter than
+this case itself. In addition, in the eyes of the Court, the Respondent is
+considered a member of the United Nations in the present case and a
+non-member in the Legality of Use of Force cases.
+
+
+   60. The pronouncement that “in 1999 — and even more so in 1996 —
+it was by no means so clear then as the Court found it to be in 2004 that
+the Respondent was not a Member of the United Nations”, opens a very
+unpleasant question of the activity of the Court in the present case in the
+light of the principle of bona fidae which, as a peremptory one, is at least
+equally valid for the Court as it is for States.
+
+   If, for more than a decade, it was so clear to the Court that the
+Respondent was not a Member of the United Nations, and the quality of
+being a Member of the United Nations is the only basis on which the
+Respondent could have been considered a party to the Statute
+of the Court, it follows that the Court deliberately avoided
+recognizing the jurisdictional fact affecting the very legality of the
+totality of its actions in casu. Such a conduct of the Court could be
+termed judicial arbitrariness, close or in the zone of abuse of judicial
+power of the Court rather than judicial discretion resulting in judicial
+indecision.
+
+6. 1992 Declaration
+
+   61. In its 1996 Judgment, the Court found jurisdiction ratione perso-
+nae in the formal Declaration of 27 April 1992 adopted by the partici-
+pants of the Joint Session of the SFRY Assembly, the National Assembly
+of the Republic of Serbia and the Assembly of the Republic of Montene-
+gro. The Court perceived it as a unilateral act that produces legal conse-
+quences relevant as regards its jurisdiction ratione personae. This deter-
+mination appears dubious and, it seems to me, requires reconsideration
+in the light of the relevant rules of international law and the jurispru-
+dence of the Court, respectively. Namely, reconsideration not only as
+regards the presumption of the legal identity and continuity of the
+Respondent with the SFRY, which proved unacceptable by the interna-
+tional community and served as the basis for the finding of the Court, but
+also as regards the characterization of the nature and effects of the
+Declaration.
+
+
+
+                                                           uA)
+   62. Did the Declaration adopted on 27 April 1992 meet the relevant
+requirements to be considered as a unilateral act producing legal conse-
+quences ?
+   63. It seems obvious that the issue of an act by a single state cannot by
+itself qualify as a unilateral act capable of producing legal effects in foro
+externo. The unilateral nature of an act is but one extrinsic element
+which, when coupled with other elements, both extrinsic and intrinsic,
+forms a unilateral legal act in terms of international law.
+
+   64. In the circumstances of the case at hand a number of elements are
+of special relevance. The primary extrinsic element concerns the capacity
+of the participants in the Joint Session of the SFRY Assembly, the
+National Assembly of the Republic of Serbia and the Assembly of the
+Republic of Montenegro to perform unilateral acts in the sense of inter-
+national law. The Joint Session of the SFRY Assembly, the National
+Assembly of the Republic of Serbia and the Assembly of the Republic of
+Montenegro was not constituted as the Parliament of the Federal Repub-
+lic of Yugoslavia ; rather it was a body of representatives in statu nas-
+cendi. Even if, arguendo, it represented the Parliament, it was obviously
+not a State organ possessing the capacity to perform unilateral acts on
+behalf of the State. Representatives of a State for purposes of formulat-
+ing unilateral legal acts are heads of State, heads of Government and
+ministers of foreign affairs 35. The rule has also been confirmed in the
+jurisprudence of the Court (Legal Status of Eastern Greenland, Judg-
+ment, 1933, P.C.I.J., Series A/B, No. 53, p. 22). Consequently, it appears
+that the Declaration, if designed as a unilateral legal act in foro externo,
+was issued by an incompetent organ under international law and, as
+such, produced no legal effects 36.
+
+
+
+   65. True, the Declaration, as the Court found, “was confirmed in an
+official Note of 27 April 1992 from the Permanent Mission of Yugoslavia
+to the United Nations, addressed to the Secretary-General.” (I.C.J.
+Reports 1996 (II), p. 610, para. 17) The word “confirmed” in the present
+context may have two meanings : a descriptive one in the sense that the
+letter from the Permanent Representative reproduced the text of the Dec-
+laration and a meaning as a “terminus technicus”, signifying confirma-
+tion of a unilateral act of an unauthorized State organ. Neither of these
+two possible meanings of the word “confirmed” can be accepted in con-
+
+
+   35 Art. 4, Report on Unilateral Acts of States, Yearbook of the International Law Com-
+
+mission (YILC), 1998, II, Part One, doc. A/CN.4/486 ; United Nations doc. A/CN.4/500
+and Add.1.
+   36 See Article 4 (Subsequent confirmation of an act formulated by a person not author-
+
+ized for that purpose) in the Third Report of the Special Rapporteur, YILC, 2000, I,
+p. 96.
+
+
+                                                             uA)
+creto. In respect of the descriptive meaning of the word “confirmed”, it is
+obvious that the letter from the Permanent Representative 37 reproduces
+the text of the Declaration only in part, i.e., citing only a small part
+thereof relating exclusively to legal identity and continuity.
+   By definition, the limited powers held by heads of permanent missions
+to international organizations, including permanent missions to the
+United Nations, negate the possibility of the official Note of the Perma-
+nent Mission of Yugoslavia of 27 April 1992 being understood as “con-
+firmation” of an act issued by an organ — if at the material point in time
+it was an organ — incompetent under international law to perform legal
+acts on behalf of the State.
+
+   66. Hence, the proper characterization of the Note of the Yugoslav
+Permanent Mission of 27 April 1992 is that of a transmission of the Dec-
+laration followed by the corresponding reproduction of a part of the
+Declaration directly connected with the Federal Republic of Yugoslavia’s
+proclaimed legal identity with and continuation of the former SFRY vis-
+à-vis the United Nations.
+   67. This characterization of the Note of the Yugoslav Permanent Mis-
+sion suggests that the Declaration of 27 April 1992 and the Note of the
+Permanent Mission are two distinct, yet not totally separate, acts, both
+by their nature and by their effects. For its part, the Declaration is basi-
+cally a general statement of policy with respect to matters directly or indi-
+rectly connected with the issue of the proclaimed legal identity and State
+continuity of the Federal Republic of Yugoslavia, while the Note seems
+to be primarily a notification in the standard sense. Evidence to this effect
+is found in the fact that the addressee of the Note was the Secretary-
+General, who was requested to circulate the Declaration and the Note as
+an official document of the General Assembly 38, whereas the Declaration
+as such was addressed urbi et orbi.
+
+
+
+  37   The text of the letter reads :
+          “The Assembly of the Socialist Federal Republic of Yugoslavia, at its session held
+       on 27 April 1992, promulgated the Constitution of the Federal Republic of Yugosla-
+       via. Under the Constitution, on the basis of the continuing personality of Yugoslavia
+       and the legitimate decisions by Serbia and Montenegro to continue to live together
+       in Yugoslavia, the Socialist Federal Republic of Yugoslavia, consisting of the
+       Republic of Serbia and the Republic of Montenegro. Strictly respecting the
+       continuity of the international personality of Yugoslavia, the Federal Republic of
+       Yugoslavia shall continue to fulfil all the rights conferred to, and obligations
+       assumed by, the Socialist Federal Republic of Yugoslavia in international relations,
+       including its membership in all international organizations and participation in
+       international treaties ratified or acceded to by Yugoslavia.” (United Nations
+       doc. A/46/915, Ann. I.)
+
+
+  38   United Nations doc. A/46/915.
+
+
+                                                          uA)
+  68. Several intrinsic elements of the Declaration merit attention in this
+particular context : its scope ratione materiae, the intention of the author
+of the Declaration and its possible effects.
+  69. As regards its scope ratione materiae, the Declaration covers sev-
+eral different matters.
+  The Declaration reads as follows :
+         “The representatives of the people of the Republic of Serbia and
+      the Republic of Montenegro,
+         Expressing the will of the citizens of their respective Republics to
+      stay in the common state of Yugoslavia,
+         Accepting all basic principles of the Charter of the United
+      Nations and the CSCE Helsinki Final Act and the Paris Charter,
+      and particularly the principles of parliamentary democracy,
+      market economy and respect for human rights and the
+      rights of national minorities,
+
+         Remaining strictly committed to a peaceful resolution of the Yugo-
+      slav crisis,
+         Wish to state in this Declaration their views on the basic, imme-
+      diate and lasting objectives of the policy of their common state, and
+      on its relations with the former Yugoslav Republics.
+         In that regard, the representatives of the people of the Republic of
+      Serbia and the Republic of Montenegro declare :
+      1. The Federal Republic of Yugoslavia, continuing the state, inter-
+          national legal and political personality of the Socialist Federal
+          Republic of Yugoslavia, shall strictly abide by all the commit-
+          ments that the SFR of Yugoslavia assumed internationally.
+
+            At the same time, it is ready to fully respect the rights and
+         interests of the Yugoslav Republics which declared independ-
+         ence. The recognition of the newly-formed States will follow after
+         all the outstanding questions negotiated on within the Confer-
+         ence on Yugoslavia have been settled,
+
+            Remaining bound by all obligations to international organiza-
+         tions and institutions whose member it is, the Federal
+         Republic of Yugoslavia shall not obstruct the newly-formed
+         States to join these organizations and institutions,
+         particularly the United Nations and its specialized agencies.
+         The Federal Republic of Yugoslavia shall respect and
+         fulfil the rights and obligations the SFR of Yugoslavia
+         assumed vis-à-vis the territories of Krajina which have
+         been placed, within the framework of the United Nations
+         peace-keeping operation, under the protection of the world
+         Organization.
+
+
+                                                          uA)
+            The Federal Republic of Yugoslavia also remains ready to
+         negotiate, within the Conference on Yugoslavia, all problems
+         related to the division of assets, which means both to assets and
+         debts acquired jointly. In case of a dispute regarding these issues,
+         the Federal Republic of Yugoslavia shall be ready to accept the
+         arbitration of the Permanent Court of Arbitration in the Hague.
+      2. The diplomatic and consular missions of the Federal Republic of
+         Yugoslavia abroad shall continue without interruption to per-
+         form their functions of representing and protecting the interests
+         of Yugoslavia. Until further notice, they shall continue to take
+         care of all the assets of Yugoslavia abroad. They shall also extend
+         consular protection to all nationals of the SFR of Yugoslavia
+         whenever they request them to do so until a final regulation of
+         their nationality status. The Federal Republic of Yugoslavia rec-
+         ognizes, at the same time, the full continuity of the representation
+         of foreign states by their diplomatic and consular missions in its
+         territory.
+
+
+      3. The Federal Republic of Yugoslavia is interested in the reinstate-
+         ment of economic, transport, energy and other flows and ties in
+         the territory of the SFR of Yugoslavia. It is ready to make its full
+         contribution to that end.
+
+      4. The Federal Republic of Yugoslavia has no territorial aspirations
+         towards any of its neighbours. Respecting the objectives and
+         principles of the United Nations Charter and CSCE documents,
+         it remains strictly committed to the principle of nonuse of force in
+         settling any outstanding issues.
+      5. The Federal Republic of Yugoslavia shall ensure the highest
+         standards of the protection of human rights and the rights of
+         national minorities provided for in international legal instru-
+         ments and CSCE documents. In addition, the Federal Republic
+         of Yugoslavia is ready to grant the national minorities in its ter-
+         ritory all those rights which would be recognized to and enjoyed
+         by the national minorities in other CSCE participating States.
+
+      6. In its foreign relations, the Federal Republic of Yugoslavia shall
+         be guided by the principles of the United Nations Charter, as well
+         as the principles of CSCE documents, particularly the Paris Char-
+         ter for New Europe. As the founding member of the Movement
+         of non-aligned countries, it shall remain committed to the prin-
+         ciples and objectives of the policy of nonalignment.
+
+            It shall develop relations of confidence and understanding with
+         its neighbours proceeding from the principle of good neighbour-
+
+
+                                                            uA)
+          liness. The Federal Republic of Yugoslavia shall, as a State of
+          free citizens, be guided in its democratic development by the
+          standards and achievements of the Council of Europe, the Euro-
+          pean Community and other European institutions, with an ori-
+          entation to join them in the foreseeable future.” (United Nations
+          doc. A/46/915, Ann. I ; emphasis added.)
+   It appears that, if viewed in isolation, only a part of the Declaration —
+the extension of “consular protection to all nationals of the SFR of
+Yugoslavia” — is capable per se of producing, certain effects, under cer-
+tain conditions. Although not addressed to third States, it can, in a
+broader context, be subsumed under the “power of auto-limitation which
+States enjoyed under international law, in other words, their ability in the
+exercise of their sovereignty to subject themselves to international legal
+obligations” 39.
+
+   In the part of the Declaration concerning “commitments that the
+SFRY assumed internationally”, which is relevant for the assessment as
+to whether the Federal Republic of Yugoslavia could be considered
+bound by the Genocide Convention, things are, however, fundamentally
+different.
+
+   70. Can the formulation “shall strictly abide by all the commit-
+ments . . .” as such be understood as consent by the Federal Republic of
+Yugoslavia to be bound by the Genocide Convention? That interpreta-
+tion appears totally erroneous in the light of the rule of interpretation of
+unilateral legal acts accepted in the Court’s jurisprudence. Where uni-
+lateral acts of States are to be interpreted, “declarations . . . are to be
+read as a whole” and “interpreted as a unity” (Fisheries Jurisdiction
+(Spain v. Canada), Jurisdiction of the Court, Judgment, I.C.J. Reports
+1998, pp. 452-454, paras. 47 and 44). Further, unilateral acts “must be
+interpreted as [they stand], having regard to the words actually used.”
+(Anglo-Iranian Oil Co., Preliminary Objection, Judgment, I.C.J. Reports
+1952, p. 105).
+
+   The intention of the author of the Declaration is of key concern, since
+“[w]hen it is the intention of the State making the declaration that it
+should become bound according to its terms, that intention confers on the
+declaration the character of a legal undertaking” (Nuclear Tests (Aus-
+tralia v. France, Judgment, I.C.J. Reports 1974, p. 267, para. 43 ; Nuclear
+Tests (New Zealand v. France), Judgment, I.C.J. Reports 1974, p. 472,
+para. 46 ; Frontier Dispute, Judgment, I.C.J. Reports 1986, pp. 573-574,
+paras. 39-40 ; emphasis added). When States “make statements by which
+their freedom of action is to be limited, a restrictive interpretation is
+
+ 39   V. Rodrigues Cedeno, Special Rapporteur, YILC, 1998, II, Part Two, p. 53, para. 140.
+
+
+
+                                                          uA)
+called for” (Nuclear Tests (Australia v. France), Judgment, I.C.J. Reports
+1974, p. 267, para. 44 ; Nuclear Tests (New Zealand v. France), Judg-
+ment, I.C.J. Reports 1974, pp. 472-473, para. 47 ; emphasis added).
+   71. In the light of the rules of construction of unilateral legal acts, the
+question naturally arises whether the Federal Republic of Yugoslavia
+had the intention to assume obligations ex foro externo by the Declara-
+tion.
+   72. If the Declaration is read as a whole and interpreted as a unity, the
+answer must, it seems, be in the negative. It is set out in the introduction
+part that the participants in the Joint Session of the SFRY Assembly, the
+National Assembly of the Republic of Serbia and the Assembly of the
+Republic of Montenegro “wish to state in this Declaration their views on
+the basic, immediate and lasting objectives of the policy of their common
+state and its relations with the former Yugoslav Republics” (emphasis
+added). Statements of policy objectives are rarely found in the sphere of
+international law. In the Nicaragua case the Court, considering the issue
+as to whether any legal undertaking could be inferred from communica-
+tions from the Junta of the Government of National Reconstruction of
+Nicaragua to the Secretary-General of the Organization of American
+States accompanied by the “Plan to secure peace”, found inter alia :
+
+
+         “This was an essentially political pledge, made not only to the
+      Organization, but also to the people of Nicaragua, intended to be its
+      first beneficiaries. . . . This part of the resolution is a mere statement
+      which does not comprise any formal offer which if accepted would
+      constitute a promise in law, and hence a legal obligation.” (Military
+      and Paramilitary Activities in and against Nicaragua (Nicaragua v.
+      United States of America), Merits, Judgment, I.C.J. Reports 1986,
+      p. 132, para. 261 ; emphasis added.)
+
+Furthermore, if, ex hypothesi, the participants had intended the Declara-
+tion to produce legal effects, these effects would have been expressed as
+the confirmation or safeguarding of existing rights and obligations rather
+than as the assumption of obligations pro futuro. The interpretation of
+the Declaration “according to its own terms” “as they stand” inevitably
+leads to the conclusion, as also inferred by the Court itself, that the inten-
+tion was “to remain bound by international treaties to which the former
+Yugoslavia was a party” (I.C.J. Reports 1996, p. 610, para. 17 ; emphasis
+added). And that pursuant to both legal considerations and the Declara-
+tion itself means the Federal Republic of Yugoslavia’s legal identity and
+continuity with the former SFRY. If, on the other hand, legal identity
+and continuity was a condition on which depended the status of the Fed-
+eral Republic of Yugoslavia as a party to multilateral conventions,
+including the Genocide Convention, another highly relevant question
+emerges : namely, is the Declaration as such capable of producing legal
+
+
+                                                           uA)
+effects without having been accepted, expressly or tacitly, by other inter-
+national subjects, including the United Nations ?
+
+
+   Obviously not, because declarations, like other unilateral acts, used to
+carry out obligations in relation to treaties, are governed by the law of
+treaties as applied to the particular convention. In general, unilateral
+legal acts as such, being self-contained, are not in the nature of synallag-
+matic obligations which form the substance of treaties.
+
+  73. The Convention on the Prevention and Punishment of the Crime
+of Genocide (1948) stipulates in Article XI :
+
+        “The present Convention shall be open until 31 December 1949
+      for signature on behalf of any Member of the United Nations and of
+      any non-member State to which an invitation to sign has been
+      addressed by the General Assembly.
+        The present Convention shall be ratified, and the instruments of
+      ratification shall be deposited with the Secretary-General of the
+      United Nations.
+        After 1 January 1950, the present Convention may be acceded
+      to on behalf of any Member of the United Nations and of
+      any non-member State which has received an invitation as
+      aforesaid.
+        Instruments of accession shall be deposited with the Secretary-
+      General of the United Nations.”
+
+  It would appear that ratification and accession are the sole means of
+expressing consent to be bound by the Convention. Article XI expresses
+the intention of the authors of the Convention :
+
+         “The Secretariat’s draft provided as an alternative solution acces-
+      sions only, on the theory that the approval of the Convention by the
+      representatives of the governments in the General Assembly may
+      obviate the necessity for signature. The ad hoc Committee, however,
+      preferred the usual procedure of signature followed by ratification,
+      for the original members.” 40
+
+  74. It appears that the Court in addition strongly relied on the finding
+that : “it has not been contested that Yugoslavia was party to the
+Genocide Convention” (I.C.J. Reports 1996, p. 610, para. 17).
+However, that finding does not seem convincing in the light
+of the legal nature of the issue of jurisdiction (see paras. 41-44
+above).
+
+ 40   N. Robinson, The Genocide Convention, 1949, p. 47.
+
+
+                                                         uA)
+7. The issue of the respondent Party
+  Serbia has been designated as the respondent Party on the basis of two
+premises :
+ (i) the status of Serbia as the continuing State vis-à-vis the State Union
+     of Serbia and Montenegro ; and
+(ii) the view that the Republic of Montenegro as the successor State is
+     ipso facto relinquished of any form of delictual responsibility.
+However, neither one of these two premises has been applied consist-
+ently.
+   As regards the first premise, it seems clear that Serbia is the legal con-
+tinuator of the State Union of Serbia/Montenegro. A delicate question,
+not even touched upon by the Judgment, is that of the legal status of Ser-
+bia and Montenegro from 2000 onwards.
+
+  75. At the end of the year 2000 the FRY, acting in the appropriate
+context, did two things :
+ (i) renounced the continuity claim and accepted the status of successor
+     State to the former SFRY ; and
+(ii) proceeding on the bases of this new capacity — as the successor
+     State — submitted an application for admission to membership in
+     the United Nations.
+ 76. The State, as a notion of international law, comprises two ele-
+ments, i.e., has two facets :
+ (i) statehood in the sense of the relevant attributes such as a defined ter-
+     ritory, a stable population and sovereign power ;
+(ii) legal personality, i.e., status as a subject of international law equipped
+     with a corpus of rights and obligations. In the light of the relevant
+     circumstances, the legal personality of the Federal Republic of Yugo-
+     slavia can be either inferential and derivative in nature — based on
+     legal identity with and continuation of the Socialist Federal Republic
+     of Yugoslavia — or inherent and original in nature — based on
+     status as a new State.
+   77. By submitting an application for admission to membership in the
+United Nations, Yugoslavia not only renounced the claim to legal iden-
+tity and continuity ; it sought at the same time to be recognized as a new
+State, one with a different legal personality — a successor State as
+opposed to the partial continuation of the former Socialist Federal
+Republic of Yugoslavia — from the one claimed until the year 2000. In
+fact, it accepted the claim qualified as the claim put forward by the inter-
+national community when the Federal Republic of Yugoslavia was for-
+mally proclaimed in April 1992. A claim which the relevant international
+organizations and States, acting individually or in corpore as members of
+organizations, did not however implement either formally or substan-
+tively. Instead, they opted for solutions based on pragmatic political con-
+
+
+                                                         uA)
+siderations rather than on considerations under international law. Thus
+arose a legal “Rashomon” as to Yugoslavia’s juristic character — was it
+a new State or the old State ? And as to its status in the United Nations —
+was it a Member of the United Nations or not ?
+
+
+   78. Yugoslavia’s admission to membership of the United Nations
+from 1 November 2000 also meant acceptance of its claim to recognition
+as a new State, in the sense of a new international personality different
+from its controversial, hybrid personality in the period 1992-2000. The
+claim was accepted by way of a series of collateral agreements in simpli-
+fied form, or a general collateral agreement in simplified form, between
+the Federal Republic of Yugoslavia, on the one hand, and the Member
+States of the United Nations and the world Organization itself, on the
+other, embodied tacitly in the letter and spirit of General Assembly reso-
+lution 55/12 and subsequent consistent practice of the Organization
+(exempli causa, the letter of the Under-Secretary-General and Legal
+Counsel of the United Nations of 8 December 2000 and the list of Mem-
+ber States with the dates of their admission to the United Nations
+(United Nations Press Release ORG/1317 updated 18 December 2000).
+The subject of the series of collateral agreements, or of the general col-
+lateral agreement, is in fact recognition of the Federal Republic of Yugo-
+slavia as a new personality, a personality being the successor State of the
+former SFRY, and its admission in that capacity to the world Organiza-
+tion as a Member. Thus, Yugoslavia, although the “old State” in the
+statehood sense, was universally recognized as a “new State” in the sense
+of its international legal personality. In view of the fact that recognition
+of a State has ex definitione retroactive effect, it necessarily follows that
+all pronouncements and decisions taken relate to the FRY claiming con-
+tinuity with the SFRY. And, as the Federal Republic of Yugoslavia after
+the year 2000, its legal existence as a new international legal personality
+started in November 2000 with its admission to membership of the
+United Nations.
+
+
+
+   The second premise, on the other hand, has not been consistently fol-
+lowed in relation to the Republic of Montenegro. It has been applied to
+parts of the Judgment, but not to the Judgment as a whole. Thus, the
+Republic of Montenegro must immediately take effective steps to ensure
+full compliance with its obligation under Articles I and VI of the Conven-
+tion on the Prevention and Punishment of the Crime of Genocide to pun-
+ish acts of genocide as defined by Article II of the Convention, or any of
+the other acts proscribed by Article III of the Convention, and to transfer
+individuals accused of genocide or any of those other acts for trial by the
+International Criminal Tribunal for the former Yugoslavia, and to co-
+operate fully with the Tribunal. Incidentally, this fact, too, could be taken
+
+
+                                                          uA)
+as evidence of oversensitivity to the factual and political aspect of the
+whole matter.
+
+
+                          PART II. SUBSTANTIVE ISSUES
+
+                 I. Genocide Convention as Applicable Law
+
+1. Genocidal intent as conditio sine qua non of the crime of genocide
+
+
+   79. A genocidal act can exist only under conditions defined by the
+body of law established by the Convention. Acts enumerated in Arti-
+cle II, in subparagraphs (a) to (e), are not genocidal acts in themselves,
+but only the physical or material expression of specific, genocidal intent.
+In the absence of a direct nexus with genocidal intent, acts enumerated in
+Article II of the Convention are simply punishable acts falling within the
+purview of other crimes, exempli causa war crimes or crimes against
+humanity.
+
+   80. Genocide as a distinct crime is characterized by the subjective ele-
+ment — intent to destroy a national, ethnical, racial and religious group
+as such — an element which represents the differentia specifica distin-
+guishing genocide from other international crimes with which it shares
+substantially the same objective element 41. In the absence of that intent,
+whatever the degree of atrocity of an act and however similar it might be
+to the acts referred to in the Convention, that act can still not be called
+genocide 42.
+   81. It appears that four elements are distinguishable within genocidal
+intent : (a) the degree of the intent ; (b) destruction ; (c) a national, eth-
+nical, racial or religious group ; (d) in whole or in part.
+   Although separate, the four elements make up a legal whole character-
+izing in their cumulative effect, genocidal intent as the subjective element
+of the crime of genocide. The absence of any of them disqualifies the
+intent from being genocidal in nature. As a legal unity, these elements,
+taken in corpore, demonstrate that genocidal intent is not merely some-
+thing added to physical acts capable of destroying a group of people. It is
+an integral, permeating quality of these acts taken individually, a quality
+that transforms them from simple punishable acts into genocidal acts. In
+
+   41 N. Robinson, The Genocide Convention, 1949, p. 15 ; Drost, Genocide, II, 1959,
+
+p. 82 ; Study of the Question of the Prevention and Punishment of the Crime of Genocide,
+prepared by N. Ruhashyankiko, Special Rapporteur, doc. E/CN.4, Sub.2/416, 4 July 1978,
+para. 96 ; Revised and Updated Report on the Question of the Prevention and Punishment
+of the Crime of Genocide, prepared by Mr. B. Whitaker, doc. E/CN.4/Sub.2/1985/6
+(2 July 1985), paras. 38-39.
+   42 Official Records of the General Assembly, Third Session, Part I, Sixth Committee,
+
+69th meeting.
+
+
+                                                           uA)
+other words, such intent is a qualitative feature of genocide distinguish-
+ing it from all other crimes, indeed its constituent element stricto sensu.
+
+
+   82. Genocidal intent is genuine in nature. It is not simply a guilty
+mind, but a mind guilty of destruction of a religious, ethnic, national or
+racial group as such. The distinguishing feature of genocidal intent is not
+that it is discriminatory because that is only its most general character-
+istic shared with, for instance, crimes against humanity. But, whereas in
+the case of persecution, an act of crime against humanity, discriminatory
+intent can take multifarious inhumane forms and manifest itself in a mul-
+tiplicity of actions, including murder, in the case of genocide, an extreme
+and the most inhumane form of persecution, that intent must be accom-
+panied by the particular intent to destroy in whole or in part the group to
+which the victims belong 43. “Mens rea” in the realm of the crime of geno-
+cide is complex and must not be reduced to the standard form of mens
+rea required for criminal offences. It encompasses two levels — the mens
+rea as the pendant to the actus reus, i.e., an act constituting genocide
+pursuant to Article II (subparas. (a), (b), (c), (d) or (e)) and the
+“intent to destroy” a protected group as such, the specific intent
+inherent in genocide. It is therefore rightly stressed that “guaranteeing
+the rule of law and the respect for the principle nullum crimen sine lege
+require that ‘the two intents’ ought to be strictly separated when it
+comes to prove the facts necessary to establish the innocence or guilt
+of an accused” 44. In addition, both parts of mens rea are
+characterized by the existence of two components — conscience
+(la conscience ; Wissen) and will (la volonté ; Wollen). In their various
+expressions they offer four different kinds of mens rea, in descending
+order of seriousness — dolus specialis, dolus directus, dolus
+indirectus (indirect intent) and dolus eventualis (conditional intent),
+which, in general terms, correspond to intention, recklessness and
+criminal negligence in the common law). Mens rea as the pendant
+to the acts constituting the material element — the actus reus — of
+the crime should exist in the form of dolus directus. This means
+that the perpetrator is conscious of the effect of the act (intellectual
+element) and has the will to commit the act (voluntary or emotional
+element).
+
+
+
+2. Degree of intent
+  83. In terms of degree, the intent to destroy the group, as dolus
+
+  43 ICTY, Prosecutor v. Kupreškić, Trial Judgment, para. 636.
+  44 Triffterer, “Genocide, Its Particular Intent to Destroy in Whole or in Part the Group
+as Such”, Leiden Journal of International Law, Vol. 14, No. 2, 2001, p. 400.
+
+
+                                                             uA)
+specialis, is at the very top of the hierarchy of culpable mental
+states. As such, it excludes culpa, dolus eventualis (recklessness) or
+negligence 45. The crime of genocide is “unique because of its element of
+dolus specialis (special intent)” 46, which is in fact the constituent
+element of the crime of genocide. The degree of dolus specialis means
+that it is not sufficient that the accused “knows that his acts will
+inevitably, or . . . probably, result in the destruction of the group
+in question, but that the accused must seek the destruction in whole or
+in part, of a . . . group” 47.
+
+   In other words, special intent is characterized by the voluntary ele-
+ment, the purposeful and active will to destroy the protected group.
+Knowledge of the natural and foreseeable consequences of the acts
+performed is not per se sufficient to constitute the intent to destroy.
+It must be accompanied by the desire to destroy the groups ; this is an
+additional requirement in the structural sense and a dominant one in the
+normative sense. In order for these to be genocide the acts prohibited in
+Article II of the Convention must be committed with “intent to destroy,
+in whole or in part, a national, ethnical, racial or religious group,
+as such”.
+
+3. Destruction
+
+  84. Under Article II of the Convention, the expression “to destroy”
+means the material (physical and biological) type of genocide. Physical
+genocide is addressed in subparagraphs (a), (b) and (c), whereas bio-
+logical genocide is covered by subparagraph (d).
+  In subparagraphs (a) and (c) the matter seems self-evident. Whereas
+the act of killing is a clear modus operandi of physical genocide 48, the
+expression “physical destruction” employed in subparagraph (c) rules
+out the possibility of any interpretation to the effect that infliction on the
+group of any conditions of life other than those leading to the physical
+destruction of the group may represent an act of genocide. The word
+“deliberately” was included there to denote a precise intention, i.e., pre-
+meditation related to the creation of certain conditions of life 49. Accord-
+ing to the travaux préparatoires, such acts would include “putting of a
+group . . . on a regimen of insufficient food allocation, reducing required
+
+   45 Cassese, Genocide in the Rome Statute of the International Criminal Court, 2002, I,
+
+p. 338.
+   46 ICTR, Prosecutor v. Kambanda, No. ICTR-97-23-S, 4 September 1998, para. 16.
+
+
+  47ICTY, Prosecutor v. Jelisić, paras. 85-86.
+  48Killing of members of the group as the material element in subparagraph (a) is
+shown if the victim has died and the death resulted from an unlawful act or omission
+(ICTR, Prosecutor v. Akayesu, No. ICTR-96-4-T, 1998, para. 589).
+  49   A/C.6/SR.82, p. 3 ; N. Robinson, op. cit., p. 16.
+
+
+                                                             uA)
+medical attention, providing insufficient living accommodation, etc.” 50,
+which results in slow death in contrast to immediate death under sub-
+paragraph (a) of Article II. The differentia specifica between the act of
+killing and the imposing of destructive conditions of life is, consequently,
+primarily expressed in the modalities of destruction — the latter case
+does not involve the temporal immediacy of killing as the means (modus
+operandi) of extermination but does result in extermination over time.
+
+   The legislative history of subparagraph (b) also demonstrates that the
+authors of the Convention understood “serious bodily or mental harm”
+to be a form of physical genocide. Physical suffering or injury without
+lethal consequences falls within the ambit of crimes against humanity and
+torture 51. The expression “mental harm”, on the other hand, has a spe-
+cific meaning in subparagraph (b). It was included at the insistence of
+China. Explaining the proposal by reference to the acts committed by
+Japanese occupying forces against the Chinese nation through the use of
+narcotics, China pointed out that, although these acts were not as spec-
+tacular as mass murders and the gas chambers of Nazi Germany, their
+results were no less lethal 52. Accordingly, not every bodily or mental
+injury is sufficient to constitute the material element of genocide, but, as
+stated by the International Law Commission, “it must be serious enough
+to threaten group destruction” 53, as destruction is understood in the
+Convention, i.e., physical and biological destruction.
+
+
+   Acts such as sterilization of women, castration, prohibition of mar-
+riages, etc., subsumed under “measures intended to prevent birth within
+the group”, constitute biological genocide. The extreme gravity of meas-
+ures imposed to prevent births within the group with a view to annihilat-
+ing the group’s national biological power is the criterion for differentiat-
+ing between the genocidal act defined in subparagraph (b) and measures
+which may be taken against the will of members of a group within the
+framework of family planning and birth control programmes, measures
+which are sometimes descriptively called “genocide by another name” or
+“black genocide” 54.
+
+  85. Prima facie only the act of forcible transfer of children of the
+
+  50   N. Robinson, op. cit., p. 18.
+  51   ICTY, Prosecutor v. Delalić et. al., Trial Judgment, p. 511.
+  52 Official Records of the General Assembly, Third Session, Part I, Sixth Committee,
+
+69th meeting, pp. 59-60.
+  53 Draft Code of Crimes against the Peace and Security of Mankind, Official Records
+
+of the General Assembly, Fifty-first Session, Supplement No. 10, United Nations doc. A/
+51/10 (1996), Art. 17.
+  54 M. Treadwell, “Is Abortion Black Genocide ?”, Family Planning Perspectives, Vol. 4,
+
+No. 4/1986, p. 24.
+
+
+                                                          uA)
+group to another group does not fit into the concept of physical/biologi-
+cal genocide as defined in the Convention. However, it should be empha-
+sized that the act of forcible transfer of children has been included in acts
+constituting genocide with the explanation that it has physical and bio-
+logical effects since it imposes on young persons conditions of life likely
+to cause them serious harm, or even death 55. In that sense, it is of con-
+siderable importance that the proposal to include cultural genocide in the
+Convention also has been understood to cover a number of acts which
+spiritually destroy the vital characteristics of a group, as observed in par-
+ticular in forcible assimilation. The proposal was rejected on a vote of
+26 against and 16 in favour with 4 abstentions 56. Hence, it appears rea-
+sonable to assume that the underlying rationale of subparagraph (e) is
+“to condemn measures intended to destroy a new generation, such action
+being connected with the destruction of a group that is to say with physi-
+cal genocide” 57. Even if it is accepted that the act covered by subpara-
+graph (e) constitutes “cultural” or “sociological” genocide, its meaning
+is in concreto of limited importance. Primo, as such it would be an excep-
+tion to the rule regarding material genocide embodied in Article II of the
+Convention and, therefore, would be subject to restrictive interpretation.
+Secundo, the Applicant does not refer to “forcible transfer of children” as
+an act of genocide allegedly committed on its territory.
+
+   86. It follows that the difference between the act of killing members of
+the group and other acts constituting the actus reus of the crime of geno-
+cide is in the modalities rather than in the final effects. In that sense, the
+explanation given by the ICTR in the Akayesu case seems proper. It
+describes the act defined in subparagraph (c) of Article II of the Geno-
+cide Convention as “methods of destruction by which the perpetrator
+does not immediately kill the members of the group, but which, ulti-
+mately, seek their physical destruction”, 58 i.e., the so-called slow death.
+
+  87. There are two basic legal issues in the interpretation of the word
+“destruction” :
+(a) whether the destruction must take place in reality, i.e., be actual ;
+    and,
+(b) the scope of destruction.
+   88. Regarding the actual nature of destruction, there is some degree of
+difference among the various acts enumerated in Article II of the Con-
+vention.
+
+  55 A/C.6/242.
+  56 Official Records of the General Assembly, Third Session, Part I, Sixth Committee,
+83rd meeting, p. 206.
+  57 Study of the Question of the Prevention and Punishment of the Crime of Genocide,
+
+prepared by N. Ruhashyankiko, Special Rapporteur (E/CN.4/Sub.2/415, p. 25.
+  58 ICTR, Prosecutor v. Akayesu, para. 505.
+
+
+
+
+                                                          uA)
+   The act of “killing” implies actual destruction in terms of the proven
+result achieved. In that sense, the death of the victim is the essential ele-
+ment of the act of killing. Concerning this element, a vast and nearly uni-
+form jurisprudence has been developed by both Tribunals, at least declara-
+tively, in that, for example, in the Krstić case, the “missing” are treated as
+“dead” 59.
+   In contrast to killing, acts of serious bodily or mental harm, and acts
+of forcible transfer of children, do not imply actual destruction, but a
+corresponding result, expressed in grievous bodily or mental harm and
+transfer of children respectively, and leading to destruction. In other
+words, in these two acts, the required result has a causal connection, in
+which the effect is deferred, with destruction.
+
+   The infliction of destructive conditions of life and the imposition of
+measures to prevent births, however, do not require any proof of a result ;
+they represent, themselves, the result. For the sake of balance, and of
+legal security, however, in respect of such acts the intent requirement is
+more stringent, since they, unlike the acts for which a specific result is
+required, must be undertaken “deliberately” and must be “calculated”, in
+the case of infliction of destructive conditions on the group, and must be
+“intended” to prevent births, in the case of the imposition of measures.
+
+   89. The intrinsic differences among the acts enumerated in Article II
+of the Convention in their relation to the destruction of the protected
+group as the ultimate ratio leges of the Convention require a particularly
+cautious approach in the determination of the actus reus of the crime of
+genocide.
+   In contrast to “killing”, all other acts constituting an actus reus of
+genocide, falling short of causing actual destruction, merely have the
+potential capacity to a greater or lesser extent, to destroy a protected
+group. Legally, this makes them more akin to an attempt to commit
+genocide. In reality, these acts, therefore, may be seen more as evidence
+of intent than as acts of genocide as such. Of course, from the stand-
+point of criminal policy, genocide may be characterized as any form
+of denial of a group’s right to survive ; the 1948 Convention is indeed
+a Convention on the Prevention and Punishment of Genocide, but
+still it is a fact that the line between acts short of actual destruction
+and attempts to commit genocide may be invisible, especially at the
+decision-making time.
+
+
+
+  59  ICTY, C { elebići, Appeal Judgment, paras. 422-423 ; Blaškić, Trial Judgment,
+para. 217 ; Kupreškić, Trial Judgment, paras. 560-561 ; ICTR, Kayishema, Trial Judg-
+ment, para. 140 ; Akayesu, Trial Judgment, para. 588 ; ICTY, Krstić, Trial Judgment,
+para. 485.
+
+
+
+
+                                                           uA)
+   For the proper application of the Law on Genocide, as embodied in
+the Convention, acts of genocide, or more precisely the methods and
+means of execution of acts of genocide short of actual destruction, must
+be evaluated strictly, not only from the subjective but also from the
+objective standpoint. The last point of view concerns basically the capa-
+bility of a particular action or actions to produce genocidal effects. In
+other words, the destructive capacity in terms of material destruction
+must be discernible in the action itself, apart from in tandem with the
+intention of the perpetrator.
+
+
+
+  3.1. Scope of destruction
+   90. As far as the required scope of destruction is concerned, two cri-
+teria emerged in the emerging case-law of the Tribunals.
+   One implies the destruction of the group in terms of the sheer size
+of the group and its homogenous numerical composition, the
+so-called quantitative approach. As a rule, it is presented in the form
+of a “substantial” part, which means “a large majority of the group
+in question” 60.
+   The second criterion, however, contemplates the destruction of the
+elite or of the leadership of the group, which are considered to be of sub-
+stantial importance for its existence. For this criterion, it is considered
+sufficient “if the destruction is related to a significant section of the
+group, such as its leadership” 61.
+   Alternatively, the qualitative and quantitative scope of the destruction
+cannot possibly fit into the genus proximum of the crime of genocide ;
+moreover, it conflicts with the logical considerations. It is not clear how
+two by nature diametrically opposite criteria may ensure the sound
+administration of justice in the specific case. A possible consequence of
+their combined application might merely be the relativization, due to the
+disintegration of the constitutive elements of the crime of genocide, of
+the protection offered by the Convention to the national, ethnic, reli-
+gious or racial groups. The intention to destroy a group is divided, in the
+event of the application of both criteria, between the “intention to
+destroy a group en masse” and the intention to destroy “a more limited
+number of persons selected for the impact that their disappearance
+would have upon the survival of the group . . .” 62. Introducing the char-
+acterization of genocide, even when the intent to exterminate covers only
+a limited geographic area, particularly allows for subjective and arbi-
+trary delimitations. It could be said that “this degree of indeterminacy
+
+  60 ICTY, Prosecutor v. Jelišić, Trial Judgment, p. 26, para. 82.
+  61 ICTY, Prosecutor v. Stakić, Trial Judgment, p. 149, para. 525 ; ICTY, Prosecutor v.
+Krstić, Trial Judgment, para. 587.
+  62 ICTY, Prosecutor v. Jelišić, Trial Chamber, para. 82.
+
+
+
+
+                                                          uA)
+places genocide on the outermost boundaries of the nullem crimen sine
+lege principle” 63.
+   In the choice between quantitative and qualitative criteria, it is difficult
+to find a reason for giving preference to the qualitative criterion.
+   First of all, the criterion of “leadership” is ambiguous and subjective.
+It is not clear whether it applies to the political, military or intellectual
+elite, or whether it has a generic meaning. It also introduces through the
+back door the consideration that the leaders of the group, regardless of
+the type of leadership, are subject to special, stronger protection than the
+other members of the group, in whole or in part, that they constitute,
+which is in fact a distinct subgroup. Moreover, this criterion has an ele-
+ment of the concealed promotion of the political group to the status of a
+protected object of the Convention — the subsequent division of the
+members of the group into elite and ordinary members in modern society
+has an anachronistic and discriminatory connotation flagrantly at odds
+with the ideas, which represent the bases of the rights and liberties of
+individuals and groups. Last but not least, comes understanding part of
+the group in terms of its leadership, of which there is no trace in the
+travaux préparatoires of the Convention.
+   Contrary to the so-called qualitative criterion, the quantitative crite-
+rion is characterized by objectivity, which derives from its very nature.
+According to the Law of Big Numbers, in its application, it includes, as a
+rule, the members of the group to which the qualitative criterion is
+applied as a parameter of the intent to destroy. It is also more appropri-
+ate to the spirit and letter of the Convention, which takes the group as
+such as the ultimate target or intended victim of the crime.
+
+  3.2. The object of destruction
+
+   91. The object of destruction is a “national, ethnical, racial or religious
+group as such”. The qualification expresses the specific collective charac-
+ter of the crime. It lies within the common characteristics of the vic-
+tims — belonging to national, ethnic, racial or religious group — as an
+exclusive quality by reason of which they are subjected to acts constitut-
+ing actus reus of genocide. The genocide is directed against a number of
+individuals as a group or at them in their collective capacity and not ad
+personam as such (passive collectivity element). The International Law
+Commission expressed the idea by saying that :
+
+      “the prohibited [genocidal] act must be committed against an indi-
+      vidual because of his membership in a particular group and as an
+      incremental step in the overall objective of destroying the group . . .
+
+  63 P. Akhavan, “Contributions of the International Criminal Tribunals for the Former
+
+Yugoslavia and Rwanda to the Development of Definitions of Crimes against Humanity
+and Genocide”, American Society of International Law Proceeding, April 2000, p. 283.
+
+
+                                                           uA)
+       the intention must be to destroy the group ‘as such’, meaning as a
+       separate and distinct entity, and not merely some individuals because
+       of their membership in a particular group” 64.
+
+  The ICTY determines relevant protected groups as groups that “may
+be identified by means of the subjective criterion of the stigmatisation of
+the group, notably by the perpetrators of the crime” 65.
+  92. The subjective criterion in the determination of a “national, ethnic,
+racial or religious” group is one thing, subjectivism is another.
+
+   The subjective criterion as an alternative to, or in combination with the
+objective one, is the legal criterion established both in international and
+municipal law as regards national, ethnic, religious or racial groups on
+the basis of the fact that they roughly correspond “to what was recog-
+nized, before the Second World War, as ‘national minorities’” 66. This
+includes, as Schabas rightly notes, “races” and “religious groups” 67 whose
+meaning has not provoked significant controversies. In relation to ethnic
+groups, it is the expression, which, in contemporary usage, seems to
+assume the meaning of a synthetic expression for “national minorities”,
+“races” and “religious” groups 68. It was applied by the ICTR in the
+Akayesu case. The Tribunal found that the Hutus and the Tutsis were
+“considered both by the authorities and themselves as belonging to two
+distinct ethnic groups” 69.
+
+   In contrast, the “stigmatisation of the group” by the perpetrators of
+the crime 70 appears to introduce subjectivism into the determination of
+the protected group rather than properly applying the subjective criterion
+as such. Its cumulative effects might be characterized as the nullification
+of the legal substance of the crime of genocide in one of its constitutive
+elements — the element of protected groups — which changes from a
+“national, ethnic, racial or religious” group as such into an abstract,
+human collectivity determined subjectively. Thus the difference between
+the groups protected under the Genocide Convention and those, such as
+
+  64 Official Records of the General Assembly, Fifty-first Session, Supplement No. 10,
+
+United Nations doc. A/51/10/1996, at p. 88 ; emphasis added.
+  65 ICTY, Prosecutor v. Brdjanin, Trial Judgment, para. 683 ; ICTY, Prosecutor v.
+
+Krstić, Trial Judgment, para. 557 ; ICTY, Prosecutor v. Jelišić, Trial Judgment, para. 70.
+  66 ICTY, Prosecutor v. Krstić, Trial Judgment, para. 556 ; ICTR, Prosecutor v. Ruta-
+
+ganda, Trial Judgment, para. 56 ; ICTR, Prosecutor v. Kajelijeli, Trial Judgment, para. 811.
+  67 W. Schabas, Genocide in International Law, p. 113.
+  68 Ibid.
+  69 ICTR, Prosecutor v. Akayesu, para. 122, footnote 56 ; emphasis added.
+  70 ICTY, Prosecutor v. Nikolić, Rule 61, Decision, para. 27 ; ICTY, Prosecutor v.
+
+Krstić, Trial Judgment, para. 557 ; ICTY, Prosecutor v. Jelišić, Trial Judgment, para. 70 ;
+emphasis added.
+
+
+
+                                                             uA)
+political groups, which are not considered protected groups, may be lost.
+As a consequence, the configuration of international crimes is being
+eroded because the physical acts by which war crimes, crimes against
+humanity and genocide are committed, are basically the same. Moreover,
+personal stigmatization as the criterion for the determining of the pro-
+tected group may nullify the objective existence of the “national, ethnic,
+racial or religious” group and introduce into the context of the protected
+groups, those groups that are excluded from the scope of the Genocide
+Convention.
+   93. The cumulative negative effects of the stigmatization of the perpe-
+trator as the relevant criterion derive from the incongruity, and even
+open conflict, of this criterion with the generally accepted legal principles
+and cogent legal considerations.
+
+   Primo, the constitutive elements of genocide are a matter of objective
+law. As objective law, even regardless of its legal force, they cannot, save
+in the event of an explicit provision to the contrary, be determined by the
+perpetrator of a crime. It is completely unknown in the province of inter-
+national criminal law as well as comparative criminal law for the perpe-
+trator of an offence to be in a position to determine the scope of the
+offence committed. The scope of an offence is a matter of a norm
+of objective law and not of the perpetrator’s personal value-judgment.
+The determination of a “national, ethnic, racial or religious” group,
+as an element of the crime of genocide in the perpetrator’s personal
+value-judgment is in irreconcilable conflict with the very essence of
+legal reasoning in the province of criminal law. The qualification
+“as such” in the formulation of Article II of the Convention affirms
+that the “national, ethnic, racial or religious” group is a matter
+of objective reality and not of the personal value-judgment of the
+perpetrator.
+   Secundo, by a judicial finding based on the perpetrator’s personal
+value-judgment, any court of law, in the event of discrepancy between the
+subjective criterion of stigmatisation and the “national, ethnic, racial or
+religious group” as such, creates a virtual judicial reality at variance with
+the objective reality contemplated in Article II of the Convention. More-
+over, its possible consequence may be identification as a targeted group —
+a group that even does not exist in reality 71.
+
+  Tertio, the subjective criterion alone may not be sufficient to determine
+the protected group under the Genocide Convention, for the acts enu-
+merated in subparagraphs (a) to (e) of the Convention must be directed
+against “members of the group” 72.
+  Quatro, in the case of several perpetrators, the criterion of stigmatisa-
+
+
+  71   W. Schabas, op. cit., p. 110.
+  72   Ibid., p. 111.
+
+
+                                                             uA)
+tion can easily lead to uneven, substantively different, identifications of
+the relevant groups.
+   Quinto, the perpetrator’s perception of the “national, ethnic, racial or
+religious” group, if inappropriate, creates error in personam which per se
+disqualifies genocidal intent. It is a general principle of criminal law
+that any person who, while committing a criminal offence, is unaware
+that a circumstance is part of the legal elements, does not act
+intentionally. Criminal liability for negligent action, however, remains
+unaffected.
+   Sixto, it confers excessive discretionary powers on the Court. Consid-
+ering the nature of the perpetrator’s perception, it might be said that they
+go as far as discretio generalis.
+
+   94. The weak points of the subjective criterion are also demonstrated
+by the jurisprudence of both Tribunals. In the Brdjanin case the ICTY
+stated expressis verbis that “[t]he correct determination of the relevant
+protected group has to be made on a case-by-case basis, consulting both
+objective and subjective criteria” 73. For instance, the ICTR stated, as the
+objective criterion for the identification of Tutsis, the identification cards
+indicating ethnic belonging (identification by others) or the subjective cri-
+terion of the members of targeted groups (self-identification) 74. Conse-
+quently, it is of paramount importance that the subjective criterion, if
+applied at all in its “stigmatization” form, must be conceived within the
+framework of objective legal standards derived from the letter and spirit
+of the relevant provisions of the Genocide Convention respecting stand-
+ards established in the corpus of national minorities law.
+   95. It appears that the criterion of stigmatisation not only cannot be
+the sole criterion ; it cannot even be the primary criterion for the deter-
+mination of the “national, ethnic, racial or religious” group within the
+framework of the Genocide Convention. It is rather a personal perpetra-
+tor’s confirmation of the existence of the protected group, and not its
+creation. It is interesting to note that in the case of war crimes and crimes
+against humanity, the ICTY applied the objective criterion for the deter-
+mination of protected groups 75.
+   Basically, the stigmatization of the group understood in that way is of
+evidential significance as one of the elements for inference of genocidal
+intent.
+
+  96. The “[n]ational, ethnic, racial or religious” group, at least in cases
+
+
+  73 ICTY, Prosecutor v. Brdjanin, Trial Judgment, para. 684 ; Thus also the ICTR in the
+
+Semanza Trial Judgment, para. 317 ; ICTR, Prosecutor v. Kajelijeli, Trial Judgment,
+para. 811 ; emphasis added.
+  74   ICTR, Prosecutor v. Kayishema, Trial Judgment, paras. 90, 98.
+  75   Jones, pp. 69, 94.
+
+
+                                                         uA)
+where the State in whose territory the alleged crime of genocide occurred,
+recognizes the existence of these groups as distinct and separate entities,
+should be determined on the basis of the criteria established by the inter-
+nal law of that State. Or on the basis of international treaties in force to
+which the relevant State is a Party. In a way, one is dealing here with a
+renvoi or reference of the matter to the internal law of Bosnia and
+Herzegovina. Both because international law has no generally accepted
+precise criteria for the determination of “national, ethnic, racial or
+religious” groups and because of the fact that the case concerned actually
+invoked entities from the internal law and society of Bosnia and
+Herzegovina. Or, if not a strict renvoi to internal law, then at least
+cognizance of groups that exist under the internal law of Bosnia and
+Herzegovina and the criteria on the basis of which they have been
+determined. One more reason for this is the fact that the ICTY itself,
+when it saw fit, relied on domestic law in determining the elements of
+international crimes.
+
+   The application of the subjective criterion suffers from objective limi-
+tations deriving primarily from the basic meaning of the “national, eth-
+nic, racial or religious” group as such. Although the Convention does not
+offer an explicit definition of these groups, it appears that the basic mean-
+ing of the expressions used is relatively clear. The attributes “national”,
+“ethnic”, “religious”, “racial”, although lacking a precise, universally
+accepted determination, possess recognizable, generic substance by them-
+selves, elaborated to a certain extent also in other international conven-
+tions (exempli causa, the International Convention for Elimination of All
+Forms of Racial Discrimination). The lack of specific distinguishing
+marks — differentia specifica — between these four groups, which may
+consequently result in their overlapping, cannot have a substantive nega-
+tive effect on the proper application of the Genocide Convention, for
+their general generic recognizability clearly shows which groups are not
+protected under the Convention, or “carries” within itself the exclusion
+effect, thus preventing the creation of new protected groups outside the
+frame of “national, ethnic, racial or religious” groups. This is clearly
+demonstrated just in Bosnia and Herzegovina.
+
+
+   97. The Applicant asserts that in the present case protected groups
+under the Genocide Convention are — the “Bosnian people” (Applica-
+tion, Memorial of Bosnia and Herzegovina, 2.2.1.2), “mainly Muslim”
+(ibid., 2.2.2.1), “Muslim population” (ibid., 2.2.5.13), “national, ethnical
+or religious groups (within, but not limited to, the territory of the Repub-
+lic of Bosnia and Herzegovina), including in particular the Muslim popu-
+lation” (ibid., Submission under (1), non-Serb population (Reply of Bos-
+nia and Herzegovina, 7) ; the “People and State of Bosnia and Herze-
+govina” (Application of the Convention on the Prevention and Punishment
+of the Crime of Genocide (Bosnia and Herzegovina v. Yugoslavia), Pro-
+
+
+                                                         uA)
+visional Measures, Order of 8 April 1993, I.C.J. Reports 1993, p. 4,
+para. 2 ; ibid., Provisional Measures, Order of 13 September 1993, I.C.J.
+Reports 1993, p. 332.
+   As the protective object of genocide, “national, ethnical, religious or
+racial” groups must be precisely determined. The determination require-
+ment is of overall significance both in the procedural and in the substan-
+tive sense.

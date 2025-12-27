@@ -1,0 +1,632 @@
+       Allocation of the burden of proof in the context of exhaustion of local remedies  When the
+applicant makes a prima facie case that the remedies are ineffective, it is incumbent on the
+respondent to demonstrate that they are in fact effective  The combination of the distinctive
+features of the measures adopted by the United States and the primacy accorded to a more recent
+statute over a treaty has led the Court to conclude that the relevant companies had no reasonable
+possibility of obtaining redress  This reasoning does not automatically apply to other
+circumstances in States where a statute enacted after a treaty prevails over the treaty.
+
+       Standard of review for security exceptions in treaties  The Respondent has the burden of
+proving that the conditions set forth in Article XX (1) (d) of the Treaty of Amity are met  The
+provision gives the invoking State a fair measure of discretion  The tests of proportionality and
+least restrictive alternatives are too stringent for security exceptions  In assessing whether a
+measure is necessary to protect a State’s essential security interest, an international court should
+determine whether the measure was rational in light of a consideration of the reasonably available
+alternatives known to the State at the time  The United States has not demonstrated that EO 13599
+was a measure necessary to protect its essential security interests.
+
+       1. I agree for the most part with the conclusions and reasoning of the Court in this Judgment.
+I regret that I had to vote against operative clause (3) of paragraph 236, in which the Court finds that
+the United States has violated its obligations under Article III, paragraph 1, of the Treaty of Amity.
+I will refrain from discussing the reasons for my vote on this clause, since I largely share the views
+expressed in the opinions of other judges who voted against it.
+
+       2. I will discuss three other topics in this opinion: the exhaustion of local remedies, security
+exceptions in treaties, and the most constant protection and security. As regards the exhaustion of
+local remedies, I will focus on some points which are not addressed at length by the Court in the
+Judgment. The other two topics  security exceptions and the most constant protection and
+security  are issues of significance in international economic law which are often raised in cases
+and are attracting increasing attention in literature.
+
+                                   I. Exhaustion of local remedies
+
+        3. In the present case, the Court does not refer to the burden of proof with respect to the
+exhaustion of local remedies, even though it affords a significant basis for its conclusions. In previous
+cases on diplomatic protection, the Court has explained the burden of proof in connection with the
+exhaustion of local remedies. In the ELSI case, the Court observed first that “the United States [the
+applicant] was very much aware that it must satisfy the local remedies rule”, and then that “it was
+for Italy [the respondent] to demonstrate that there was . . . some local remedy that had not been tried;
+
+                                                            -2-
+
+or at least, not exhausted. This burden Italy never sought to deny.”1 In the Diallo case, reaffirming
+its statements in the ELSI case, the Court declared that,
+
+        “[i]n matters of diplomatic protection, it is incumbent on the applicant to prove that
+        local remedies were indeed exhausted or to establish that exceptional circumstances
+        relieved the allegedly injured person . . . of the obligation to exhaust available local
+        remedies (see [ELSI], pp. 43-44, para. 53). It is for the respondent to convince the Court
+        that there were effective remedies in its domestic legal system that were not exhausted
+        (see ibid., p. 46, para. 59).” 2
+
+
+      4. In international law, as a rule, the principle onus probandi incumbit actori applies; it is
+incumbent on the claimant to prove a claim 3. In the context of exhaustion of local remedies, the
+burden of proof is allocated as follows 4. Since the exhaustion of local remedies is one of the
+requirements for the exercise of diplomatic protection 5, an applicant which exercises diplomatic
+protection must specify that the injured person has exhausted local remedies 6. If the respondent raises
+the objection that local remedies have not been exhausted, it must identify the remedies which have
+not been exhausted 7. The applicant then has to demonstrate either that those remedies were exhausted
+or that exceptions to this rule apply, for example, that the remedies are ineffective8. When the
+applicant makes a prima facie case that the remedies are ineffective, it is the respondent which must
+prove that the remedies are in fact effective 9.
+
+       5. In cases concerned with complaints brought by individuals, international human rights
+courts have adopted a different distribution of the burden of proof for the exhaustion of local
+remedies. The respondent State bears the initial burden of demonstrating that an effective remedy
+exists. Once the respondent has discharged this burden, it falls on the individual to prove either that
+
+        1 Elettronica Sicula S.p.A. (ELSI) (United States of America v. Italy), Judgment, I.C.J. Reports 1989, pp. 43-44,
+
+para. 53, and p. 46, para. 59.
+      2 Ahmadou Sadio Diallo (Republic of Guinea v. Democratic Republic of the Congo), Preliminary Objections,
+
+Judgment, I.C.J. Reports 2007 (II), p. 600, para. 44.
+        3 E.g. Pulp Mills on the River Uruguay (Argentina v. Uruguay), Judgment, I.C.J. Reports 2010 (I), p. 71, para. 162.
+
+        4 Judge Lauterpacht explained the distribution of the burden of proof in his separate opinion in the Norwegian
+
+Loans case:
+                “(1) As a rule, it is for the plaintiff State to prove that there are no effective remedies to which
+        recourse can be had; (2) no such proof is required if there exists legislation which on the face of it deprives
+        the private claimants of a remedy; (3) in that case it is for the defendant State to show that, notwithstanding
+        the apparent absence of a remedy, its existence can nevertheless reasonably be assumed”. Certain
+        Norwegian Loans (France v. Norway), Judgment, I.C.J. Reports 1957, separate opinion of
+        Judge Lauterpacht, p. 39.
+       5 See e.g. Interhandel (Switzerland v. United States of America), Preliminary Objections, Judgment, I.C.J.
+
+Reports 1959, p. 27; Art. 14 (1) of the ILC Articles on Diplomatic Protection.
+        6 E.g. American and British Claims Commission, Napier Case, 14 November 1872, in History and Digest of the
+
+International Arbitrations to Which the United States Has Been a Party, Vol. III, p. 3154 (J. Moore (ed.), 1898).
+        7 “In order to contend successfully that international proceedings are inadmissible, the defendant State must prove
+
+the existence . . . of remedies which have not been used.” The Ambatielos Claim (Greece/United Kingdom), 6 March 1956,
+Reports of International Arbitral Awards, Vol. XII, p. 119.
+        8 For example, the Permanent Court of International Justice held that until it had been clearly shown that the courts
+
+of the defendant had no jurisdiction to entertain a suit by the applicant’s company, the Court could not accept the contention
+of the applicant that the rule as to the exhaustion of local remedies did not apply in the case. Panevezys-Saldutiskis Railway,
+Judgment, 1939, P.C.I.J. Series A./B., No. 76, p. 19.
+        9 See Ahmadou Sadio Diallo (Republic of Guinea v. Democratic Republic of the Congo), Preliminary Objections,
+
+Judgment, I.C.J. Reports 2007 (II), p. 600, para. 44.
+
+it has exhausted that remedy or that the remedy is ineffective 10. This specific distribution of the
+burden of proof adopted by international human rights courts does not necessarily apply in inter-State
+diplomatic protection cases.
+
+
+      6. In the present case, the Respondent raises the objection that local remedies have not been
+exhausted with regard to some of the Applicant’s claims (see Judgment, paras. 55-56 and 59). In
+response, the Applicant has made a prima facie case that the remedies offered by the legal system of
+the United States are ineffective (see paras. 58 and 60). In these circumstances, it is incumbent on
+the Respondent to demonstrate that they are in fact effective.
+
+
+       7. Iran complains of a succession of legislative and executive measures which have effectively
+removed the remedies available to Iranian companies, agencies and instrumentalities to challenge
+enforcement actions against their assets. United States courts are bound to apply these measures
+which leave little room for judicial appreciation. Iran contends that the comprehensive régime created
+by the United States’ measures “is in practice not reviewable in the local courts”. For its part, the
+United States maintains that local remedies provide a reasonable possibility of redress. However, as
+the Court points out, “[t]he Iranian companies that succeeded in having certain measures set aside by
+the courts were only able to do so by demonstrating either that the contested measures fell outside
+the scope of the statute on which they were said to be founded, or that they were contrary to the
+statute itself” (Judgment, para. 71).
+
+
+       8. It is the combination of these distinctive features of the measures adopted by the
+United States and the primacy accorded to a more recent federal statute over a treaty in the
+jurisprudence of the United States which has led the Court to conclude that the companies in question
+had no reasonable possibility of successfully asserting their rights in United States court proceedings.
+The Court adopted this reasoning in the particular circumstances of the present case (Judgment,
+para. 72). Therefore, this reasoning does not automatically apply to other circumstances in States
+where a statute enacted after a treaty prevails over the treaty.
+
+              II. The security exception in Article XX (1) (d) of the Treaty of Amity
+
+       9. The United States claims that Executive Order 13599 (“EO 13599”) falls within the security
+exception set out in Article XX (1) (d) of the Treaty of Amity. While the Court rejects this claim in
+one short paragraph (Judgment, para. 108), I will make a more detailed analysis of the claim and give
+additional reasons in support of the Court’s conclusion.
+
+
+       10. I will focus in particular on the standard of review to be used for analysing claims made
+under security exceptions such as Article XX (1) (d) of the Treaty of Amity. Many treaties, including
+other treaties on friendship, commerce and navigation (“FCN”), international investment agreements,
+and multilateral and regional trade agreements, contain security exceptions. In recent years, States
+have frequently invoked a security exception in a treaty to claim that measures which are inconsistent
+with the substantive provisions of the treaty are justified. I consider that the standard of review to be
+used by international courts for analysing such claims is of crucial importance.
+
+      11. Article XX (1) of the Treaty of Amity provides: “The present Treaty shall not preclude the
+application of measures: . . . (d) necessary to fulfill the obligations of a High Contracting Party for
+
+       10 E.g. European Court of Human Rights, Akdivar and Others v. Turkey, judgment of 16 September 1996,
+
+No. 21893/93, para. 68; Inter-American Court of Human Rights, Velásquez-Rodríguez v. Honduras, judgment of 29 July
+1988, paras. 59-60.
+
+                                                     -4-
+
+the maintenance or restoration of international peace and security, or necessary to protect its essential
+security interests.” The United States argues that EO 13599 was a measure necessary to protect its
+essential security interests and was not precluded by the Treaty.
+
+       12. Article XX (1) (d) may be considered as an affirmative defence. Pursuant to the principle
+of reus in excipiendo fit actor (the defendant, by raising an exception, becomes a plaintiff), the
+respondent  in this case, the United States  bears the burden of proving that the conditions set
+out in Article XX (1) (d) are met. The Court confirms that this burden is placed on the Respondent,
+declaring that “it was for the United States to show that Executive Order 13599 was a measure
+necessary to protect its essential security interests” (Judgment, para. 108).
+
+
+       13. Like Article XX (1) of the Treaty of Amity, Article XXI of the GATT 1994 provides for
+security exceptions, but its formulation is significantly different. Article XXI of the GATT reads as
+follows:
+
+               “Nothing in this Agreement shall be construed
+
+               ................................................................
+
+       (b) to prevent any contracting party from taking any action which it considers necessary
+           for the protection of its essential security interests
+
+              (i) relating to fissionable materials or the materials from which they are derived;
+
+              (ii) relating to the traffic in arms, ammunition and implements of war and to such
+                   traffic in other goods and materials as is carried on directly or indirectly for the
+
+             (iii) taken in time of war or other emergency in international relations”. (Emphasis
+                   added.)
+
+
+      14. In Russia  Traffic in Transit, a case filed by Ukraine under the WTO dispute settlement
+procedures, Russia argued that Article XXI (b) (iii) of the GATT 1994 was “totally ‘self-judging’”.
+The WTO panel pointed out that “the adjectival clause ‘which it considers’” in the chapeau of
+Article XXI (b) “can be read to qualify only the word ‘necessary’ . . . or to qualify also the
+determination of these ‘essential security interests’; or finally and maximally, to qualify the
+determination of the matters described in the three subparagraphs of Article XXI (b) as well”. The
+panel concluded that the clause does not qualify the determination of the circumstances in
+subparagraph (iii), and that for action to fall within the scope of Article XXI (b), “it must objectively
+be found to meet the requirements in one of the enumerated subparagraphs”. It thus rejected the
+argument that Article XXI (b) (iii) was “totally ‘self-judging’” 11.
+
+       15. In the case concerning Military and Paramilitary Activities in and against Nicaragua
+(Nicaragua v. United States), the Court analysed Article XXI (1) (d) of the FCN Treaty between
+Nicaragua and the United States, which is the equivalent provision to Article XX (1) (d) of the Treaty
+of Amity between Iran and the United States. Neither treaty contains the phrase “which it considers”
+or a similar expression. In the Military and Paramilitary Activities case and in the case concerning
+
+
+       11 Panel Report, Russia  Measures concerning Traffic in Transit, WT/DS512/R and Add.1, adopted 26 April
+
+2019, paras. 7.26, 7.63, 7.101-7.102.
+
+                                                            -5-
+
+treaties were not “self-judging”, stating that, “by the terms of the Treaty itself, whether a measure is
+necessary to protect the essential security interests of a party is not . . . purely a question for the
+subjective judgment of the party” 12. Given this clear statement by the Court, both Parties accept that
+
+
+
+       16. In the Military and Paramilitary Activities case, the Court contrasted Article XXI of the
+GATT with Article XXI of the FCN Treaty between Nicaragua and the United States, and
+emphasized that the latter “speaks simply of ‘necessary’ measures, not of those considered by a party
+to be such” 14. It appears that the Court attempted to distinguish between treaties which contain the
+phrase “which it considers” and others which do not, suggesting that the latter are not “self-judging”.
+
+
+       17. In the Oil Platforms case, however, the Court itself explained that “[o]n the basis of
+[Article XX (1) (d) of the Treaty of Amity], a party to the Treaty may be justified in taking certain
+measures which it considers to be ‘necessary’ for the protection of its essential security interests” 15,
+even though Article XX (1) (d) does not contain the phrase “which it considers”.
+
+
+      18. In Mutual Assistance in Criminal Matters (Djibouti v. France), the Court acknowledged
+that Article 2 (c) of the Convention on Mutual Assistance in Criminal Matters between Djibouti and
+France affords “a very considerable discretion” to the requested State because Article 2 (c) contains
+the phrase “[i]f the requested State considers”. In parentheses, the Court mentioned the Military and
+Paramilitary Activities and Oil Platforms cases as examples of “the competence of the Court in the
+face of provisions giving wide discretion” 16. Thus, the Court acknowledged that the security
+exception clauses at issue in those cases, respectively Article XXI (1) (d) of the FCN Treaty between
+Nicaragua and the United States and Article XX (1) (d) of the Treaty of Amity between Iran and the
+United States, give wide discretion to the contracting parties, even though the said clauses do not
+contain the phrase “which it considers”.
+
+
+       19. The presence of the phrase “which it considers” certainly makes explicit the granting of
+discretion to the State concerned. However, even in the absence of such a phrase, security exceptions
+should be understood as affording the invoking State a fair measure of discretion 17.
+
+
+
+       12 Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America), Merits,
+
+Judgment, I.C.J. Reports 1986, p. 141, para. 282. See also Oil Platforms (Islamic Republic of Iran v. United States of
+
+        13 Reply of Iran, paras. 10.19-10.21. Rejoinder of the United States, para. 7.18.
+
+      14 Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America), Merits,
+
+Judgment, I.C.J. Reports 1986, p. 116, para. 222.
+        15 Oil Platforms (Islamic Republic of Iran v. United States of America), Judgment, I.C.J. Reports 2003, p. 183,
+
+para. 43 (emphasis added).
+        16 Certain Questions of Mutual Assistance in Criminal Matters (Djibouti v. France), Judgment, I.C.J. Reports 2008,
+
+p. 229, para. 145 (emphasis added).
+         17 An arbitral tribunal used the term “margin of appreciation” to convey the idea of the discretion given by security
+
+exceptions to the invoking State: Continental Casualty Company v. The Argentine Republic, ICSID Case No. ARB/03/9,
+Award of 5 September 2008, para. 181. See also Philip Morris Brands Sàrl, Philip Morris Products S.A. & Abal Hermanos
+S.A. v. Oriental Republic of Uruguay, ICSID Case No. ARB/10/7, Award of 8 July 2016, paras. 388, 398-399 (accepting
+the term “margin of appreciation” in the context of examining a claim concerned with fair and equitable treatment, stating
+that tribunals should pay “great deference” to governmental judgments of national needs in matters such as the protection
+of public health). Compare it with ibid., concurring and dissenting opinion of Mr. Born, Arbitrator, paras. 87, 137-138,
+188.
+
+                                                           -6-
+
+       20. The Parties to the present case disagree on the standard that the Court should use in
+reviewing the United States’ claim under Article XX (1) (d) and on the conclusion that it should
+reach. Iran argues that an examination of necessity entails an assessment of proportionality, finding
+
+contends that Article XX (1) (d) gives wide discretion to a State acting in good faith.
+
+
+       21. In Russia  Traffic in Transit, the WTO panel set out the standard to be used in reviewing
+measures taken under Article XXI (Security Exceptions) of the GATT 1994. It acknowledged that
+the article is partly “self-judging”, suggesting that the phrase “which it considers” qualifies not only
+the word “necessary” but also the determination of the “essential security interests”. The panel thus
+admitted that “it is left, in general, to every Member to define what it considers to be its essential
+
+particular concerns as ‘essential security interests’ is limited by its obligation to interpret and apply
+Article XXI (b) (iii) of the GATT 1994 in good faith”, and “[t]he obligation of good faith . . . applies
+not only to the Member’s definition of the essential security interests . . . but also, and most
+importantly, to their connection with the measures at issue”. The panel further explained that “this
+obligation [of good faith] is crystallized in demanding that the measures at issue meet a minimum
+requirement of plausibility in relation to the proffered essential security interests, i.e. that they are
+not implausible as measures protective of these interests” 18. The analytical framework enunciated by
+the panel in Russia  Traffic in Transit has generally been accepted by the Members of the WTO
+and followed by subsequent panels 19.
+
+
+       22. This Court also has considered that clauses containing the phrase “which it considers” or
+a similar expression are subject to a good faith review. In the Mutual Assistance in Criminal Matters
+case, the Court accepted that Article 2 (c) of the Convention on Mutual Assistance in Criminal
+Matters, which contains the phrase “[i]f the requested State considers”, provides the requested State
+with “a very considerable discretion”. It stressed, however, that “this exercise of discretion is still
+subject to the obligation of good faith codified in Article 26 of the 1969 Vienna Convention on the
+Law of Treaties” 20.
+
+
+      23. In respect of security exception clauses which do not contain the phrase “which it
+considers” or a similar expression, the standard of review should be more rigorous than a good faith
+review. In the Military and Paramilitary Activities case, the Court gave a brief outline of the standard
+to be used in reviewing the measures taken under the security exception clause in the FCN Treaty
+between Nicaragua and the United States, namely “[t]he Court has . . . to assess whether the risk run
+
+
+
+        18 Russia  Traffic in Transit, supra note 11, paras. 7.63, 7.101-7.102, 7.131-7.133, 7.138. Ukraine did not file an
+
+appeal and the report was adopted by the WTO Dispute Settlement Body on 26 April 2019. Ukraine stated that “[t]he Panel
+had made a very important and welcome contribution” and that “[m]ost importantly, the Panel had found the existence of
+appropriate circumstances to be a crucial element for justification under Article XXI of the GATT 1994”. WTO Dispute
+Settlement Body, Minutes of Meeting Held on 26 April 2019, WT/DSB/M/428, p. 20.
+         19 In Saudi Arabia  IPRs (case filed by Qatar), the Parties (Qatar and Saudi Arabia), multiple intervening third
+
+parties, and the panel all agreed with the analytical framework adopted by the panel in Russia  Traffic in Transit. Panel
+Report, Saudi Arabia  Measures concerning the Protection of Intellectual Property Rights, WT/DS567/R and Add.1,
+circulated on 16 June 2020, paras. 7.243-7.255, 7.271. See also Panel Report, United States  Certain Measures on Steel
+and Aluminium Products (China), WT/DS544/R, Add.1 and Suppl.1, circulated on 9 December 2022, para. 7.128, and
+other panel reports in related cases brought by Norway (DS552), Switzerland (DS556) and Türkiye (DS564); Panel Report,
+United States  Origin Marking Requirement (Hong Kong, China), WT/DS597/R, circulated on 21 December 2022,
+para. 7.185.
+        20 Certain Questions of Mutual Assistance in Criminal Matters (Djibouti v. France), Judgment, I.C.J. Reports 2008,
+
+p. 229, para. 145.
+
+                                                              -7-
+
+being designed to protect these interests are not merely useful but ‘necessary’” 21. The Court
+emphasized that “the measures taken must not merely be such as tend to protect the essential security
+interests of the party taking them, but must be ‘necessary’ for that purpose” 22. This statement was
+reaffirmed in the Oil Platforms case with regard to Article XX (1) (d) of the Treaty of Amity 23.
+
+of inquiry, an international court must assess whether the risk run by the essential security interests
+is reasonable. The ordinary meaning of the term “essential security interests” in its context suggests
+that it relates to the existential core of State functions, such as the protection of its territory and its
+population from external threats and the maintenance of internal public order. It is for the State
+invoking the exception to articulate the nature of the essential security interests at stake sufficiently
+precisely to demonstrate their legitimacy in light of the object and purpose of the treaty.
+
+
+       25. In the second stage of inquiry, an international court must examine whether the measures
+are “necessary” to protect the essential security interests. The Court has stated that the measures must
+not be “merely useful” nor “merely be such as tend to protect” the essential security interests, but
+rather must be “necessary” to protect them.
+
+       26. In the present case, Iran puts forward a stringent test to assess the necessity of a measure.
+It argues that “[a]n examination of necessity inevitably entails an examination of proportionality”,
+relying on WTO and investment arbitration jurisprudence 24. The test of proportionality requires an
+assessment of any adverse impact resulting from the measure in relation to the achievement of the
+objectives pursued by it. In the areas of international human rights law and domestic constitutional
+law, courts  both international and domestic  have used the proportionality test in evaluating
+measures that restrict human rights. In contrast, the WTO adjudicatory bodies have not applied the
+proportionality test. Commentators have explained that this is because the WTO is not institutionally
+ready for a balancing of values and interests. On the other hand, a number of investment arbitral
+tribunals have used the proportionality test in the context of fair and equitable treatment 25 and indirect
+expropriation 26. However, investment arbitral tribunals have not used the proportionality test for
+
+
+
+      27. Whereas Iran invokes WTO and investment arbitration jurisprudence in support of its
+contention that the Court should examine the proportionality of the measures, in those cases the WTO
+adjudicatory bodies and investment arbitration tribunals in fact used the test of least restrictive
+
+        21 Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America), Merits,
+
+        22 Ibid., p. 141, para. 282.
+
+        23 Oil Platforms (Islamic Republic of Iran v. United States of America), Judgment, I.C.J. Reports 2003, p. 183,
+
+para. 43.
+
+
+        25 E.g. Occidental Petroleum Corporation & Occidental Exploration and Production Company v. The Republic of
+
+Ecuador, ICSID Case No. ARB/06/11, Award of 5 October 2012, para. 404; Philip Morris v. Uruguay, supra note 17,
+paras. 409-410.
+      26 E.g. Técnicas Medioambientales Tecmed S.A. v. The United Mexican States, ICSID Case No. ARB(AF)/00/2,
+
+Award of 29 May 2003, para. 122; Fireman’s Fund Insurance Company v. The United Mexican States, ICSID Case
+No. ARB(AF)/02/01, Award of 17 July 2006, para. 176 (j).
+
+
+tribunal relying on a proportionality test. In fact, however, the tribunal referred to the test of least restrictive alternatives.
+Continental Casualty v. Argentina, supra note 17, paras. 193-195. See also Deutsche Telekom AG v. The Republic of India,
+PCA Case No. 2014-10, Interim Award, 13 December 2017, para. 239.
+
+                                                          -8-
+
+Appellate Body quoted the following statement of a GATT panel with approval:
+
+             “[A] contracting party [of the GATT] cannot justify a measure inconsistent with
+       another GATT provision as ‘necessary’ in terms of Article XX (d) if an alternative
+       measure which it could reasonably be expected to employ and which is not inconsistent
+       with other GATT provisions is available to it. By the same token, in cases where a
+       measure consistent with other GATT provisions is not reasonably available, a
+       contracting party is bound to use, among the measures reasonably available to it, that
+       which entails the least degree of inconsistency with other GATT provisions.” 28
+
+The test of least restrictive alternatives is not the same as the test of proportionality.
+
+
+       28. Panels and the Appellate Body of the GATT/WTO established the test of least restrictive
+alternatives to assess the “necessity” of measures under Article XX (General Exceptions) of the
+GATT 1994. They articulated the test first in relation to subparagraph (d), which concerns measures
+“necessary to secure compliance with laws or regulations” 29. They subsequently extended it to
+subparagraph (b) concerning measures “necessary to protect human, animal or plant life or health” 30,
+and then to subparagraph (a) pertaining to measures “necessary to protect public morals” 31. It is
+inappropriate to import the test of least restrictive alternatives, which was developed for general
+
+alternatives is also too stringent for security exceptions. The WTO adjudicatory bodies have not
+extended this test to measures under Article XXI. As explained above, the test articulated for
+Article XXI by the panel in Russia  Traffic in Transit is much less stringent than the test of least
+restrictive alternatives developed by the WTO adjudicatory bodies for Article XX.
+
+
+       29. Essential security interests relate to the State’s most vital interests. Concerns relating to
+national security are more sensitive than many other public concerns. In the Mutual Assistance in
+Criminal Matters case, the Court acknowledged that security exception clauses give States “wide
+discretion” (see paragraph 18 above). To adopt a stringent test requiring a very high threshold would
+
+sensitive context of national security, it is for the national authorities of a State to make the initial
+assessment of the existence of a risk and what is necessary to respond to that risk. An international
+court should be wary of substituting itself for the State to override the latter’s decisions ex post facto.
+On the other hand, it is the function of an international court to prevent abuse by reviewing a measure
+taken by a State with a view to ensuring that discretion is exercised reasonably and in good faith 32.
+
+
+      30. Based on these considerations, I am of the view that, in assessing whether a measure is
+necessary to protect a State’s essential security interests under a clause which does not contain the
+
+        28 Appellate Body Report, Korea  Measures Affecting Imports of Fresh, Chilled and Frozen Beef,
+
+WT/DS161/AB/R, WT/DS169/AB/R, adopted 10 January 2001, para. 165, quoting Panel Report, United States 
+Section 337 of the Tariff Act of 1930, BISD 36S/345, adopted 7 November 1989, para. 5.26 (emphasis added). See also
+Deutsche Telekom v. India, supra note 27, para. 239.
+
+
+       30 E.g. Panel Report, Thailand  Restrictions on Importation of and Internal Taxes on Cigarettes, BISD 37S/200,
+
+adopted 7 November 1990, para. 75.
+       31 Appellate Body Report, United States  Measures Affecting the Cross-Border Supply of Gambling and Betting
+
+Services, WT/DS285/AB/R and Corr.1, adopted 20 April 2005, para. 308 (finding on Article XIV (a) of the GATS, an
+equivalent to Article XX (a) of the GATT 1994).
+
+p. 323, para. 73.
+
+                                                     -9-
+
+phrase “which it considers” or a similar expression, such as Article XX (1) (d) of the Treaty of Amity,
+an international court should determine whether the measure was rational in light of a consideration
+of the reasonably available alternatives known to that State at the time. In making this evaluation, it
+should take into account the importance of the security interests at stake, and appraise the
+contribution the measure was designed to make towards the protection of those interests and its
+effectiveness in this regard, as well as its impact on commerce, investment, trade and the like. In
+addition, the court should ascertain whether the State followed proper procedures in exercising its
+
+to follow proper procedures, it can amount to a misuse of discretionary powers (excès de pouvoir).
+
+
+       31. While Article XX (1) (d) of the Treaty of Amity gives the invoking State a fair measure of
+discretion, I agree with the Court that in the present case the United States “has not convincingly
+
+(Judgment, para. 108).
+
+
+       32. In this regard, I take particular note of the following. The United States identifies its
+essential security interests as “preventing terrorist attacks and the financing of terrorist activities . . .
+and halting the advancement of Iran’s ballistic missile program”. EO 13599 implements the
+requirements of Section 1245 (c) of the 2012 NDAA. Whereas Section 1245 refers to a report of the
+Treasury stating that “Treasury is calling out the entire Iranian banking sector . . . as posing terrorist
+
+EO 13599 indicates, as the purpose of the measures, the “deceptive practices” of the Iranian banking
+sector “to conceal transactions of sanctioned parties”, “the deficiencies in Iran’s anti-money
+laundering regime and the weaknesses in its implementation”, and “the continuing and unacceptable
+risk posed to the international financial system”, but does not mention the security interests of the
+United States. EO 13599 mainly affected the assets of Bank Markazi at issue in the Peterson case,
+which are outside the Court’s jurisdiction. Other assets affected by EO 13599, notably the assets of
+Bank Melli and Bank Saderat, had been blocked before 2012 pursuant to other decisions made under
+the authority of Executive Order 13382 of 2005. EO 13599 does not establish a régime of
+individualized measures; it applies generally to all Iranian financial institutions. Whereas the
+
+this Executive Order is broader in scope than what was called for in the relevant resolutions.
+
+
+                            III. The most constant protection and security
+
+of the Treaty of Amity to provide “the most constant protection and security” to the property of
+Iranian companies. It maintains that the obligation is not limited to protection against physical harm
+but also includes legal protection (see Judgment, paras. 170-171).
+
+
+      34. Treaties use different terms to refer to this standard: “constant protection”; “full
+protection”; “continuous protection”; adding “security” before or after “protection”; adding “the
+most” before the adjective, and so forth. Tribunals have not considered these variations as having
+any substantial significance 34. The standard is commonly referred to as “full protection and security”.
+
+
+
+
+       33 Cf. Certain Questions of Mutual Assistance in Criminal Matters (Djibouti v. France), Judgment, I.C.J.
+
+Reports 2008, declaration of Judge Keith, pp. 280-281, paras. 7-8.
+        E.g. Frontier Petroleum Services Ltd. v. The Czech Republic, PCA Case No. 2008-09, Final Award,
+
+12 November 2010, para. 260.
+
+
+       35. This standard has traditionally been understood as protection from physical harm. AAPL v.
+Sri Lanka (1990), the first investment arbitration case brought under an international investment
+agreement, was also the first case which addressed this standard. Sri Lankan security forces had
+destroyed a shrimp farm during a counter-insurgency operation. This case thus concerned protection
+from physical harm 35. The standard of full protection and security was subsequently applied by other
+arbitral tribunals in situations where the investment was affected by physical violence 36.
+
+
+       36. At the beginning of this century, however, some arbitral tribunals started to consider that
+
+Nonetheless, these tribunals have differed in the degree to which they have broadened the scope of
+the standard 37.
+
+
+       37. On the other hand, other arbitral tribunals have continued to maintain that the standard
+refers only to protection from physical harm 38. For example, the tribunal in Saluka v. Czech Republic
+(2006) stated that “the ‘full security and protection’ clause is not meant to cover just any kind of
+impairment of an investor’s investment, but to protect more specifically the physical integrity of an
+
+found it “inappropriate to depart from the originally understood standard of ‘protection and constant
+security’” 40. The tribunal in Suez and Vivendi v. Argentina (2010) carried out a detailed analysis of
+the standard, including its historical development. It then pointed out that “an overly extensive
+interpretation of the full protection and security standard may result in an overlap with the other
+standards of investment protection, which is neither necessary nor desirable”, concluding that “this
+Tribunal is not persuaded that it needs to depart from the traditional interpretation given to this
+term” 41.
+
+
+      38. In support of the proposition that the standard includes legal protection, Iran refers to the
+
+
+       35 Asian Agricultural Products Ltd. (AAPL) v. Republic of Sri Lanka, ICSID Case No. ARB/87/3, Final Award of
+
+27 June 1990.
+       36 E.g. American Manufacturing & Trading, Inc. v. Republic of Zaire, ICSID Case No. ARB/93/1, Award of
+
+21 February 1997, para. 6.05; Wena Hotels Ltd. v. Arab Republic of Egypt, ICSID Case No. ARB/98/4, Award of
+
+       37 E.g. CME Czech Republic B.V. v. The Czech Republic, Partial Award of 13 September 2001, para. 613; Azurix
+
+Corp. v. The Argentine Republic, ICSID Case No. ARB/01/12, Award of 14 July 2006, paras. 406-408; Compañía de
+Aguas del Aconquija S.A. & Vivendi Universal S.A. v. Argentine Republic, ICSID Case No. ARB/97/3, Award of 20 August
+2007, para. 7.4.17; Biwater Gauff (Tanzania) Ltd. v. United Republic of Tanzania, ICSID Case No. ARB/05/22, Award of
+24 July 2008, para. 729; National Grid P.L.C. v. Argentine Republic, Award of 3 November 2008, paras. 187-189; Frontier
+Petroleum Services v. Czech Republic, supra note 34, para. 263; Global Telecom Holding S.A.E. v. Canada, ICSID Case
+No. ARB/16/16, Award of 27 March 2020, paras. 664-665.
+
+
+paras. 483-484; PSEG Global Inc. & Konya Ilgin Elektrik Üretim ve Ticaret Limited Şirketi v. Republic of Turkey, ICSID
+Case No. ARB/02/5, Award of 19 January 2007, paras. 258-259; BG Group Plc. v. The Republic of Argentina, Final Award
+of 24 December 2007, paras. 324-326; Rumeli Telekom A.S. & Telsim Mobil Telekomikasyon Hizmetleri A.S. v. Republic
+of Kazakhstan, ICSID Case No. ARB/05/16, Award of 29 July 2008, para. 668; Liman Caspian Oil BV & NCL Dutch
+Investment BV v. Republic of Kazakhstan, ICSID Case No. ARB/07/14, Award of 22 June 2010, para. 289; Suez, Sociedad
+General de Aguas de Barcelona S.A., & Vivendi Universal S.A. v. The Argentine Republic, ICSID Case No. ARB/03/19,
+Decision on Liability of 30 July 2010, paras. 158-179; Gold Reserve Inc. v. Bolivarian Republic of Venezuela, ICSID Case
+No. ARB(AF)/09/1, Award of 22 September 2014, para. 622; Olin Holdings Ltd. v. State of Libya, ICC Case
+No. 20355/MCP, Final Award of 25 May 2018, paras. 364-365; OperaFund Eco-Invest SICAV PLC & Schwab Holding
+
+       39 Saluka v. Czech Republic, supra note 38, para. 484.
+
+       40 BG Group v. Argentina, supra note 38, para. 326.
+
+       41 Suez & Vivendi v. Argentina, supra note 38, paras. 161-169, 174, 179.
+
+                                                          - 11 -
+
+most constant protection and security” provision in the FCN Treaty between Italy and the
+United States. Iran points out that the Chamber’s examination was made on the basis of the
+
+was not the plant and equipment the subject of the requisition, but the entity of ELSI itself” 42.
+However, this does not mean that the Chamber applied the standard as requiring more than protection
+from physical harm. The Chamber simply did not rule on this point.
+
+
+       39. In the present case, the Court makes a number of important statements with respect to the
+standard of full protection and security. In particular, it observes that the “core” of the standard
+“concerns the protection of property from physical harm”, and emphasizes that this standard “is of
+particular significance and relevance in the form of protection of property from physical harm by
+
+“to exercise due diligence” in providing protection from physical harm within its territory. It notes
+that FCN treaties and international investment agreements often provide for fair and equitable
+treatment and full protection and security “consecutively or even in the same sentence”, and
+considers that “[t]hese two separate standards” would overlap significantly if the full protection and
+security standard were interpreted to include legal protection (Judgment, para. 190). Accordingly,
+the Court concludes that the provision relating to the full protection and security standard was not
+intended to apply to situations covered by the obligation to provide fair and equitable treatment
+(para. 191) and unanimously rejects Iran’s submission in this respect (para. 236 (9)).
+
+legal protection would make this standard similar to the standard of fair and equitable treatment.
+Indeed, some tribunals have considered that full protection and security is absorbed in fair and
+equitable treatment 43. Triggered by the recent tendency to expand full protection and security beyond
+physical protection, some treaties have expressly limited the standard to protection from physical
+harm 44. In order to avoid an overlap between separate standards, full protection and security is better
+understood as providing for protection different from fair and equitable treatment. Unless the relevant
+treaty expressly provides otherwise, full protection and security should be interpreted as referring to
+protection from physical harm.
+
+
+                                                                        (Signed)       IWASAWA Yuji.
+
+
+                                                     ___________
+
+
+
+
+       42    Elettronica Sicula S.p.A. (ELSI) (United States of America v. Italy), Judgment, I.C.J. Reports 1989, p. 64,

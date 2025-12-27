@@ -1,0 +1,940 @@
+                        1. To my greatest regret, I cannot associate myself with the present
+                     Judgment in terms of the conclusions stated in paragraphs 2, 3, 5 and 7 of
+                     its operative part, as well as the reasoning stated in the reasoning part.
+                     My disagreement lies with the understanding of the Judgment on the
+                     basic character of the International Convention for the Regulation of
+                     Whaling (hereinafter “the Convention”), with the methodology the Judg-
+                     ment employs for interpreting and applying the provisions of the Conven-
+                     tion, and thus with a number of conclusions that it reaches.
+                        2. In this opinion, I shall try to deal with some of the salient aspects of
+                     these points of disagreement. In view of the fundamental disagreement on
+                     some basic points, I shall be setting out my understanding on these points
+                     to clarify the differences that I have with the Judgment, rather than focus-
+                     ing on each and every concrete point on which I disagree.
+
+                                 II. The Object and Purpose of the Convention
+
+                        4. It is my view that this case has come to present controversies on which
+                     the opinions of Judges have come to be divided, mainly due to the difference
+                     between the Parties on the perceived evolution in the situation surrounding
+                     whales and whaling that has come to emerge during the period between the
+                     time when the Convention was concluded and the present. A discrepancy in
+                     perception has come to develop between two opposing views. It is argued on
+                     the one hand that there has been an evolution in the economic‑social vista
+                     of the world surrounding whales and whaling over the years since 1946, and
+
+
+
+
+
+8 CIJ1062.indb 286                                                                                    18/05/15 09:29
+
+                     302 	              whaling in the antarctic (diss. op. owada)
+
+                     that this is to be reflected in the interpretation and the application of the
+                     Convention. It is argued, on the other hand, that the juridico‑institutional
+                     basis of the Convention has not changed since it was drafted, based as it was
+                     on the well‑established principles of international law relating to the conser-
+                     vation and management of fishing resources, including whales, and that this
+                     basic character of the Convention should essentially be maintained. This to
+                     my mind is the fundamental divide that separates the legal positions of the
+                     Applicant, Australia, and New Zealand as an intervener under Article 63 of
+                     the Statute, and that of the Respondent, Japan.
+
+                        7. The object and purpose of the Convention is to be understood in the
+                     context of this situation. It is clearly enunciated in its Preamble. The objec-
+                     tives of the Convention are listed in its Preamble in the following words :
+                              “The [Contracting] Governments
+                          �����������������������������������������������������������������������������������������������������������������
+                              Considering that the history of whaling has seen overfishing of one
+                          area after another and of one species of whale after another to such
+                          a degree that it is essential to protect all species of whales from further
+                          overfishing ;
+
+
+
+
+
+
+8 CIJ1062.indb 288                                                                                                                             18/05/15 09:29
+
+                     303 	              whaling in the antarctic (diss. op. owada)
+
+                             Recognizing that the whale stocks are susceptible of natural
+                          increases if whaling is properly regulated, and that increases in the
+                          size of whale stocks will permit increases in the number of whales
+                          which may be captured without endangering these natural resources ;
+                             Recognizing that it is in the common interest to achieve the opti-
+                          mum level of whale stocks as rapidly as possible without causing
+                          widespread economic and nutritional distress ;
+
+                          �����������������������������������������������������������������������������������������������������������������
+                              Desiring to establish a system of international regulation for the
+                          whale fisheries to ensure proper and effective conservation and devel-
+                          opment ;
+
+                          �����������������������������������������������������������������������������������������������������������������
+                              Have agreed as follows : . . .” (Preamble, paras. 3, 4, 5, 7.)
+
+                       8. In explaining the purpose and objectives of the Convention, the
+                     Chair of the Conference, Mr. Kellogg, stated as follows :
+                             “The Preamble, as is customary, explains the purpose and the
+                          objectives of the Convention . . . The Preamble also points out spe-
+                          cifically and primarily that the purpose of this Convention is to
+                          develop a sound conservation programme which will maintain an
+                          adequate and healthy breeding stock. By restoring depleted stocks,
+                          as, for instance, the blue whale and the humpbacked whale, and by
+                          wise management of the existing stocks a maximum sustained yield
+                          of this natural resource can be assured. That, in a few words, is the
+                          general intent of the Preamble.” (Minutes of the Second Session,
+                          IWC, 1946, p. 13, para. 137.)
+                        9. It is clear from this that the object and purpose of the Convention is
+                     to pursue the goal of achieving the twin purposes of the sustainability of
+                     the maximum sustainable yield (“MSY”) of the stocks in question and the
+                     viability of the whaling industry. Nowhere in this Convention is to be
+                     found the idea of a total permanent ban on the catch of whales. That this
+                     was not the intention of the 1982 proposal for a moratorium can be con-
+                     firmed by the Verbatim Record of the International Whaling Commission
+                     which voted for the Moratorium (IWC 34th Annual Meeting,
+                     19‑24 July 1982, pp. 72‑86). In introducing this proposal, the Chairman
+                     of the Technical Committee stated :
+
+                             “[The sponsor of the proposal] regards the whales as a trust for the
+                          future and has looked for rational management, but this has been
+                          difficult to attain. There is scientific uncertainty and lack of data,
+                          some of which are not fully available. Recognizing the disruption to
+                          the whaling industry and the communities involved it proposed a
+
+
+
+
+
+8 CIJ1062.indb 290                                                                                                                             18/05/15 09:29
+
+                     304 	        whaling in the antarctic (diss. op. owada)
+
+                          phasing out over a fixed period of time during which there would be
+                          a diminution of whaling and catches based on scientific advice. This
+                          took the form of a new clause to paragraph 10 of the Schedule which
+                          has the effect of introducing a three‑year period for the industry to
+                          accommodate, noting that block quotas will end in 1985.” (Verbatim
+                          Record, IWC 34th Annual Meeting, 19‑24 July 1982, p. 72.)
+
+
+                        10. The concept of “conservation of fisheries resources” contains the
+                     element of “maximum/optimum sustainable yield” as its integral part as
+                     employed in the Convention. This is in line with the accepted approach to
+                     high‑sea fisheries in general, which is well‑established in the contempo-
+                     rary international law on fisheries. For example, the 1958 Geneva Con-
+                     vention on Fishing and Conservation of the Living Resources of the High
+                     Seas defines the term “conservation of the living resources of the high
+                     seas” as “the aggregate of the measures rendering possible the optimum
+                     sustainable yield from those resources so as to secure a maximum supply of
+                     food and other marine products” (Art. 2 ; emphasis added).
+
+                        11. It is therefore of cardinal importance that the Court understands
+                     this object and purpose of the Convention in its proper perspective, which
+                     defines the essential characteristics of the régime established under the
+                     Convention. In this sense, the proper grasp of the essential characteristics
+                     of the régime created by the Convention should be the starting‑point that
+                     constitutes the key to the proper understanding of the precise nature and
+                     structure of the regulatory régime contained in the concrete provisions of
+                     the Convention, and the legal scope of the rights and obligations pre-
+                     scribed for a contracting State engaging in scientific activities under Arti-
+
+                        12. In other words, the present Judgment has failed in my view to
+                     engage in analysing the essential characteristics of the régime of the Con-
+                     vention. The Judgment in its subsection on “General Overview of the
+                     Convention” (paras. 42‑50), does no more than reproduce what is con-
+                     tained in the provisions of the Convention, without trying to analyse the
+                     raison d’être of the Convention as reflected in its Preamble, except for the
+                     laconic statement that “[t]he functions conferred on the Commission have
+                     made the Convention an evolving instrument” (Judgment, para. 45 ;
+                     emphasis added). It does not specify what this implies. Any international
+                     agreement can be evolving inasmuch as it is susceptible to modification
+                     by the agreement of the parties. The fact that the Commission is given the
+                     power to adopt amendments to the Schedule as an integral part of the
+                     Convention, which can become binding upon those States parties which
+                     do not raise an objection, and that the Commission has amended the
+                     Schedule many times in this sense would not support the thesis that the
+                     Convention is an “evolving instrument” as such. The Convention is not
+                     malleable as such in the legal sense, according to the changes in the sur-
+                     rounding socio‑economic environments.
+
+                                         Régime under the Convention
+
+                        13. For the purpose of understanding the essential characteristics of
+                     the régime established under the Convention, the structure of the Con-
+                     vention has to be analysed in somewhat greater detail. It can be summa-
+                     rized roughly as follows :
+                     (1) the Contracting Governments have created an International Whaling
+                         Commission (hereinafter “IWC”) as its executive organ (Art. III). The
+                         IWC can take a decision by a three‑fourths majority, if action is
+                         required in pursuance of Article V ;
+
+                     (2) under Article V, the IWC may amend the provisions of the Schedule,
+                         which forms an integral part of the Convention (Art. I), by adopting
+                         regulations with respect to the conservation and utilization of whale
+                         resources (Art. V, para. 1), with the conditions that these amendments
+                         of the Schedule, inter alia, (a) shall be such as are necessary to carry
+                         out the objectives and purposes of the Convention and to provide for
+                         the conservation, development, and optimum utilization of the whale
+                         resources ; (b) shall be based on scientific findings ; and (c) shall take
+                         into consideration the interests of the consumers of whale products
+                         and the whaling industry (Art. V, para. 2). Each of such amendments
+                         shall become effective with respect to those Contracting Governments
+                         which have not presented objection, but shall not be effective with
+                         respect to a Government which has so objected until such date as the
+                         objection is withdrawn (Art. V, para. 3) ;
+                     (3) the IWC may also make recommendations to any or all Contracting
+                         Governments on any matters which relate to whales or whaling and
+                         to the objectives and purposes of the Convention (Art. VI) ;
+
+                     (4) notwithstanding anything contained in the Convention, a Contract-
+                         ing Government may grant to any of its nationals a special permit
+                         authorizing that national to kill, take and treat whales for purposes
+                         of scientific research, subject to such restrictions as to number, and
+                         subject to such other conditions as the Contracting Government
+                         thinks fit, and the killing, taking and treating of whales in accordance
+                         with the provisions of Article VIII shall be exempt from the operation
+                         of the Convention (Art. VIII, para. 1).
+
+                        14. It seems fair to conclude from what has been summarized above
+                     that the Convention has created a kind of self‑contained regulatory
+                     régime on whales and whaling — somewhat comparable to the self-­
+                     contained system of an intergovernmental international organization with
+                     its own administrative autonomy — equipped with its regulatory régime for
+                     matters within the purview of its jurisdiction. It goes without saying that
+                     such a system providing for the autonomy of the parties, while created
+
+
+
+
+
+8 CIJ1062.indb 294                                                                                    18/05/15 09:29
+
+                     306 	        whaling in the antarctic (diss. op. owada)
+
+                     inter se, is not free from the process of judicial review by the Court in
+                     accordance with the power given to it for interpreting and applying its
+                     constitutional document, namely, the Convention.
+                        15. Within this self‑contained regulatory régime, no power of decision‑­
+                     making by a majority is given to the IWC automatically to bind the
+                     ­Contracting Parties, except through a mechanism of consent to be given
+                      by each of the Parties as specified in Article V, paragraph 3. In this regu-
+                     latory régime created by the Parties, no amendments to the Schedule will
+                     become effective in relation to the Contracting Party who objects to the
+                     amendments in question. Nor can any recommendation adopted by the
+                     IWC acquire a binding character in relation to a Contracting Party.
+
+                        16. Following the 1982 meeting of the IWC, when an amendment pro-
+                     posed by the Seychelles and supported by Australia and several other
+                     member States was adopted, amending paragraph 10 of the Schedule to
+                     ban commercial whaling of all species beginning in the 1985‑1986 season,
+                     Japan did eventually exercise this right to raise objection under Article V,
+                     which it later withdrew under pressure from the United States. The argu-
+                     ment advanced with regard to this situation by the Applicant, and devel-
+                     oped further by the Intervener, that the Convention has gone through an
+                     evolution during these 60 years in accordance with the change in the envi-
+                     ronment surrounding whales and whaling, and especially in the growth in
+                     the community interest of the world that whales be preserved as precious
+                     animals, would seem to be an argument that would be tantamount to an
+                     attempt to change the rules of the game as provided for in the Conven-
+                     tion and accepted by the Contracting Parties in 1946. (The argument
+                     could be qualitatively different, if it were advanced on the ground, based
+                     on scientific evidence, that whales were being overfished to severe deple-
+                     tion or even extinction and that therefore precautionary measures would
+                     have to be taken to prevent this happening — an argument which would
+                     legitimately fall within the ambit of the Convention. It is my understand-
+                     ing, however, that such an argument has not been seriously advanced by
+                     the Applicant with supporting credible scientific evidence in the present
+                     case.)
+
+                        17. The Respondent claims that, faced with this new situation of the
+                     adoption of a moratorium on whaling for commercial purposes, it became
+                     necessary for the Respondent to advance a programme of activities for
+                     purposes of scientific research so that scientific evidence could be col-
+                     lected for the consideration of the IWC (or its Scientific Committee), with
+                     a view to enabling the IWC to lift or review the moratorium, which pro-
+                     fessedly was a measure adopted to be of not unlimited duration and sub-
+                     ject to future review. The moratorium explicitly provided that the
+                     provision setting catch limits at zero “will be kept under review, based
+                     upon the best scientific advice, and by 1990 at the latest the Commission
+                     will undertake a comprehensive assessment of the effects of this decision
+                     on whale stocks and consider modification of this provision and the
+
+
+
+
+
+8 CIJ1062.indb 296                                                                                   18/05/15 09:29
+
+                     307 	        whaling in the antarctic (diss. op. owada)
+
+                     establishment of other catch limits” (Schedule, para. 10 (e)). It would
+                     seem difficult to see anything wrong in the Respondent’s course of action.
+                     
+                        18. Setting aside passing judgment on this argument of the Respond­
+                     ent, it is to be noted that the Convention prescribes that
+                          (1) “[the] amendments of the Schedule . . . shall be such as are nec-
+                              essary to carry out the objectives and purposes of [the] Conven-
+                              tion and to provide for the conservation, development, and
+                              optimum utilization of the whale resources ; [and] shall be based
+                              on scientific findings [and]
+                          (2) any Contracting Government may grant to any of its nationals a
+                              special permit authorizing that national to kill, take and treat
+                              whales for purposes of scientific research” (Art. V, para. 2, and
+                              Art. VIII, para. 1).
+                     In this sense what the Respondent embarked upon under JARPA
+                     and JARPA II is prima facie to be regarded as being in conformity with
+                     the Convention and the revised Schedule, including its subpara-
+                     graph 10 (e).
+                       Thus the whole question of the legality of the whaling activities of
+                     Japan under JARPA, and JARPA II as its continuation, has come to
+                     hinge upon the question of whether these activities of the Respondent
+                     could fall under the activities “for purposes of scientific research” within
+                     the meaning of Article VIII of the Convention.
+
+                                     IV. The Interpretation of Article VIII
+
+                        19. The essential character of the Convention as examined above lies
+                     in the fact that the Contracting Parties have created a self‑contained regu-
+                     latory régime for the regulation of whales and whaling. The prescription
+                     contained in Article VIII of the Convention in my view is one important
+                     component of this regulatory régime. It would be wrong in this sense to
+                     characterize the power recognized to a Contracting Party to grant to its
+                     nationals special permits “to kill, take and treat whales for purposes of
+                     scientific research” (Convention, Art. VIII, para. 1) as nothing else than
+                     an exception to the regulatory régime established by the Convention —
+                     namely as an exception recognized in deference to the traditional notion
+                     of sovereign right to engage in hunting whales under the freedom of
+                     high‑sea fisheries. The Contracting Party which is granted this preroga-
+                     tive under Article VIII is in effect carrying out an important function
+                     within this regulatory régime by collecting scientific materials and data
+                     required for the promotion of the objectives and purposes of the Conven-
+                     tion, such as the New Management Procedure (“NMP”) or the Revised
+                     Management Procedure (“RMP”) discussed in the IWC for the proper
+                     management of the whaling stocks. It is for this reason that the Contract-
+                     ing Party in question, endowed under the Convention with the discretion
+
+
+
+
+
+8 CIJ1062.indb 298                                                                                  18/05/15 09:29
+
+                     308 	        whaling in the antarctic (diss. op. owada)
+
+                     to determine what types of scientific research it intends to conduct and
+                     how the research should be implemented, will be subjected to the subse-
+                     quent process of review and critical comment by its executive organ, the
+                     IWC, and more specifically, its scientific subdivision, the Scientific Com-
+                     mittee. These are the organs entrusted in this regulatory régime with the
+                     task of conducting the process of review and critical comment on these
+                     activities, from the viewpoint of achieving the object and purpose of the
+                     Convention on the basis of scientific assessment. It is to be noted that
+                     there is no provision, either in this Article or in any other part of the
+                     Convention, that empowers the IWC or the Scientific Committee legally
+                     to restrict the exercise of this prerogative of a Contracting Party to grant
+                     special permits in any specific way, except that the granting of special
+                     permits has to be “for purposes of scientific research subject to such
+                     restrictions as to number and subject to such other conditions as the Con-
+                     tracting Government thinks fit” (Convention, Art. VIII, para. 1). In other
+                     words, under this regulatory régime of the Convention the power to
+                     determine such questions as what should be the components of the scien-
+                     tific research, or how the scientific research should be designed and imple-
+                     mented in a given situation, is primarily left to the discretionary decision
+                     of the granting Government. The Contracting Government is obligated
+                     to exercise this discretionary power only for purposes of scientific research
+                     in good faith and to be eventually accountable for its activities of scien-
+                     tific research before the executive organs of the Convention, the IWC and
+                     the Scientific Committee. These organs have the responsibility to ensure
+                     that this will be the case by reviewing and raising critical comments from
+                     a scientific point of view.
+
+
+                        20. As I stated earlier, this does not mean that the Court, as the judi-
+                     cial institution entrusted with the task of interpreting and applying the
+                     provisions of the Convention, has no role to play in this whole process,
+                     while paying full respect to the internal autonomy of the Convention. The
+                     function of the Court as a court of law gives it the power to interpret and
+                     apply the provisions of the Convention from a legal point of view. Given
+                     the nature and the specific characteristics of the regulatory framework
+                     created by the Convention, however, this power of the Court has to be
+                     exercised with a certain degree of restraint, to the extent that what is
+                     involved is (a) related to the application of the regulatory framework of
+                     the Convention, and (b) concerned with the techno‑scientific task of
+                     assessing the merits of scientific research assigned by the Convention to
+                     the Scientific Committee.
+                        21. On the first aspect of the problem relating to the application of the
+                     regulatory framework of the Convention ((a) above, paragraph 20 of this
+                     opinion), good faith on the part of the Contracting State, acting as an
+                     agent within the framework of this regulatory régime, has necessarily to
+                     be presumed. The function of the Court in this respect is to see to it that
+                     the State in question is pursuing its activities in good faith and in accor-
+
+
+
+
+
+8 CIJ1062.indb 300                                                                                   18/05/15 09:29
+
+                     309 	        whaling in the antarctic (diss. op. owada)
+
+                     dance with the requirements of the regulatory régime for the purposes of
+                     scientific research that is conducive to scientific outcomes which would
+                     help promote the object and purpose of the Convention. The concrete
+                     modalities of the activities for scientific research to be conducted by the
+                     State, including the programme’s design and implementation, however,
+                     should by its nature not be the proper subject of review by the Court.
+                     Article VIII expressly grants to the Contracting Government the primary
+                     power to decide on this, by providing that 
+
+                          “[n]otwithstanding anything contained in this Convention any Con-
+                          tracting Government may grant . . . a special permit . . . subject to
+                          such restrictions as to number and subject to such other conditions
+                          as the Contracting Government thinks fit” (Convention, Art. VIII,
+                          para. 1).
+                     It clearly grants the State in question the power prima facie to determine
+                     concrete modalities of research activities to be undertaken under
+                     Article VIII, although under this regulatory régime, these modalities, to
+                     be determined by the State in question, would be subjected to assessment
+                     by the IWC and the Scientific Committee through the review process.
+
+                        22. Allegations made by the Applicant that the activities were designed
+                     and implemented for purposes other than scientific research under the
+                     cover of scientific research thus cannot be presumed, and will have to be
+                     established by hard conclusive evidence that could point to the existence
+                     of bad faith attributable to the State in question. Such serious charges of
+                     bad faith, either explicit or implicit, against a sovereign State can never be
+                     presumed and should not be accepted by this Court unless the Applicant
+                     can establish them by conclusive and indisputable evidence. This is an
+                     established principle of international law (see, e.g., Lac Lanoux Arbitra-
+                     tion (France v. Spain), Reports of International Arbitral Awards (RIAA),
+                     Vol. XII, p. 281). Ulterior motives harboured by some individuals
+                     involved in the action, whatever their position may be, if any, should not
+                     be treated as relevant in principle, unless it is established by convincing
+                     evidence that such motives played the decisive role in formulating and
+                     embarking on the programme, constituting the real legal source (fons et
+                     origo) of the activities undertaken.
+
+
+                        23. On the second aspect of the problem relating to the determination of
+                     what constitutes activities “for purposes of scientific research” (point (b)
+                     above, paragraph 20 of this opinion), I do not agree with the approach
+                     pursued by the Judgment to distinguish between “scientific research” as
+                     such and “[activities] for purposes of scientific research” (Judgment,
+                     paras. 70‑71). It is true that the Judgment, after spending so many para-
+                     graphs (ibid., paras. 73‑86) attempting to define what constitutes “scien-
+                     tific research”, seems to have abandoned this effort in the end, rejecting
+
+
+
+
+
+8 CIJ1062.indb 302                                                                                    18/05/15 09:29
+
+                     310 	         whaling in the antarctic (diss. op. owada)
+
+                     the criteria advanced by the Applicant on the basis of its expert’s testi-
+                     mony. The Judgment nevertheless seems to dwell upon this distinction
+                     between “scientific research” and activities “for purposes of scientific
+                     research” with a view to establishing that an activity that may contain
+                     elements of “scientific research” cannot always be accepted as an activity
+                     “for purposes of scientific research”. To me such a distinction is so artifi-
+                     cial that it loses any sense of reality when applied to a concrete situation.
+                     The Court should focus purely and simply on the issue of the scope of
+                     what constitutes activities “for purposes of scientific research” according
+                     to the plain and ordinary meaning of the phrase.
+                        24. On the question of what constitutes activities “for purposes of sci-
+                     entific research”, it must first of all be said in all frankness that this Court,
+                     as a court of law, is not professionally qualified to give a scientifically
+                     meaningful answer, and should not try to pretend that it can, even though
+                     there may be certain elements in the concept that the Court may legiti-
+                     mately and usefully offer as salient from the viewpoint of legal analysis.
+                        25. What is “scientific research” is a question on which qualified scien-
+                     tists often have a divergence of opinion and are not able to come to a
+                     consensus view. The four criteria advanced by one of the experts who testi-
+                     fied before the Court and relied upon by the Applicant have not been
+                     accepted by the present Judgment as a useful framework to determine
+                     whether the activities of the Respondent in JARPA/JARPA II are for pur-
+                     poses of scientific research. Nonetheless the Judgment, in applying the test
+                     of objective reasonableness as its standard of review, does get into the “sci-
+                     entific assessment” of the Court itself on various substantive aspects of
+                     JARPA/JARPA II activities, in order to come to its final conclusion that
+                     these activities under the programme of JARPA II, especially focusing on
+                     the issue of the lethal taking of whales, cannot qualify as activities con-
+                     ducted “for purposes of scientific research”, because they cannot be
+                     regarded as objectively reasonable according to the scientific assessment of
+                     the Court on its own. As the Judgment itself makes clear, the Judgment
+                     engages in a substantive assessment of its own on these activities in the
+                     name of objectively examining their “reasonableness”. The question which
+                     immediately arises, however, is “in what context is this reasonableness to
+                     be judged ?” Is it the legal context or is it the scientific context that the
+                     Court claims to be engaged in ? If we are speaking of the legal context, the
+                     answer is clear. We have the answer in the Convention itself. The Conven-
+                     tion leaves this point, at any rate at the level of the law, primarily to the
+                     good faith appreciation of the party which undertakes the research in
+                     question. If we are speaking of the scientific context, it would be impossi-
+                     ble for the Court to establish that certain activities are objectively reason-
+                     able or not, from a scientific point of view, without getting into a
+                     techno‑scientific examination and assessment of the design and implemen-
+                     tation of JARPA/JARPA II, a task which this Court could not and should
+                     not attempt to do. This is the second reason why the Court should not
+                     engage in this exercise. I shall elaborate this point in the following section
+                     in connection with the issue of the scope and the standard of review.
+
+
+
+
+
+8 CIJ1062.indb 304                                                                                       18/05/15 09:29
+
+                     311 	         whaling in the antarctic (diss. op. owada)
+
+                                      V. The Scope of Review by the Court
+
+                        26. According to the structure of the Convention as interpreted in light
+                     of its object and purpose, the Contracting Parties expressly recognize the
+                     need and the importance of scientific research for the purpose of support-
+                     ing the “system of international regulation for the whale fisheries to
+                     ensure proper and effective conservation and development of whale
+                     stocks” (Preamble, para. 7) as established by the Convention, which
+                     “provide[s] for the proper conservation of whale stocks and thus make[s]
+                     possible the orderly development of the whaling industry” (ibid., para. 8).
+                     It is for this reason that the Conference which was convened for the con-
+                     clusion of the Convention in 1946 stressed the critical importance of sci-
+                     entific research by scientific organizations engaged in research on whales.
+                     In this regard, the statement of its Chair, which makes the following
+                     points, is highly relevant :
+
+
+                          “it is not our [i.e., the Contracting Parties’] intention or our belief that
+                          this commission [IWC] would usurp any of the previous preroga-
+                          tives . . . of these various scientific organizations that have been
+                          engaged in research on whales . . . [W]e are in the main dependent on
+                          the factual information and on the work of their staff . . . [T]he Con-
+                          ference should bear in mind the great debt we owe to these research
+                          organizations . . .” (Minutes of the Third Session, IWC/20, p. 11,
+                          para. 117.)
+                     While Article VIII, paragraph 1, was taken from the language of Arti-
+                     cle X of the International Agreement for the Regulation of Whaling of
+                     1937, the Chair pointed out that “the two sentences reading, ‘each con-
+                     tracting Government shall report to the Commission all such authoriza-
+                     tions which it has been (sic) granted’ are new” and that “[t]he remainder
+                     of Article VIII stresses the importance of scientific research and encour-
+                     ages dissemination of the resultant information” (Minutes of the Seventh
+                     Session, IWC/32 p. 23, paras. 322‑323).
+                        27. It becomes evident from what is quoted above that the intention of
+                     the Contracting Parties, in agreeing on the language of Article VIII of the
+                     Convention, was to provide for the right of a Contracting Government to
+                     grant to its nationals special permits to take whales for purposes of scien-
+                     tific research. This is a prerogative given to the Contracting Government
+                     by Article VIII of the Convention, and the Contracting Government may
+                     take this action without prior consultations with, or approval of, the
+                     IWC or its Scientific Committee. This is amply illustrated by the com-
+                     ments of one of the delegates during the drafting process, who suggested
+                     a contrary proposal “to require a contracting government to [issue per-
+                     mits for scientific research] after consultation with the commission, and
+                     not independently of it” (Minutes of the Third Session, IWC/20, p. 11,
+                     para. 115 ; emphasis added). This proposal was not adopted.
+
+
+
+
+
+8 CIJ1062.indb 306                                                                                       18/05/15 09:29
+
+                     312 	        whaling in the antarctic (diss. op. owada)
+
+                        28. This of course is not to say that a Contracting Government has
+                     unlimited discretion in granting a special permit as an exercise of its sov-
+                     ereign freedom of action. The prerogative recognized under Article VIII
+                     is prescribed as part of the Convention, and more specifically as part of
+                     the regulatory régime established by the Convention. While in my view
+                     the assessment of scientific merits of research activities such as the
+                     JARPA/JARPA II programme, including the scientific assessment of
+                     their design and implementation, for achieving the purposes of the Con-
+                     vention is a matter assigned specifically to the organs of the Convention,
+                     especially the IWC and its Scientific Committee, there are certain aspects
+                     of this process of assessment which are to be subjected to the legal scru-
+                     tiny of the Court in its exercise of its power of review for the interpreta-
+                     tion and application of the Convention.
+                        Within this delimited context, it is the role of the Court to examine
+                     from a legal point of view whether the procedures expressly prescribed by
+                     the regulatory régime of the Convention (i.e., the procedural require-
+                     ments for the Contracting Party under Article VIII) are scrupulously
+                     observed. Without getting into the task of techno‑scientific analysis of
+                     what should constitute in substance scientific research and without mak-
+                     ing the concrete assessment of each aspect of the activities involved — a
+                     task assigned to the Scientific Committee — the Court can also review
+                     whether the activities in question can be regarded as meeting the generally
+                     accepted notion of “scientific research” (the substantive requirement for
+                     the Contracting Party under Article VIII). This process involves the
+                     determination of the standard of review to be applied by the Court.
+
+
+
+                                   VI. The Standard of Review by the Court
+
+                       29. In determining the standard of review, the Judgment sums up the
+                     positions of the Parties in the following manner. First, for the position of
+                     the Applicant, the Court states the following :
+                             “According to Australia, the Court’s power of review should not
+                          be limited to scrutiny for good faith, with a strong presumption in
+                          favour of the authorizing State, as this would render the multilateral
+                          régime for the collective management of a common resource estab-
+                          lished by the ICRW ineffective. Australia urges the Court to have
+                          regard to objective elements in evaluating whether a special permit
+                          has been granted for purposes of scientific research, referring in par-
+                          ticular to the ‘design and implementation of the whaling programme,
+                          as well as any results obtained’.” (Judgment, para. 63.)
+
+                       30. Second, the Judgment juxtaposes this position of the Applicant
+                     with the following quotation from the statement of the Respondent in the
+                     oral proceedings as representing the position of the Respondent :
+
+
+
+
+
+8 CIJ1062.indb 308                                                                                  18/05/15 09:29
+
+                     313 	         whaling in the antarctic (diss. op. owada)
+
+                             “Japan agrees with Australia and New Zealand in regarding the
+                          test as being whether a State’s decision is objectively reasonable, or
+                          ‘supported by coherent reasoning and respectable scientific evidence
+                          and . . ., in this sense, objectively justifiable’.” (Judgment, para. 66.)
+
+                        31. Based on these two statements of the Parties, the Judgment con-
+                     cludes as its own position on the issue of the standard of review, as fol-
+                     lows :
+                             “When reviewing the grant of a special permit authorizing the kill-
+                          ing, taking and treating of whales, the Court will assess, first, whether
+                          the programme under which these activities occur involves scientific
+                          research. Secondly, the Court will consider if the killing, taking and
+                          treating of whales is ‘for purposes of’ scientific research by examining
+                          whether, in the use of lethal methods, the programme’s design and
+                          implementation are reasonable in relation to achieving its stated
+                          objectives. This standard of review is an objective one.” (Ibid.,
+                          para. 67.)
+                        32. With regard to this conclusion of the Judgment on the question of
+                     the standard of review, it has to be pointed out that there is a jump in logic
+                     in the reasoning between what is summarized as the respective positions of
+                     the Parties in paragraphs 63 and 66, and what is stated in this last quoted
+                     paragraph 67 as the conclusion of the Court which the Judgment claims to
+                     have been drawn from the respective positions of the Parties. In other
+                     words, the Judgment, ignoring the differences between the Parties on the
+                     question of the scope and the standard of review and without further expla-
+                     nation, would seem to endorse the position of one of the Parties, namely
+                     that of the Applicant. In paragraph 67 it declares, almost abruptly and
+                     ex cathedra, as it were, that the Court will assess “whether, in the use of
+                     lethal methods, the programme’s design and implementation are reason-
+                     able”, thus employing the formula advanced by the Applicant on the scope
+                     of the review and linking it with the standard of review seemingly conceded
+                     by the Respondent, as if to suggest that the application of this standard of
+                     objective reasonableness had been accepted as the common ground among
+                     the Parties in relation to the overall scope of the review, whereas, in reality,
+                     there was a wide difference of position between the Parties, especially in
+                     relation to the scope of the review. It has to be said that this conclusion as
+                     formulated by the Judgment is clearly a gross misrepresentation of what
+                     each of the Parties was prepared to accept as a common ground for the
+                     scope and the standard of review to be applied in the present context.
+                        In the course of deciding that the Judgment, for whatever reason that
+                     has not been explained, is going to apply the yardstick that the pro-
+                     gramme must be objectively reasonable as the standard of review, the
+                     Judgment brings in to this process an entirely new element of “design and
+                     implementation” of the whaling programme (ibid., para. 67), which relates
+                     to the scope of the review. This is an element which the Applicant
+
+
+
+
+
+8 CIJ1062.indb 310                                                                                      18/05/15 09:29
+
+                     314 	         whaling in the antarctic (diss. op. owada)
+
+                     has been insisting on introducing in support of its contention. The Judg-
+                     ment provides no explanation as to why it is legitimate or appropriate for
+                     the Court to expand the scope of the review by engaging in the examina-
+                     tion of these substantive aspects of the JARPA II programme.
+                        33. A careful examination of the arguments of the Parties as developed
+                     through the written and oral proceedings in the present case reveals that
+                     the genesis of this standard of review would appear to derive its origin
+                     from the jurisprudence of the Appellate Body of the World Trade Organi-
+                     zation (WTO), which has had to face a number of cases which involve the
+                     issue of judicial review of sovereign decisions of member States over scien-
+                     tifically controversial issues, as one of the Parties noted in its pleadings.
+                        34. When one examines more closely the quoted jurisprudence of the
+                     WTO Appellate Body in its context, it becomes clear that this general
+                     proposition in favour of the test of objective reasonableness, has its basis
+                     in the Appellate Body’s carefully reasoned argument for the demarcation
+                     line to be drawn between science and law in the context of the judicial
+                     review of a situation where there is no clear‑cut consensual or even major-
+                     ity view of scientists on which jurists can rely. The rationale of the deci-
+                     sion in question, which came before the WTO Appellate Body at the final
+                     phase of the Continued Suspension of Obligations in the EC‑Hormones
+                     Dispute (United States) case (hereinafter “EC‑Hormones”), illustrates this
+                     point. It is my view that the present Judgment takes this magic formula
+                     of objective reasonableness out of the context in which this standard was
+                     employed and applies it somewhat mechanically for our purposes, with-
+                     out giving proper consideration to the context in which this standard of
+                     review was applied.
+
+                       35. The Respondent tried to clarify its position on the issue of the stan-
+                     dard of review by explaining how this standard of objective reasonable-
+                     ness could be relevant to the present case, in the following words :
+                            “Yes : the Court can ask, could a reasonable State regard this as a
+                          properly‑framed scientific inquiry ? But it can no more impose a line
+                          separating science from non‑science than it could decide what is and
+                          what is not ‘Art’. In Japan’s view, the correct question is, could a State
+                          reasonably regard this as scientific research ?
+
+
+                             That is why Japan agrees with Australia and New Zealand in
+                          regarding the test as being whether a State’s decision is objectively
+                          reasonable, or ‘supported by coherent reasoning and respectable scien-
+                          tific evidence and . . ., in this sense, objectively justifiable’.” (CR 2013/22,
+                          p. 60, paras. 20‑21 (Lowe) ; emphasis added.)
+                        What this part of the argument of the Respondent is relying on is the
+                     quotation, word‑for‑word, from the decision of the WTO Appellate Body
+                     in the final phase of the EC‑Hormones case. It is for this reason important
+                     to examine the precise context in which this quoted passage appears.
+
+
+
+
+
+8 CIJ1062.indb 312                                                                                           18/05/15 09:29
+
+                     315 	         whaling in the antarctic (diss. op. owada)
+
+                        36. The decision of the WTO Appellate Body contained in its final
+                     Report of 16 October 2008, reviewing and setting aside the earlier deci-
+                     sion of its Dispute Settlement Panel, states as follows :
+                            “[S]o far as fact‑finding by [the WTO] panels is concerned, the
+                          applicable standard is ‘neither de novo review as such, nor ‘total def-
+                          erence’, but rather the ‘objective assessment of facts’ . . .
+
+                            It is the WTO Member’s task to perform the risk assessment. The
+                          panel’s task is to review that risk assessment. Where a panel goes
+                          beyond this limited mandate and acts as a risk assessor, it would be
+                          substituting its own scientific judgment for that of the risk assessor and
+                          making a de novo review and, consequently, would exceed its functions
+                          under Article 11 of the [Dispute Settlement Understanding of the
+                          WTO]. Therefore, the review power of a panel is not to determine
+                          whether the risk assessment undertaken by a WTO Member is correct,
+                          but rather to determine whether that risk assessment is supported by
+                          coherent reasoning and respectable scientific evidence and is, in this
+                          sense, objectively justifiable.” (WT/DS320/AB/R, p. 246, paras. 589‑
+                          590 ; emphasis added.)
+
+
+                     Here we find a well‑defined exposé of the essential rationale for the stan-
+                     dard of review developed in the jurisprudence that the Respondent quotes
+                     in agreeing to the test of objective reasonableness. The Appellate Body
+                     decision is very specific in clarifying that “a panel may not rely on the
+                     experts to go beyond its limited mandate of review” and that
+
+                          “[t]he panel may seek the experts’ assistance in order to identify the
+                          scientific basis of the . . . measure [taken] and to verify that this sci-
+                          entific basis comes from a qualified and respected source, irrespective
+                          of whether it represents minority or majority scientific views” (ibid.,
+                          p. 247, para. 592).
+                        37. Despite the difference that these two cases — one being before the
+                     Appellate Body of the WTO, the other being before the ICJ — represent
+                     in terms of the law applicable, in the nature of the issue involved and in
+                     the context in which the dispute arose, as well as the obvious fact that the
+                     WTO decision cannot in any sense constitute a precedent for our pur-
+                     poses, there is nevertheless one common element to which this Court
+                     could pay regard. It is the point that when a court of law or a judicial
+                     body is engaged in the legal assessment of a scientific matter where scien-
+                     tists hold divergent views, the judicial institution is under an intrinsic
+                     limitation on its power and must not exceed its competence as the admin-
+                     istrator of the law, by straying into an area which lies beyond its delim-
+                     ited function. Thus under the system in which the judicial body’s task is
+                     to review the risk assessment conducted by a member State endowed with
+
+
+
+
+
+8 CIJ1062.indb 314                                                                                     18/05/15 09:29
+
+                     316 	         whaling in the antarctic (diss. op. owada)
+
+                     that power and, to use the expression employed in the WTO jurispru-
+                     dence, 
+                          “[w]here [that body] goes beyond this limited mandate and acts as a
+                          risk assessor, it would be substituting its own scientific judgement for
+                          that of the risk assessor and making a de novo review and, conse-
+                          quently, would exceed its functions” (WT/DS320/AB/R, p. 246,
+                          para. 590).
+                        It is my view that it was in this sense and in this context that the juris-
+                     prudence of the WTO decision can be a useful point of reference for this
+                     Court in the present case, where the function of the Court “is not to
+                     determine whether the . . . assessment undertaken by a WTO Member is
+                     correct, but rather to determine whether that . . . assessment is supported
+                     by coherent reasoning and respectable scientific evidence and is, in this
+                     sense, objectively justifiable” (ibid.).
+                        38. In my view, the Judgment has erred in its approach by taking this
+                     standard of objective reasonableness out of its context, and by mechanically
+                     applying it for the opposite purpose, that is, for the purpose of engaging the
+                     Court in making a de novo assessment of the activities of the Respondent,
+                     when that State is given the primary power under the Convention to deter-
+                     mine what should be the modalities of activities for pursuing scientific
+                     research and to grant special permits for purposes of scientific research. This
+                     discretion given to the State issuing the permit is subject to the process of
+                     review and critical comment by the Scientific Committee and by the IWC in
+                     accordance with the regulatory framework of the Convention.
+                        39. The concept of “reasonableness” appears from time to time in the
+                     jurisprudence of this Court in some of its past decisions. In my view,
+                     however, it is not possible nor useful to try to apply this concept of “rea-
+                     sonableness” in a general way as the standard of substantive assessment.
+                     No one would dispute the validity of this concept as such, which like the
+                     concept of “fairness”, is one of the basic principles of international law,
+                     or for that matter of law in general, but its concrete interpretation and
+                     application as a standard of review will depend entirely upon the context
+                     in which the term is to be applied. It is not a standard for substantive
+                     assessment, but a yardstick for ascertaining whether a decision or an
+                     action is or is not “arbitrary” or patently “out of bounds”.
+                        In the case concerning Dispute regarding Navigational and Related
+                     Rights (Costa Rica v. Nicaragua), the Court referred to the contention of
+                     the Applicant (Costa Rica) which argued that the way the Respondent
+                     (Nicaragua) restricted Costa Rica’s navigational rights on the San Juan
+                     River was “not reasonable”. The Court clarified the character of this con-
+                     cept in the following way :
+                             “The Court notes that Costa Rica, in support of its claim of unlaw-
+                          ful action, advances points of fact about unreasonableness by refer-
+                          ring to the allegedly disproportionate impact of the regulations. The
+                          Court recalls that in terms of well established general principle it is
+
+
+
+
+
+8 CIJ1062.indb 316                                                                                     18/05/15 09:29
+
+                     317 	         whaling in the antarctic (diss. op. owada)
+
+                          for Costa Rica to establish those points (cf. Maritime Delimitation in
+                          the Black Sea (Romania v. Ukraine), Judgment, I.C.J. Reports 2009,
+                          p. 86, para. 68, and cases cited there). Further, a court examining the
+                          reasonableness of a regulation must recognize that the regulator, in
+                          this case the State with sovereignty over the river, has the primary
+                          responsibility for assessing the need for regulation and for choosing, on
+                          the basis of its knowledge of the situation, the measure that it deems
+                          most appropriate to meet that need. It will not be enough in a challenge
+                          to a regulation simply to assert in a general way that it is unreasonable.
+                          Concrete and specific facts will be required to persuade a court to
+                          come to that conclusion.” (I.C.J. Reports 2009, p. 253, para. 101 ;
+                          emphasis added.)
+
+
+                       40. The position of the Respondent in the present case is analogous in
+                     law to that of the respondent under the 1858 Treaty of Limits in the case
+                     concerning Dispute regarding Navigational and Related Rights
+                     (Costa Rica v. Nicaragua). The dictum of this Court in the latter case
+                     should be applicable to the situation in the present case.
+
+
+                      VII. Application of the Standard of Review in the Present Case
+
+                        41. Having thus clarified the scope and the standard of review to be
+                     applied by the Court in reviewing the JARPA II activities under Arti-
+                     cle VIII, I shall refrain from engaging myself in the exercise of refuting
+                     the conclusions of the Judgment resulting from its substantive assessment
+                     of each of the concrete aspects of the design and implementation of the
+                     JARPA II programme, in order to ascertain whether they can be regarded
+                     as objectively reasonable, as the Judgment has tried to do in Section II,
+                     subsection 3.B (Judgment, paras. 127‑227). I do so refrain, because in my
+                     view to engage oneself in this exercise would be doing precisely what the
+                     Court should not have done under the Convention in light of the essential
+                     character of the Convention so clearly manifested in its object and pur-
+                     pose, and in particular in light of the legal structure of the regulatory
+                     régime created under the Convention, as well as, most importantly, in
+                     view of the intrinsic limitation inherent in the power of the Court as a
+                     legal institution empowered with review in the present context.
+                        42. Nevertheless, I wish to draw the attention of the Court to one
+                     point of law which relates to a question of principle involved throughout
+                     the substantive assessment of the programme of JARPA II by the Judg-
+                     ment in its subsection 3.B. My critical comments relate to the methodol-
+                     ogy that the Judgment employs in applying the standard of objective
+                     reasonableness in assessing the concrete activities of JARPA II conducted
+                     under Article VIII of the Convention. In my view, the ordinary and plain
+                     meaning of Article VIII makes it clear that the Contracting Government
+
+
+
+
+
+8 CIJ1062.indb 318                                                                                     18/05/15 09:29
+
+                     318 	        whaling in the antarctic (diss. op. owada)
+
+                     has the primary power to grant special permits authorizing to kill, take
+                     and treat whales for purposes of scientific research. There is a presump-
+                     tion — a strong, though rebuttable, presumption — that the granting
+                     Government, in granting the permits, has made this determination not
+                     only in good faith, but also in light of a careful consideration that the
+                     activities are carried out for purposes of scientific research. As I have
+                     repeatedly emphasized, the function of the Court, engaged in the judicial
+                     review of the exercise of power by the Contracting Government, is to
+                     assess whether this determination of the Contracting Government in
+                     question is objectively reasonable, in the sense that the programme of
+                     research is based upon a coherent reasoning and supported by respectable
+                     opinions within the scientific community of specialists on whales, even if
+                     the programme of research may not necessarily command the support of
+                     a majority view within the scientific community involved.
+                        43. In particular, with regard to the issue of lethal taking of whales,
+                     which forms the central theme in the assessment in the Judgment of
+                     whether the programme in its design and implementation can be regarded
+                     as objectively reasonable, the Judgment appears to be applying the stan-
+                     dard of objective reasonableness in such a way that it is the granting
+                     party that bears the burden of establishing that the scale and the size of
+                     the lethal take envisaged under the programme is reasonable in order for
+                     the programme to be qualified as a genuine programme “for purposes of
+                     scientific research”.
+                        44. To place the onus of meeting such a stringent requirement upon
+                     the party granting the special permits in accordance with the provisions
+                     of the Convention cannot be in consonance with the plain and ordinary
+                     meaning of Article VIII, which provides for an unqualified right of the
+                     Contracting Party to “grant . . . special permit[s] authorizing . . . to kill,
+                     take and treat whales for purposes of scientific research” as part of the
+                     regulatory régime created under the Convention.
+                        45. In the context of the present dispute, and applying the standard of
+                     objective reasonableness used by the Judgment as the yardstick for deter-
+                     mining whether the activities were “for purposes of scientific research”, it
+                     should be the Applicant, rather than the Respondent, who has to estab-
+                     lish by credible evidence that the activities of the Respondent under
+                     JARPA II cannot be regarded as “reasonable” scientific research activi-
+                     ties for the purposes of Article VIII of the Convention. Under the Con-
+                     vention, the Respondent is given the presumptive power to grant permits
+                     for activities for purposes of scientific research. In my view, the Applicant
+                     has failed to establish that the activities carried out pursuant to JARPA II
+                     are not “reasonable” scientific activities.
+
+                         49. By way of conclusion, it should be emphasized that the sole and
+                      crucial issue at the centre of the present dispute is whether the activities
+                      under the programme of JARPA II are “for purposes of scientific
+                      research”. The issue is not whether the programme of JARPA II has
+                      attained a level of excellence as a project for scientific research for achiev-
+                     ing the object and purpose of the Convention, which is a matter to be
+                     considered and examined by the Scientific Committee. It may also be true
+                     that the JARPA II programme is far from being perfect for attaining such
+                     an objective and may need improvements to achieve that purpose. Such
+                     criticism of JARPA II could appropriately be valuable in the review
+                     ­
+                     process, with a view to remodelling or redesigning these activities in
+                     ­
+                     accordance with what the regulatory framework of the Convention pre-
+                     scribes, but this cannot be the ground for the Court to declare that the
+                     activities of the programme are unreasonable for purposes of scientific
+                     research. Even if JARPA II contained some defects as a programme for
+                     purposes of scientific research, that fact in itself would not turn these
+                     activities into activities for commercial whaling. It certainly could not be
+                     the reason for this Court to rule that “Japan shall revoke any extant
+                     authorization, permit or licence granted in relation to JARPA II”
+                     ­(Judgment, operative part 7, para. 247).

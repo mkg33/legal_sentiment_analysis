@@ -1,0 +1,490 @@
+                                  I. General Considerations on Intervention :
+                                  Do Third States Have a Right to Intervene?
+
+                       5. The question has been discussed frequently and at length in
+                    ­doctrine : does Article 62 of the Statute, as interpreted by the Court to
+                     date, afford third States a right to intervene in a case, and to what extent,
+                     or, on the other hand, does it merely give third States an option which it
+                     may seek to exercise, but whose exercise is subject to discretionary leave,
+                     which the Court will decide whether or not to grant?
+
+
+
+
+
+
+5 CIJ1020.indb 59                                                                                         14/06/13 11:47
+
+                             territorial and maritime dispute (diss. op. abraham)              448
+
+                       6. This question is not purely theoretical or academic. The answer
+                    given to it inevitably has major repercussions on the way in which the
+                    Court considers each application for permission to intervene submitted to
+                    it, and on the decisions it takes on those applications — it being under-
+                    stood that this debate does not concern intervention under Article 63 of
+                    the Statute, which is indisputably a right, according to the very terms of
+                    its second paragraph.
+                       7. The debate is obscured, however, by the fact that the notion of a
+                    “right” (to intervene) is ambiguous and, according to how that notion is
+                    understood, it is possible to argue both in favour of and, on the contrary,
+                    against the existence of such a right, without those arguments necessarily
+                    contradicting one another. The same is true of the notion of (the Court’s)
+                    “discretionary” power : it can be interpreted in several different ways
+                    (with no one interpretation necessarily better than the other), and it is
+                    possible to conclude both that the Court has a discretionary power — or
+                    a “margin of discretion” — when it is ruling on an application for permis-
+                    sion to intervene, and that it does not, without those conclusions neces-
+                    sarily being mutually contradictory.
+                       8. Therefore, it is important to first clarify the terms of the debate, in
+                    order, as far as possible, to avoid any misunderstandings.
+                       Leaving intervention as a party to one side for the moment (I will
+                    return to it later in Part II), and concentrating solely on what could be
+                    termed “ordinary” intervention, it is my view that third States do in fact
+                    have a right to intervene — and that, in this sense, the Court’s power to
+                    allow or refuse the intervention is not discretionary —, but that this right
+                    is not unconditional : it is subject to certain conditions, whose existence
+                    must be demonstrated by the State seeking to intervene and whose satis-
+                    faction is to be determined by the Court. If these conditions are met,
+                    authorization to intervene must be granted. It is of course necessary to
+                    specify exactly what these conditions are.
+
+                       9. In this respect, the text of Article 62 of the Statute is clearer and
+                    more precise in its English version than in the French one, as has been
+                    frequently observed.
+                       The greater precision of the English text is apparent on two points.
+                       Firstly, the essential condition for intervention is more clearly formu-
+                    lated in the English text than in the French. The French text states that
+                    an application for permission to intervene may be submitted when a third
+                    State considers that an interest of a legal nature is at stake for it in a dis-
+                    pute (“dans un différend, un intérêt d’ordre juridique est pour lui en cause”
+                    in French) ; this idea is rendered in clearer and more precise terms in the
+                    English text, which states that a third State may seek to intervene when it
+                    considers “that it has an interest of a legal nature which may be affected
+                    by the decision in the case” (literally, in French, “qu’il possède un intérêt
+                    d’ordre juridique susceptible d’être affecté par la décision en l’espèce”).
+                       Secondly, in French, Article 62, paragraph 2, simply states, in a lapi-
+                    dary fashion, that the Court decides (“2. La Cour décide” in French). In
+
+
+
+
+
+5 CIJ1020.indb 61                                                                                     14/06/13 11:47
+
+                             territorial and maritime dispute (diss. op. abraham)               449
+
+                    English, it reads : “2. It shall be for the Court to decide upon this request”
+                    (literally, in French, “il appartient à la Cour de statuer sur cette requête”).
+                    While the difference is indeed minimal, it is nonetheless possible to
+                    observe that the French text, in its conciseness, may more easily be inter-
+                    preted as granting the Court a very broad discretionary power, whereas
+                    the English text makes clear that the Court’s decision must concern the
+                    request as it was defined in paragraph 1, which suggests rather that the
+                    Court must decide whether — and I would add : confine itself to deciding
+                    whether — the decision pending in the case before it might affect an inter-
+                    est of a legal nature possessed by the State seeking to intervene.
+                       10. The French text could be understood as allowing the Court a free
+                    hand to decide whether or not the intervention would help the principal
+                    proceedings to progress smoothly, in other words, whether it would serve
+                    the sound administration of justice to authorize it. To put it yet another
+                    way, the condition expressly mentioned in Article 62 — namely that the
+                    third State must have an interest of a legal nature which may be affected
+                    by the decision in the principal proceedings — would be necessary, but
+                    not sufficient.
+                       According to this interpretation, even if this condition is met, the Court
+                    could refuse to allow the intervention if it considers — taking account of
+                    all the circumstances of the case — that it would not be in the interests of
+                    the sound administration of justice. If that is correct, the Court would in
+                    effect have a truly “discretionary” power, and there would certainly be no
+                    “right” to intervene for third States.
+                       11. But this is not the interpretation of Article 62 which the Court has
+                    adopted in its jurisprudence to date, or indeed in the present Judgment.
+
+                       It is true that, as stated in paragraph 35 of the Judgment — and this is
+                    in no way incompatible with earlier judgments in this respect :
+                            “[I]t is not sufficient for [the third] State to consider that it has an
+                         interest of a legal nature which may be affected by the Court’s decision
+                         in the main proceedings in order to have, ipso facto, a right to intervene
+                         in those proceedings. Indeed, Article 62, paragraph 2, clearly recog-
+                         nizes the Court’s prerogative to decide on a request for permission to
+                         intervene, on the basis of the elements which are submitted to it.”
+                    This is correct, but only means that the Statute does not afford the third
+                    State an absolute and unconditional right to intervene, i.e., a right which
+                    the latter could exercise simply because it had expressed the desire to do
+                    so, without having to satisfy any conditions. Because, if it were able to do
+                    so, then the Court’s power to “decide” under Article 62, paragraph 2,
+                    would lack any substance. In the same way, to follow Honduras’s argu-
+                    ment that it is for the State wishing to intervene, and for it alone, to
+                    determine whether it has an interest of a legal nature which may be
+                    affected by the Judgment in the principal case, would be to nullify the
+                    condition laid down by Article 62 : if the State wishing to exercise the
+                    right is the sole judge of whether the condition for the exercise of that
+
+
+
+
+
+5 CIJ1020.indb 63                                                                                      14/06/13 11:47
+
+                             territorial and maritime dispute (diss. op. abraham)              450
+
+                    right has been met, the condition becomes purely theoretical, and the
+                    right in question is in reality unconditional. The Court has never taken
+                    such a position on third‑State intervention.
+
+                       12. It is one thing, however, to say that it falls to the Court to deter-
+                    mine whether the condition is met, but it would be another thing to say
+                    that, even if it is met, the Court could still refuse to allow the intervention
+                    on a discretionary basis. Not only has the Court never accepted that
+                    proposition, but it has flatly rejected it.
+                       In the case concerning the Continental Shelf, the Court stated, as
+                    recalled in paragraph 36 of the present Judgment, that it “does not con-
+                    sider paragraph 2 [of Article 62] to confer upon it any general discretion
+                    to accept or reject a request for permission to intervene for reasons simply
+                    of policy” (Continental Shelf (Tunisia/Libyan Arab Jamahiriya), Applica‑
+                    tion for Permission to Intervene, Judgment, I.C.J. Reports 1981, p. 12,
+                    para. 17).
+                       To my mind, this means that, if the Court finds that the condition of
+                    Article 62, paragraph 1, is satisfied, on the basis of the evidence produced
+                    by the applicant, it is obliged to authorize the intervention ; or, further,
+                    that the Court can only reject the application for permission to intervene
+                    if it determines that the interest of a legal nature invoked by the State
+                    seeking to intervene is not liable to be affected by the decision on the
+                    merits, and by duly stating the reasons for that determination.
+                       13. Of course, the determination in question is often a somewhat com-
+                    plex one ; it can give rise to discussions whose outcome is unclear ; plainly,
+                    it is not purely objective or factual. In that sense — and in that sense
+                    only — the Court has a certain margin of discretion when ruling on an
+                    application for permission to intervene ; the Court is not simply required
+                    to determine whether certain objective conditions are met and from this
+                    to arrive automatically at a specific conclusion (in so far as such a situa-
+                    tion exists in judicial practice, which is seldom the case). However, the
+                    important thing is that if — having completed the determination which it
+                    must carry out and which, needless to say, must not be arbitrary — the
+                    Court finds that the condition of Article 62, paragraph 1, is satisfied, it is
+                    obliged to authorize the intervention.
+
+                               II. Honduras’s Request to Intervene as a Party
+
+                        16. In the terms in which it is drafted, Article 62 of the Statute would
+                    indeed appear to have been conceived with a view to non‑party interven-
+                    tion by a third State. This is what may be characterized as “ordinary”
+                    ­intervention. Furthermore, if a State seeks to intervene but does not speci-
+                     ­fy which status it is claiming, the Court will naturally consider that it
+                      wishes to intervene as a non‑party to the proceedings.
+                        However, the jurisprudence has recognized that a State intervening
+                      under Article 62 can, if it so requests and is duly so authorized, acquire
+                      the status of party, with all its associated rights and obligations.
+                        17. The key precedent in this respect is the Judgment delivered by the
+                      Chamber of the Court on Nicaragua’s request for permission to intervene
+                      in the case concerning the Land, Island and Maritime Frontier Dispute
+                      (El Salvador/Honduras).
+                        In that Judgment, the Chamber stated :
+                           “It is therefore clear that a State which is allowed to intervene in a
+                         case, does not, by reason only of being an intervener, become also a
+                         party to the case. It is true, conversely, that, provided that there be
+                         the necessary consent by the parties to the case, the intervener is not
+                         prevented by reason of that status from itself becoming a party to the
+                         case.” (Judgment, I.C.J. Reports 1990, pp. 134‑135, para. 99.)
+
+
+
+
+
+5 CIJ1020.indb 67                                                                                      14/06/13 11:47
+
+                             territorial and maritime dispute (diss. op. abraham)             452
+
+                        18. In reality, it follows from that Judgment and from the Judgment
+                     on the merits delivered by the same Chamber in the same case
+                     (I.C.J. Reports 1992, p. 610, para. 424) — as I understand them — that a
+                     third State which is allowed to intervene as a party does not acquire the
+                     status of intervener on receiving that authorization, but purely and sim-
+                    ply that of a party. From that moment, the proceedings are no longer
+                    between two parties, but between three, and there is no intervener. In
+                    short, the third State uses the application for permission to intervene as a
+                    way to join the proceedings, not as an intervener — which is the usual
+                    object of such an application —, but as a party. Paradoxically, it thus
+                    seeks to intervene under circumstances such that it is apparent in advance
+                    that it will not be an intervener (unless, as in the present case, it asks in
+                    the alternative to be allowed to intervene as a non‑party), because either
+                    its request will be rejected and it will not be involved in the proceedings,
+                    or its request will be granted and it will become a party.
+                        19. Because it does not have its source directly in the Statute, this
+                    ­jurisprudential construct may appear somewhat surprising, but it offers
+                     a pragmatic solution to practical concerns, and I do not believe that
+                     it needs to be revisited. The Judgment does not do so, and I agree with it
+                     on that point.
+                        20. Moreover, a third State which submits such a request must fulfil
+                     not only the general conditions of Article 62, but certain additional con-
+                     ditions, or rather one or two additional conditions, according to the cur-
+                     rent reading of the Court’s jurisprudence.
+
+                       The first additional condition is undoubtedly required : the third State
+                    must demonstrate that there is a basis of jurisdiction between itself and
+                    the two States parties to the proceedings already instituted in regard to
+                    the rights which it is seeking to assert against them.
+                       This is logical because, unlike the “ordinary” intervener, who does not
+                    seek to establish rights but to protect interests (and who, for that reason,
+                    is not obliged to demonstrate the existence of a basis of jurisdiction : see
+                    the case cited above concerning the Land, Island and Maritime Frontier
+                    Dispute (El Salvador/Honduras) (Application for Permission to Intervene,
+                    Judgment, I.C.J. Reports 1990, p. 135, para. 100), a State seeking to join
+                    the proceedings as a party intends to present its own submissions to the
+                    Court and wishes to have the validity of those submissions recognized
+                    with the authority of res judicata.
+                       The second condition, on the other hand, is a point of controversy : in
+                    order for a third State to join the proceedings not simply as an intervener,
+                    but as a party, is it also necessary to have the consent of both original par-
+                    ties? The above‑mentioned 1990 Judgment in the El Salvador/Honduras
+                    case might indicate that this is so ; that rendered in the same case in 1992
+                    appears to suggest otherwise, but it is not free of ambiguity — far from it
+                    (Land, Island and Maritime Frontier Dispute (El Salvador/Honduras : Nica‑
+                    ragua intervening), Judgment, I.C.J. Reports 1992, p. 610, para. 424).
+
+
+
+
+
+
+5 CIJ1020.indb 69                                                                                    14/06/13 11:47
+
+                             territorial and maritime dispute (diss. op. abraham)              453
+
+                       21. It is not necessary to resolve this latter question in the present case,
+                    because one of the requisite conditions for the granting of Honduras’s
+                    intervention as a party is clearly lacking.
+                       According to the Judgment, Honduras does not have an interest of a
+                    legal nature which might be affected by the decision to be rendered in the
+                    principal proceedings. If correct, this would be sufficient basis for the
+                    rejection of Honduras’s Application in its entirety, because that condi-
+                    tion — the fundamental condition expressed by Article 62 — applies to
+                    both forms of intervention.
+                       However, for reasons which I will set out shortly, it is my view that this
+                    condition is in fact met.
+                       22. On the other hand, I believe that the condition relating to the basis
+                    of jurisdiction — upon which the Judgment does not pronounce, because
+                    it does not need to do so — is not met.
+                       Honduras had to demonstrate that between itself and Nicaragua, on
+                    the one hand, and itself and Colombia, on the other, there was a legal
+                    basis on which to found the Court’s jurisdiction to entertain its claims on
+                    the subject of maritime delimitation in respect of those two countries.
+
+                       To that end, it invoked Article XXXI of the Pact of Bogotá.
+                       But Article VI of the Pact of Bogotá precludes from judicial settle-
+                    ment — under the compromissory clause in Article XXXI — “matters
+                    already settled by arrangement between the parties”, those settled by
+                    “decision of an international court” and those “governed by agreements,
+                    or treaties in force on the date of the conclusion of the present Treaty”.
+                    
+                       23. However, the maritime delimitation between Honduras and Nica-
+                    ragua was settled by the Court’s Judgment of 8 October 2007. And it was
+                    settled completely, as the present Judgment rightly notes in paragraphs 69
+                    and 70, and not simply, as Honduras claimed, up until the point where
+                    the bisector line adopted in the Judgment is supposed to stop, to the west
+                    of the 82nd meridian. It is therefore a “matter . . . settled . . . by decision
+                    of an international court”, in the sense of Article VI of the Pact of Bogotá.
+                    Consequently, Honduras has no basis of jurisdiction on which to submit
+                    to the Court its maritime claims against Nicaragua. Even supposing that
+                    such a basis of jurisdiction exists between Honduras and Colombia,
+                    which is debatable in light of the provisions of the Pact of Bogotá, the
+                    lack of a basis of jurisdiction between Honduras and one of the two
+                    States parties to the principal proceedings is a sufficient ground to reject
+                    Honduras’s request to intervene as a party.
+
+                                     III. Honduras’s Request to Intervene
+                                               as a Non‑Party
+
+                       24. In this respect, I disagree with both the reasoning and the conclu-
+                    sion in the Judgment.
+
+
+
+
+
+5 CIJ1020.indb 71                                                                                     14/06/13 11:47
+
+                             territorial and maritime dispute (diss. op. abraham)              454
+
+                       25. Honduras has delimited a rectangular area (which can be seen on
+                    the map appended to the Judgment), in which it claims to have rights
+                    which might be affected by the future decision in the main proceedings.
+                       The rectangle’s southern side follows the line of the 15th parallel. Its
+                    western and eastern sides are located along meridians 82 and 79° 56´, res-
+                    pectively. Its northern side is situated between the 16th and 17th parallels.
+                    
+                       This rectangle is divided in two by a broken red line on the map, which
+                    roughly follows a south‑westerly/north‑easterly direction. This broken
+                    line is nothing more than the extension of the bisector line which the
+                    Court established in its Judgment of 8 October 2007 (which has the
+                    authority of res judicata for Honduras and Nicaragua), and which it
+                    declared, in the said Judgment, would continue along the line having the
+                    same azimuth until it reaches the area where the rights of third States may
+                    be affected. Since it could not rule on the rights of third States, the Court
+                    did not fix the endpoint of the line in 2007 : this is why it appears as a
+                    broken line on the map appended to the present Judgment, because its
+                    endpoint — that is, the exact endpoint of the maritime boundary between
+                    Honduras and Nicaragua — is as yet unknown.
+
+                        26. I agree with the statement in the Judgment that Honduras’s
+                    i­nterests in the area of the rectangle to the north of the broken red line are
+                     not liable to be affected by the Judgment in the main proceedings
+                     (­Judgment, para. 68). In effect, Honduras’s sovereign rights are uncontested
+                     in that area. They are not disputed by Nicaragua — and cannot be, because
+                     of the authority of res judicata attached to the 8 October 2007 Judgment.
+                     They are not disputed by Colombia either, and nor can they be — not
+                     because of the 2007 Judgment, which is not binding on Colombia, but
+                     because of the bilateral treaty concluded between Colombia and Hon­
+                     duras in 1986, which attributes the maritime areas to the north of the
+                     15th parallel and to the west of meridian 79° 56´ to the latter.
+
+                      Accordingly, Honduras’s rights and interests in the area to the north of
+                    the red line are protected from any prejudicial effects resulting from the
+                    Judgment which the Court will deliver in the dispute between Nicaragua
+                    and Colombia.
+                      27. On the other hand, I disagree entirely with the statement in the
+                    Judgment that Honduras does not have an interest of a legal nature in the
+                    area to the south of the red line which might be affected by the decision.
+
+                       In fact, in this area, Honduras currently has rights which derive from
+                    the 1986 bilateral treaty, but which can of course, in accordance with the
+                    relative effects of treaties, only be asserted against Colombia. Clearly,
+                    Nicaragua formally disputes the delimitation established by the
+                    1986 Treaty, because it lays claim to the maritime areas which that Treaty
+                    seeks to share between Honduras and Colombia. As one of its Counsel
+                    said at the hearings, Nicaragua “has always considered this Treaty to be
+
+
+
+
+
+5 CIJ1020.indb 73                                                                                     14/06/13 11:47
+
+                             territorial and maritime dispute (diss. op. abraham)             455
+
+                    invalid” and, even if it were valid between the parties which had concluded
+                    it, it would be without effect “because, in entering into this agreement, the
+                    parties dealt with sovereign rights belonging to Nicaragua”.
+                       28. To my mind, the Court should have asked itself whether the line it
+                    is called upon to establish in order to delimit the maritime areas of Nica-
+                    ragua and Colombia is likely to enter the area in question, that is to say,
+                    the area within the blue rectangle to the south of the red line, and whether,
+                    in this event, Honduras’s legal interests might be affected as a result.
+
+                      29. The answer to both of these questions is clearly yes.
+
+                        30. Of course, the first question is not intended to anticipate, and even
+                    less so to decide in advance, what solution the Court will adopt in the
+                    principal proceedings. When considering an application for permission to
+                    intervene, the Court has only to ask itself whether there is simply a possi-
+                    bility (and not a certainty, or even a likelihood) of the future Judgment
+                    affecting the interests of the third State. Therefore, it cannot dismiss any
+                    possibilities which lie within the limits assigned to it by the submissions of
+                    the parties to the principal proceedings. Since it cannot give preference to
+                    any hypothesis in respect of its decision in the principal proceedings, it
+                    has to accept them all, subject solely to the limit imposed by the principle
+                    which precludes it from ruling ultra petita.
+                        31. On this basis, there is no doubt that there is a possibility — whose
+                    degree of probability I am not going to assess — that the Court will
+                    ­establish a line of delimitation — which will have to follow a more or
+                     less northerly/southerly direction — in an area between the 80th and
+                     82nd meridian. Such a solution would be situated between the boundary
+                     claimed by Colombia — which is situated approximately along the
+                     82nd meridian — and the boundary claimed by Nicaragua — which is
+                     located much farther east, close to the 77th meridian.
+                        If such a solution was adopted — and it is, I repeat, a mere possibility,
+                     but one which must be contemplated at this stage — the line established
+                     would continue northwards until it reaches the area where the rights of
+                     third States (that is, States other than Nicaragua and Colombia) might be
+                     affected. Thus, it would enter the “blue rectangle” and would stop when
+                     it intersected the red line, that is to say, the bisector drawn by the Court
+                     in its 2007 Judgment, which delimits the respective areas of Honduras
+                     and Nicaragua.
+                        32. If the future Judgment were to be as I have hypothesized, would it
+                     affect Honduras’s “interests of a legal nature”? It is clear to me that the
+                     answer is yes.
+                        33. Honduras’s interests would be affected in two ways.
+                        34. Firstly, the Judgment rendered by the Court in the dispute between
+                     Nicaragua and Colombia would finally fix the endpoint of the bisector
+                     line established by the Court in its 2007 Judgment in the case between
+                     Nicaragua and Honduras, even though this was not done, and could not
+                     have been done, in the 2007 Judgment. Thus, the future Judgment would
+
+
+
+
+
+5 CIJ1020.indb 75                                                                                    14/06/13 11:47
+
+                             territorial and maritime dispute (diss. op. abraham)              456
+
+                    have the effect of clarifying, on an essential point, the delimitation carried
+                    out some years earlier by a Judgment which has the authority of res judi‑
+                    cata for Honduras. From that, I conclude that the latter has an interest
+                    which might be affected by the future Judgment — even if this is nothing
+                    more than a mere possibility.
+                       35. Secondly and more importantly, if the Judgment to be rendered by
+                    the Court were to be as I have hypothetically assumed it to be, it would
+                    have direct consequences on the effective scope of the 1986 bilateral treaty
+                    concluded between Honduras and Colombia.
+                       As long as the Court has not ruled on the respective rights of Nicara-
+                    gua and Colombia, Honduras may lay claim to the area within the “blue
+                    rectangle”. With regard to the area to the north of the red line (the bisec-
+                    tor line), it derives its rights in respect of Nicaragua from the 2007 Judg-
+                    ment, and in respect of Colombia from the 1986 Treaty. However, with
+                    regard to the area to the south of that line, it can only assert the rights it
+                    holds under the 1986 Treaty, and only vis‑à‑vis Colombia. Moreover, in
+                    order for Honduras to be able to assert those treaty rights, it is essential
+                    that the Judgment which the Court will deliver should not award to Nica-
+                    ragua all or part of the areas attributed to it by the Treaty. It is not cer-
+                    tain that the Court will make such an award : if the Court adopts the line
+                    of delimitation proposed by Colombia, Honduras will still be able to lay
+                    claim, on the basis of the Treaty, to most of the areas which the latter
+                    attributes to it. However, there is a possibility that it might happen : if the
+                    Court adopts a line further to the east than that suggested by Colombia,
+                    it will divide the area in the southern part of the “blue rectangle” in such
+                    a way that the entire area to the west of that line will belong to Nicara-
+                    gua, and Honduras will no longer be able to lay claim to it, because there
+                    is no treaty basis between it and Nicaragua on which to found such a
+                    claim.
+
+                       To my mind, there is clearly a possibility that Honduras’s interests will
+                    be affected in this way, and this is sufficient to make its intervention
+                    admissible.
+                       36. The Court was not convinced of this, yet the reasons it gives for its
+                    conclusion appear to me to be misconceived.
+                       I agree with the statement that the 2007 Judgment completely settled
+                    the boundary separating the respective maritime areas of Honduras and
+                    Nicaragua, in the sense that it did not intend that the bisector line should
+                    stop at a point to the west of the 82nd parallel, as Honduras has
+                    contended, but rather the intention was that that line should continue in
+                    a north‑easterly direction until it reached an area where the rights of a
+                    third State might be affected, and in this respect the 2007 Judgment is
+                    clear. I also agree that the 2007 Judgment is binding on Honduras, in so
+                    far as it intends to continue the bisector line to the east — still until that
+                    as yet undetermined point — by virtue of the authority of res judicata. I
+                    also fully endorse — because it is patently obvious — the statement in
+                    paragraph 73 of the Judgment that “the Court will place no reliance on
+
+
+
+
+
+5 CIJ1020.indb 77                                                                                     14/06/13 11:47
+
+                            territorial and maritime dispute (diss. op. abraham)            457
+
+                    the 1986 Treaty in determining the maritime boundary between Nicara-
+                    gua and Colombia”. How could it, since that Treaty was concluded by
+                    one of the two Parties to the present proceedings with a third State?
+                       37. In short, I do not really disagree with anything of what is said by
+                    the Court in paragraphs 57 to 74 of the Judgment. But I do not under-
+                    stand how what is said there can justify the conclusion which the Court
+                    arrives at, namely that Honduras does not have an interest of a legal
+                    nature which might be affected by the future Judgment. Quite simply, I
+                    fail to see a coherent line of reasoning responding to the issues raised by
+                    Honduras’s Application. It is as if the Court had reached its decision
+                    more on the basis of policy considerations than of the legal criteria, which
+                    the Court itself was at pains to recall in the first part of the Judgment.
+
+                      38. That is why — since I am unable to follow the reasoning or

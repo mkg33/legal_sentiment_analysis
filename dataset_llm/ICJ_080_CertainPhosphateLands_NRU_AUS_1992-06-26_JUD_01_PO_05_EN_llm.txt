@@ -1,0 +1,436 @@
+The contentious jurisdiction of the Court has been limited from the out-
+set of its existence in 1922 to the cases which the parties submit to it, by
+whatever means. This has been the law of the matter since the Council of
+the League of Nations struck from the draft of the Court’s Statute the pro-
+vision for general compulsory jurisdiction proposed by the Advisory
+Committee of Jurists. Inthe development of that law, the Court has shown
+great care not to find that it has jurisdiction where jurisdiction is question-
+able. In its long and complex history of jurisdictional controversy, a his-
+tory which is unique among courts, the Court has rarely departed from
+this tradition of judicial caution. Its reasons have been prudential as well
+as constitutional. Not only is it legally not entitled to assert jurisdiction
+over States which have not assented to it; doing so, or appearing to do so,
+in questionable cases may persuade States that a measured submission to
+the Court’s jurisdiction may be interpreted as unmeasured, with the result
+that they may abstain altogether from adhering to the Court’s jurisdiction.
+The reality of this apprehension has been demonstrated more than once.
+It may be, as Elihu Lauterpacht maintains in Aspects of the Administration
+of International Justice (1991), that, because of developments in the juris-
+prudence of the Court, in the practice of the Security Council of the
+United Nations, and elsewhere, the time is ripe for reconsideration of the
+traditional position that the jurisdiction of the Court is consensual rather
+than compulsory. But as yet such a fundamental reconsideration has not
+taken place.
+
+The jurisdictional problems posed in bilateral disputes are magnified in
+multilateral disputes. But, in contrast to the rich body of jurisdictional
+practice in bilateral disputes, the cases in which the Court has addressed
+situations analogous to that now before the Court are few. Where more
+than one State is charged with joint (or joint and several) commission of an
+act wrongful under international law, but only one such State is before the
+Court, may the Court proceed to exercise jurisdiction over that State even
+though its determination of the liability of that State may or will entail the
+effective determination of the liability of another? That is the essence of
+the problem which the Court must resolve if it is to find that it has jurisdic-
+tion in the instant case and that that case is admissible.
+
+In dealing with that problem, private law sources and analogies are of
+little use. There is no doubt that, in the municipal law of States, a party
+may maintain suit against a joint tortfeasor or co-contractor or co-trustee
+
+
+
+in the absence of other joint tortfeasors, contractors, or trustees. But juris-
+diction is not consensual in national law ; the situation differs fundamen-
+tally from that which governs international jurisdiction, from which it
+foliows that principles and patterns of national practice in this instance
+have scant application to the issue before the Court.
+
+The problem might have been dealt with by the Court in the
+Corfu Channel case but it was not. The Memorial of the United Kingdom
+contended “that the Albanian Government . .. either caused to be laid,
+connived at or had knowledge of the laying of mines in certain areas of its
+territorial waters in the Strait of Corfu”, but it named no other alleged
+joint tortfeasor. In the course of the proceedings, British counsel intro-
+duced evidence purporting to show that the mines actually had been
+laid by ships of the Yugoslav Navy, with the knowledge of the Albanian
+Government. But the Applicant’s submissions made no reference to
+Yugoslavia and the Court in any event found that the alleged involvement
+of Yugoslavia was not proved. For its part, Albania, which accepted the
+Court’s jurisdiction by its acceptance of a recommendation of the Secu-
+rity Council for the submission of the dispute to the Court, raised a preli-
+minary objection to the admissibility of the case, but it was not founded on
+the absence of an alleged joint tortfeasor. Accordingly, the most that may
+be gleaned from this case is that, where it appears from the facts alleged or
+shown that there was some unknown joint tortfeasor, the Court will not
+dismiss the claim against the named tortfeasor proprio motu. There would
+have been no good ground for its so doing, since a holding against Albania
+could not have entailed the effective liability of an unnamed and
+unknown joint tortfeasor for the very reason that it was unnamed and
+unknown.
+
+The case of Monetary Gold Removed from Rome in 1943 is the principal
+precedent, although its singular circumstances — which were linked with
+the failure of Albania to pay compensation to the United Kingdom as
+ordered by the Court in the Corfu Channel case — ensure that it will not be
+on all fours with the current or another case. For present purposes, it is
+important that the Court and counsel for Nauru and Australia are agreed
+that the Monetary Gold case is authority for a proposition of continuing
+vitality, namely, that where a third State’s legal interests would not only be
+affected by a decision but form the very subject-matter of the decision,
+
+
+
+proceedings may not be maintained in the absence of that third State; and
+that they are further agreed that, unlike the Monetary Gold case, in which
+the question at issue in the Court could not be determined without first
+passing upon the actions of Albania, a State not party to those proceed-
+ings, “the determination of the responsibility of New Zealand or the
+United Kingdom is not a prerequisite for the determination of the respon-
+sibility of Australia...” (Judgment, para. 55).
+
+But that is as far as their agreement goes. Australia maintains that, as the
+Court puts it:
+
+“in this case there would not be a determination of the possible
+responsibility of New Zealand and the United Kingdom previous to
+the determination of Australia’s responsibility. It nonetheless asserts
+that there would be a simultaneous determination of the responsibi-
+lity of all three States and argues that, so far as concerns New Zea-
+land and the United Kingdom, such a determination would be
+equally precluded by the fundamental reasons underlying the Mon-
+etary Gold decision.” (Ibid.)
+
+The Court however concludes, after observing that “the decision
+requested of the Court regarding the allocation of the gold, was not purely
+temporal but also logical”, that:
+
+“Inthe present case, a finding by the Court regarding the existence
+or the content of the responsibility attributed to Australia by Nauru
+might well have implications for the legal situation of the two other
+States concerned, but no finding in respect of that legal situation will
+be needed as a basis for the Court’s decision on Nauru’s claims
+against Australia. Accordingly, the Court cannot decline to exercise
+its jurisdiction.” (Ibid.)
+
+For my part, I find the Court’s reasoning unpersuasive, in the light of
+the considerations set out below. The essence of my view is that, if a judg-
+ment of the Court against a present State will effectively determine the
+legal obligations of one or more States which are not before the Court, the
+Court should not proceed to consider rendering judgment against the
+present State in absence of the others. The fact that the timing of the find-
+ing of the responsibility of the absent party precedes such a finding in
+respect of the present party, or that the finding of the responsibility of the
+absent party is a logical prerequisite to the finding of the responsibility of
+the present party, is not significant. What is dispositive is whether the
+determination of the legal rights of the present party effectively deter-
+mines the legal rights of the absent party.
+
+Before setting out why, on the facts of the instant case, [ am not in agree-
+ment with the Court’s reasoning or conclusion, I shall discuss the two
+other cases on which the Court relies.
+
+MILITARY AND PARAMILITARY ACTIVITIES IN AND AGAINST NICARAGUA
+
+The Court quotes in support of its construction of the meaning of the
+Monetary Gold case a passage of the Court’s Judgment on jurisdiction and
+admissibility in Military and Paramilitary Activities in and against Nicara-
+gua:
+
+“There is no doubt that in appropriate circumstances the Court
+will decline, as it did in the case concerning Monetary Gold Removed
+from Rome in 1943, to exercise the jurisdiction conferred upon it
+where the legal interests of a State not party to the proceedings
+‘would not only be affected by a decision, but would form the very
+subject-matter of the decision’... Where however claims of a legal
+nature are made by an Applicant against a Respondent in proceed-
+ings before the Court, and made the subject of submissions, the
+Court has in principle merely to decide upon those submissions, with
+binding force for the parties only, and no other State, in accordance
+with Article 59 of the Statute. As the Court has already indicated...
+other States which consider that they may be affected are free to insti-
+tute separate proceedings, or to employ the procedure of interven-
+tion. There is no trace, either in the Statute or in the practice of
+international tribunals, of an ‘indispensable parties’ rule of the kind
+argued for by the United States, which would only be conceivable in
+parallel to a power, which the Court does not possess, to direct that a
+third State be made a party to proceedings. The circumstances of the
+Monetary Gold case probably represent the limit of the power of the
+Court to refuse to exercise its jurisdiction; and none of the States
+referred to can be regarded as in the same position as Albania in that
+case, so as to be truly indispensable to the pursuance of the proceed-
+ings. (Judgment of 26 November 1984, 1.C.J. Reports 1984, p. 431,
+para. 88.)” (Judgment, para. 51.)
+
+This 1984 Judgment of the Court in the foregoing as well as some other
+respects in my view was in error; far from reinforcing the jurisprudence of
+the Monetary Gold case, it obfuscated it. It is necessary to recall what was
+at issue in 1984 to explain why.
+
+In its Application and argument, Nicaragua’s essential claim was that
+military and paramilitary activities of the United States in and against
+Nicaragua violated obligations of the United States under conventional
+and customary international law. Nicaragua brought suit against the
+United States alone. However, its Application and argument maintained
+that El Salvador, Honduras and Costa Rica all were vitally involved in the
+delicts of the United States, because they were lending their territory or
+armed forces to the indicted activities of the United States. For its part, the
+United States no less stressed the involvement of El Salvador, Honduras
+and Costa Rica; indeed, its substantive defence to Nicaragua’s charges
+
+
+
+was that its activities were conducted in the collective self-defence of those
+nations which were the object of Nicaraguan subversive intervention
+which was tantamount to armed attack, through Nicaragua’s provision of
+arms, training, transit, sanctuary, and command-and-control facilities
+particularly to insurrection in El Salvador. The Court in 1986 held against
+the United States on the facts and on the law. It essentially concluded, on
+the facts, that no responsibility could be attributed to the Government of
+Nicaragua for any flow of arms across its territory to insurgents in El Sal-
+vador; on the law, it held that in any event provision of arms to insurgents
+could not be tantamount to an armed attack.
+
+Now when the Court’s Judgment on jurisdiction and admissibility of
+1984 is read together with that on the merits of 1986, it appears that the
+articulate factual holdings of 1986 were the inarticulate factual premises
+of 1984. That is to say, since the Court was not disposed in 1984 at the stage
+of jurisdiction and admissibility provisionally to credit the charges of the
+United States on the facts, it then could arrive at a holding on the law that,
+if it were subsequently to decide in favour of Nicaragua’s submissions on
+the merits, El Salvador, Honduras and Costa Rica would be protected
+against any adverse effects of such a judgment by reason of the import of
+Articles 59, and 62 and 63, of the Statute. By reason of Article 59, the Judg-
+
+vention in the case.
+
+But, on the factual premises put forth by the United States, it is clear and
+should have been clear in 1984 that Article 59 could provide no meaning-
+ful protection to States such as El Salvador which were the objects of
+alleged Nicaraguan support of armed insurrection within their borders.
+Assuming the factual allegations of the United States (and of El Salvador)
+about the activities ofthe Nicaraguan Government to have been true, but
+contemplating nonetheless that the United States could be prohibited
+from taking measures against Nicaragua to assist El Salvador in its
+defence against those activities, of what use would it be to El Salvador to
+rely upon the Court’s legal conclusion that the Court’s Judgment against
+the United States was not binding upon it? If the United States were to
+comply with the Judgment of the Court, it would cease to actin what it and
+El Salvador maintained was the collective self-defence of El Salvador,
+with the result that the latter’s Government, far from having its interests
+conserved by the force of Article 59, could fall before the onslaught of the
+insurrection so significantly supported by Nicaragua.
+
+
+
+And what, in truth, did the facts turn out to be? As for Nicaragua’s
+sworn and reiterated denials of any involvement in the material support of
+insurrection in El Salvador, it subsequently was authoritatively reported
+that an aircraft flying from Nicaragua packed with missiles was downed in
+El Salvador, an event which was the subject of consideration in the Secu-
+rity Council; and it later transpired that the Government of the Soviet
+Union identified, by serial number, the launch tube of a ground-to-air
+missile which it had supplied in 1986 to the Nicaraguan Government and
+which had been fired by Salvadoran insurgents in El Salvador. Indeed, in
+1991 it was acknowledged by the leadership of Nicaragua that a number
+of Soviet-supplied missiles had been transferred to Salvadoran guerrillas
+by elements of the Nicaraguan Army, at least two of which were used to
+shoot down aircraft of the Salvadoran Government. So much for the
+utility of Article 59 in safeguarding the position of El Salvador. As for
+the possibility of its intervening in the proceedings between Nicaragua
+and the United States, or instituting separate proceedings, that was a route
+which offered no more comfort to El Salvador and similarly situated
+States, having regard to the facts that they had made clear that they did not
+wish to litigate their security before the Court and that the Court earlier in
+1984 had itself summarily dismissed El Salvador’s request to intervene at
+the stage of jurisdiction and admissibility in exercise of its statutory “right
+to intervene in the proceedings” under Article 63, and had done so for
+reasons which were in conformity neither with the Statute nor with the
+Rules of Court.
+
+Such precedential status as the Court’s holding in the case may be
+thought to have is further prejudiced by the fact that in 1984 Nicaragua
+maintained, in respect of the argument of the United States about the
+effect to be attributed to the absence of El Salvador, Honduras and
+Costa Rica, that — despite the terms of its Application and argument — it
+made “no claim of illegal conduct by any State other than the United
+States” and that it sought “no relief . . . from any other State”. These affir-
+mations were belied as well, and within days of the 1986 Judgment on the
+merits against the United States, when Nicaragua brought intimately
+related claims in Court against Honduras and Costa Rica, as to which (in
+apparent contrast to El Salvador) it could make out a title of jurisdiction.
+
+In the light of these considerations, my position on the Court’s reliance
+on the case of Military and Paramilitary Activities in and against Nicaragua
+comes to this. The security interests of the States in whose interest the
+United States claimed to be acting in collective self-defence were as close
+if not closer to “the very subject-matter of the case” as were the interests of
+Albania in the Monetary Gold case (see in this regard the analysis of Pro-
+fessor Lori Fisler Damrosch, “Multilateral Disputes”, in Damrosch, ed.,
+The International Court of Justice at a Crossroads, 1987, pp. 376, 390). In
+their nature, those vital security interests presumably were more import-
+ant to them than was Albania’s financial interest to it; more to the point,
+
+
+
+by determining that the United States was not entitled to act with them in
+their collective self-defence, the legal as well as the practical interests of
+those States were no less decisively and centrally determined by the
+Court’s Judgment than would the interests of Albania have been deter-
+mined by the Court’s ruling in respect of it. This conclusion is reinforced
+by specific prescriptions of the Court’s Judgment on the merits, which
+went so far as to pass upon not only the circumstances in which the absent
+State of El Salvador might take measures in self-defence but upon the pro-
+portionate counter-measures which the three absent States, El Salvador,
+Honduras and Costa Rica, could be permitted to take. Judgment in the
+“Nicaragua” case, as in the case now before the Court, was to be “simul-
+taneous” in its effect, but that is not the dispositive distinction. The Court
+there rather should have given, and in the instant case should give, weight
+to the intensity and not to the timing or logical derivation of the effects in
+question. If the legal interests of a third State will not merely be affected
+but effectively determined by the Court’s Judgment, the Court should not
+proceed to give judgment in the absence of that third State.
+
+Such cases may by their nature be rare and fortunately so, for the prin-
+ciple of permitting third States by their non-appearance to foreclose liti-
+gation between two States over which the Court otherwise has jurisdic-
+tion is unappealing. The question is one of balancing the propriety of the
+Court’s exercising to the full the jurisdiction which it has been given
+against the impropriety of determining the legal interests of a third State
+not party to the proceedings. While it may in practice be unusual for the
+legal interests of a third State to be subject to such determination, where
+they are, the balance should swing in its favour, and in favour of the
+inadmissibility of the action against the present party.
+
+LAND, ISLAND AND MARITIME FRONTIER DISPUTE
+
+The final precedent applied by the Court is the Judgment in the case
+concerning the Land, Island and Maritime Frontier Dispute (El Salvador/
+Honduras). It dealt with Nicaragua's Application to intervene in the case
+pursuant to Article 62 of the Court’s Statute. Nicaragua sought to inter-
+vene in various but not all aspects of a case involving several distinct
+though in some respects interrelated matters. It not only maintained, pur-
+suant to Article 62, that it had interests of a legal nature that may be
+affected by the decision in the case; in one respect, Nicaragua argued that
+its interests were so much part of the subject-matter of the case that the
+Chamber of the Court could not properly exercise its jurisdiction without
+its participation. Nicaragua contended that, where the vital issue to
+be settled concerned the rights of Nicaragua in the Gulf of Fonseca
+
+
+
+and the waters outside it, the Court could not, without its consent, give a
+decision.
+
+The Chamber observed that Nicaragua apparently thus suggested that
+in such circumstances the failure of a State to intervene, or even refusal of
+a request for permission to intervene, may deprive the Court of the right
+with propriety to exercise jurisdiction conferred upon it by special
+agreement between two other States. In rejecting this argument, the
+Chamber referred with approval to its holdings respecting the effect of
+Articles 62 and 59 of the Statute set out in the Monetary Gold case and in
+Military and Paramilitary Activities in and against Nicaragua. And it
+quoted the passage from the Monetary Gold case quoted above about
+Albania’s legal interests forming “the very subject-matter of the decision”.
+It continued that, if in the Frontier Dispute case the legal interests of Nicar-
+agua did form part of the very subject-matter of the decision, this would
+doubtless justify an intervention by Nicaragua under Article 62, which
+lays down a less stringent criterion. The Chamber found that, in respect of
+the Gulf waters, Nicaragua had shown the existence of an interest of a
+legal nature which may be affected by the decision. But it held that that
+interest did not form “the very subject-matter of the decision” as did the
+interests of Albania in the Monetary Gold case. The Chamber explained
+why in the following terms:
+
+“while the Chamber is thus satisfied that Nicaragua has a legal inter-
+est which may be affected by the decision of the Chamber on the
+question whether or not the waters of the Guif of Fonseca are subject
+to a condominium or a ‘community of interests’ of the three riparian
+States, it cannot accept the contention of Nicaragua that the legal
+interest of Nicaragua ‘would form the very subject-matter of the deci-
+sion’, in the sense in which that phrase was used in the case concern-
+ing Monetary Gold Removed from Rome in 1943 to describe the
+interests of Albania . . . So far as the condominium is concerned, the
+essential question in issue between the Parties is not the intrinsic val-
+idity of the 1917 Judgement of the Central American Court of Justice
+as between the parties to the proceedings in that Court, but the
+opposability to Honduras, which was not such a party, either of that
+Judgement itself or of the régime declared by the Judgement. Hondu-
+ras, while rejecting the opposability to itself of the 1917 Judgement,
+does not ask the Chamber to declare it invalid. If Nicaragua is per-
+mitted to intervene, the Judgment to be given by the Chamber will not
+declare, as between Nicaragua and the other two States, that Nicaragua
+does or does not possess rights under a condominium in the waters of the
+Gulf beyond its agreed delimitation with Honduras, but merely that, as
+between El Salvador and Honduras, the régime of condominium
+. declared by the Central American Court is or is not opposable to Hondu-
+ras. It is true that a decision of the Chamber rejecting El Salvador’s
+contentions, and finding that there is no condominium in the waters
+
+
+
+of the Gulf which is opposable to Honduras, would be tantamount to
+a finding that there is no condominium at all. Similarly, a finding that
+there is no such ‘community of interests’ as is claimed by Honduras,
+between El Salvador and Honduras in their capacity as riparian
+States of the Gulf, would be tantamount to a finding that there is no
+such ‘community of interests’ in the Gulf at all. In either event, such a
+decision would therefore evidently affect an interest of a legal nature
+of Nicaragua; but even so that interest would not be the ‘very subject-
+matter of the decision’ in the way that the interests of Albania were in
+the case concerning Monetary Gold Removed from Rome in 1943. . .it
+follows from this that the question whether the Chamber would have
+power to take a decision on these questions, without the participation
+of Nicaragua in the proceedings, does not arise; but that the condi-
+tions for an intervention by Nicaragua in this aspect of the case are
+nevertheless clearly fulfilled.” (I.C.J. Reports 1990, p. 122, para. 73;
+emphasis added.)
+
+Ann. 80, No. 29.)
+
+In view of the essential fact that, from 1919 until Nauruan indepen-
+dence in 1968, Australia always acted as a member of a joint Administer-
+ing Authority composed of three States, and always acted on behalf of its
+fellow members of that joint Administering Authority as well as its own
+behalf, it follows that its acts engaged or may have engaged not only its
+responsibility — if responsibility be engaged at all — but those of its
+“Partner Governments”.
+
+Consequently, a judgment by this Court upon the responsibility of Aus-
+tralia would appear to be tantamount to a judgment upon the responsibi-
+lity of New Zealand and the United Kingdom. Of course the Court’s
+judgment in the current case would in terms be directed only to the parties
+to it and will have binding force only in respect of that particular case. But
+let us suppose that Nauru could and would pursue a course of serial litiga-
+tion like that which Nicaragua pursued first against the United States and,
+having obtained judgment against it, against Costa Rica and Honduras.
+Can it be seriously maintained that if, arguendo, the Court were to hold on
+the merits against Australia, the other States with which it jointly com-
+posed the Administering Authority would enjoy a consideration whose
+very subject-matter would not have been passed upon by the Court in the
+current case?
+
+Nauru maintains that:
+
+“No legal right or responsibility of either State would be deter-
+mined by the Court in this case, both by virtue of Article 59 of the
+Statute and because the focus of the claim is on the acts and omis-
+sions of Australia and of Australian officials responsible for the
+administration of Nauru.” (Written Statement of the Republic of
+Nauru, p. 93, para. 262.)
+
+The answer to that core contention is that the protection afforded the
+absent States by Article 59 in the quite exceptional situation of this case
+would be notional rather than real; and that while the focus of the claim is
+on the acts and omissions of Australia and Australian officials respon-
+sible for the administration of Nauru, those acts and omissions were
+those of Australia acting as one of three States which jointly constituted
+the Administering Authority, and they were those of Australia acting
+on behalf of New Zealand and the United Kingdom.
+
+
+
+The issue of the weight to be accorded to the situation of absent States
+may be a finely balanced one. In this case, for the reasons set out, my own
+view is that the balance inclines towards holding the Application against
+Australia alone to be inadmissible.

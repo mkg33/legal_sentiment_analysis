@@ -1,0 +1,526 @@
+   1. This is the ﬁrst time that the International Court of Justice (or its
+predecessor) has rejected a case outright on the ground that there was no
+dispute at the time the Application was lodged. In determining whether
+there was then a dispute, the Judgment imposes a new requirement
+of “objective awareness”, which I shall use as a shorthand for the rather
+awkward phrase “aware, or could not have been unaware” (Judgment,
+para. 38). But a requirement of objective awareness is not to be found
+in the case law of the Court. The established test for a dispute does not
+require a high formal threshold to be met, nor an analysis of that indeﬁ-
+nite object, the state of mind of a State. It simply requires, as the
+Permanent Court put it early on, a “conﬂict of legal views or of interests”
+(Mavrommatis Palestine Concessions, Judgment No. 2, 1924, P.C.I.J.,
+Series A, No. 2, p. 11). A more recent formulation is that one party’s
+claim must be “positively opposed by the other” (South West Africa,
+(Ethiopia v. South Africa; Liberia v. South Africa), Preliminary
+Objections, Judgment, I.C.J. Reports 1962, p. 328; see Judgment, para. 34).
+
+  2. In this opinion, I ﬁrst discuss the case law on the meaning of “dis-
+pute” within Article 36 (2) of the Court’s Statute. The key point is that
+the test for a dispute has always been a minimum one, not a demanding
+threshold. The Court has been ﬂexible about the ways in which it can be
+satisﬁed, and has referred to post-application conduct for various pur-
+poses of jurisdiction and admissibility. In the case of what I will term a
+“multilateral dispute”, such ﬂexibility is particularly called for. I will then
+
+   3. The case law of the Court and its predecessor clearly shows that the
+threshold for establishing a dispute is a low one. In Certain German Inter-
+ests in Polish Upper Silesia, the Permanent Court held that “a diﬀerence
+of opinion does exist as soon as one of the Governments concerned
+points out that the attitude adopted by the other conﬂicts with its own
+views . . . this condition could at any time be fulﬁlled by means of unilat-
+eral action on the part of the applicant Party” (Certain German Interests
+in Polish Upper Silesia, Jurisdiction, Judgment No. 6, 1925, P.C.I.J.,
+Series A, No. 6, p. 14). Similarly, in the Factory at Chorzów case, the
+Court stated
+
+
+      “that it cannot require that the dispute should have manifested itself
+      in a formal way; according to the Court’s view, it should be suﬃcient
+      if the two Governments have in fact shown themselves as holding
+      opposite views in regard to the meaning or scope of a judgment of
+      the Court” (Interpretation of Judgments Nos. 7 and 8 (Factory
+      at Chorzów), Judgment No. 11, 1927, P.C.I.J., Series A, No. 13, p. 11).
+In East Timor, this Court reasoned simply, “Portugal has, rightly or
+wrongly, formulated complaints of fact and law against Australia which
+the latter has denied. By virtue of this denial, there is a legal dispute.”
+(East Timor (Portugal v. Australia), Judgment, I.C.J. Reports 1995,
+p. 100.) In none of these cases was there any analysis of whether the
+respondent was aware of the applicant’s claim before it was ﬁled. The
+rationale behind requiring a legal dispute is to ensure that the Court has
+something to determine: it protects the Court’s judicial function which, in
+a contentious case, is to determine such disputes.
+
+  4. The Court now adopts a requirement of objective awareness, but for
+no persuasive reason. It relies heavily on a judgment which had not been
+delivered at the time of oral argument in this case: Alleged Violations of
+Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v.
+Colombia), Preliminary Objections, Judgment of 17 March 2016. But that
+decision is not authority for the objective awareness requirement: the
+Court simply observed that, as a matter of fact, Colombia knew of the
+existence of the dispute. It said:
+
+
+
+
+515      nuclear arms and disarmament (diss. op. crawford)
+
+         “The Court notes that, although Nicaragua did not send its formal
+      diplomatic Note to Colombia in protest at the latter’s alleged viola-
+      tions of its maritime rights at sea until 13 September 2014, almost ten
+      months after the ﬁling of the Application, in the speciﬁc circumstances
+      of the present case, the evidence clearly indicates that, at the time
+      when the Application was ﬁled, Colombia was aware that its enact-
+      ment of Decree 1946 and its conduct in the maritime areas declared
+      by the 2012 Judgment to belong to Nicaragua were positively opposed
+      by Nicaragua. Given the public statements made by the highest
+      representatives of the Parties . . . Colombia could not have misunder-
+      stood the position of Nicaragua over such diﬀerences.” (Prelimi-
+      nary Objections, Judgment, I.C.J. Reports 2016 (I), pp. 32-33,
+      para. 73.)
+
+   5. At no point did the Court say that awareness was a legal require-
+ment. Rather it repeated that it must objectively determine whether there
+is a dispute based on “an examination of the facts. The matter is one of
+substance, not of form” (ibid., p. 27, para. 50). It is instructive to compare
+this short statement of law on the requirement of a dispute with the
+lengthy statement in the present case (Judgment, paras. 33-40), which
+eﬀectively transforms a non-formalistic requirement into a formalistic
+one through the use of the term “awareness”.
+
+   6. While the term “awareness” has sometimes been used in other cases
+in deciding whether there was a dispute, it has never been stated as a legal
+requirement, only as a description of the factual situation (see, e.g., Appli-
+cation of the International Convention on the Elimination of All Forms of
+Racial Discrimination (Georgia v. Russian Federation), Preliminary Objec-
+tions, Judgment, I.C.J. Reports 2011 (I), pp. 109-110, para. 87; Certain
+Phosphate Lands in Nauru (Nauru v. Australia), Preliminary Objections,
+Judgment, I.C.J. Reports 1992, p. 253, para. 30). Awareness is relevant as
+a matter of fact in determining whether a dispute exists. But that does not
+mean that it is a necessary legal component without which a dispute can-
+not exist.
+
+   7. In its earlier case law, the Court has shown ﬂexibility in deciding on
+the existence and scope of a dispute. Mavrommatis marks the beginning
+of this tradition, holding that “[t]he Court, whose jurisdiction is interna-
+tional, is not bound to attach to matters of form the same degree of
+importance which they might possess in municipal law” (Mavrommatis
+Palestine Concessions, Judgment No. 2, 1924, P.C.I.J., Series A, No. 2,
+
+
+516       nuclear arms and disarmament (diss. op. crawford)
+
+p. 34). I pause to note that this generalized reference to municipal law is
+hardly accurate today. While approaches to civil jurisdiction and civil
+process of course vary, they are undoubtedly less formalistic than they
+were 90 years ago 1. But the Court appears to be proceeding in the oppo-
+site direction.
+
+  8. The ﬂexibility principle was best expressed in its modern form in
+Croatia v. Serbia:
+        “However, it is to be recalled that the Court, like its predecessor,
+      has also shown realism and ﬂexibility in certain situations in which
+      the conditions governing the Court’s jurisdiction were not fully satis-
+      ﬁed when proceedings were initiated but were subsequently satisﬁed,
+      before the Court ruled on its jurisdiction.” (Application of the Con-
+      vention on the Prevention and Punishment of the Crime of Genocide
+      (Croatia v. Serbia), Preliminary Objections, Judgment, I.C.J. Reports
+      2008, p. 438, para. 81, hereinafter “Croatia v. Serbia”.)
+This has led the Court to adopt a broad discretion, applied in Mavrom-
+matis Palestine Concessions and in many cases since, which allows it to
+overlook defects in the Application when to insist on them would lead to
+circularity of procedure. This was formulated in Croatia v. Serbia in the
+following terms:
+         “What matters is that, at the latest by the date when the Court
+      decides on its jurisdiction, the applicant must be entitled, if it so
+      wishes, to bring fresh proceedings in which the initially unmet condi-
+      tion would be fulﬁlled. In such a situation, it is not in the interests of
+      the sound administration of justice to compel the applicant to begin
+      the proceedings anew — or to initiate fresh proceedings — and it
+      is preferable, except in special circumstances, to conclude that the
+      condition has, from that point on, been fulﬁlled.” (Ibid., p. 441,
+      para. 85.)
+   9. Accordingly, the Court applied the Mavrommatis principle (as I will
+call it) and decided to proceed to the merits, even though the Respondent,
+Serbia, was not a member of the United Nations, and thus Article 35 (1)
+of the Court’s Statute was not satisﬁed at the time Croatia ﬁled its Appli-
+cation. This condition was subsequently met by Serbia’s admission to the
+United Nations. The decision is all the more remarkable in that it applies
+the Mavrommatis principle to a situation where, because of a subsequent
+Serbian reservation to Article IX of the Genocide Convention, it was
+likely no longer open to the applicant State to recommence proceedings.
+It was enough that, at some time in the interim, the applicant could have
+re-ﬁled its application (see the separate opinion of Judge Abraham, ibid.,
+pp. 539-542, paras. 49-55). Evidently the decision puts the emphasis on
+
+  1 See, e.g., J. A. Jolowicz, On Civil Procedure (Cambridge University Press, 2000), esp.
+
+Chaps. 2, 17.
+
+
+517     nuclear arms and disarmament (diss. op. crawford)
+
+the “sound administration of justice”, prioritizing substance over form
+(Croatia v. Serbia, I.C.J. Reports 2008, p. 442, para. 87).
+
+Objections, Judgment, I.C.J. Reports 2011 (I), p. 85, para. 30). The words
+“in principle” allow for some nuance in the application of the rule. By
+contrast, the approach of the majority would give no meaning to them.
+   11. None of the cases dealing with the question of a dispute has treated
+the date of the application as fatal. Rather, the Court has relaxed the
+rule, referring to evidence before the date of the application and to the
+position of the parties during the proceedings without distinction, or rely-
+ing only on the position of the parties during the proceedings, even
+though pre-application evidence was available (see East Timor (Portu-
+gal v. Australia), Judgment, I.C.J. Reports 1995, p. 99, para. 22; Certain
+Property (Liechtenstein v. Germany), Preliminary Objections, Judgment,
+I.C.J. Reports 2005, p. 19, para. 25). While the Court here rejects the
+Marshall Islands’ reliance on Certain Property with the explanation that
+the “dispute was clearly referenced by bilateral exchanges between the
+parties prior to the date of the application” (Judgment, para. 50), the
+Court in that case was clear that the conclusion that there was a dispute
+was reached solely on the basis of the statements made “in the present
+proceedings”, and that the position of Germany in a letter and in bilateral
+consultations was only of “evidentiary value in support of the proposition
+that Liechtenstein’s claims were positively opposed by Germany and that
+this was recognized by the latter” (Certain Property (Liechtenstein v. Ger-
+many), Preliminary Objections, Judgment, I.C.J. Reports 2005, p. 19,
+para. 25; emphasis added). In Land and Maritime Boundary between Cam-
+eroon and Nigeria, the Court held there was a broader dispute between the
+parties by reference to Nigeria’s equivocation with respect to the Camer-
+oonian claim (pre- and post-application) and in particular its answer to a
+question asked by a judge at the oral hearing (Preliminary Objections,
+Judgment, I.C.J Reports 1998, pp. 316-317, paras. 91, 93). The Judgment
+here also fails to explain its departure from Application of the Convention
+on the Prevention and Punishment of the Crime of Genocide (Bosnia and
+Herzegovina v. Yugoslavia). While the Court in that case was focused on
+whether the dispute fell within the scope of the compromissory clause, it
+could not get to this question before ﬁrst determining that there was such
+
+
+518       nuclear arms and disarmament (diss. op. crawford)
+
+a dispute, which it did so solely on the basis of post-application conduct:
+“by reason of the rejection by Yugoslavia of the complaints formulated
+against it by Bosnia and Herzegovina, ‘there is a legal dispute’ between
+them” (Preliminary Objections, Judgment, I.C.J. Reports 1996 (II),
+pp. 614-615, paras. 28-29; see Judgment, para. 50).
+
+
+
+
+   12. Commentators on the Statute endorse the ﬂexible view. According
+to Rosenne, the Court’s jurisdiction must normally be assessed as at the
+date of the ﬁling of the Application instituting the proceedings, but he
+and Kolb both agree that the Mavrommatis principle applies to the ques-
+tion whether a dispute exists as at the critical date.
+         “The Court will not allow itself to be hampered by a mere defect
+      of form the removal of which depends solely on the party concerned,
+      for example where proceedings are instituted shortly before the entry
+      into force of the title of jurisdiction for the parties concerned, so that
+      a new application in identical terms could be ﬁled after the relevant
+      date had come.” (Shabtai Rosenne, The Law and Practice of the Inter-
+      national Court: 1920-2005, (4th ed., 2006), pp. 510-511.)
+Similarly, Kolb says:
+      “before the parties seise the Court, there must at least be the begin-
+      nings of a dispute. The deﬁnitive dispute can, however, crystallise
+      later, in the course of the proceedings. And it can equally well be
+      modiﬁed or evolve as the case progresses
+
+       . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+         It is certainly right to say that the institution of proceedings
+      does not automatically create a dispute. If it did, the distinct require-
+      ment that a dispute exists would be devoid of all justiﬁcation and
+      value
+       . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+         [T]he Mavrommatis principle discussed above also applies . . . It
+      remains necessary to consider whether the conditions for bringing a
+      case are satisﬁed at the moment the case is brought to the Court,
+      although ‘it would always have been possible for the applicant to
+      re-submit his application in the same terms after.’. . . It is however,
+      unnecessary to oblige the claimant to start again the case by a new
+      application, for want of a dispute at the initial critical date. This
+      would be an excessively formalistic exercise, with no signiﬁcant eﬀects
+      except to increase the administrative burden on the Court and the
+      parties.” (Robert Kolb, The International Court of Justice (2013),
+      p. 315.)
+
+
+519     nuclear arms and disarmament (diss. op. crawford)
+
+   13. Since 1922, there have been three occasions on which the absence
+of a dispute has resulted in the Court or its predecessor determining that
+it could not hear part of a claim. In each, there had been prior correspon-
+dence or statements but the applicant later sought to add other issues or
+claims. In such a case, it was open for the Court to focus on what the
+parties had previously treated as the gist of the dispute. The absence of
+any discussion of the additional claim, in a context in which the parties
+were conducting bilateral discussions on a closely related matter, showed
+that there was in truth no dispute over the additional claim.
+
+
+   14. In Electricity Company of Sofia, the Permanent Court considered
+that the claim by Belgium against a Bulgarian tax was inadmissible (Elec-
+tricity Company of Sofia and Bulgaria [Belgium v. Bulgaria], Preliminary
+Objection, 1939, P.C.I.J., Series A/B, No. 77, p. 83). In that case, there
+had been a letter sent by Belgium to Bulgaria on 24 June 1937 clearly
+notifying it of the other matters that were ultimately brought to the Court
+but ignoring the tax claim. In that context, it was open to the Court to
+determine that there was no dispute on the additional issue.
+
+   15. In Belgium v. Senegal, the Court determined that there was no dis-
+pute as to whether Senegal had breached a customary international law
+obligation to bring criminal proceedings against Mr. Habré for crimes of
+humanity allegedly committed by him, including torture, war crimes and
+genocide. The Court concluded that “[i]n the light of the diplomatic
+exchanges between the Parties . . . the Court considers that such a dispute
+did not exist on that date”. (Questions relating to the Obligation to Prose-
+cute or Extradite (Belgium v. Senegal), Judgment, I.C.J. Reports 2012 (II),
+p. 444, para. 54.) In particular, it noted that those exchanges did not refer
+to any customary international law obligation, but only to the treaty
+obligation under the Convention against Torture. Moreover, in a Note Ver-
+bale sent two months before ﬁling its Application, Belgium did not mention
+any customary international law obligation, even though the Note Verbale
+otherwise set out clearly the dispute between the parties “regarding the
+application and interpretation of the obligations resulting from the rele-
+vant provisions of the [Convention against Torture]” (ibid., p. 445,
+para. 54). Belgium had thus used the diplomatic channel to deﬁne the
+subject-matter and scope of its dispute with Senegal. In this context, it was
+open for the Court to infer that there was no dispute on the additional
+issue. Moreover, there was no need for the Court to apply a ﬂexible
+approach, since it had already determined that it had jurisdiction over the
+treaty dispute as to the obligation to charge or extradite Mr. Habré, a
+matter closely related to the alleged customary international law
+obligation.
+
+
+
+
+
+520      nuclear arms and disarmament (diss. op. crawford)
+
+   16. More recently, in Alleged Violations of Sovereign Rights and Mari-
+time Spaces in the Caribbean Sea, the Court held that there was no dis-
+pute over Nicaragua’s claim that Colombia had violated Article 2 (4) of
+the United Nations Charter and the customary international law obliga-
+tion prohibiting the use or threat of use of force. The Court there had
+relied on statements made by the highest representatives of the parties to
+support its conclusion that a closely related dispute existed over Colom-
+bia’s alleged breaches of Nicaragua’s maritime rights (Alleged Violations
+of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicara-
+gua v. Colombia), Preliminary Objections, Judgment, I.C.J. Reports 2016
+(I), pp. 31-33, paras. 69, 73). As to the use of force, the Court stressed
+that Nicaraguan oﬃcials had expressly said that there was no issue, stat-
+ing just eight days before the application was ﬁled that the two countries
+“have not had any conﬂicts in those waters” (ibid., p. 33, para. 76). Tak-
+ing into account the conduct of the parties, it was open for the Court to
+conclude that no such dispute existed. As in Belgium v. Senegal, the Court
+may also have been inﬂuenced by the fact that the substance of the dis-
+pute as to the maritime rights of Nicaragua in the Caribbean Sea would
+be dealt with, so that it was not necessary to apply the Mavrommatis
+principle to ﬁnd that a dispute had subsequently come into existence.
+
+
+
+   17. Moreover, as the Court says here (but does not seem to apply),
+there is no requirement for formal notiﬁcation. This was conﬁrmed by the
+Court in Alleged Violations of Sovereign Rights and Maritime Spaces in
+the Caribbean Sea, where it rejected Colombia’s argument based on the
+failure of Nicaragua to notify it through diplomatic channels (Alleged
+Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea
+(Nicaragua v. Colombia), Preliminary Objections, Judgment, I.C.J. Reports
+2016 (I), p. 32, para. 72).
+   18. The Court here relies on the series of cases discussed above to bol-
+ster its conclusion and also relies on Georgia v. Russian Federation.
+Although this case is in line with the recent rise of formalism, it cannot be
+seen in the same terms as the Optional Clause cases. It involved a set of
+speciﬁc issues in relation to the Convention for the Elimination of Racial
+Discrimination (CERD), notably its compromissory clause, Article 22,
+which provides:
+
+         “Any dispute between two or more States parties with respect to
+      the interpretation or application of this Convention, which is not set-
+      tled by negotiation or by the procedures expressly provided for in this
+      Convention, shall, at the request of any of the parties to the dispute,
+      be referred to the International Court of Justice for decision, unless
+      the disputants agree to another mode of settlement.”
+
+
+
+521      nuclear arms and disarmament (diss. op. crawford)
+
+That clause stipulates a requirement of prior negotiation and/or other
+procedures (including arbitration) before the “dispute” can be submitted
+to the Court. Evidently the dispute must have existed, and have been the
+subject of negotiation, before that time. Moreover, in Georgia v. Russian
+Federation there could be no doubt that a long-standing dispute existed
+between the parties. Rather, the doubt was whether that dispute really
+concerned racial discrimination, however broadly deﬁned, or whether
+Article 22 was being used as a device to bring a wider set of issues before
+the Court.
+
+
+
+                       IV. Multilateral Disputes
+
+  19. In the present case, the Marshall Islands does not suggest that
+there were any of the normal indicators of a bilateral dispute, most obvi-
+ously because there had not been any correspondence between the States
+or any bilateral discussion on the subject. Rather it argues that a dispute
+had arisen through statements made in multilateral fora.
+
+  20. South West Africa (preliminary objections) is crucial in this regard.
+There, the Court held that:
+      “diplomacy by conference or parliamentary diplomacy has come to
+      be recognized in the past four or ﬁve decades as one of the established
+      modes of international negotiation. In cases where the disputed ques-
+      tions are of common interest to a group of States on one side or the
+      other in an organized body, parliamentary or conference diplomacy
+      has often been found to be the most practical form of negotiation.
+      The number of parties to one side or the other of a dispute is of no
+      importance; it depends upon the nature of the question at issue. If it
+      is one of mutual interest to many States, whether in an organized
+      body or not, there is no reason why each of them should go through
+      the formality and pretence of direct negotiation with the common
+      adversary State after they have already fully participated in the col-
+      lective negotiations with the same State in opposition.” (South West
+      Africa, (Ethiopia v. South Africa; Liberia v. South Africa), Prelimi-
+      nary Objections, Judgment, I.C.J. Reports 1962, p. 346.)
+
+That case involved a requirement for prior negotiation in the relevant
+compromissory clause. But the passage cited is also authority for the
+broader point that disputes can crystallize in multilateral fora involving a
+plurality of States. The Court in 1962 was sharply divided between those
+holding that a dispute in a multilateral framework is simply an aggregate
+of disputes, each to be assessed in its own right, and a broader view that
+some disputes can be genuinely multilateral. In the present Judgment, the
+
+
+522        nuclear arms and disarmament (diss. op. crawford)
+
+Court does not deny that a dispute between two States may be demon-
+strated by multilateral exchanges, but it states that they must demonstrate
+that the claim of one party is opposed by the other (Judgment, paras. 36,
+45). No doubt any multilateral dispute must ultimately be ﬁtted within
+the bilateral mode of dispute settlement. But this does not require
+the Court to treat the underlying relations as bilateral ab initio.
+
+
+   21. It is now established — contrary to the inferences commonly drawn
+from the merits phase of South West Africa — that States can be parties
+to disputes about obligations in the performance of which they have no
+speciﬁc material interests. This much is clear from Article 48 of the Inter-
+national Law Commission’s Articles on the Responsibility of States for
+Internationally Wrongful Acts (ILC Articles). It is the case here, notwith-
+standing the Marshall Islands’ historic connection as the location of
+nuclear weapons testing by the United States, and the resulting concerns
+of its Government and people about nuclear issues. The importance of
+the South West Africa cases lies in the recognition that a multilateral dis-
+agreement can crystallize for adjacent purposes as a series of individual
+disputes coming within the Statute.
+
+
+  22. Finally, I should say a word about Article 43 of the ILC Articles,
+on which the Respondent relied. It is true, as the Court notes (Judgment,
+para. 42) and as the ILC’s Commentary conﬁrms, that Article 43 does not
+address the jurisdiction of courts or the admissibility of disputes. It none-
+theless deals with an analogical question: notice in relation to a claim of
+responsibility of a State. But, as the Marshall Islands argued, there is
+nothing in the Commentary that prevents such notice being given by ﬁl-
+ing an application. Article 43 is not a pre-notiﬁcation requirement, it is a
+notiﬁcation requirement.
+
+   23. The ILC Commentary relies in part on Certain Phosphate Lands to
+support the idea that there is ﬂexibility in how notiﬁcation may occur
+(Certain Phosphate Lands in Nauru (Nauru v. Australia), Preliminary
+Objections, Judgment, I.C.J. Reports 1992, p. 240). According to para-
+graph (4) of the Commentary on Article 43, “it is not the function of the
+articles to specify in detail the form which an invocation of responsibility
+should take” 2. Nothing in Certain Phosphate Lands supports the proposi-
+tion that a dispute must be notiﬁed (or that the respondent must be objec-
+tively aware of it) before it can be said to exist. Australia did not contest
+that the dispute existed, rather it queried whether the dispute had been
+submitted within a reasonable time, and sought to infer that Nauru’s
+rehabilitation claim had been waived. In that context, it was relevant that
+
+  2   The ILC rejected the Special Rapporteur’s proposal that notiﬁcation be in writing.
+
+
+
+523     nuclear arms and disarmament (diss. op. crawford)
+
+Nauru had taken steps (limited and informal) to bring the matter again to
+Australia’s attention.
+
+
+
+
+                          V. The Present Case
+
+  24. Turning to the present case, I share the Court’s view that a dispute
+cannot be created simply by the ﬁling of an application (see Judgment,
+paras. 40, 50) because otherwise the requirement that a dispute exist
+would be completely nulliﬁed. Rather, the question is whether enough of
+the dispute was in existence prior to the Application here and whether the
+Court has enough ﬂexibility to recognize it as a dispute.
+
+   25. To put it at its lowest, there was an incipient dispute between the
+Marshall Islands and the nuclear-weapon States at the time of Nayarit.
+This was not an accidental development, but the expression of a real
+underlying disagreement of a legal character as to the trajectory of Arti-
+cle VI and a corresponding legal obligation at customary international
+law (if one exists). The Marshall Islands is a very small State, with com-
+pelling individual interests vis-à-vis several of the nuclear-weapon States.
+But by the time of Nayarit, by stages, tentatively, but in time, the Mar-
+shall Islands had associated itself with one side of that multilateral dis-
+agreement, revealing suﬃciently for present purposes a claim in positive
+opposition to the conduct and claims of the nuclear-weapons States,
+including the respondent State.
+
+
+   26. The Court here says the Nayarit statement was insuﬃcient because
+(i) it did not name the opposing States, (ii) it did not specify the conduct
+that had given rise to the alleged breach by the Respondent, and (iii) it
+was delivered in a context not strictly relating to nuclear disarmament,
+since the title of the Conference was the “Humanitarian Impact of
+Nuclear Weapons”, such that nothing can be inferred from the lack of
+reply by India (Judgment, paras. 45, 47, 52). These arguments impose too
+high a threshold for determining the existence of a dispute. There is no
+doubt that India is one of the “States possessing nuclear weapons”: India
+publicly acknowledges that it has such weapons. Moreover, in a context
+in which the very scope of Article VI of the NPT and a corresponding
+customary international law obligation is the subject-matter of a disagree-
+ment articulated by a group of States, the Marshall Islands should not be
+required at this stage to particularize further the speciﬁc steps India
+should take or have taken. Finally, the Conference title itself included the
+words “Nuclear Weapons”; and one of its purposes was to discuss nuclear
+disarmament in order to prevent the devastating humanitarian impacts
+that nuclear weapons could cause. This is an appropriate multilateral
+
+
+524      nuclear arms and disarmament (diss. op. crawford)
+
+context, and it does not dilute the force of what the Marshall Islands said,
+which was not limited to a single forgettable sentence:
+
+
+         “As stated by representatives of our Government during the
+      High-Level Meeting on Nuclear Disarmament, the United Nations
+      must stop the spread of nuclear weapons, while securing peace in a
+      world without nuclear weapons. We urgently renew our call to all
+      States possessing nuclear weapons to intensify eﬀorts to address their
+      responsibilities in moving towards an eﬀective and secure disarma-
+      ment.
+         It has been almost 68 years since the General Assembly in its very
+      ﬁrst resolution established a mechanism for the elimination from
+      national arsenals of nuclear weapons and other weapons adaptable
+      to mass destruction. It has been more than 45 years since the conclu-
+      sion of the Treaty on Non-Proliferation of Nuclear Weapons.
+      Yet today, we still fear the day where we are forced to relive the
+      horrors. We do not want other people to suﬀer the same consequences
+      we did!
+
+         Mr. Chairman, the Marshall Islands is convinced that multilateral
+      negotiations on achieving and sustaining a world free of nuclear
+      weapons are long overdue. Indeed we believe that States possessing
+      nuclear arsenals are failing to fulﬁl their legal obligations in this

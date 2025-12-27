@@ -1,0 +1,859 @@
+Subject-matter of the dispute — Tripartite determination by Applicant,
+Respondent and the Court — Different role of each “actor” — Inviolability of
+Applicant's status — Applicant’s right to have the Court rule on the subject of
+the dispute referred to it by the Applicant and on that alone — The Court can-
+not substitute another subject of the dispute for the one submitted by the Appli-
+cant — That would amount to deciding a quite different case.
+
+Validity of the Canadian reservation — Sovereign, undisputed power of a
+State to maintain or amend, whether by restricting or by extending it, a declara-
+tion of acceptance of the Court’s jurisdiction, or to withdraw it altogether when-
+ever it wishes — Power to attach any reservation — Such freedom nonetheless
+conditional on compliance with the Statute and the Rules of Court, the Charter
+of the United Nations, and more generally, with international law and “ordre
+public international” — Rights and obligations of the declarant State with
+regard to the clause “system”, to those currently or potentially participating in
+it and to the ultimate addressee of the clause, the International Court — Declar-
+ant State free to withdraw from the “system” but not to compromise its exist-
+ence or functioning and yet remain within it.
+
+Definition of “conservation and management measures” — A new concept —
+Pressing need for the international community to clarify, rationalize and har-
+monize conservation and management measures — Need for co-operation —
+Definition of such measures in light of international law — Their compatibility
+with international law a sine qua non — Elements of the international definition
+of such measures — Technical and scientific aspects — Legal elements — Issue
+of legality — Legality as a built-in element of the definition — International law
+cannot supply a definition which is confined to technical aspects and which, if
+taken literally, would apparently authorize the violation of the most firmly
+established principle of international law, freedom of the high seas.
+
+2. On two occasions, however, in 1970 and 1994, Canada made reser-
+vations imposing specific restrictions on the Court’s jurisdiction. In 1970
+it amended its declaration of acceptance of the Court’s jurisdiction so as
+
+
+
+to enable it to take measures to prevent pollution and protect the marine
+environment of its northern coast, over an area extending more than
+100 miles towards the polar zone. At that time, however, the United States,
+at which these measures were aimed, did not bring the matter before
+the Court.
+
+3. Canada’s reservation, contained in its declaration of 7 April 1970
+(see I C.J. Yearbook 1975-1976, p. 54), had a certain resemblance, at
+least as regards the manner in which it was formulated, to that of 1994
+and read as follows:
+
+“(2) Ideclare that the Government of Canada accepts as compul-
+sory . . . the jurisdiction of the International Court of Justice . . .
+over all disputes . . . other than:
+
+(d) disputes arising out of or concerning jurisdiction or rights
+claimed or exercised by Canada in respect of the conservation,
+management or exploitation of the living resources of the sea, or
+in respect of the prevention or control or contamination of the
+marine environment in marine areas adjacent to the coast of
+Canada.” (Emphasis added.)
+
+4. Disregarding the 1985 declaration, which contained no equivalent
+reservation, it will be noted that the 1970 reservation quoted above has
+been replaced by another, situated in the same place, allowing Canada to
+exclude the jurisdiction of the Court in regard to
+
+“Q) ...
+
+(d) disputes arising out of or concerning conservation and manage-
+ment measures taken by Canada with respect to vessels fishing
+in the NAFO Regulatory Area, as defined in the Convention on
+Future Multilateral Co-operation in the Northwest Atlantic
+Fisheries, 1978, and the enforcement of such measures.”
+(Emphasis added.)
+
+5. These similar reservations formulated by Canada on two separate
+occasions would appear to reflect its hesitation, or reluctance, to submit
+to the sanction of the International Court issues which it regarded as
+vital, and in relation to which it considered the applicable law to be, in
+the words of the Canadian Foreign Minister, “inadequate, non-existent
+or irrelevant”. The point was that Canada was not entirely satisfied with
+the Montego Bay Convention of 10 December 1982 on the Law of the
+Sea, which for this reason it has not ratified and which, in its view, failed
+to settle fully the problem of overfishing, thus jeopardizing fisheries
+resources for future generations.
+
+6. Canada has frequently expressed its dissatisfaction and invoked the
+“emergency”, or even “state of necessity”, which it is facing in this
+regard. Its declarations in international fora have been as clear as they
+have been numerous. One writer has described one of them in the follow-
+ing terms:
+
+“The (Canadian) Minister of Fisheries, Mr. John Crosbie, had
+told the Rio de Janeiro Conference that foreign overfishing was one
+of the subjects which Canada intended to address as a matter of
+urgency and that it had a dual aim in this regard: to obtain approval
+from the world leaders meeting at the Earth Summit for certain prin-
+ciples and measures on the one hand, and to seek a follow-up con-
+ference to examine these questions in greater detail on the other
+hand . . . Mr. Crosbie stated in barely veiled terms that legislative
+action by the Canadian Federal Government with regard to fishing
+on the high seas was being considered as a real alternative in response
+to the urgent appeals that he had been getting from the Atlantic
+Provinces, and in particular from Newfoundland, asking him to deal
+with the problem of foreign overfishing on the ‘Nose’ and ‘Tail’ of
+the Grand Banks by unilaterally extending his fisheries jurisdiction
+beyond the 200-mile limit.” !
+
+7. Statements of this type give us an insight into the real background
+to the present case. The Court had to rule on its jurisdiction by examin-
+ing the meaning and scope of Canada’s reservation, but it could not
+ignore the fact that, if it accepted such a reservation, it was leaving the
+author of that reservation free to combat foreign overfishing by unilater-
+ally giving itself powers over the high seas for as long as no settlement
+had been reached between itself and the States concerned. This account
+of the background to the case was necessary, inasmuch as, where reser-
+vations have been formulated ratione materiae, prima facie they cannot
+be construed without at least some reference to the substantive issues
+involved.
+
+8. The case would have been perfectly simple if the duty of the Court
+had been to confine itself to ascertaining the meaning of the expression
+“conservation and management measures” contained in the reservation,
+and to affirming that “the enforcement of those measures” against the
+Spanish fishing vessel Estai was precisely covered by the terms of that
+reservation, thus preventing the Court from entertaining any claim in this
+regard. It is absolutely essential, however, that attention be focused on
+another, far more important term of the reservation, that which places
+Canada’s action, in geographical terms, “in the NAFO Regulatory Area”,
+that is to say outside the 200-mile limit. And indeed the Estai was
+
+! Paul Fauteux, “L’initiative juridique canadienne de la pêche en haute mer”, Canadian
+Yearbook of International Law, 1993, Vol. XXXI (pp. 33-87), p. 58. [Translation by the
+Registry. |
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 519
+
+boarded some 245 miles off the Canadian coast. If in the Canadian res-
+ervation we simply substitute for the words “in the NAFO Regulatory
+Area” the expression “beyond Canada’s 200-mile exclusive economic
+zone”, then it immediately becomes clear that the Court is dealing here
+with a reservation of an unusual, not to say audacious, nature. Hence it
+became incumbent upon the Court to verify whether such a reservation
+could be accepted without difficulty under the optional clause system.
+9. Article I (2) of the NAFO Convention contains a crystal-clear defi-
+nition which leaves no doubt in this regard when it provides that:
+
+“The area referred to in this Convention as ‘the Regulatory Area’
+is that part of the Convention Area which lies beyond the areas in
+which coastal States exercise fisheries jurisdiction.” (Emphasis
+added.)
+
+It is in no sense a distortion of the Canadian reservation to recast it in
+terms of its true meaning, making it accessible to the reader, who may
+not be aware of the precise significance of the expression “NAFO Regu-
+latory Area” and will certainly be in a better position to understand the
+object of the reservation, whose field of application is “the high seas”.
+The object of the reservation is to signal urbi et orbi that Canada claims
+special jurisdiction over the high seas. The Court cannot interpret or
+accept this reservation in the same way as it would interpret or accept an
+ordinary reservation, since, without any need for a consideration of the
+merits, its terms prima facie disclose a violation of a basic principle of
+international law. This is an issue which the Court cannot simply ignore
+by restricting itself to an external and superficial interpretation of the res-
+ervation. It cannot be right for the Court to content itself in this case with
+a purely formal view of the reservation, disregarding its material con-
+tent — a content which does not require an investigation involving
+examination of the merits, since it is abundantly clear that the reservation
+affects a traditionally established right. This is the real flavour of this
+fascinating case.
+
+10. Without going further into the merits than is permissible at this
+jurisdictional stage, the Court is bound to take account of the efforts by
+Canada over more than a decade to obtain recognition, in the context of
+its “preferential right” as a coastal State, of its special jurisdiction to act
+on the high seas by means of measures for the conservation and manage-
+ment of fisheries stocks in the interests of the entire international com-
+munity. But, however estimable this aim, it would be over-facile to hold
+that we must “answer a simple question: were the measures taken by
+Canada and enforced against the Spanish vessel Estai, conservation and
+management measures? If the answer is yes, the Court is without juris-
+diction” (CR 98/14, p. 51, para. 10). It is over-simplifying the question to
+empty the reservation of its sole veritable substance, for which Canada
+has been campaigning for so many years, namely the purported prefer-
+ential right of coastal States to take conservation and management meas-
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 520
+
+ures in respect of the high seas?. The precise scope of the Canadian
+reservation, and hence the question whether or not the Court’s jurisdic-
+tion is excluded, thus depends basically on the issue of the meaning of the
+“conservation and management measures” contemplated by that reserva-
+tion. Depending on whether such measures fall to be interpreted by ref-
+erence to Canadian law — or even simply by reference to the generally
+accepted meaning of that expression — or on the contrary on the basis of
+international law, given already that there is nothing to prevent them
+being applied on the high seas, impugning the traditional principle of the
+freedom of that area, the Canadian reservation takes on quite different
+aspects. At this stage it is already clear that the Court cannot just content
+itself with stating that the boarding on the high seas of a foreign fishing
+vessel merely represents the enforcement of conservation and manage-
+ment measures taken by Canada, and thus hold that that incident is cov-
+ered by a reservation entirely depriving it of jurisdiction, for this would
+be to shelter behind the notion of “conservation and management meas-
+ures”, interpreted in an artificial manner, without any concern for what
+such measures involve in terms of the violation of a well-established prin-
+ciple of international law.
+
+11. It follows that the only proper attitude is to interpret and evaluate
+those “conservation and management measures” by reference to interna-
+tional law. It is in the corpus of the law of nations that a definition of
+such measures must be sought. And two options, and two only, accord-
+ingly present themselves to the Court at this stage of the proceedings:
+either, at the very least, to state that it cannot readily find any well-
+established international definition of such measures applicable to the case
+before it, and is accordingly obliged to touch on the merits of the case by
+going further in its examination of the facts and of their implications in
+
+preliminary character within the meaning of Article 79, paragraph 7, of
+the Rules of Court; or, on the contrary, to declare that it does have avail-
+able to it an undisputed international definition of conservation and
+management measures, which, applied to the facts of this case, obliges it
+to interpret the Canadian reservation as invalid or not opposable in so
+far as it purports to cover acts occurring on the high seas, and is accord-
+ingly not capable of constituting a bar to the Court’s jurisdiction to pro-
+ceed to an examination of the merits.
+
+12. Without dealing with all the points which appear to me disputable
+in the Judgment — in particular the theoretical and practical implications
+of the methods of interpretation adopted therein, or at least the manner
+in which the Judgment formulates a number of these points (see in par-
+
+2 Laurent Lucchini, “La loi canadienne du 12 mai 1994: la logique extrême de la théorie
+du droit préférentiel de l’Etat côtier en haute mer au titre stocks chevauchants”, Annuaire
+français de droit international, 1994, pp. 864-875.
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 521
+
+ticular paragraphs 46 to 54 of the Judgment) — I shall restrict myself to
+raising three important questions on which, to my great regret, I find
+myself obliged to express my disagreement with the majority of the Court:
+
+— the subject-matter of the dispute;
+— the validity of the Canadian reservation;
+— the definition of conservation and management measures.
+
+*
+* *
+
+II. THE SUBJECT-MATTER OF THE DISPUTE
+
+13. What makes this case so unique and at the same time gives it its
+great legal interest, is the persistent disagreement between the applicant
+State and the respondent State with regard to the actual subject-matter of
+the dispute — a disagreement now extended by another, just as far-
+reaching, between the majority of the Court and the minority on the
+same point. This is hardly an everyday occurrence in the Court’s juris-
+prudence.
+
+14. Determination of the subject-matter of the dispute appears to me
+to be a “tripartite operation”, involving first the applicant State, then the
+respondent State and finally the Court. But I would hasten to add that in
+this operation the distribution of roles among the various actors is
+necessarily unequal or, more precisely, different, since the principle of
+equality has no part to play here. In a case before the International
+Court the allocation of tasks is necessarily dependent upon the status of
+each of the actors. And to accord to each of them an equal say in the
+determination of the subject of the dispute is to call into question the
+intrinsic status of Spain as Applicant, the equally specific status of Canada
+as Respondent, and finally the status of the Court as forum rather than
+party.
+
+15. For it stands to reason that within any judicial order, whether
+domestic or international, it is naturally the applicant who has the initia-
+tive and who defines — at his own judicial risk — the subject-matter of
+the dispute which he wishes to bring before the court. In this regard he
+enjoys a clear procedural right, deriving from his status as applicant, to
+seek and to obtain from the court a ruling on the subject of the dispute
+which he has submitted to it and on that alone, to the exclusion of all
+others (subject of course to any supervening incidental proceeding). The
+principle of the equality of the parties is by its nature completely irrele-
+vant to this question, for it cannot render “equal” those who, procedur-
+ally, are “different”. It cannot turn the “respondent” into a “second
+applicant”, purportedly endowed with some concurrent power to reformu-
+late the subject-matter of the dispute as defined by the applicant. Nor, by
+the same token, can it transform the court into an applicant “party” (a
+third one!), with the power to set aside the subject of the dispute as
+defined in the application and replace it with an entirely different one.
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 522
+
+16. In international proceedings, as indeed in domestic litigation, the
+respondent State, by virtue of its very status as respondent, does not have
+a power to intervene in the definition of the subject as presented by the
+applicant. It could only have such a right if it changed its status, which
+can happen in two cases: first, where the proceedings are instituted not as
+in this case by an application, but by means of a special agreement, thus
+making each State simultaneously applicant and respondent, and
+secondly where, in proceedings instituted by an application as in this
+case, the respondent State lodges a counter-claim, of which there is no
+question here.
+
+*
+* *
+
+17. What then happened in this case?
+
+I shall do my best to avoid compounding the semantic confusion which
+has rendered still more complex a problem thought to be simple, and
+I shall in particular endeavour to avoid using the word “claims”, which
+in my view has a somewhat narrow scope, giving my preference to what
+I consider to be the more appropriate term here, namely the “dispute”,
+which has a wider sense. Thus it appears to me that the word “claims”
+denotes legal acts whereby one party to the proceedings makes “requests”,
+which it seeks to have upheld by the court by means of arguments of fact
+or law (the “grounds”), presented by it in support of those requests in
+order to enable the court to settle the “dispute”.
+
+18. How, as Applicant, did the complainant here indicate to the Court
+what it was complaining about? Spain clearly stated the precise matter
+over which it was bringing Canada before the Court. In both its written
+and its oral pleadings, it consistently complained of “a very serious
+infringement of a right deriving from its sovereign status, namely exclu-
+sive jurisdiction over vessels flying its flag on the high seas” (CR 98/9,
+p. 20), and stated that the subject of the dispute, which constituted “the
+crux of the case”, was the issue of Canada’s legal title to act on the high
+seas against vessels flying the flag of a foreign State. And in its final sub-
+missions Spain again emphasized that “the subject-matter of the dispute
+is Canada’s lack of title to act on the high seas against vessels flying the
+Spanish flag, the fact that Canadian fisheries legislation cannot be invoked
+against Spain, and reparation for the wrongful acts perpetrated against
+Spanish vessels” (emphasis added).
+
+19. In setting out in clear and precise terms the subject of its dispute,
+both from the outset in its Application, and then in its Memorial, oral
+argument and final submissions, Spain had satisfied the requirements of
+the Statute and the Rules of Court. Thus at no time was there any sug-
+gestion by the Court that Spain had failed to comply with the require-
+ments of Article 40 of the Statute or of Article 38, paragraph 1, of the
+Rules of Court, both of which obliged it to state the precise nature of
+“the subject of the dispute” from the outset, when it filed its Application.
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 523
+
+20. It should be noted in passing that this same dispute also involved
+not just Spain, but the entire European Community. And it is not with-
+out relevance to observe that Spain, whose concern was matched by that
+of the other member States, both of the European Community and of
+NAFO, had already raised the same subject of dispute, and consistently
+posed the same problem in the same terms, by protesting vigorously
+against the Canadian legislation, even before the filing of its Application
+with the Court some ten months later following the boarding of the Estai
+and the harassment and inspection of other Spanish vessels. Spain could
+not have demonstrated greater consistency. The same dispute was already
+in existence even before the incident. The conflict between Spain and
+Canada over the alleged entitlement to a “right” over the high seas was
+already in existence and had indeed become quite serious, before it dra-
+matically came to a head ten months later as a result of the effective exer-
+cise of such a “right” against a Spanish vessel. Canada’s purported
+“right” to act on the high seas under certain conditions laid down in its
+new legislation remained the same. It had finally provided Spain with the
+opportunity to bring it before the Court. That was the subject of the dis-
+pute, declared and indeed reiterated with rare perseverance by Spain.
+
+21. In sum, in this case, for Spain acting in its capacity as Applicant,
+the subject of the dispute was clearly constituted by the issue of the legal
+title to act on the high seas, in the light of the principles and rules of
+international law which uphold the freedom of the seas (“grounds” of
+law) and which Spain claims to have been violated by Canada (“argu-
+ments” of fact), as a result of which Spain has asked the Court to declare
+the Canadian legislation unopposable to it and to order that Canada
+refrain from any repetition of the acts complained of and make appro-
+priate reparation for those acts (“claims” and “requests”).
+
+*
+* *
+
+22. Tt was an altogether different subject-matter that Canada — not-
+withstanding its status as respondent State — raised against Spain. It
+invoked issues of fishing and of the conservation and management of
+fisheries resources within the NAFO Regulatory Area, and consequently
+contended that this was the true subject of the dispute, and that it was
+excluded from the jurisdiction of the Court by virtue of reservation (d)
+inserted by Canada in its new declaration notified on 10 May 1994 (two
+days before the adoption of Bill C-29 amending the Coastal Fisheries
+Protection Act). It is worth noting that the definition of the subject of the
+dispute given by Canada in this case was not “objectively” substantiated
+in submissions on the merits. Spain, on the other hand, did present
+submissions on the merits in its Application. Canada’s definition may
+therefore appear to have been “tailored to suit the occasion”, inasmuch
+as it was intended to support the Canadian position concerning jurisdic-
+tion.
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 524
+
+Thus Canada stated that
+
+“this case arose out of and concerns conservation and management
+measures taken by Canada with respect to Spanish vessels fishing in
+the NAFO Regulatory Area and the enforcement of such measures”
+(Counter-Memorial of Canada, para. 229).
+
+% * *
+
+23. We are faced here with two entirely different subjects of the dis-
+pute: one put forward in Spain’s Application, and the only one which —
+because it emanated from the Applicant — the Court was required to
+settle (having, of course, first “processed” it, i.e., given the dispute its
+“legal characterization”); the other submitted by Canada, which the
+Court could not have entertained unless Canada had itself lodged a
+counter-claim. This was not the case. The Court should therefore, at
+most, have focused the proceedings on the true subject of the dispute,
+as presented and defined by the applicant State, while asking Canada to
+concentrate its defence on this subject and no other, although at the same
+time allowing Canada to submit, as one of its “grounds” of law, what it
+had presented as a “subject of the dispute”. In this way, the Court could
+have “adjusted the focus” of the proceedings while remaining on firm legal
+ground. None of this occurred, despite the desperate attempts by Spain,
+which simply reiterated its contention that the dispute was confined to
+events on the high seas and that the other, prior, matters did not relate
+to the dispute stricto sensu and did not in any case concern Spain, which,
+in its capacity as Applicant, was free to refer to the Court the dispute
+of its choosing, albeit, obviously, at its own judicial risk.
+
+24. There is of course a connection between the subject-matter of the
+dispute, as defined by the Applicant for the purposes of the claim which
+it instituted, but which regrettably was not heard, and that alleged by the
+Respondent to be the true one, which the Court did indeed settle and dis-
+pose of. However, that connection in no way justified the substitution by
+the Court of the second subject for the first one as defined by the Appli-
+cant.
+
+25. And even allowing, on an extreme view, that the Canadian legisla-
+tion, together with its implementing regulations, had given rise to a gen-
+eral dispute, and that, on that basis, such a general dispute could be
+regarded as comprising a number of aspects or involving a number of
+levels, this was still no justification for refusing, as the Court did, to rec-
+ognize an applicant State’s right to refer to it only one aspect of that gen-
+eral dispute, despite its connection with other aspects. As the Court was
+at pains to point out in the case of the United States Diplomatic and Con-
+sular Staff in Tehran, “no provisions of the Statute or Rules contem-
+plates that the Court should decline to take cognizance of one aspect of a
+dispute merely because that dispute had other aspects”.
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 525
+
+26. Notwithstanding all of this, the Court took the view that the
+proper course in law was to relocate the subject of the dispute so as to
+bring it far closer to that proposed by Canada. In my view the Judgment
+conferred upon the respondent State and the Court powers so wide as to
+distort the essential nature of the subject of the dispute as set out in the
+Application. Determination of the subject-matter of the dispute is admit-
+tedly, as I have already said, a “tripartite” or triangular operation,
+involving, in various degrees and with different roles and powers, first the
+Applicant, then the Respondent, and finally the Court. The applicant
+State is free to submit such dispute as it wishes to submit, but has a duty
+under the Statute to “specify” and “define” the subject-matter of that dis-
+pute. The scene is set. The play to be acted out has been freely chosen by
+the Applicant. The proceedings have been initiated, on the terms desired
+by the Applicant. The respondent State now has the option of casting its
+legal “grounds”, whatever they be, in the mould thus prepared for them.
+It is, however, well accepted that the Respondent may in practice opt for
+an alternative judicial strategy and may seek to escape the definition of
+the dispute given by the applicant State by invoking grounds and argu-
+ments, which it is for the Court to evaluate. But the Court can in no way
+modify the “decor” or change the subject-matter of the dispute. For, if it
+did so, it would be rendering judgment in a case altogether different from
+that brought before it by the Applicant. The Court’s role is to give an
+appropriate legal characterization to those claims of the applicant State
+which properly come within the framework of the subject-matter of the
+dispute as that State has defined it in its Application. This does not mean
+that the Court has the power to alter the subject-matter put before it. Still
+less can the respondent State propose a different subject-matter to the
+Court. That would be to hear a different case.
+
+x * +
+
+27. 1 find it regrettable that the Court allowed such a metamorphosis
+to occur. The Respondent argued that the only possible subject-matter of
+the dispute was “the conservation and management measures” taken by
+it, in respect of whose enforcement it had been at pains to protect itself
+through its reservation. And the Court accepted this, allowing the real
+dispute submitted to it by the applicant State, which concerned its exclu-
+sive and sovereign jurisdiction on the high seas over vessels flying its flag,
+to be subsumed — in desolating fashion for the Applicant — in a non-
+existent dispute about fisheries conservation and management. Thus,
+while Spain proclaims its sovereignty on the high seas over its vessels,
+Canada speaks of conservation and management measures. Whereas
+Spain invokes a “conflict of jurisdiction” on the high seas, Canada
+opposes to it a “conflict over fisheries conservation and management”.
+
+28. There is a suggestive parallel to be drawn between these two situa-
+tions. Spain asked the Court to settle a dispute which had arisen between
+itself and Canada in 1995 concerning the legality and opposability to
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 526
+
+Spain of a Canadian internal enactment which, when implemented on the
+high seas, affected vessels flying its flag. The Court, won over by Cana-
+da’s claim to alter the clear subject of the dispute, proceeded to settle a
+dispute — one which moreover no longer exists, having arisen in 1994
+between Canada and the European Community. In place of the dispute
+properly submitted to it by the applicant State, which concerned respect
+for the international limits of national jurisdiction, the Court proceeded,
+in quite surprising fashion, to direct its attention to a dispute regarding
+measures for the conservation and management of fisheries. In short,
+Spain talked of State sovereignty, Canada of fisheries conservation and
+management. :
+
+tion of common fisheries in which all have a right to participate, is of
+course a completely different matter from a unilateral claim by a
+coastal State to prevent fishing by foreign vessels entirely, or to
+allow it only at the will and under the control of that State. The
+question of conservation has therefore no relevance to the jurisdic-
+tional issue now before the Court, which involves its competence to
+adjudicate upon a dispute occasioned by Iceland's claim unilaterally
+to assert exclusive jurisdiction for fishery purposes up to a distance of
+50 nautical miles from and around her coasts.” (I. C.J. Reports 1973,
+pp. 26-27; emphasis added.) (N.B. At the time there was no exclu-
+sive economic zone and the distance referred to here actually takes
+us onto the “high seas™.)
+
+30. A glimmer of hope nevertheless emerges on reading paragraphs 34
+
+arrest of its master, arising from Canada’s amended Coastal Fisher-
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 527
+
+ies Protection Act and implementing regulations. The essence of the
+dispute between the Parties is whether these acts violated Spain’s
+rights under international law and require reparation. The Court
+must now decide whether the Parties have conferred upon it jurisdic-
+tion in respect of that dispute.”
+
+31. But hope is rapidly extinguished. I thus find it astonishing that, on
+the pretext of placing a legal characterization on the dispute submitted to
+it by the applicant State, the Court so far overstepped the limits of the
+operation whereby it sought to “clarify” the subject of that dispute as to
+veer away towards a subject altogether different from that submitted to
+it, notwithstanding that Spain, as a sovereign State and as applicant
+State, had an uncontested procedural right — obviously at its own judi-
+cial risk — to seise the Court of whatever subject it considered legitimate,
+and an inalienable interest at law in seeking and obtaining judgment on
+the specific dispute whose subject it had indicated with perfect clarity.
+Such a decision represents a regrettable departure from the traditional
+general view of the respective roles of applicant State, respondent State
+and the Court.
+
++
+* *
+
+32. T have already said enough about the respective roles of Applicant
+and Respondent. It remains to be more specific about that of the Court.
+According to the Judgment, the Court is empowered “to determine on an
+objective basis the dispute dividing the parties” (para. 30). I am afraid this
+is not altogether correct. Adding the words “on an objective basis” can-
+not lend acceptability to this power of “definition”, whose result here has
+been to substitute one dispute for another. The Court can do no more
+than attribute a “legal characterization” (and not a “definition”) to the
+subject of the dispute. Where an act takes place on the high seas, the
+Court must verify factually what that act is (in this case the “boarding”
+of a fishing vessel), in what area it took place (“the high seas), and who
+the author is (“Canada”). Those are facts. After that, it has to ascertain
+whether the author of the act possesses a title, or legal ground, on which
+to base its act, in order finally, in this phase of the proceedings, to be in
+a position to rule on the question whether or not the title or legal ground
+invoked is covered by Canada’s reservation (d).
+
+*
+* Ed
+
+33. In the Nuclear Tests cases (1974), the Court rejected certain argu-
+ments put forward by one party as part of its submissions because it con-
+sidered them “not as indications of what the party was asking the Court
+to decide, but as reasons advanced why the Court should decide in the
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 528
+
+sense contended for by that party”. In support of its decision, it cited the
+Fisheries case, in which it had said that nine of the thirteen points making
+up the Applicant’s submissions “[were] elements which might furnish
+reasons in support of the Judgment, but cannot constitute the decision
+(L.C.J. Reports 1951, p. 126)” (LC.J. Reports 1974, p. 262; emphasis
+added).
+
+In 1974 the Court considered itself legitimately entitled — and indeed
+obliged — “to isolate the real issue in the case and to identify the object
+of the claim” (para. 29; emphasis added), but not, at least according to
+the intention there expressed, to proceed proprio motu to “the reformula-
+tion of submissions”. In the same paragraph it made it clear, citing the
+case-law of its predecessor (P.C.1J., Series A, No. 7, p. 35), that it had
+no power to “substitute itself for [the parties] and formulate new submis-
+sions”.
+
+34. So aroused was the judges’ vigilance that, despite the majority’s
+precautions in this regard, it was strongly criticized by the minority on
+this issue. There is no better way of defining the limits upon the Court’s
+duties than that set out by Judges Jiménez de Aréchaga, Dillard, Onyeama
+and Sir Humphrey Waldock in their joint dissenting opinion in those
+Nuclear Tests cases:
+
+“11. In a case brought to the Court by means of an application
+the formal submissions of the parties define the subject of the dis-
+pute, as is recognized in paragraph 24 of the Judgment. Those sub-
+missions must therefore be considered as indicating the objectives
+which are pursued by an applicant through the judicial proceedings.
+
+While the Court is entitled to interpret the submissions of the
+parties, it is not authorized to introduce into them radical altera-
+tions. The Permanent Court said in this respect: “. . . though it can
+construe the submissions of the Parties, it cannot substitute itself for
+them and formulate new submissions simply on the basis of argu-
+ments and facts advanced’ (P.C.1.J., Series A, No. 7, p. 35, case con-
+cerning Certain German Interests in Polish Upper Silesia). The Judg-
+ment (para. 29) refers to this as a limitation on the power of the
+Court to interpret the submissions ‘when the claim is not properly
+formulated because the submissions of the parties are inadequate’.
+If, however, the Court lacks the power to reformulate inadequate
+submissions, a fortiori it cannot reformulate submissions as clear
+and specific as those in this case.
+
+12. In any event, the cases cited in paragraph 29 of the Judgment
+to justify the setting aside in the present instance of the Applicants
+first submission do not, in our view, provide any warrant for such a
+summary disposal of the ‘main prayer in the Application’. In those
+cases the submissions held by the Court not to be true submissions
+were specific propositions advanced merely to furnish reasons in
+support of the decision requested of the Court in the ‘true’ final sub-
+mission. Thus, in the Fisheries case the Applicant had summarized
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 529
+
+in the form of submissions a whole series of legal propositions, some
+not even contested, merely as steps logically leading to its true final
+submissions (I. C.J. Reports 1951, pp. 121-123 and 126). In the Min-
+quiers and Ecrehos case the ‘true’ final submission was stated first
+and two legal propositions were then adduced by way of furnishing
+alternative grounds on which the Court might uphold it (I. C.J.
+Reports 1953, at p. 52); and in the Nottebohm case a submission
+regarding the naturalization of Nottebohm in Liechtenstein was con-
+sidered by the Court to be merely ‘a reason advanced for a decision
+by the Court in favour of Liechtenstein’ on the ‘real issue’ of the
+admissibility of the claim (I. C.J. Reports 1955, at p. 16). In the
+present case, as we have indicated, the situation is quite otherwise.
+The legality or illegality of the carrying out by France of atmos-
+pheric nuclear tests in the South Pacific Ocean is the basic issue sub-
+mitted to the Court’s decision, and it seems to us as wholly un-
+justifiable to treat the Applicant’s request for a declaration of
+illegality merely as reasoning advanced in support of its request for
+an Order prohibiting further tests.
+
+13. In accordance with these basic principles, the true nature of
+the Australian claim, and of the objectives sought by the Applicant
+ought to have been determined on the basis of the clear and natural
+meaning of the text of its formal submission. The interpretation of
+that submission made by the Court constitutes in our view not an
+interpretation but a revision of the text, which ends in eliminating
+what the Applicant stated is ‘the main prayer in the Application’,
+namely the request for a declaration of illegality of nuclear atmos-
+pheric tests in the South Pacific Ocean. A radical alteration or muti-
+lation of an applicant’s submission under the guise of interpretation
+has serious consequences because it constitutes a frustration of a
+party’s legitimate expectations that the case which it has put before
+the Court will be examined and decided . . .
+
+14. The Judgment revises, we think, the Applicant’s submission
+by bringing in other materials such as diplomatic communications
+and statements made in the course of the hearings. These materials
+do not justify, however, the interpretation arrived at in the Judg-
+ment. They refer to requests made repeatedly by the Applicant for
+an assurance from France as to the cessation of tests. But these
+requests for an assurance cannot have the effect attributed to them
+by the Judgment. While litigation is in progress an applicant may
+address requests to a respondent to give an assurance that it will not
+pursue the contested activity, but such requests cannot by them-
+selves support the inference that an unqualified assurance, if received,
+would satisfy all the objectives the applicant is seeking through the
+judicial proceedings; still less can they restrict or amend the claims
+formally submitted to the Court. According to the Rules of Court,
+this can only result from a clear indication by the applicant to that
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 530
+
+effect, through a withdrawal of the case, a modification of its sub-
+missions or an equivalent action. It is not for nothing that the sub-
+missions are required to be presented in writing and bear the signa-
+ture of the agent. It is a non sequitur, therefore, to interpret such
+requests for an assurance as constituting an implied renunciation, a
+modification or a withdrawal of the claim which is still maintained
+before the Court, asking for a judicial declaration of illegality of
+atmospheric tests. At the very least, since the Judgment attributes
+intentions and implied waivers to the Applicant, that Party should
+have been given an opportunity to explain its real intentions and
+objectives, instead of proceeding to such a determination inaudita
+parte.” (I.C.J. Reports 1974, pp. 316-317.)
+
+35. In relying in the present case on the 1974 French Nuclear Tests
+cases, the Court seems to me, moreover, to have invoked a precedent
+which is not apt to justify the faculty here accorded to Canada, the
+respondent State, since France — the respondent State in 1974 — having
+failed to appear, did not put forward any argument for a definition of the
+subject of the dispute different from that formulated by the Applicant.
+
+* * x
+
+36. In the present case, the Court has relied on jurisprudence which
+seems either not fully relevant, or to have been interpreted incorrectly. In
+this respect I would first cite what I think is a particularly appropriate
+passage from the Société Commerciale de Belgique case, which was itself
+cited by the Court in the case concerning Military and Paramilitary
+Activities in and against Nicaragua:
+
+“It is to be observed that the liberty accorded to the parties to
+amend their submissions up to the end of the oral proceedings
+must be construed reasonably and without infringing the terms of
+Article 40 of the Statute and Article 32, paragraph 2, of the Rules
+which provide that the Application must indicate the subject of the
+dispute . . . it is clear that the Court cannot, in principle, allow a
+dispute brought before it by application to be transformed by amend-
+ments in the submissions into another dispute which is different in
+character. A practice of this kind would be calculated to prejudice
+the interests of third States to which, under Article 40, paragraph 2,
+of the Statute, all applications must be communicated in order that
+they may be in a position to avail themselves of the right of interven-
+tion provided for in Articles 62 and 63 of the Statute.” (P.C.LJ.,
+Series AIB, No. 78, p. 173; see Military and Paramilitary Activities
+in and against Nicaragua (Nicaragua v. United States of America),
+Jurisdiction and Admissibility, I. C.J. Reports 1984, p. 427, para. 80.)
+
+It will be evident that this highly cautious piece of jurisprudence limits
+even the power of the applicant State, the reason being to avoid prejudice
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 531
+
+to third States which might wish to avail themselves of their right to
+intervene in the proceedings.
+
+37. Jurisprudence of a similar kind was again applied by the Court,
+and with a similarly cautious approach, in the case concerning Certain
+Phosphate Lands in Nauru:
+
+“Article 40, paragraph 1, of the Statute of the Court provides that
+the ‘subject of the dispute’ must be indicated in the Application; and
+Article 38, paragraph 2, of the Rules of Court requires ‘the precise
+nature of the claim’ to be specified in the Application. These provi-
+sions are so essential from the point of view of legal security and the
+good administration of justice that they were already, in substance,
+part of the text of the Statute of the Permanent Court of Interna-
+tional Justice, adopted in 1920 (Art. 40, first paragraph), and of the
+text of the first Rules of that Court, adopted in 1922 (Art. 35, second
+paragraph), respectively. On several occasions the Permanent Court
+had to indicate the precise significance of these texts. Thus, in its
+Order of 4 February 1933 in the case concerning the Prince von Pless
+Administration (Preliminary Objection), it stated that:
+
+‘under Article 40 of the Statute, it is the Application which sets
+out the subject of the dispute, and the Case, though it may eluci-
+date the terms of the Application, must not go beyond the limits
+of the claim as set out therein . . > (P.C.LJ., Series A/B, No. 52,
+p. 14).” (Certain Phosphate Lands in Nauru ( Nauru v. Australia),
+Preliminary Objections, Judgment, I. C.J. Reports 1992, pp. 266-
+267, para. 69.)
+
+Obviously, such vigilance on the part of the Court, in requiring even
+the applicant State to remain within the specific confines of the subject of
+the dispute submitted by it to the Court, is all the more appropriate in
+relation to the respondent State and indeed to the Court itself, since not
+only does it preclude the possibility of third States being deprived of their
+right of intervention, but also — more crucially — it enables the Court
+properly to adjudicate on its jurisdiction in light of the subject as defined
+by the Applicant, and not of some other subject adduced subsequently by
+the Applicant or by anyone else.
+
+38. It would seem to me prudent in any event to preclude any notion
+of placing the Respondent on a precisely equal footing with the Appli-
+cant in relation to the definition of the subject of the dispute. Quite apart
+from the infringement of procedural requirements, to allow the Respon-
+dent an identical power in the determination of the subject of the dispute
+would be to deny the possibility under the Statute of instituting proceed-
+ings unilaterally by way of application, thus engendering the belief that
+the Statute and the Rules of Court allowed parties no means of institut-
+ing proceedings otherwise than by special agreement. However, what has
+occurred in the present case strikes me as even more disturbing, inasmuch
+as the Court’s reasoning has led it willy-nilly to place the Respondent not
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 532
+
+merely on an equal footing with the Applicant but indeed above it, per-
+mitting the former to substitute itself for the latter in “defining” the
+subject of the dispute submitted to the Court by the applicant State.
+
+*
+* +
+
+39. As regards the Right of Passage over Indian Territory case, also
+cited in the Judgment, one should of course bear in mind that this was a
+case on the merits, settling a dispute concerning a condition ratione tem-
+poris in India’s declaration of acceptance of the optional clause — a con-
+dition which in the preliminary phase had been referred for final consid-
+eration to the merits stage. A decision on that condition had thus been
+joined to the merits because, in the light of the subject-matter of the dis-
+pute, as established by Portugal, the applicant State, it was not exclu-
+sively preliminary in character. The situation today is quite different,
+since neither Canada nor Spain has submitted a memorial to the Court
+on the merits. And the two cases differ in many other respects, to the
+point at which any comparison becomes artificial. Spain has not altered
+the subject of the dispute since it filed its Application. Canada has not
+undertaken, either directly to Spain, or by making a unilateral declara-
+tion as France did in 1974, to cease in future applying its domestic legis-
+lation to vessels on the high seas. The subject of the dispute as set out in
+the Spanish Application has remained as it was and no further element
+whatsoever has emerged on either side. The Court should therefore have
+decided the question of its jurisdiction in the light of that subject and
+none other.
+
+40. Turning now to the case concerning Maritime Delimitation and
+Territorial Questions between Qatar and Bahrain, mentioned in para-
+graph 31 of the Judgment, it is not difficult to see that here too the situa-
+tion was in no way comparable with that of the present case. As the
+Court made it perfectly clear in its Judgment of 1 July 1994 (I.C.J.
+Reports 1994, pp. 123-125, paras. 33-38), there was already a text —
+called the “Bahraini formula” — which described the whole of the dispute
+which the parties had agreed to bring before the Court. Since the Appli-
+cation by Qatar, at whose instance the Court was seised, contained only
+its own claims, the Court had still to be seised effectively of the whole of
+the dispute. There was no question in the Court’s approach of its remod-
+elling a “subject of the dispute”, which had already been clearly demar-
+cated by the parties in a joint agreement; yet that is what the Court is
+doing in the present case, under pretext of “itself determin[ing] the real
+dispute that has been submitted to it” (para. 31; emphasis added). In
+short, in the Qatar v. Bahrain case, the Court simply ensured that the
+subject of the dispute, as agreed between the parties, was respected in its
+entirety. The present case bears absolutely no relationship with the Qatar
+v. Bahrain case.
+
+
+FISHERIES JURISDICTION (DISS. OP. BEDJAOUI) 533
+
+41. Lastly, as regards the Court’s power to determine its own jurisdic-
+tion under Article 36, paragraph 6, of the Statute, that is to say, within
+the limits of its sovereign discretion in relation to its own jurisdiction, it
+must, as 1 have already pointed out, interpret the subject of the dispute,
+but without in any way changing it, as the Respondent did. On this point,
+the jurisprudence of the present Court’s predecessor demonstrates admi-
+rable caution. The Permanent Court of International Justice did not per-
+mit itself either to alter, or even merely to “correct”, the subject of the
+dispute where the applicant State had formulated it inadequately, but
+merely asked the Applicant itself to correct the subject of the dispute; on
